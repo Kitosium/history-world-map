@@ -1,0 +1,217 @@
+{
+  "id": "western-sahara",
+  "schema_version": "1.3.0",
+  "type": "disputed_territory",
+  "wikidata_id": "Q6250",
+  "names": {
+    "canonical": {
+      "vi": "Tây Sahara",
+      "en": "Western Sahara",
+      "zh-CN": "西撒哈拉",
+      "zh-TW": "西撒哈拉",
+      "ja": "西サハラ",
+      "fr": "Sahara occidental",
+      "es": "Sahara Occidental",
+      "ar": "الصحراء الغربية",
+      "ru": "Западная Сахара",
+      "de": "Westsahara"
+    },
+    "aliases": {
+      "en": [
+        "West Sahara",
+        "Spanish Sahara",
+        "Southern Provinces",
+        "W. Sahara",
+        "w-sahara"
+      ],
+      "ar": [
+        "الصحراء المغربية",
+        "الصحراء الإسبانية",
+        "الأقاليم الجنوبية",
+        "الصحراء الغربية (المغرب)"
+      ],
+      "es": [
+        "Sáhara Occidental"
+      ],
+      "ja": [
+        "西サハラ地方",
+        "西サハラ地域"
+      ],
+      "ru": [
+        "Испанская Сахара",
+        "Вади-Захаб",
+        "Рио-де-Оро",
+        "Сегиет-эль-Хамра",
+        "Золотая речка",
+        "Красный ручей"
+      ],
+      "fr": [
+        "Sahara de l'Ouest"
+      ],
+      "de": [
+        "Spanisch-Sahara"
+      ],
+      "vi": [
+        "W. Sahara",
+        "w-sahara"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "territory in North and West Africa",
+    "ar": "منطقة مُتنازع عليها بشمال غرب إفريقيا",
+    "de": "Gebiet an der Atlantikküste Nordwestafrikas",
+    "es": "territorio disputado de África",
+    "fr": "territoire disputé du nord-ouest de l'Afrique",
+    "ru": "спорная территория в Северной Африке",
+    "zh-CN": "非洲的一个地理区域",
+    "ja": "北・西アフリカの領土",
+    "vi": "lãnh thổ tranh chấp ở bờ biển phía tây bắc châu Phi"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "mixed",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Western%20Sahara",
+    "wikidata": "https://www.wikidata.org/wiki/Q6250"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

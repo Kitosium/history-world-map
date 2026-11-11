@@ -1,0 +1,65 @@
+{
+  "id": "src-wikidata",
+  "schema_version": "1.3.0",
+  "type": "linked_open_data",
+  "title": {
+    "canonical": {
+      "en": "Wikidata: Multilingual Historical Knowledge Base",
+      "vi": "Wikidata: Cơ sở tri thức Lịch sử Đa ngôn ngữ"
+    }
+  },
+  "creators": [
+    {
+      "name": "Wikimedia Foundation & contributors",
+      "role": "compiler"
+    }
+  ],
+  "publication": {
+    "publisher": "Wikimedia Foundation",
+    "year": 2026,
+    "edition": "live database (snapshot 2026-11-05)",
+    "language": "multilingual",
+    "notes": "Cơ sở tri thức mở, cập nhật liên tục; dataset dùng bản chụp ngày 2026-11-05."
+  },
+  "digital_access": [
+    {
+      "url": "https://www.wikidata.org/",
+      "access_type": "open_access"
+    },
+    {
+      "label": "Wikidata Query Service",
+      "url": "https://query.wikidata.org/",
+      "access_type": "open_access"
+    },
+    {
+      "label": "Wikidata dumps",
+      "url": "https://dumps.wikimedia.org/wikidatawiki/",
+      "access_type": "open_access",
+      "format": "json",
+      "provider": "Wikimedia Foundation"
+    }
+  ],
+  "license": {
+    "name": "Creative Commons CC0 1.0",
+    "spdx": "CC0-1.0",
+    "url": "https://www.wikidata.org/wiki/Wikidata:Licensing"
+  },
+  "coverage": {
+    "temporal": "all periods",
+    "spatial": "global",
+    "geometry": "none (labels, descriptions and identifiers only)",
+    "border_precision": "not applicable"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_5_general_reference",
+    "historiographical_notes": "Dùng cho nhãn đa ngôn ngữ, mô tả và Q-identifier. Wikidata là nguồn tham chiếu mở, không phải thẩm quyền sử liệu sơ cấp; các niên đại suy ra từ đây được đánh dấu reference-grade. CC0 cho phần dữ liệu Wikidata; không có PDF.",
+    "spatial_precision_rating": "descriptive_narrative"
+  },
+  "citation_formats": {
+    "chicago": "Wikidata contributors. Wikidata: Multilingual Historical Knowledge Base. Snapshot 2026-11-05. Wikimedia Foundation. https://www.wikidata.org/.",
+    "apa": "Wikidata contributors. (2026). Wikidata: Multilingual historical knowledge base (Snapshot 2026-11-05) [Data set]. Wikimedia Foundation. https://www.wikidata.org/",
+    "bibtex": "@misc{wikidata2026, author={{Wikidata contributors}}, title={Wikidata: Multilingual Historical Knowledge Base}, year={2026}, publisher={Wikimedia Foundation}, note={Snapshot 2026-11-05}, url={https://www.wikidata.org/}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

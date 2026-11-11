@@ -1,0 +1,146 @@
+{
+  "id": "multan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q185453",
+  "names": {
+    "canonical": {
+      "vi": "Multan",
+      "en": "Multan",
+      "zh-CN": "木尔坦",
+      "zh-TW": "木爾坦",
+      "ja": "ムルターン",
+      "fr": "Multan",
+      "es": "Multan",
+      "ar": "ملتان",
+      "ru": "Мултан",
+      "de": "Multan"
+    },
+    "aliases": {
+      "zh-CN": [
+        "Multan",
+        "木尔丹",
+        "木尔坦"
+      ],
+      "fr": [
+        "Mûltan",
+        "Multân"
+      ],
+      "es": [
+        "Multán",
+        "Multa-n",
+        "Multa n",
+        "Multān"
+      ],
+      "ja": [
+        "ムルタン"
+      ],
+      "ar": [
+        "المولتان",
+        "مولتان",
+        "الملتان"
+      ],
+      "en": [
+        "Mooltan",
+        "Moultan"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Großstadt in der pakistanischen Provinz Punjab",
+    "en": "city in Punjab, Pakistan",
+    "es": "ciudad de Pakistán",
+    "ar": "مدينة في وسط باكستان",
+    "fr": "ville au Pakistan",
+    "ja": "パキスタンの都市",
+    "vi": "Multan (Multan) là một state lịch sử tồn tại từ 900 SCN đến 1783 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "to": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "duration_years": 883,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    900,
+    1783
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      900,
+      1783
+    ],
+    "first_observed_year": 900,
+    "last_observed_year": 1783,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Multan",
+    "wikidata": "https://www.wikidata.org/wiki/Q185453"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

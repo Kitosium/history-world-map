@@ -1,0 +1,250 @@
+{
+  "id": "saudi-arabia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q851",
+  "names": {
+    "canonical": {
+      "vi": "Ả Rập Xê Út",
+      "en": "Saudi Arabia",
+      "zh-CN": "沙特阿拉伯",
+      "zh-TW": "沙烏地阿拉伯",
+      "ja": "サウジアラビア",
+      "fr": "Arabie saoudite",
+      "es": "Arabia Saudí",
+      "ar": "السعودية",
+      "ru": "Саудовская Аравия",
+      "de": "Saudi-Arabien"
+    },
+    "aliases": {
+      "ar": [
+        "السعوديه",
+        "المملكة العربيّة السُعودِيَة",
+        "المملكه العربيه السعوديه",
+        "الدولة السعودية",
+        "الدوله السعوديه",
+        "مهبط الوحي",
+        "منبع الرسالة",
+        "سعودية",
+        "سعوديه",
+        "المملكة السعودية",
+        "المملكة العربية",
+        "دولة آل سعود",
+        "المملكة",
+        "المملكه",
+        "الْمَمْلَكَة العَرَبيَّة السُّعُودِيَّة",
+        "بلاد الحرمين الشريفين"
+      ],
+      "fr": [
+        "Royaume d’Arabie saoudite",
+        "Arabie Saoudite",
+        "Arabie séoudite",
+        "Arabie Séoudite",
+        "Royaume d’Arabie séoudite"
+      ],
+      "en": [
+        "Kingdom of Saudi Arabia",
+        "Saudi"
+      ],
+      "zh-CN": [
+        "沙特"
+      ],
+      "ru": [
+        "Королевство Саудовская Аравия",
+        "КСА"
+      ],
+      "vi": [
+        "Vương quốc Ả Rập Xê Út",
+        "Ả Rập Saudi",
+        "Arab Saudi",
+        "Saudi"
+      ],
+      "zh-TW": [
+        "沙烏地"
+      ],
+      "es": [
+        "Arabia Saudita",
+        "Reino de Arabia Saudita",
+        "Reino de Arabia Saudí"
+      ],
+      "ja": [
+        "サウジアラビア王国",
+        "サウジ"
+      ],
+      "de": [
+        "Königreich Saudi-Arabien"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays du Moyen-Orient, monarchie arabe créée en 1932",
+    "zh-CN": "位于阿拉伯半岛的国家",
+    "ru": "крупнейшее государство на Аравийском полуострове",
+    "zh-TW": "位於阿拉伯半島的國家",
+    "es": "país de Asia Occidental",
+    "de": "Staat in Vorderasien",
+    "ar": "دولة عربية تقع في شبه الجزيرة العربية غرب اسيا",
+    "en": "country in West Asia",
+    "vi": "quốc gia ở Tây Á",
+    "ja": "西アジアの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 88,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1938,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saudi%20Arabia",
+    "wikidata": "https://www.wikidata.org/wiki/Q851"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

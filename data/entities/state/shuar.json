@@ -1,0 +1,247 @@
+{
+  "id": "shuar",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1296766",
+  "names": {
+    "canonical": {
+      "vi": "Shuar",
+      "en": "Shuar",
+      "zh-CN": "舒阿人",
+      "zh-TW": "舒阿人",
+      "ja": "ヒバロ族",
+      "fr": "Shuars",
+      "es": "Shuar",
+      "ru": "хиваро",
+      "de": "Shuar"
+    },
+    "aliases": {
+      "zh-CN": [
+        "舒阿爾族"
+      ],
+      "ja": [
+        "シュアール族"
+      ],
+      "en": [
+        "Jivaro",
+        "Shuar o los Jibaros",
+        "Jivaroan people"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "etnia amazónica de Ecuador",
+    "de": "indigenes Volk in Südamerika",
+    "en": "ethnic group of Ecuador",
+    "fr": "groupe ethnique d'Équateur, Pérou et Bolivie",
+    "vi": "Shuar (Shuar) là một state lịch sử tồn tại từ 1279 SCN đến 1815 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1279,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1279 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 536,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1279,
+    1300,
+    1400,
+    1500,
+    1530,
+    1600,
+    1650,
+    1700,
+    1715,
+    1783,
+    1800,
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1279,
+      1300,
+      1400,
+      1500,
+      1530,
+      1600,
+      1650,
+      1700,
+      1715,
+      1783,
+      1800,
+      1815
+    ],
+    "first_observed_year": 1279,
+    "last_observed_year": 1815,
+    "feature_count": 12,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shuar",
+    "wikidata": "https://www.wikidata.org/wiki/Q1296766"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "liechtenstein",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q347",
+  "names": {
+    "canonical": {
+      "vi": "Liechtenstein",
+      "en": "Liechtenstein",
+      "zh-CN": "列支敦士登",
+      "zh-TW": "列支敦斯登",
+      "ja": "リヒテンシュタイン",
+      "fr": "Liechtenstein",
+      "es": "Liechtenstein",
+      "ar": "ليختنشتاين",
+      "ru": "Лихтенштейн",
+      "de": "Liechtenstein"
+    },
+    "aliases": {
+      "ru": [
+        "Liechtenstein",
+        "Княжество Лихтенштейн"
+      ],
+      "es": [
+        "Principado de Liechtenstein"
+      ],
+      "en": [
+        "Principality of Liechtenstein",
+        "FL",
+        "li"
+      ],
+      "zh-CN": [
+        "列支敦斯登公國",
+        "列支敦斯登亲王國",
+        "力喜騰斯坦因",
+        "列支敦士登"
+      ],
+      "fr": [
+        "principauté de Liechtenstein",
+        "la Principauté du Liechtenstein"
+      ],
+      "de": [
+        "Fürstentum Liechtenstein",
+        "Fürstentum Lichtenstein"
+      ],
+      "ja": [
+        "リヒテンシュタイン公国"
+      ]
+    }
+  },
+  "descriptions": {
+    "ar": "دولة في أوروبا الوسطى",
+    "fr": "petit État alpin d'Europe centrale constitué en 1719",
+    "en": "country in Central Europe",
+    "zh-CN": "欧洲中部的内陆小国",
+    "ru": "карликовое государство в Западной Европе",
+    "es": "País de Europa Occidental",
+    "ja": "西ヨーロッパの国",
+    "de": "Fürstentum und Kleinstaat in Mitteleuropa",
+    "zh-TW": "國家",
+    "vi": "quốc gia ở Trung Âu"
+  },
+  "existence": {
+    "from": {
+      "year": 1994,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1994 SCN"
+    },
+    "to": {
+      "year": 2010,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2010 SCN"
+    },
+    "duration_years": 16,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1994,
+    "last_observed_year": 2026,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Liechtenstein",
+    "wikidata": "https://www.wikidata.org/wiki/Q347"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

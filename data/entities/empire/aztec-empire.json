@@ -1,0 +1,132 @@
+{
+  "id": "aztec-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q2608489",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Aztec",
+      "en": "Aztec Empire",
+      "zh-CN": "阿兹特克联盟",
+      "zh-TW": "阿茲特克帝國",
+      "ja": "アステカ三国同盟",
+      "fr": "Empire aztèque",
+      "es": "Imperio azteca",
+      "ar": "إمبراطورية الآزتيك",
+      "ru": "Ацтекская империя",
+      "de": "Aztekenreich"
+    },
+    "aliases": {
+      "es": [
+        "Organización politica mexica",
+        "Organizacion politica mexica",
+        "Imperio mexica",
+        "Estado mexica"
+      ],
+      "ru": [
+        "Империя ацтеков"
+      ],
+      "en": [
+        "Triple Alliance",
+        "Mexica Empire"
+      ],
+      "ar": [
+        "إمبراطورية الآزتك",
+        "إمبراطورية آزتك"
+      ],
+      "ja": [
+        "アステカ帝国"
+      ],
+      "zh-TW": [
+        "三方同盟"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "древнее государство с XIV—XVI веках",
+    "en": "former Mesoamerican empire",
+    "es": "imperio en América del Norte",
+    "zh-CN": "一個存在於15至16世紀的中美洲城邦帝國聯盟",
+    "vi": "Liên minh giữa các thành bang ở Trung Mexico",
+    "de": "ehemaliges prähispanisches Reich in Amerika",
+    "ar": "دولة أسسها الأزتيك وهم من شعوب الأمريكيين الأصليين",
+    "fr": "ancien empire amérindien en Amérique du Nord",
+    "ja": "他のアメリカインディアンの人々の征服から作られた断片化されたアステカ軍の帝国"
+  },
+  "existence": {
+    "from": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "to": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1500
+    ],
+    "first_observed_year": 1500,
+    "last_observed_year": 1500,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aztec%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q2608489"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

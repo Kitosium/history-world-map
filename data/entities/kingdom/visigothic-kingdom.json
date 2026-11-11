@@ -1,0 +1,141 @@
+{
+  "id": "visigothic-kingdom",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q126936",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Visigoth",
+      "en": "Visigothic Kingdom",
+      "zh-CN": "西哥特王国",
+      "zh-TW": "西哥特王国",
+      "ja": "西ゴート王国",
+      "fr": "royaume des Wisigoths",
+      "es": "reino visigodo",
+      "ar": "مملكة القوط الغربيين",
+      "ru": "Вестготское королевство",
+      "de": "Westgotenreich"
+    },
+    "aliases": {
+      "ru": [
+        "Королевство вестготов"
+      ],
+      "fr": [
+        "royaume wisigoth",
+        "royaume wisigoth de Tolède",
+        "Espagne wisigothique",
+        "royaume wisigoth d'Occitanie",
+        "royaume des Goths",
+        "royaume goth occidental"
+      ],
+      "en": [
+        "Regnum Gothorum",
+        "Kingdom of the Goths"
+      ],
+      "es": [
+        "Regnum Hispaniae o Spaniae",
+        "Regnum gothorum",
+        "Regnum Hispaniae",
+        "Regnum Spaniae"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Staat (418–725)",
+    "fr": "ancien royaume germanique de la péninsule Ibérique ayant existé de 418 à 720",
+    "es": "Estado que surgió tras el asentamiento en territorio romano del pueblo visigodo",
+    "en": "Period of Germanic rule on the Iberian Peninsula (418–720) as a successor state to the Western Roman Empire.",
+    "ru": "варварское королевство на Пиренейском полуострове, существовавшее в V—VIII веках",
+    "ar": "هي دولة كانت تتبع المذهب الأريوسي المسيحي",
+    "ja": "中世初期に存在したゲルマン人の国",
+    "vi": "Vương quốc Visigoth (Visigothic Kingdom) là một state lịch sử tồn tại từ 600 SCN đến 700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "600 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    600,
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      600,
+      700
+    ],
+    "first_observed_year": 600,
+    "last_observed_year": 700,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Visigothic%20Kingdom",
+    "wikidata": "https://www.wikidata.org/wiki/Q126936"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,286 @@
+{
+  "id": "trinidad-and-tobago",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q754",
+  "names": {
+    "canonical": {
+      "vi": "Trinidad và Tobago",
+      "en": "Trinidad and Tobago",
+      "zh-CN": "特立尼达和多巴哥",
+      "zh-TW": "千里達及托巴哥",
+      "ja": "トリニダード・トバゴ",
+      "fr": "Trinité-et-Tobago",
+      "es": "Trinidad y Tobago",
+      "ar": "ترينيداد وتوباغو",
+      "ru": "Тринидад и Тобаго",
+      "de": "Trinidad und Tobago"
+    },
+    "aliases": {
+      "en": [
+        "Republic of Trinidad and Tobago",
+        "tt",
+        "Trinidad & Tobago",
+        "Trinidad",
+        "trinidad"
+      ],
+      "fr": [
+        "République de Trinité-et-Tobago",
+        "Trinidad-et-Tobago",
+        "République de Trinidad-et-Tobago",
+        "Île de Trinidad",
+        "Île de la Trinité",
+        "Trinite"
+      ],
+      "es": [
+        "República de Trinidad y Tobago",
+        "Trinidad y Tabago",
+        "Trinidad",
+        "Isla de la Trinidad",
+        "Isla de Trinidad"
+      ],
+      "zh-CN": [
+        "千里達及多巴哥",
+        "特立尼达和多巴哥",
+        "特立尼达岛"
+      ],
+      "ru": [
+        "Республика Тринидад и Тобаго",
+        "Остров Тринидад"
+      ],
+      "ja": [
+        "トリニダード・トバゴ共和国"
+      ],
+      "ar": [
+        "ترينداد"
+      ],
+      "vi": [
+        "Trinidad",
+        "trinidad"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "island sovereign state in the Caribbean",
+    "de": "Inselstaat in der Karibik",
+    "es": "país insular del Caribe",
+    "fr": "État insulaire des Caraïbes indépendant depuis 1962",
+    "ru": "островное государство в Карибском море",
+    "ar": "دولة جزرية في منطقة البحر الكاريبي",
+    "zh-CN": "加勒比海島國",
+    "ja": "カリブ海の島国",
+    "vi": "quốc đảo có chủ quyền ở vùng Caribe",
+    "zh-TW": "加勒比海島國"
+  },
+  "existence": {
+    "from": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 311,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1715,
+    1815,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1715,
+      1815,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1715,
+    "last_observed_year": 2026,
+    "feature_count": 11,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Trinidad%20and%20Tobago",
+    "wikidata": "https://www.wikidata.org/wiki/Q754"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

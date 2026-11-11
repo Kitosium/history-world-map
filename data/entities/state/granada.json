@@ -1,0 +1,139 @@
+{
+  "id": "granada",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q8810",
+  "names": {
+    "canonical": {
+      "vi": "Granada",
+      "en": "Granada",
+      "zh-CN": "格拉纳达",
+      "zh-TW": "格拉纳达",
+      "ja": "グラナダ",
+      "fr": "Grenade",
+      "es": "Granada",
+      "ar": "غرناطة",
+      "ru": "Гранада",
+      "de": "Granada"
+    },
+    "aliases": {
+      "ar": [
+        "غرناطه"
+      ],
+      "ru": [
+        "Гренада"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "municipalité et capitale de la province de Grenade, Espagne",
+    "es": "municipio y capital de la provincia de Granada, España",
+    "ru": "город и муниципалитет в Испании",
+    "en": "municipality and capital of the province of Granada, Spain",
+    "de": "Hauptstadt der Provinz Granada, Spanien",
+    "ar": "مدينة في جنوب إسبانيا",
+    "zh-CN": "西班牙格拉纳达省省会",
+    "ja": "スペインの都市",
+    "vi": "Granada (Granada) là một state lịch sử tồn tại từ 1279 SCN đến 1400 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1279,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1279 SCN"
+    },
+    "to": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "duration_years": 121,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1279,
+    1300,
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1279,
+      1300,
+      1400
+    ],
+    "first_observed_year": 1279,
+    "last_observed_year": 1400,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Granada",
+    "wikidata": "https://www.wikidata.org/wiki/Q8810"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

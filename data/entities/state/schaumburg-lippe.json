@@ -1,0 +1,153 @@
+{
+  "id": "schaumburg-lippe",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q310650",
+  "names": {
+    "canonical": {
+      "vi": "Thân vương quốc Schaumburg-Lippe",
+      "en": "Schaumburg-Lippe",
+      "zh-CN": "绍姆堡-利珀",
+      "zh-TW": "绍姆堡-利珀",
+      "ja": "シャウムブルク＝リッペ侯国",
+      "fr": "principauté de Schaumbourg-Lippe",
+      "es": "Schaumburg-Lippe",
+      "ar": "شاومبورغ ليبه",
+      "ru": "Шаумбург-Липпе",
+      "de": "Schaumburg-Lippe"
+    },
+    "aliases": {
+      "fr": [
+        "Schaumbourg-lippe",
+        "Schaumburg-Lippe",
+        "Comté de Schaumbourg-Lippe"
+      ],
+      "es": [
+        "Schaumburg Lippe",
+        "Schamburg-Lippe",
+        "Schamburg Lippe"
+      ],
+      "ja": [
+        "シャウムブルク＝リッペ伯",
+        "シャウムブルク＝リッペ侯領",
+        "シャウムブルク＝リッペ",
+        "シャウムブルク＝リッペ家",
+        "シャウムブルク＝リッペ侯",
+        "シャウムブルク＝リッペ州"
+      ],
+      "en": [
+        "Principality of Schaumburg-Lippe"
+      ],
+      "zh-CN": [
+        "紹姆堡-利珀",
+        "紹姆堡-利珀親王國",
+        "绍姆堡-利珀"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "History of the German territory 1643-1977",
+    "de": "selbständiges deutsches Land, 1647 bis 1946",
+    "vi": "Thân vương quốc Schaumburg-Lippe (Schaumburg-Lippe) là một state lịch sử tồn tại từ 1783 SCN đến 1815 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 32,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1783,
+    1800,
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1783,
+      1800,
+      1815
+    ],
+    "first_observed_year": 1783,
+    "last_observed_year": 1815,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Schaumburg-Lippe",
+    "wikidata": "https://www.wikidata.org/wiki/Q310650"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

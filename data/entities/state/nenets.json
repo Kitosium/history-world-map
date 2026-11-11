@@ -1,0 +1,147 @@
+{
+  "id": "nenets",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q166176",
+  "names": {
+    "canonical": {
+      "vi": "Người Nenets",
+      "en": "Nenets",
+      "zh-CN": "涅涅茨人",
+      "zh-TW": "涅涅茨人",
+      "ja": "ネネツ人",
+      "fr": "Nénètses",
+      "es": "nénets",
+      "ar": "نينيتس",
+      "ru": "ненцы",
+      "de": "Nenzen"
+    },
+    "aliases": {
+      "fr": [
+        "Nentsy",
+        "Nenets",
+        "Nénetses",
+        "Nénetse",
+        "Nenetses",
+        "Yurak",
+        "Samoyède yurak",
+        "Yourak",
+        "Samoyède yourak",
+        "Nenec"
+      ],
+      "es": [
+        "nenezos",
+        "nenets"
+      ],
+      "de": [
+        "Waldnenzen"
+      ],
+      "ja": [
+        "ネネツ"
+      ],
+      "ru": [
+        "самоядь",
+        "ненец",
+        "ненэця",
+        "юраки"
+      ],
+      "en": [
+        "Yurak",
+        "Yurak Samoyed",
+        "Nenec",
+        "Nenetsy",
+        "Nentse"
+      ],
+      "zh-CN": [
+        "尤拉克人"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Samoyed ethnic group of Siberia, mainly located on the Yamal Peninsula and the Krasnoyarsk Krai",
+    "fr": "peuple samoyède de Sibérie principalement situé sur la péninsule de Yamal et le kraï de Krasnoïarsk",
+    "de": "nomadische und sibirische Ethnie, das hauptsächlich auf der Jamaler Halbinsel und dem Krasnoiarsk gelegen ist",
+    "ru": "самодийский народ Сибири, проживающий главным образом на полуострове Ямал и в Красноярском крае",
+    "zh-CN": "俄罗斯境内萨莫耶德人的一支",
+    "es": "pueblo samoyedo de Siberia situado principalmente en la península de Yamal y la región de Krasnoyarsk",
+    "ar": "سكان ساميديون في سيبيريا يقطنون أساسا في شبه جزيرة يامال وكراسنويارسك كراي",
+    "ja": "ロシアの自治管区",
+    "vi": "Người Nenets (Nenets) là một state lịch sử tồn tại từ 1530 SCN đến 1530 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1530,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nenets",
+    "wikidata": "https://www.wikidata.org/wiki/Q166176"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

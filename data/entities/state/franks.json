@@ -1,0 +1,159 @@
+{
+  "id": "franks",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q43482",
+  "names": {
+    "canonical": {
+      "vi": "Người Frank",
+      "en": "Franks",
+      "zh-CN": "法兰克人",
+      "zh-TW": "法蘭克人",
+      "ja": "フランク人",
+      "fr": "Francs",
+      "es": "pueblo franco",
+      "ar": "فرنجة",
+      "ru": "франки",
+      "de": "Franken"
+    },
+    "aliases": {
+      "zh-CN": [
+        "法郎人",
+        "法兰克人"
+      ],
+      "es": [
+        "Franco",
+        "Francos",
+        "Pueblos francos occidentales",
+        "Germanos occidentales"
+      ],
+      "ar": [
+        "الفرانك",
+        "فرنجه",
+        "إفرنج",
+        "فرنكيين",
+        "الفرنج",
+        "إفرنجيون",
+        "الفرنجة",
+        "افرنج",
+        "بلاد الفرنجة",
+        "بلاد الفرنجه"
+      ],
+      "ja": [
+        "フランク族"
+      ],
+      "vi": [
+        "Vương quốc Frank",
+        "Người Franks",
+        "Người Phrăng",
+        "Franks"
+      ],
+      "ru": [
+        "франк"
+      ],
+      "en": [
+        "Frankish people"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historische germanische Ethnie",
+    "en": "historical Germanic ethnic group",
+    "ru": "союз германских племен",
+    "fr": "groupe ethnique germanique historique",
+    "es": "comunidad de pueblos germanos",
+    "ja": "ゲルマン民族の部族",
+    "ar": "قبائل جرمانية",
+    "zh-CN": "西日耳曼人，起源于荷兰和德国的交界处，法国人和德国人的眾多祖先之一",
+    "zh-TW": "西日耳曼人，起源於荷蘭和德國的交界處，法國人和德國人的眾多祖先之一",
+    "vi": "Người Frank (Franks) là một state lịch sử tồn tại từ 400 SCN đến 500 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 SCN"
+    },
+    "to": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    400,
+    500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      400,
+      500
+    ],
+    "first_observed_year": 400,
+    "last_observed_year": 500,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Franks",
+    "wikidata": "https://www.wikidata.org/wiki/Q43482"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

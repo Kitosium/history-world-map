@@ -1,0 +1,178 @@
+{
+  "id": "miami",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q8652",
+  "names": {
+    "canonical": {
+      "vi": "Miami",
+      "en": "Miami",
+      "zh-CN": "迈阿密",
+      "zh-TW": "邁阿密",
+      "ja": "マイアミ",
+      "fr": "Miami",
+      "es": "Miami",
+      "ar": "ميامي",
+      "ru": "Майами",
+      "de": "Miami"
+    },
+    "aliases": {
+      "en": [
+        "City of Miami",
+        "Miami, Florida",
+        "Miami, FL",
+        "The Magic City"
+      ],
+      "es": [
+        "Miami (Florida)"
+      ],
+      "de": [
+        "Miami, Florida"
+      ],
+      "zh-CN": [
+        "邁亞密",
+        "邁阿密市",
+        "迈阿密"
+      ],
+      "ru": [
+        "Маями",
+        "Майями"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "zweitbevölkerungsreichste Stadt des US-Bundesstaats Florida",
+    "fr": "ville américaine située en Floride",
+    "ja": "アメリカ合衆国フロリダ州の都市",
+    "ru": "город в штате Флорида, США",
+    "ar": "مدينة ساحلية أمريكية",
+    "en": "city in Miami-Dade County, Florida, United States",
+    "es": "ciudad y sede del condado de Miami-Dade, estado de Florida, Estados Unidos",
+    "zh-CN": "美國佛羅里達州邁阿密-戴德縣的一座城市",
+    "vi": "thành phố tại tiểu bang Florida, Hoa Kỳ"
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1715,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Miami",
+    "wikidata": "https://www.wikidata.org/wiki/Q8652"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "swedennorway",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": null,
+  "names": {
+    "canonical": {
+      "vi": "Sweden–Norway",
+      "en": "Sweden–Norway"
+    },
+    "aliases": {}
+  },
+  "descriptions": {},
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 1900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1900 SCN"
+    },
+    "duration_years": 85,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815,
+    1878,
+    1880,
+    1900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815,
+      1878,
+      1880,
+      1900
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 1900,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps"
+  ],
+  "provenance": {
+    "names": [
+      "src-basemaps"
+    ],
+    "existence": [
+      "src-basemaps"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sweden%E2%80%93Norway"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

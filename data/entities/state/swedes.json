@@ -1,0 +1,167 @@
+{
+  "id": "swedes",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q165192",
+  "names": {
+    "canonical": {
+      "vi": "người Thụy Điển",
+      "en": "Swedes",
+      "zh-CN": "瑞典人",
+      "zh-TW": "瑞典人",
+      "ja": "スウェーデン人",
+      "fr": "Suédois",
+      "es": "suecos",
+      "ar": "سويديون",
+      "ru": "шведы",
+      "de": "Schweden"
+    },
+    "aliases": {
+      "es": [
+        "pueblo sueco",
+        "sueco"
+      ],
+      "ru": [
+        "швед",
+        "шведка",
+        "шведский народ"
+      ],
+      "fr": [
+        "Suédoises"
+      ],
+      "ja": [
+        "スウェーデン系",
+        "スウェード人"
+      ],
+      "vi": [
+        "người Thuỵ Điển"
+      ],
+      "en": [
+        "Swedish people",
+        "Swedish"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "nordeuropäische Ethnie",
+    "en": "ethnic group in Northern Europe",
+    "es": "etnia indoeuropea",
+    "ru": "этническая группа, родом из Швеции",
+    "fr": "groupe ethnique",
+    "zh-CN": "族群",
+    "ja": "スカンディナヴィア半島に分布するゲルマン民族",
+    "vi": "người Thụy Điển (Swedes) là một state lịch sử tồn tại từ 400 SCN đến 700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 300,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    400,
+    500,
+    600,
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      400,
+      500,
+      600,
+      700
+    ],
+    "first_observed_year": 400,
+    "last_observed_year": 700,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Swedes",
+    "wikidata": "https://www.wikidata.org/wiki/Q165192"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

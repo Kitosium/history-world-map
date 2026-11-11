@@ -1,0 +1,104 @@
+{
+  "id": "kong",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q404184",
+  "names": {
+    "canonical": {
+      "vi": "Kong",
+      "en": "Kong",
+      "ja": "コング",
+      "fr": "Kong",
+      "es": "Kong",
+      "ru": "Конг",
+      "de": "Kong"
+    },
+    "aliases": {}
+  },
+  "descriptions": {
+    "ru": "страница значений",
+    "fr": "page d'homonymie de Wikimédia",
+    "de": "Wikimedia-Begriffsklärungsseite",
+    "es": "página de desambiguación de Wikimedia",
+    "zh-CN": "维基媒体消歧义页",
+    "ja": "ウィキメディアの曖昧さ回避ページ",
+    "ar": "صفحة توضيح لويكيميديا",
+    "zh-TW": "維基媒體消歧義頁"
+  },
+  "existence": {
+    "from": {
+      "year": 1900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1900 SCN"
+    },
+    "to": {
+      "year": 1900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1900 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1900
+    ],
+    "first_observed_year": 1900,
+    "last_observed_year": 1900,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kong",
+    "wikidata": "https://www.wikidata.org/wiki/Q404184"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,178 @@
+{
+  "id": "south-carolina",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1456",
+  "names": {
+    "canonical": {
+      "vi": "Nam Carolina",
+      "en": "South Carolina",
+      "zh-CN": "南卡罗来纳州",
+      "zh-TW": "南卡羅萊納州",
+      "ja": "サウスカロライナ州",
+      "fr": "Caroline du Sud",
+      "es": "Carolina del Sur",
+      "ar": "كارولاينا الجنوبية",
+      "ru": "Южная Каролина",
+      "de": "South Carolina"
+    },
+    "aliases": {
+      "de": [
+        "Südkarolina",
+        "Süd-Karolina",
+        "Staat Südkarolina",
+        "Staat Süd-Karolina"
+      ],
+      "en": [
+        "State of South Carolina",
+        "South Carolina, United States",
+        "S. C.",
+        "S.C.",
+        "Palmetto State",
+        "US-SC"
+      ],
+      "zh-CN": [
+        "南卡罗莱纳",
+        "南卡羅萊納州",
+        "南卡羅萊納"
+      ],
+      "zh-TW": [
+        "南卡羅萊納"
+      ],
+      "ar": [
+        "كارولينا الجنوبية",
+        "كرولينة الجنوبية"
+      ],
+      "es": [
+        "Estado de Carolina del Sur",
+        "Carolina del Sur, Estados Unidos",
+        "Estado de Palmetto"
+      ],
+      "ja": [
+        "南カロライナ州",
+        "南カロライナ",
+        "サウスカロライナ",
+        "サウス・カロライナ州",
+        "サウス・カロライナ",
+        "サウスキャロライナ州",
+        "サウスキャロライナ"
+      ],
+      "fr": [
+        "État de la Caroline du Sud",
+        "État de Caroline du Sud"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "state of the United States of America",
+    "fr": "État des États-Unis",
+    "ru": "штат на востоке США",
+    "de": "Bundesstaat der Vereinigten Staaten von Amerika",
+    "es": "estado de Estados Unidos",
+    "zh-CN": "美国州份",
+    "zh-TW": "美國州份",
+    "vi": "tiểu bang của Hoa Kỳ",
+    "ja": "アメリカ合衆国の州",
+    "ar": "ولاية في جنوب شرق الولايات المتحدة"
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 65,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1715,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/South%20Carolina",
+    "wikidata": "https://www.wikidata.org/wiki/Q1456"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,178 @@
+{
+  "id": "east-germany",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q16957",
+  "names": {
+    "canonical": {
+      "vi": "Cộng hòa Dân chủ Đức",
+      "en": "East Germany",
+      "zh-CN": "东德",
+      "zh-TW": "東德",
+      "ja": "ドイツ民主共和国",
+      "fr": "République démocratique allemande",
+      "es": "Alemania Oriental",
+      "ar": "ألمانيا الشرقية",
+      "ru": "ГДР",
+      "de": "Deutsche Demokratische Republik"
+    },
+    "aliases": {
+      "de": [
+        "DDR",
+        "Ostdeutschland",
+        "RDA",
+        "Deutsche Demokratische Republik (DDR)",
+        "GDR",
+        "DD",
+        "Ost-Deutschland"
+      ],
+      "en": [
+        "GDR",
+        "DDR",
+        "Deutsche Demokratische Republik",
+        "Communist Germany",
+        "Socialist Germany",
+        "German Democratic Republic"
+      ],
+      "zh-CN": [
+        "德意志民主共和国",
+        "民主德国"
+      ],
+      "ru": [
+        "DDR",
+        "Восточная Германия",
+        "Германская Демократическая Республика"
+      ],
+      "es": [
+        "RDA",
+        "DDR",
+        "República Democrática de Alemania",
+        "Alemania del Este",
+        "República Democrática Alemana",
+        "Alemania Socialista",
+        "Alemania Comunista"
+      ],
+      "fr": [
+        "RDA",
+        "Allemagne de l'Est",
+        "DDR",
+        "République démocratique d'Allemagne"
+      ],
+      "ja": [
+        "東ドイツ",
+        "東独"
+      ],
+      "ar": [
+        "الجمهورية الألمانية الديمقراطية",
+        "DDR",
+        "المانيا الشرقية",
+        "المانيا شرقية",
+        "جمهورية ألمانيا الديمقراطية",
+        "ألمانيا الديمقراطية",
+        "جمهورية ألمانيا الديموقراطية",
+        "الجمهورية الديمقراطية الألمانية"
+      ],
+      "vi": [
+        "Cộng hoà Dân chủ Đức",
+        "CHDC Đức",
+        "CHDCĐ",
+        "Đông Đức"
+      ],
+      "zh-TW": [
+        "德意志民主共和國",
+        "民主德國"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Staat in Mitteleuropa (1949–1990)",
+    "zh-CN": "1949年成立于德国苏占区的的社会主义国家",
+    "en": "1949–1990 country in central Europe, unified into modern Germany",
+    "es": "estado socialista de la Europa Central entre 1949 y 1990",
+    "ru": "социалистическое государство в Центральной Европе (1949—1990)",
+    "fr": "État qui a existé de 1949 jusqu'à la réunification de l'Allemagne en 1990",
+    "ar": "دولة سابقة في أوروبا الوسطى",
+    "vi": "quốc gia xã hội chủ nghĩa ở Trung Âu (1949–1990)",
+    "ja": "東ドイツ。1949年から1990年まで中央ヨーロッパに存在した国"
+  },
+  "existence": {
+    "from": {
+      "year": 1960,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "07/10/1960 SCN",
+      "month": 10,
+      "day": 7
+    },
+    "to": {
+      "year": 1960,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "03/10/1960 SCN",
+      "month": 10,
+      "day": 3
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1960
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1960
+    ],
+    "first_observed_year": 1960,
+    "last_observed_year": 1960,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/East%20Germany",
+    "wikidata": "https://www.wikidata.org/wiki/Q16957"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,141 @@
+{
+  "id": "nam-viet",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q834949",
+  "names": {
+    "canonical": {
+      "vi": "Nam Việt",
+      "en": "Nanyue",
+      "zh-CN": "南越国",
+      "zh-TW": "南越國",
+      "ja": "南越国",
+      "fr": "Nanyue",
+      "es": "Nanyue",
+      "de": "Nanyue",
+      "ru": "Наньюэ",
+      "ar": "نانيو"
+    },
+    "aliases": {
+      "vi": [
+        "Triệu triều",
+        "Nhà Triệu",
+        "Nước Nam Việt"
+      ],
+      "en": [
+        "Nam Viet",
+        "Zhao dynasty of Nanyue",
+        "Southern Yue"
+      ],
+      "zh-CN": [
+        "南越",
+        "赵朝",
+        "南粤"
+      ],
+      "ja": [
+        "南越",
+        "なんえつ"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Vương quốc cổ đại do Triệu Đà thành lập ở vùng Lĩnh Nam, bao gồm Lưỡng Quảng và sau đó sáp nhập lãnh thổ Âu Lạc, kinh đô đặt tại Phiên Ngung (Quảng Châu ngày nay).",
+    "en": "Ancient kingdom established by Zhao Tuo in Lingnan, encompassing modern Guangdong, Guangxi, and northern Vietnam, with its capital at Panyu (Guangzhou).",
+    "zh-CN": "由秦将赵佗在岭南地区建立的古代王国，领土涵盖两广及越南北部，定都番禺（今广州）。",
+    "ja": "秦の将軍趙佗が嶺南地方に建国した古代王国。現在の広東・広西およびベトナム北部を領有し、都は番禺。"
+  },
+  "existence": {
+    "from": {
+      "year": -204,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "204 TCN"
+    },
+    "to": {
+      "year": -111,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "111 TCN"
+    },
+    "duration_years": 93,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "imperial_breakaway",
+      "vi": "Triệu Đà nhân lúc nhà Tần sụp đổ đã ly khai, lập nước Nam Việt, xưng Nam Việt Vũ Vương",
+      "en": "Zhao Tuo took advantage of the fall of Qin dynasty to declare independence as King of Nanyue"
+    },
+    "dissolution_reason": {
+      "type": "annexation",
+      "vi": "Hán Vũ Đế cử Lộ Bác Đức và Dương Bộc đem quân chinh phục Nam Việt, chia thành 9 quận",
+      "en": "Emperor Wu of Han conquered Nanyue, dividing it into nine commanderies"
+    },
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-shiji"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "historical_reconstruction",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet",
+        "src-shiji"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-shiji",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-shiji",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-shiji"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/Nam_Vi%E1%BB%87t",
+    "wikidata": "https://www.wikidata.org/wiki/Q834949"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

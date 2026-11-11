@@ -1,0 +1,143 @@
+{
+  "id": "heruli",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q220643",
+  "names": {
+    "canonical": {
+      "vi": "Heruli",
+      "en": "Heruli",
+      "zh-CN": "赫鲁利人",
+      "zh-TW": "赫鲁利人",
+      "ja": "ヘルール族",
+      "fr": "hérules",
+      "es": "hérulos",
+      "ar": "هيروليون",
+      "ru": "герулы",
+      "de": "Heruler"
+    },
+    "aliases": {
+      "fr": [
+        "herules"
+      ],
+      "es": [
+        "herulo",
+        "pueblo herulo",
+        "hérulo",
+        "pueblo hérulo",
+        "herulos"
+      ],
+      "de": [
+        "Eruler"
+      ],
+      "ja": [
+        "ヘルリ族",
+        "ヘルリ",
+        "ヘルリ人"
+      ],
+      "ru": [
+        "херулы",
+        "эрулы"
+      ],
+      "en": [
+        "Herulians",
+        "Eruli"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical ethnical group",
+    "de": "ostgermanische Ethnie ungesicherter Herkunft, wahrscheinlich vom Schwarzen Meer",
+    "fr": "peuple germanique ostique ou issus de Scandinavie pratiquant les raids",
+    "es": "tribu germánica que invadió el Imperio romano de occidente en el siglo III",
+    "vi": "Heruli (Heruli) là một state lịch sử tồn tại từ 200 SCN đến 300 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 SCN"
+    },
+    "to": {
+      "year": 300,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "300 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    200,
+    300
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      200,
+      300
+    ],
+    "first_observed_year": 200,
+    "last_observed_year": 300,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Heruli",
+    "wikidata": "https://www.wikidata.org/wiki/Q220643"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

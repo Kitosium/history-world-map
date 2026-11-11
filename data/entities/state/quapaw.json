@@ -1,0 +1,169 @@
+{
+  "id": "quapaw",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1268882",
+  "names": {
+    "canonical": {
+      "vi": "Quapaw",
+      "en": "Quapaw",
+      "zh-CN": "夸帕人",
+      "zh-TW": "夸帕人",
+      "fr": "Quapaws",
+      "es": "Quapaw",
+      "ru": "Куапо",
+      "de": "Quapaw"
+    },
+    "aliases": {
+      "de": [
+        "Arkansas"
+      ],
+      "fr": [
+        "Quapaw"
+      ],
+      "ru": [
+        "Квапо"
+      ],
+      "en": [
+        "Quapaw Nation",
+        "Quapaw Nation of Indians",
+        "Quapaw Tribe of Oklahoma",
+        "Quapaws"
+      ],
+      "zh-CN": [
+        "夸保族",
+        "夸帕人",
+        "夸波人"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Native American people indigenous to Arkansas and Oklahoma",
+    "de": "Ethnie in Arkansas und Oklahoma, USA",
+    "vi": "Quapaw (Quapaw) là một state lịch sử tồn tại từ 1530 SCN đến 1715 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1715,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Quapaw",
+    "wikidata": "https://www.wikidata.org/wiki/Q1268882"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "nyasaland",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1649306",
+  "names": {
+    "canonical": {
+      "vi": "Nyasaland",
+      "en": "Nyasaland",
+      "zh-CN": "尼亞薩蘭",
+      "zh-TW": "尼亞薩蘭",
+      "ja": "ニヤサランド",
+      "fr": "Nyassaland",
+      "es": "Nyasalandia",
+      "ar": "نياسالند",
+      "ru": "Ньясаленд",
+      "de": "Nyasaland"
+    },
+    "aliases": {
+      "fr": [
+        "Nyasaland Protectorate"
+      ],
+      "es": [
+        "Niasalandia",
+        "Nyasaland",
+        "Niassalandia"
+      ],
+      "ja": [
+        "ニアサランド",
+        "英領ニヤサランド"
+      ],
+      "en": [
+        "Nyasaland Protectorate"
+      ],
+      "ar": [
+        "نياسالاند"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "протекторат Великобритании (1907-1964)",
+    "en": "a British protectorate in Africa that was established in 1907 when the former British Central Africa Protectorate changed its name",
+    "fr": "protectorat britannique en Afrique de l'Est",
+    "es": "protectorado británico en África",
+    "ja": "かつてアフリカに存在したイギリスの保護領",
+    "zh-CN": "英属中非于1907年所改名而成立的保护地",
+    "vi": "Nyasaland (Nyasaland) là một state lịch sử tồn tại từ 1945 SCN đến 1945 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 1945,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nyasaland",
+    "wikidata": "https://www.wikidata.org/wiki/Q1649306"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

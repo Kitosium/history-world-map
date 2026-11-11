@@ -1,0 +1,204 @@
+{
+  "id": "inca-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q28573",
+  "names": {
+    "canonical": {
+      "vi": "Đế chế Inca",
+      "en": "Inca Empire",
+      "zh-CN": "印加帝國",
+      "zh-TW": "印加帝國",
+      "ja": "インカ帝国",
+      "fr": "Empire inca",
+      "es": "Imperio incaico",
+      "ar": "إنكا",
+      "ru": "Империя инков",
+      "de": "Inkareich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "印加帝国",
+        "印加王國",
+        "印加",
+        "印加文明",
+        "印卡帝国"
+      ],
+      "es": [
+        "Tahuantinsuyu",
+        "Tahuantinsuyo",
+        "Imperio quechua",
+        "Tawantisuyo",
+        "Estado Inca",
+        "Imperio Incásico",
+        "Tawantinsuyu",
+        "Tawuantinsuyo",
+        "Tawantinsuyo",
+        "Tawantisuyu",
+        "Época incaica",
+        "Tawantin Suyu",
+        "Incanato",
+        "Imperio de los incas",
+        "imperio Inca",
+        "Incario"
+      ],
+      "ar": [
+        "انكا",
+        "أنكا",
+        "الانكا",
+        "حضارة الإنكا",
+        "الأنكا",
+        "الإنكا"
+      ],
+      "ru": [
+        "Тауантинсуйу",
+        "Государство инков",
+        "Инки",
+        "Инкская империя",
+        "Тауантинсуйю"
+      ],
+      "ja": [
+        "タワンティンスージュ",
+        "タワンティン・スウユ",
+        "タワンティンスーユ",
+        "インカ",
+        "インカ文明"
+      ],
+      "vi": [
+        "Văn minh Inca",
+        "Nền văn minh Inca",
+        "Đế quốc Inca",
+        "Vương quốc Inca",
+        "Inca"
+      ],
+      "en": [
+        "Tawantinsuyu",
+        "Tahuantinsuyo",
+        "Incan empire",
+        "Quechuan empire",
+        "Empire of the incas",
+        "Tawantin Suyu"
+      ],
+      "fr": [
+        "Tawantin Suyu",
+        "Empire Incaïque",
+        "Incanat",
+        "Tahuantinsuyo",
+        "Empire Cuzquénien",
+        "Empire Quechua",
+        "Tahuantinsuyu"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "antiguo estado de América del Sur",
+    "en": "1438–1533 empire in South America",
+    "fr": "empire précolombien d'Amérique du Sud",
+    "ar": "إمبراطورية قديمة في أمريكا الجنوبية",
+    "ru": "индейское раннеклассовое государство в Южной Америке в XI—XVI веках",
+    "zh-CN": "历史国家",
+    "vi": "đế quốc thời kỳ Tiền Columbus ở Nam Mỹ",
+    "de": "historischer Staat",
+    "ja": "かつて南アメリカのペルーを中心に存在した国家"
+  },
+  "existence": {
+    "from": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "to": {
+      "year": 1600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1600 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1500,
+    1530,
+    1600
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1500,
+      1530,
+      1600
+    ],
+    "first_observed_year": 1500,
+    "last_observed_year": 1600,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Inca%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q28573"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

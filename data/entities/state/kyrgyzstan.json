@@ -1,0 +1,194 @@
+{
+  "id": "kyrgyzstan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q813",
+  "names": {
+    "canonical": {
+      "vi": "Kyrgyzstan",
+      "en": "Kyrgyzstan",
+      "zh-CN": "吉尔吉斯斯坦",
+      "zh-TW": "吉爾吉斯",
+      "ja": "キルギス",
+      "fr": "Kirghizistan",
+      "es": "Kirguistán",
+      "ar": "قرغيزستان",
+      "ru": "Кыргызстан",
+      "de": "Kirgisistan"
+    },
+    "aliases": {
+      "de": [
+        "Kirgisien",
+        "Kirgistan"
+      ],
+      "es": [
+        "República Kirguisa",
+        "Kirguizistán",
+        "Kirguisia"
+      ],
+      "ru": [
+        "Киргизская Республика",
+        "Кыргызская Республика",
+        "Киргизстан",
+        "Киргизия",
+        "Республика Кыргызстан",
+        "Республика Киргизия",
+        "КР"
+      ],
+      "zh-CN": [
+        "吉尔吉斯共和国"
+      ],
+      "zh-TW": [
+        "吉爾吉斯共和國"
+      ],
+      "en": [
+        "Kyrgyz Republic",
+        "kg"
+      ],
+      "fr": [
+        "Kirghizie",
+        "Kirghizstan",
+        "République kirghize"
+      ],
+      "ja": [
+        "キルギス共和国"
+      ],
+      "ar": [
+        "قرغيزيا",
+        "قيرغيزستان"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in Central Asia",
+    "de": "Staat in Zentralasien",
+    "es": "país de Asia Central",
+    "fr": "pays d'Asie centrale",
+    "ru": "государство в Центральной Азии",
+    "zh-CN": "中亚国家",
+    "zh-TW": "中亞國家",
+    "ja": "中央アジアの国",
+    "ar": "دولة في آسيا الوسطى",
+    "vi": "quốc gia tại Trung Á"
+  },
+  "existence": {
+    "from": {
+      "year": 1994,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1994 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 32,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1994,
+    "last_observed_year": 2026,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+    "wikidata": "https://www.wikidata.org/wiki/Q813"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

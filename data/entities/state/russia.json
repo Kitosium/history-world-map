@@ -1,0 +1,196 @@
+{
+  "id": "russia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q159",
+  "names": {
+    "canonical": {
+      "vi": "Nga",
+      "en": "Russia",
+      "zh-CN": "俄罗斯",
+      "zh-TW": "俄羅斯",
+      "ja": "ロシア",
+      "fr": "Russie",
+      "es": "Rusia",
+      "ar": "روسيا",
+      "ru": "Россия",
+      "de": "Russland"
+    },
+    "aliases": {
+      "en": [
+        "Russian Federation"
+      ],
+      "ru": [
+        "Российская Федерация"
+      ],
+      "de": [
+        "Russische Föderation",
+        "Russländische Föderation",
+        "Rußland",
+        "Rußische Föderation",
+        "Rußländische Föderation"
+      ],
+      "ja": [
+        "ロシア連邦"
+      ],
+      "zh-CN": [
+        "俄羅斯",
+        "俄国",
+        "俄國"
+      ],
+      "fr": [
+        "Fédération russe",
+        "RU",
+        "RUS",
+        "Fédération de Russie"
+      ],
+      "vi": [
+        "Liên bang Nga",
+        "Russia"
+      ],
+      "es": [
+        "Federación Rusa",
+        "Federación de Rusia"
+      ],
+      "ar": [
+        "روسيا الاتحادية",
+        "الاتحاد الروسي"
+      ],
+      "zh-TW": [
+        "俄國"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in Eastern Europe and Northern Asia, the largest in the world by area",
+    "fr": "pays d'Europe de l'Est et d'Asie du Nord",
+    "es": "País de Europa Oriental y Asia Occidental",
+    "ru": "государство в Восточной Европе и Северной Азии, крупнейшее по площади в мире",
+    "de": "Staat in Osteuropa und Nordasien",
+    "zh-CN": "东欧及北亚国家",
+    "ja": "ヨーロッパ・アジアの国",
+    "ar": "دولة تقع في شمال أوراسيا",
+    "vi": "quốc gia ở đại lục Á–Âu",
+    "zh-TW": "東歐及北亞國家"
+  },
+  "existence": {
+    "from": {
+      "year": 1994,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1994 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 32,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1994,
+    "last_observed_year": 2026,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Russia",
+    "wikidata": "https://www.wikidata.org/wiki/Q159"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "merina-kingdom",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q1071439",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Merina",
+      "en": "Merina Kingdom",
+      "zh-CN": "伊默里纳王国",
+      "zh-TW": "伊默里纳王国",
+      "ja": "メリナ王国",
+      "fr": "Royaume merina",
+      "es": "Reino de Imerina",
+      "ar": "مملكة ميرينا",
+      "ru": "Малагасийское королевство",
+      "de": "Königreich Madagaskar"
+    },
+    "aliases": {
+      "zh-CN": [
+        "梅里納王国"
+      ],
+      "de": [
+        "Königreich der Merina",
+        "Merina-Königreich",
+        "Madagassisches Königreich",
+        "Königreich Merina"
+      ],
+      "fr": [
+        "Royaume de Madagascar"
+      ],
+      "en": [
+        "Kingdom of Imerina",
+        "Merina",
+        "Kingdom of Madagascar",
+        "Imerina"
+      ],
+      "es": [
+        "Reino Merina",
+        "Reino de Madagascar",
+        "Imerina"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat",
+    "en": "former country",
+    "fr": "entité politique établie au centre de Madagascar de 1817 à 1897",
+    "ru": "историческое государство",
+    "es": "reino africano desaparecido, situado en la actual Madagascar (1540-1897)",
+    "ja": "マダガスカルに存在した王国",
+    "vi": "Vương quốc Merina (Merina Kingdom) là một state lịch sử tồn tại từ 1000 SCN đến 1815 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 815,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400,
+    1492,
+    1500,
+    1530,
+    1600,
+    1650,
+    1700,
+    1715,
+    1783,
+    1800,
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400,
+      1492,
+      1500,
+      1530,
+      1600,
+      1650,
+      1700,
+      1715,
+      1783,
+      1800,
+      1815
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1815,
+    "feature_count": 16,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Merina%20Kingdom",
+    "wikidata": "https://www.wikidata.org/wiki/Q1071439"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

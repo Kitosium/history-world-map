@@ -1,0 +1,18 @@
+{
+  "id": "tien-le",
+  "state_id": "dai-co-viet",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Tiền Lê (Lê Đại Hành)",
+      "en": "Early Le dynasty",
+      "zh-CN": "前黎朝 (黎桓)",
+      "ja": "前黎朝"
+    }
+  },
+  "from_year": 980,
+  "to_year": 1009,
+  "capital": "hoa-lu",
+  "source_ids": [
+    "src-dai-viet"
+  ]
+}

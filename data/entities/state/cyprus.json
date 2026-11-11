@@ -1,0 +1,328 @@
+{
+  "id": "cyprus",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q229",
+  "names": {
+    "canonical": {
+      "vi": "Síp",
+      "en": "Cyprus",
+      "zh-CN": "塞浦路斯",
+      "zh-TW": "賽普勒斯",
+      "ja": "キプロス",
+      "fr": "Chypre",
+      "es": "Chipre",
+      "ar": "قبرص",
+      "ru": "Кипр",
+      "de": "Zypern"
+    },
+    "aliases": {
+      "fr": [
+        "Chypre-Sud",
+        "République de Chypre",
+        "république de Chypre",
+        "Chypriotes",
+        "cy"
+      ],
+      "en": [
+        "Greek Cypriot State",
+        "Republic of Cyprus",
+        "Greek Administration of Southern Cyprus"
+      ],
+      "ru": [
+        "Республика Кипр"
+      ],
+      "vi": [
+        "Cộng hòa Síp",
+        "Cộng hoà Síp"
+      ],
+      "es": [
+        "República de Chipre"
+      ],
+      "de": [
+        "Südzypern"
+      ],
+      "ja": [
+        "キプロス共和国"
+      ],
+      "zh-CN": [
+        "希腊塞浦路斯"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "État souverain situé sur une île de la Méditerranée orientale depuis 1960",
+    "zh-CN": "东地中海地区岛国",
+    "ru": "островное государство в восточной части Средиземного моря",
+    "zh-TW": "位於歐洲與亞洲交界處的島國",
+    "es": "país insular de Asia Occidental",
+    "de": "Inselstaat im östlichen Mittelmeer",
+    "ar": "دولة جزرية في شرق البحر الأبيض المتوسط و غرب آسيا و جنوب شرق أوروبا",
+    "en": "country in the Mediterranean Sea",
+    "ja": "地中海東部の島国",
+    "vi": "đảo quốc ở Địa Trung Hải thuộc khu vực Tây Á"
+  },
+  "existence": {
+    "from": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 1226,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    800,
+    900,
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400,
+    1492,
+    1500,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400,
+      1492,
+      1500,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 800,
+    "last_observed_year": 2026,
+    "feature_count": 15,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyprus",
+    "wikidata": "https://www.wikidata.org/wiki/Q229"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

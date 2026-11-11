@@ -1,0 +1,181 @@
+{
+  "id": "bosporan-kingdom",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q321371",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Bosporos",
+      "en": "Bosporan Kingdom",
+      "zh-CN": "博斯普鲁斯王国",
+      "zh-TW": "博斯普鲁斯王国",
+      "ja": "ボスポロス王国",
+      "fr": "royaume du Bosphore",
+      "es": "Reino del Bósforo",
+      "ar": "مملكة بوسبوران",
+      "ru": "Боспорское царство",
+      "de": "Bosporanisches Reich"
+    },
+    "aliases": {
+      "fr": [
+        "Bosphore Cimmerien",
+        "Royaume du Bosphore Cimmérien",
+        "Bosphore",
+        "Roi du Bosphore",
+        "Bosphore cimmérien"
+      ],
+      "es": [
+        "Reino del Bosforo"
+      ],
+      "de": [
+        "Regnum Bospori",
+        "Bosporanum regnum"
+      ],
+      "ja": [
+        "ボスポラス王国"
+      ],
+      "vi": [
+        "Vương quốc Bosporus",
+        "Vương quốc Bosporan"
+      ],
+      "ar": [
+        "Bosporan Kingdom"
+      ],
+      "ru": [
+        "Боспорское государство",
+        "Боспор",
+        "Приазовское царство"
+      ],
+      "zh-CN": [
+        "博斯普魯斯"
+      ],
+      "en": [
+        "Cimmerian Bosphorus",
+        "Kingdom of the Cimmerian Bosporus",
+        "Βασιλεία τοῦ Κιμμερικοῦ Βοσπόρου (Ancient Greek)"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat aus griechischen Kolonien am Schwarzen Meer",
+    "fr": "État de l’Antiquité, sur les rives sud de la mer d’Azov",
+    "en": "Greco-Scythian state near Sea of Azov (c.438 BC–c.527 AD)",
+    "ru": "Античное государство в Северном Причерноморье со столицей в Пантикапее.",
+    "es": "Estado greco-escita ubicado cerca del mar de Azov (c. 438 a. C.-c. 527 d. C.)",
+    "zh-CN": "历史政权",
+    "ja": "クリミア半島を中心にギリシア人の植民者と現地人らによって形成された国家 (紀元前438年-376年)",
+    "vi": "Vương quốc Bosporos (Bosporan Kingdom) là một state lịch sử tồn tại từ 323 TCN đến 100 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -323,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "323 TCN"
+    },
+    "to": {
+      "year": -100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 TCN"
+    },
+    "duration_years": 223,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -323,
+    -300,
+    -200,
+    -100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -323,
+      -300,
+      -200,
+      -100
+    ],
+    "first_observed_year": -323,
+    "last_observed_year": -100,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bosporan%20Kingdom",
+    "wikidata": "https://www.wikidata.org/wiki/Q321371"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

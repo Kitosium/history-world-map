@@ -1,0 +1,157 @@
+{
+  "id": "florida",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q812",
+  "names": {
+    "canonical": {
+      "vi": "Florida",
+      "en": "Florida",
+      "zh-CN": "佛罗里达州",
+      "zh-TW": "佛羅里達州",
+      "ja": "フロリダ州",
+      "fr": "Floride",
+      "es": "Florida",
+      "ar": "فلوريدا",
+      "ru": "Флорида",
+      "de": "Florida"
+    },
+    "aliases": {
+      "en": [
+        "State of Florida",
+        "Fla.",
+        "Peninsular State",
+        "Sunshine State",
+        "The Sunshine State",
+        "Florida, United States",
+        "The Gator State"
+      ],
+      "de": [
+        "Sonnenschein-Staat",
+        "Sunshine State"
+      ],
+      "vi": [
+        "bang Florida",
+        "Florida, Hoa Kỳ",
+        "Florida, Mỹ"
+      ],
+      "zh-CN": [
+        "弗羅里達",
+        "弗罗里达"
+      ],
+      "es": [
+        "Estado de Florida",
+        "Estado de la Península",
+        "El Estado del Sol",
+        "Florida (Estados Unidos)",
+        "Fla."
+      ],
+      "ar": [
+        "ولاية فلوريدا"
+      ],
+      "fr": [
+        "État de Floride"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "state of the United States of America",
+    "fr": "État des États-Unis",
+    "es": "estado de los Estados Unidos de América",
+    "ru": "штат на юго-востоке США",
+    "de": "Bundesstaat der Vereinigten Staaten von Amerika",
+    "zh-CN": "美国州份",
+    "zh-TW": "美國州份",
+    "vi": "tiểu bang của Hoa Kỳ",
+    "ar": "ولاية الولايات المتحدة الأمريكية",
+    "ja": "アメリカ合衆国の州"
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1700 SCN"
+    },
+    "duration_years": 50,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1700,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Florida",
+    "wikidata": "https://www.wikidata.org/wiki/Q812"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

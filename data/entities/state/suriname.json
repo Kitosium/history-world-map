@@ -1,0 +1,266 @@
+{
+  "id": "suriname",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q730",
+  "names": {
+    "canonical": {
+      "vi": "Suriname",
+      "en": "Suriname",
+      "zh-CN": "苏里南",
+      "zh-TW": "蘇利南",
+      "ja": "スリナム",
+      "fr": "Suriname",
+      "es": "Surinam",
+      "ar": "سورينام",
+      "ru": "Суринам",
+      "de": "Suriname"
+    },
+    "aliases": {
+      "es": [
+        "República de Surinam"
+      ],
+      "en": [
+        "Surinam",
+        "Republic of Suriname",
+        "Republic of Surinam",
+        "Dutch Guiana",
+        "sr",
+        "Surrinam"
+      ],
+      "ru": [
+        "Республика Суринам"
+      ],
+      "fr": [
+        "Surinam",
+        "République du Suriname",
+        "République du Surinam"
+      ],
+      "de": [
+        "Surinam",
+        "Republik Suriname"
+      ],
+      "ja": [
+        "スリナム共和国"
+      ],
+      "zh-CN": [
+        "苏里南",
+        "蘇里南",
+        "苏里南共和国"
+      ],
+      "ar": [
+        "جمهورية سورينام"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in South America",
+    "es": "país de América del Sur y el Caribe",
+    "fr": "pays d'Amérique du Sud",
+    "de": "Staat in Südamerika",
+    "ru": "страна в Южной Америке",
+    "ar": "دولة في أمريكا الجنوبية",
+    "ja": "南アメリカの国",
+    "zh-CN": "南美洲北部的國家",
+    "zh-TW": "南美洲北部的國家",
+    "vi": "quốc gia ở Nam Mỹ"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 112,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 2026,
+    "feature_count": 10,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Suriname",
+    "wikidata": "https://www.wikidata.org/wiki/Q730"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

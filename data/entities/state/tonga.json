@@ -1,0 +1,300 @@
+{
+  "id": "tonga",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q678",
+  "names": {
+    "canonical": {
+      "vi": "Tonga",
+      "en": "Tonga",
+      "zh-CN": "汤加",
+      "zh-TW": "東加",
+      "ja": "トンガ",
+      "fr": "Tonga",
+      "es": "Tonga",
+      "ar": "تونغا",
+      "ru": "Тонга",
+      "de": "Tonga"
+    },
+    "aliases": {
+      "es": [
+        "Reino de Tonga"
+      ],
+      "ru": [
+        "Королевство Тонга"
+      ],
+      "zh-CN": [
+        "汤加",
+        "湯加"
+      ],
+      "ar": [
+        "تونجا"
+      ],
+      "en": [
+        "to",
+        "Kingdom of Tonga",
+        "TGA",
+        "Friendly Islands",
+        "Tonga Islands"
+      ],
+      "ja": [
+        "トンガ王国"
+      ],
+      "fr": [
+        "TO",
+        "Royaume des Tonga"
+      ],
+      "vi": [
+        "Vương quốc Tonga"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in Oceania, situated on an archipelago",
+    "es": "país insular de Oceanía",
+    "fr": "État de Polynésie indépendant depuis 1970",
+    "de": "Inselstaat im Südpazifik",
+    "ru": "государство в Океании",
+    "ar": "دولة جزرية في جنوب المحيط الهادئ",
+    "zh-CN": "南太平島國",
+    "ja": "南太平洋の島国",
+    "vi": "quốc đảo ở Thái Bình Dương"
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 2010,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2010 SCN"
+    },
+    "duration_years": 132,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880,
+    1900,
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880,
+      1900,
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 2026,
+    "feature_count": 13,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tonga",
+    "wikidata": "https://www.wikidata.org/wiki/Q678"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

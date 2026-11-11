@@ -1,0 +1,268 @@
+{
+  "id": "src-dai-viet",
+  "schema_version": "1.3.0",
+  "type": "primary_chronicle",
+  "title": {
+    "canonical": {
+      "vi": "Đại Việt Sử Ký Toàn Thư",
+      "en": "Complete Annals of Đại Việt",
+      "zh-CN": "大越史记全书",
+      "zh-TW": "大越史記全書",
+      "ja": "大越史記全書"
+    }
+  },
+  "creators": [
+    {
+      "name": "Ngô Sĩ Liên",
+      "role": "author",
+      "affiliation": "Quốc sử viện triều Lê sơ"
+    },
+    {
+      "name": "Phạm Công Trứ",
+      "role": "reviser",
+      "affiliation": "Quốc sử viện triều Lê trung hưng"
+    },
+    {
+      "name": "Lê Hy",
+      "role": "reviser",
+      "affiliation": "Quốc sử viện triều Lê trung hưng"
+    }
+  ],
+  "publication": {
+    "publisher": "Nội các quan bản khắc in",
+    "year": 1697,
+    "place": "Thăng Long (Đông Kinh)",
+    "edition": "Bản khắc 1697; bản in 1884 (10 tập) được số hóa",
+    "volumes": "24 quyển; bản Nội các quan bản 1697 đóng 15 tập; bản 1884 số hóa 10 tập",
+    "language": "lzh",
+    "notes": "Bản 1479 của Ngô Sĩ Liên gồm 15 quyển; Phạm Công Trứ bổ sung thành 23 quyển; Lê Hy hoàn tất 24 quyển và khắc in năm 1697. Bản 1884 là bản in muộn được Internet Archive số hóa."
+  },
+  "digital_access": [
+    {
+      "label": "Bản in 1884 — Tập 1 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%201_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 6046463,
+      "sha256": "40e23bc128467b8f5e1855163fef13272b2c42a3331b495cc89923eacc29497d",
+      "pages": 50,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t01.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 2 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%202_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 6842615,
+      "sha256": "71cddd731b9efa951b716879ca8cbb97c327aba91c9d8ab3e941488015ce59ab",
+      "pages": 56,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t02.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 3 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%203_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 5424849,
+      "sha256": "a9e81357ac8f14fece2e87d955ef5ab19a0f0da1bb1c16a12e47e73fb9d8bc1e",
+      "pages": 93,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t03.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 4 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%204_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 8260178,
+      "sha256": "d995737dfe4fac7d604d8120bdfd924f2488fbfb065a97d1c7f568d4f99f957a",
+      "pages": 68,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t04.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 5 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%205_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 8536103,
+      "sha256": "81fbff52e23722c124362a19fa38412843109e28b60b47ff079266548d2792ed",
+      "pages": 75,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t05.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 6 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%206_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 5944455,
+      "sha256": "ca8e998bcf047ca93864d777f3e87e4a366af2df31cd2ab322ac448c9986e746",
+      "pages": 97,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t06.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 7 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%207_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 5571050,
+      "sha256": "ef78025ad2cd46d8a77da264c29303414c4c5129916e509e4eec1f0580ded330",
+      "pages": 90,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t07.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 8 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%208_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 4755658,
+      "sha256": "cc5bf91bdd5bef78509bdf7fde74213c2b8b283ac56aefd6d8dbcc2ee67d841f",
+      "pages": 75,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t08.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 9 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%209_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 6132230,
+      "sha256": "65e44511d2792c0f8532653663f12c403ba4507c2b049f0af5d85329420ec805",
+      "pages": 99,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t09.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản in 1884 — Tập 10 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%2010_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 4655634,
+      "sha256": "e6525f50f551f8b3b9bbef86f38cfa51d92861c3f2dd0be431c37446ca5650d8",
+      "pages": 27,
+      "local_file": "data/sources/pdfs/dai-viet/1884-t10.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR từ bản in 1884; dùng để tra cứu văn bản, không thay thế bản scan độ phân giải cao."
+    },
+    {
+      "label": "Bản khắc 1479 — Quyển 1 (PDF OCR)",
+      "url": "https://archive.org/download/dai-viet-su-ky-ban-ky-toan-thu-quyen-1/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20S%E1%BB%AD%20K%C3%BD%20B%E1%BA%A3n%20K%E1%BB%B7%20To%C3%A0n%20Th%C6%B0%20Quy%E1%BB%83n%201_text.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-ban-ky-toan-thu-quyen-1",
+      "page_url": "https://archive.org/details/dai-viet-su-ky-ban-ky-toan-thu-quyen-1",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "bytes": 17677979,
+      "sha256": "a3f5d93eff2b18cc3c28a7304f3a89a95a36d4db1af538f83ecb8fa1962b3408",
+      "pages": 74,
+      "local_file": "data/sources/pdfs/dai-viet/1479-q01.pdf",
+      "retrieved": "2026-11-06",
+      "notes": "Bản OCR quyển 1 của bản khắc 1479 do Ngô Sĩ Liên biên soạn."
+    },
+    {
+      "label": "Bản in 1884 trên Internet Archive (trang mục lục)",
+      "url": "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "access_type": "open_access",
+      "format": "html",
+      "provider": "Internet Archive",
+      "identifier": "dai-viet-su-ky-toan-thu_202604",
+      "license": "Public Domain Mark 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "label": "Toàn văn trên Wikisource tiếng Việt",
+      "url": "https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư",
+      "access_type": "open_access",
+      "format": "html",
+      "provider": "Wikisource",
+      "notes": "Bản chữ Quốc ngữ hiện đại, dùng để tra cứu nhanh; đối chiếu với bản Hán khi trích dẫn."
+    }
+  ],
+  "license": {
+    "name": "Public domain (historical text)",
+    "spdx": "NOASSERTION"
+  },
+  "coverage": {
+    "temporal": "2879 BCE - 1675 CE (recorded narrative)",
+    "spatial": "Đại Việt and neighbouring polities",
+    "geometry": "descriptive narrative; no surveyed coordinates"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_1_official_primary",
+    "historiographical_notes": "Bộ chính sử kinh điển ghi chép từ Họ Hồng Bàng, Kỷ Thục An Dương Vương, Triệu triều, Tiền Lý, Ngô, Đinh, Tiền Lê, Lý, Trần đến Lê Sơ.",
+    "spatial_precision_rating": "descriptive_narrative"
+  },
+  "citation_formats": {
+    "chicago": "Ngô Sĩ Liên, Phạm Công Trứ, and Lê Hy. Đại Việt sử ký toàn thư. 1697. Bản in 1884, 10 tập. Internet Archive. https://archive.org/details/dai-viet-su-ky-toan-thu_202604.",
+    "apa": "Ngô, S. L., Phạm, C. T., & Lê, H. (1697/1884). Đại Việt sử ký toàn thư [Đại Việt sử ký toàn thư]. Internet Archive. https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+    "bibtex": "@book{dvsktt1697, author={Ngô Sĩ Liên and Phạm Công Trứ and Lê Hy}, title={Đại Việt sử ký toàn thư}, year={1697}, publisher={Nội các quan bản}, address={Thăng Long}, note={Bản in 1884, 10 tập; số hóa bởi Internet Archive}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

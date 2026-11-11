@@ -1,0 +1,201 @@
+{
+  "id": "great-zimbabwe",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q209217",
+  "names": {
+    "canonical": {
+      "vi": "Đại Zimbabwe",
+      "en": "Great Zimbabwe",
+      "zh-CN": "大津巴布韦",
+      "zh-TW": "大辛巴威",
+      "ja": "グレート・ジンバブエ遺跡",
+      "fr": "Monument national du Grand Zimbabwe",
+      "es": "Gran Zimbabue",
+      "ar": "زيمبابوي العظمى",
+      "ru": "Зимбабве",
+      "de": "Groß-Simbabwe"
+    },
+    "aliases": {
+      "zh-CN": [
+        "大辛巴威遺址",
+        "大津巴布韦遗址",
+        "大辛巴威古城"
+      ],
+      "fr": [
+        "Grand Zimbabwe",
+        "Great Zimbabwe"
+      ],
+      "es": [
+        "Gran Zimbabwe",
+        "Monumento Nacional del Gran Zimbabue",
+        "reino de Zimbabue"
+      ],
+      "de": [
+        "Great-Zimbabwe",
+        "Groß-Zimbabwe",
+        "Alt-Zimbabwe",
+        "Great Zimbabwe"
+      ],
+      "ja": [
+        "グレート・ジンバブエ",
+        "大ジンバブエ遺跡",
+        "グレートジンバブエ",
+        "グレート・ジンバブウェ遺跡"
+      ],
+      "ru": [
+        "Большой Зимбабве"
+      ],
+      "en": [
+        "Zimbabye"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "archäologischer Fundplatz in Simbabwe",
+    "en": "ruined city in the south-eastern hills of Zimbabwe near Lake Mutirikwe and the town of Masvingo, was once the capital of the Kingdom of Zimbabwe during the country's Late Iron Age",
+    "fr": "ruines d'une ancienne cité dans le sud du Zimbabwe",
+    "ru": "руины города в Зимбабве",
+    "zh-CN": "世界遗产",
+    "ar": "موقع أثري في منطقة ماسفينغو، زيمبابوي",
+    "es": "antigua ciudad, hoy ruinosa, capital del reino shona en el siglo XI, hoy en Zimbabue",
+    "ja": "ジンバブエに存在する石造遺跡",
+    "vi": "Đại Zimbabwe (Great Zimbabwe) là một state lịch sử tồn tại từ 1000 SCN đến 1400 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "duration_years": 400,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1400,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Great%20Zimbabwe",
+    "wikidata": "https://www.wikidata.org/wiki/Q209217"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

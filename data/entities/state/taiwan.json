@@ -1,0 +1,311 @@
+{
+  "id": "taiwan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q865",
+  "names": {
+    "canonical": {
+      "vi": "Đài Loan",
+      "en": "Taiwan",
+      "zh-CN": "中华民国",
+      "zh-TW": "中華民國",
+      "ja": "中華民国",
+      "fr": "Taïwan",
+      "es": "República de China",
+      "ar": "تايوان",
+      "ru": "Китайская Республика (Тайвань)",
+      "de": "Taiwan"
+    },
+    "aliases": {
+      "es": [
+        "China Nacionalista",
+        "China Taipéi",
+        "China Taipei",
+        "Taipéi",
+        "China",
+        "China libre",
+        "China ROC",
+        "Taiwán ROC",
+        "Taiwán"
+      ],
+      "en": [
+        "Taiwan ROC",
+        "The ROC",
+        "Republic of China (Taiwan)",
+        "Chunghwa Minkuo",
+        "Nationalist China",
+        "Chunghwa Minkwo",
+        "Chinese Taipei",
+        "Free China",
+        "Republic of China",
+        "China, Republic of",
+        "Chinese Republic",
+        "TW",
+        "TWN",
+        "Taiwan",
+        "ROC"
+      ],
+      "fr": [
+        "Chine nationaliste",
+        "RDC",
+        "république de Chine",
+        "république nationaliste de Chine",
+        "Formose"
+      ],
+      "de": [
+        "Nationalchina",
+        "Chinesische Republik",
+        "Republik China auf Taiwan",
+        "Zhōnghuá Mínguó",
+        "Taiwan (Chinesisches Taipei)"
+      ],
+      "ru": [
+        "Китайская Республика Тайвань",
+        "Китайский Тайбэй",
+        "Чжунхуа Миньго",
+        "Республика Китай",
+        "Тайвань"
+      ],
+      "vi": [
+        "Trung Hoa Đài Bắc",
+        "Cộng hòa Trung Quốc",
+        "Cộng hòa Trung Hoa",
+        "THDQ",
+        "Đài Bắc Trung Hoa",
+        "Trung Hoa Dân Quốc"
+      ],
+      "zh-CN": [
+        "台",
+        "ROC",
+        "R.O.C.",
+        "中"
+      ],
+      "ja": [
+        "自由中国",
+        "台",
+        "華",
+        "チャイニーズタイペイ",
+        "チャイニーズ・タイペイ",
+        "中華台北",
+        "中国"
+      ],
+      "ar": [
+        "جمهورية الصين",
+        "تايبيه الصينية"
+      ],
+      "zh-TW": [
+        "中華民國台灣"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Island and polity in East Asia.",
+    "fr": "pays insulaire d'Asie orientale",
+    "es": "país de Asia oriental",
+    "de": "Inselstaat in Ostasien",
+    "ja": "東アジアの国",
+    "ru": "частично признанное государство в Восточной Азии",
+    "zh-CN": "东亚国家",
+    "vi": "Hòn đảo và thực thể chính trị ở khu vực Đông Á.",
+    "zh-TW": "位於東亞的民主共和國，曾在國際上廣泛代表中國",
+    "ar": "دولة في شرق أسيا"
+  },
+  "existence": {
+    "from": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 534,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1492,
+    1500,
+    1878,
+    1880,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1492,
+      1500,
+      1878,
+      1880,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1492,
+    "last_observed_year": 2026,
+    "feature_count": 10,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Taiwan",
+    "wikidata": "https://www.wikidata.org/wiki/Q865"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

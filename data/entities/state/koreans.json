@@ -1,0 +1,149 @@
+{
+  "id": "koreans",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q484464",
+  "names": {
+    "canonical": {
+      "vi": "người Triều Tiên",
+      "en": "Koreans",
+      "zh-CN": "朝鲜族",
+      "zh-TW": "朝鮮族",
+      "ja": "朝鮮民族",
+      "fr": "Coréens",
+      "es": "coreanos",
+      "ar": "كوريون",
+      "ru": "корейцы",
+      "de": "Koreaner"
+    },
+    "aliases": {
+      "zh-CN": [
+        "高丽族",
+        "韓民族",
+        "朝鮮民族",
+        "韩裔",
+        "朝鲜民族",
+        "韩族",
+        "三韩后裔",
+        "朝鲜人",
+        "韩国人"
+      ],
+      "fr": [
+        "Coréenne",
+        "Coreens"
+      ],
+      "es": [
+        "pueblo coreano",
+        "etnia coreana"
+      ],
+      "de": [
+        "Südkoreaner",
+        "Nordkoreaner",
+        "Koreanerin"
+      ],
+      "ja": [
+        "韓民族",
+        "朝鮮人"
+      ],
+      "vi": [
+        "Dân tộc Triều Tiên",
+        "Người Hàn"
+      ],
+      "en": [
+        "Korean nation",
+        "Korean people"
+      ],
+      "zh-TW": [
+        "韓民族",
+        "大韓民族"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Volk Ostasiens",
+    "en": "people based in the Korean Peninsula and Manchuria",
+    "zh-CN": "东亚民族",
+    "es": "grupo étnico con sede en la península de Corea y Manchuria",
+    "ru": "дальневосточный народ, основное население Корейского полуострова",
+    "vi": "một dân tộc ở khu vực Đông Á, phân bố chủ yếu trên bán đảo Triều Tiên",
+    "ar": "شعب كوريا",
+    "fr": "peuple origine de la péninsule coréenne et de la Mandchourie",
+    "ja": "朝鮮語を母語とする民族"
+  },
+  "existence": {
+    "from": {
+      "year": -2000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2000 TCN"
+    },
+    "to": {
+      "year": -2000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2000 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -2000
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -2000
+    ],
+    "first_observed_year": -2000,
+    "last_observed_year": -2000,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-2000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Koreans",
+    "wikidata": "https://www.wikidata.org/wiki/Q484464"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

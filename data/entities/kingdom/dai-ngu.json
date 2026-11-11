@@ -1,0 +1,131 @@
+{
+  "id": "dai-ngu",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q10753064",
+  "names": {
+    "canonical": {
+      "vi": "Đại Ngu",
+      "en": "Đại Ngu",
+      "zh-CN": "大虞",
+      "zh-TW": "大虞",
+      "ja": "大虞",
+      "fr": "Đại Ngu",
+      "es": "Đại Ngu",
+      "de": "Đại Ngu",
+      "ru": "Дайнгу",
+      "ar": "داي نغو"
+    },
+    "aliases": {
+      "vi": [
+        "Nhà Hồ",
+        "Triều Hồ",
+        "Thành Tây Đô"
+      ],
+      "en": [
+        "Dai Ngu",
+        "Ho dynasty",
+        "Kingdom of Dai Ngu"
+      ],
+      "zh-CN": [
+        "大虞国",
+        "胡朝",
+        "西都城"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Quốc hiệu Việt Nam dưới triều đại nhà Hồ do Hồ Quý Ly sáng lập năm 1400, có ý nghĩa là sự yên vui lớn, kinh đô đặt tại Tây Đô (Thành nhà Hồ, Thanh Hóa).",
+    "en": "State title of Vietnam during the Hồ dynasty founded in 1400 by Hồ Quý Ly, with its capital at Tây Đô (Citadel of the Hồ Dynasty, Thanh Hóa).",
+    "zh-CN": "胡季犛于公元1400年废陈自立所定国号，取尚书有虞氏大平之意，定都西都（清化胡朝城堡）。"
+  },
+  "existence": {
+    "from": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "to": {
+      "year": 1407,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1407 SCN"
+    },
+    "duration_years": 7,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "dynastic_usurpation",
+      "vi": "Hồ Quý Ly truất ngôi nhà Trần, lên ngôi hoàng đế và đổi quốc hiệu thành Đại Ngu",
+      "en": "Ho Quy Ly took the throne from Tran dynasty and renamed the state to Dai Ngu"
+    },
+    "dissolution_reason": {
+      "type": "imperial_conquest",
+      "vi": "Nhà Minh xâm lược, bắt cha con Hồ Quý Ly, sáp nhập nước ta thành quận Giao Chỉ",
+      "en": "Ming dynasty invaded, captured the Ho rulers, and annexed the territory"
+    },
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1400
+    ],
+    "first_observed_year": 1400,
+    "last_observed_year": 1400,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-dai-viet"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "historical_reconstruction",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-dai-viet"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Ngu",
+    "wikidata": "https://www.wikidata.org/wiki/Q10753064"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "rhodesia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q217169",
+  "names": {
+    "canonical": {
+      "vi": "Rhodesia",
+      "en": "Rhodesia",
+      "zh-CN": "罗得西亚",
+      "zh-TW": "羅德西亞",
+      "ja": "ローデシア",
+      "fr": "Rhodésie",
+      "es": "Rodesia",
+      "ar": "رودسيا",
+      "ru": "Родезия",
+      "de": "Rhodesien"
+    },
+    "aliases": {
+      "zh-CN": [
+        "罗得西亚"
+      ],
+      "es": [
+        "Fuerza Aérea Real de Rodesia",
+        "Real Fuerza Aérea de Rodesia",
+        "República de Rodesia",
+        "República de Rhodesia",
+        "Fuerza Aerea Real de Rodesia",
+        "Real Fuerza Aerea de Rodesia",
+        "Republica de Rodesia",
+        "Republica de Rhodesia"
+      ],
+      "ja": [
+        "ローデシア共和国"
+      ],
+      "en": [
+        "Republic of Rhodesia"
+      ],
+      "ru": [
+        "Республика Родезия"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "unrecognised state in Southern Africa (1965–1979)",
+    "ru": "государство в Африке, существовавшее с 1965 по 1979 годы",
+    "de": "historischer Staat in Afrika",
+    "es": "antiguo estado no reconocido de África",
+    "zh-CN": "非洲历史國家",
+    "fr": "État non-reconnu du Sud-Est de l'Afrique entre 1965 et 1979",
+    "ja": "ジンバブエの昔の名称",
+    "vi": "Rhodesia (Rhodesia) là một state lịch sử tồn tại từ 1914 SCN đến 1945 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "duration_years": 31,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1945
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1945
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1945,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rhodesia",
+    "wikidata": "https://www.wikidata.org/wiki/Q217169"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

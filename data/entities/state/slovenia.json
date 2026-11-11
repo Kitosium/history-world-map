@@ -1,0 +1,187 @@
+{
+  "id": "slovenia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q215",
+  "names": {
+    "canonical": {
+      "vi": "Slovenia",
+      "en": "Slovenia",
+      "zh-CN": "斯洛文尼亚",
+      "zh-TW": "斯洛維尼亞",
+      "ja": "スロベニア",
+      "fr": "Slovénie",
+      "es": "Eslovenia",
+      "ar": "سلوفينيا",
+      "ru": "Словения",
+      "de": "Slowenien"
+    },
+    "aliases": {
+      "ru": [
+        "Республика Словения"
+      ],
+      "fr": [
+        "République de Slovénie",
+        "la République de Slovénie",
+        "Carniole"
+      ],
+      "en": [
+        "Slovenija",
+        "si",
+        "svn",
+        "slo",
+        "Republic of Slovenia"
+      ],
+      "es": [
+        "República de Eslovenia",
+        "🇸🇮"
+      ],
+      "ja": [
+        "スロヴェニア",
+        "スロベニア共和国"
+      ],
+      "de": [
+        "Republik Slowenien"
+      ],
+      "zh-CN": [
+        "斯洛維尼亞",
+        "斯洛文尼亚"
+      ],
+      "ar": [
+        "جمهورية سلوفينيا"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "страна в Центральной Европе",
+    "fr": "pays d'Europe centrale",
+    "en": "country in Central Europe",
+    "ja": "南ヨーロッパの国",
+    "es": "país de Europa del Sur",
+    "ar": "دولة في أوروبا الوسطى",
+    "de": "Staat in Mitteleuropa",
+    "vi": "quốc gia ở Trung Âu",
+    "zh-CN": "位於歐洲中部的國家",
+    "zh-TW": "位於歐洲中部的國家"
+  },
+  "existence": {
+    "from": {
+      "year": 1994,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1994 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 32,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1994,
+    "last_observed_year": 2026,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Slovenia",
+    "wikidata": "https://www.wikidata.org/wiki/Q215"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

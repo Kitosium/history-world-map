@@ -1,0 +1,152 @@
+{
+  "id": "viceroyalty-of-the-río-de-la-plata",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q210551",
+  "names": {
+    "canonical": {
+      "vi": "Phó vương quốc Río de la Plata",
+      "en": "Viceroyalty of the Río de la Plata",
+      "zh-CN": "拉普拉塔总督辖区",
+      "zh-TW": "拉普拉塔總督轄區",
+      "ja": "リオ・デ・ラ・プラタ副王領",
+      "fr": "Vice-royauté du Río de la Plata",
+      "es": "Virreinato del Río de la Plata",
+      "ar": "النيابة الملكية على ريو دي لا بلاتا",
+      "ru": "Рио-де-ла-Плата",
+      "de": "Vizekönigreich des Río de la Plata"
+    },
+    "aliases": {
+      "zh-CN": [
+        "拉普拉塔总督区"
+      ],
+      "fr": [
+        "Vice-royaute du Rio de la Plata"
+      ],
+      "es": [
+        "Virreinato de Buenos Aires",
+        "Virreynato de Buenos Aires",
+        "Virreinato de la Plata",
+        "Virreynato de Buenos Ayres",
+        "Virreinato del Plata",
+        "Virreynato del Río de la Plata"
+      ],
+      "de": [
+        "Vizekönigreich Río de la Plata",
+        "Vizekönigreich des Rio de la Plata",
+        "Vizekönigreich Rio de la Plata",
+        "Virreinato del Río de la Plata"
+      ],
+      "ja": [
+        "リオ・デ・ラ・プラタ副王"
+      ],
+      "vi": [
+        "Phó vương quốc Rio de la Plata"
+      ],
+      "en": [
+        "Virreinato del Río de la Plata"
+      ],
+      "ru": [
+        "Вице-королевство Рио-де-ла-Плата"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "(1776-1814) Viceroyalty of the Spanish Empire in America",
+    "de": "(1776-1814) südlichstes der spanischen Vizekönigreiche in Lateinamerika",
+    "es": "virreinato del Imperio español",
+    "ru": "испанское вице-королевство в Южной Америке",
+    "ja": "スペインが中南米に作った4つのうち最後の副王領",
+    "zh-TW": "西班牙帝國在南美洲南部的總督轄區",
+    "fr": "district administratif créé par la couronne espagnole dans ses possessions d'outre-mer",
+    "vi": "Phó vương quốc Río de la Plata (Viceroyalty of the Río de la Plata) là một state lịch sử tồn tại từ 1783 SCN đến 1800 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "to": {
+      "year": 1800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1800 SCN"
+    },
+    "duration_years": 17,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1783,
+    1800
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1783,
+      1800
+    ],
+    "first_observed_year": 1783,
+    "last_observed_year": 1800,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Viceroyalty%20of%20the%20R%C3%ADo%20de%20la%20Plata",
+    "wikidata": "https://www.wikidata.org/wiki/Q210551"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

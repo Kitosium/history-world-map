@@ -1,0 +1,201 @@
+{
+  "id": "illinois",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1204",
+  "names": {
+    "canonical": {
+      "vi": "Illinois",
+      "en": "Illinois",
+      "zh-CN": "伊利诺伊州",
+      "zh-TW": "伊利諾州",
+      "ja": "イリノイ州",
+      "fr": "Illinois",
+      "es": "Illinois",
+      "ar": "إلينوي",
+      "ru": "Иллинойс",
+      "de": "Illinois"
+    },
+    "aliases": {
+      "en": [
+        "US-IL",
+        "Illinois, United States",
+        "IL",
+        "Lincoln State",
+        "The Prairie State",
+        "Ill.",
+        "Ills.",
+        "State of Illinois",
+        "Prairie State",
+        "Land of Lincoln",
+        "The Land of Lincoln"
+      ],
+      "zh-CN": [
+        "伊利諾州"
+      ],
+      "es": [
+        "Estado de la pradera",
+        "Illinois (estado)",
+        "La tierra de Lincoln",
+        "IL",
+        "Estado de Illinois",
+        "Illinois, Estados Unidos",
+        "Tierra de Lincoln"
+      ],
+      "de": [
+        "IL"
+      ],
+      "fr": [
+        "État de l'Illinois",
+        "État d'Illinois",
+        "US-IL",
+        "IL"
+      ],
+      "ja": [
+        "イリノイ",
+        "イリノイズ",
+        "イリノイズ州"
+      ],
+      "ar": [
+        "إلنوي",
+        "إلينويز"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "state of the United States of America",
+    "fr": "État des États-Unis d'Amérique",
+    "ru": "штат на Среднем Западе США",
+    "es": "estado de los Estados Unidos de América",
+    "de": "Bundesstaat der Vereinigten Staaten von Amerika",
+    "zh-CN": "美国州份",
+    "zh-TW": "美國州份",
+    "vi": "tiểu bang của Hoa Kỳ",
+    "ja": "アメリカ合衆国の州",
+    "ar": "ولاية الولايات المتحدة الأمريكية"
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1715,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Illinois",
+    "wikidata": "https://www.wikidata.org/wiki/Q1204"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

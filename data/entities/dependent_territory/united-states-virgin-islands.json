@@ -1,0 +1,291 @@
+{
+  "id": "united-states-virgin-islands",
+  "schema_version": "1.3.0",
+  "type": "dependent_territory",
+  "wikidata_id": "Q11703",
+  "names": {
+    "canonical": {
+      "vi": "Quần đảo Virgin thuộc Mỹ",
+      "en": "United States Virgin Islands",
+      "zh-CN": "美属维尔京群岛",
+      "zh-TW": "美屬維京群島",
+      "ja": "アメリカ領ヴァージン諸島",
+      "fr": "îles Vierges des États-Unis",
+      "es": "Islas Vírgenes de los Estados Unidos",
+      "ar": "جزر العذراء الولايات المتحدة",
+      "ru": "Американские Виргинские Острова",
+      "de": "Amerikanische Jungferninseln"
+    },
+    "aliases": {
+      "en": [
+        "U.S. Virgin Islands",
+        "Virgin Islands of the United States",
+        "US Virgin Islands",
+        "American Virgin Islands",
+        "the United States Virgin Islands"
+      ],
+      "fr": [
+        "îles Vierges américaines",
+        "îles Vierges des É-U",
+        "US-VI"
+      ],
+      "es": [
+        "Islas Vírgenes Estadounidenses",
+        "🇻🇮"
+      ],
+      "ar": [
+        "جزر العذراء الأمريكية",
+        "الجزر العذراء الأمريكيه"
+      ],
+      "de": [
+        "Jungferninseln der Vereinigten Staaten",
+        "US-Jungferninseln"
+      ],
+      "ru": [
+        "Виргинские Острова (США)"
+      ],
+      "ja": [
+        "合衆国領ヴァージン諸島",
+        "アメリカ合衆国領ヴァージン諸島"
+      ],
+      "vi": [
+        "Quần đảo Virgin thuộc Mĩ"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "US-amerikanisches Außengebiet",
+    "en": "unincorporated territory of the United States of America",
+    "es": "territorio no incorporado de los Estados Unidos",
+    "fr": "territoire non incorporé des États-Unis d'Amérique",
+    "ja": "アメリカ合衆国の保護領",
+    "zh-CN": "美國非建制屬地",
+    "ru": "часть архипелага в Карибском море, принадлежащая Соединенным Штатам Америки",
+    "ar": "تبعية الولايات المتحدة",
+    "vi": "lãnh thổ của Hoa Kỳ tại vùng Caribe"
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 2010,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2010 SCN"
+    },
+    "duration_years": 132,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880,
+    1900,
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880,
+      1900,
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 2026,
+    "feature_count": 12,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/United%20States%20Virgin%20Islands",
+    "wikidata": "https://www.wikidata.org/wiki/Q11703"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

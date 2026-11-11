@@ -1,0 +1,473 @@
+{
+  "id": "khoisan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q459387",
+  "names": {
+    "canonical": {
+      "vi": "Người Khoisan",
+      "en": "Khoisan",
+      "zh-CN": "科伊桑人",
+      "zh-TW": "科伊桑人",
+      "ja": "コイサン族",
+      "fr": "Khoïsan",
+      "es": "Joisán",
+      "ar": "كويسان",
+      "ru": "Койсанские народы",
+      "de": "Khoisan"
+    },
+    "aliases": {
+      "es": [
+        "KhoiSan",
+        "Capoide",
+        "Khoi-san",
+        "Khoisán",
+        "Khoi san",
+        "Joisan"
+      ],
+      "de": [
+        "Khoi-San",
+        "Buschleute",
+        "Khoi San"
+      ],
+      "ru": [
+        "Койсанцы"
+      ],
+      "en": [
+        "Hottentots"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Ethnie in Afrika, Jäger, Sammler und Ackerbauern",
+    "en": "African ethnic group",
+    "fr": "groupe ethnique en Afrique australe, chasseurs, cueilleurs et agriculteurs",
+    "es": "grupo poblacional del sur de África",
+    "ar": "من أهالي جنوب إفريقيا",
+    "vi": "Người Khoisan (Khoisan) là một state lịch sử tồn tại từ 4000 TCN đến 1500 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": -3500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "3500 TCN"
+    },
+    "to": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "duration_years": 5000,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -3500,
+    -3000,
+    -2000,
+    -1500,
+    -1000,
+    -700,
+    -500,
+    -400,
+    -323,
+    -300,
+    -200,
+    -100,
+    -1,
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400,
+    1492,
+    1500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -3500,
+      -3000,
+      -2000,
+      -1500,
+      -1000,
+      -700,
+      -500,
+      -400,
+      -323,
+      -300,
+      -200,
+      -100,
+      -1,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400,
+      1492,
+      1500
+    ],
+    "first_observed_year": -3500,
+    "last_observed_year": 1500,
+    "feature_count": 30,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -3500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-3500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -3000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-3000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-2000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khoisan",
+    "wikidata": "https://www.wikidata.org/wiki/Q459387"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

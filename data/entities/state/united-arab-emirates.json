@@ -1,0 +1,224 @@
+{
+  "id": "united-arab-emirates",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q878",
+  "names": {
+    "canonical": {
+      "vi": "các Tiểu vương quốc Ả Rập Thống nhất",
+      "en": "United Arab Emirates",
+      "zh-CN": "阿拉伯联合酋长国",
+      "zh-TW": "阿拉伯聯合大公國",
+      "ja": "アラブ首長国連邦",
+      "fr": "Émirats arabes unis",
+      "es": "Emiratos Árabes Unidos",
+      "ar": "الإمارات العربية المتحدة",
+      "ru": "Объединённые Арабские Эмираты",
+      "de": "Vereinigte Arabische Emirate"
+    },
+    "aliases": {
+      "fr": [
+        "É.A.U.",
+        "les Émirats arabes unis",
+        "Émirats Arabes Unis",
+        "Émirats",
+        "Émir. ar. unis"
+      ],
+      "en": [
+        "U.A.E.",
+        "ae",
+        "Emirates",
+        "the United Arab Emirates",
+        "the UAE",
+        "the U.A.E.",
+        "the Emirates"
+      ],
+      "es": [
+        "EAU"
+      ],
+      "ru": [
+        "Эмираты",
+        "Арабские Эмираты",
+        "ОАЭ",
+        "Объединенные Арабские Эмираты"
+      ],
+      "de": [
+        "VAE"
+      ],
+      "ar": [
+        "دولة الإمارات العربية المتحدة",
+        "الامارات",
+        "الإمارات"
+      ],
+      "zh-CN": [
+        "阿联酋"
+      ],
+      "vi": [
+        "U.A.E."
+      ],
+      "ja": [
+        "アラブしゅちょうこくれんぽう",
+        "アラブ首長国連合",
+        "ア首連"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in Western Asia",
+    "de": "Staat in Vorderasien",
+    "es": "país de Asia Occidental",
+    "fr": "État fédéral du golfe Persique",
+    "ru": "государство на Ближнем Востоке",
+    "ar": "دولة تقع في الساحل الشرقي لشبه الجزيرة العربية",
+    "vi": "quốc gia nằm ở khu vực Tây Á",
+    "ja": "西アジアの国",
+    "zh-CN": "西亚阿拉伯半岛联邦国家",
+    "zh-TW": "亞洲西部國家"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/United%20Arab%20Emirates",
+    "wikidata": "https://www.wikidata.org/wiki/Q878"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

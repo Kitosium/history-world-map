@@ -1,0 +1,151 @@
+{
+  "id": "abbasid-caliphate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q12536",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Abbas",
+      "en": "Abbasid Caliphate",
+      "zh-CN": "阿拔斯王朝",
+      "zh-TW": "阿拔斯王朝",
+      "ja": "アッバース朝",
+      "fr": "califat abbasside",
+      "es": "califato abasí",
+      "ar": "الدولة العباسية",
+      "ru": "Аббасидский халифат",
+      "de": "Abbasiden-Kalifat"
+    },
+    "aliases": {
+      "de": [
+        "Abbassiden",
+        "ʿAbbāsiden"
+      ],
+      "ar": [
+        "الخلافة العباسية",
+        "دولة بني العباس"
+      ],
+      "ru": [
+        "Багдадский халифат"
+      ],
+      "es": [
+        "califato abasi",
+        "califato abásida",
+        "tercer califato"
+      ],
+      "en": [
+        "Abbasid Empire",
+        "Abbasid period",
+        "Abbasids",
+        "Abbasides"
+      ],
+      "fr": [
+        "période abbasside"
+      ],
+      "zh-CN": [
+        "阿巴斯王朝",
+        "阿巴斯帝國",
+        "阿拔斯帝國"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "third Islamic caliphate (750–1258)",
+    "fr": "troisième califat (750-1258) gouverné par la dynastie abbasside",
+    "ru": "государство в Азии и Африке, возглавляемое Аббасидами (750—1258)",
+    "es": "segunda dinastía de califas suníes (750-1258) que sucedieron a la de los omeyas",
+    "de": "islamisches Großreich (750–1258)",
+    "ja": "主に中東地域を支配したイスラム帝国の世襲王朝",
+    "ar": "دولة إسلامية سابقة، أسسها أبو العباس السفاح، واستمرت ما بين (132 – 923هـ / 750 – 1517م)",
+    "zh-CN": "阿拉伯帝國的第二個朝代",
+    "vi": "Nhà Abbas (Abbasid Caliphate) là một state lịch sử tồn tại từ 800 SCN đến 900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    800,
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      800,
+      900
+    ],
+    "first_observed_year": 800,
+    "last_observed_year": 900,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abbasid%20Caliphate",
+    "wikidata": "https://www.wikidata.org/wiki/Q12536"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

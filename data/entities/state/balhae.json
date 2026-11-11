@@ -1,0 +1,121 @@
+{
+  "id": "balhae",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q28322",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Bột Hải",
+      "en": "Balhae",
+      "zh-CN": "渤海国",
+      "zh-TW": "渤海國",
+      "ja": "渤海",
+      "fr": "Balhae",
+      "es": "Balhae",
+      "ar": "مملكة بالهاي",
+      "ru": "Бохай",
+      "de": "Balhae"
+    },
+    "aliases": {
+      "en": [
+        "Bohai",
+        "Parhae",
+        "Palhae",
+        "Haedongsongguk"
+      ],
+      "fr": [
+        "Goryeo"
+      ],
+      "zh-CN": [
+        "渤海國"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ancient kingdom in Asia (698–926)",
+    "de": "mandschurisch-koreanisches Königreich",
+    "es": "antiguo reino coreano",
+    "fr": "ancien royaume de Corée",
+    "zh-CN": "古代东北亚国家",
+    "ru": "ран­не­сред­не­ве­ко­вое го­су­дар­ст­во в Сев.-Вост. Азии",
+    "zh-TW": "698-926年間存在於東北亞的民族國家",
+    "ja": "かつて中国東北部に存在した国家",
+    "vi": "Vương quốc Bột Hải (Balhae) là một state lịch sử tồn tại từ 900 SCN đến 900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      900
+    ],
+    "first_observed_year": 900,
+    "last_observed_year": 900,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Balhae",
+    "wikidata": "https://www.wikidata.org/wiki/Q28322"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

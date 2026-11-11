@@ -1,0 +1,140 @@
+{
+  "id": "palestine",
+  "schema_version": "1.3.0",
+  "type": "disputed_territory",
+  "wikidata_id": "Q219060",
+  "names": {
+    "canonical": {
+      "vi": "Nhà nước Palestine",
+      "en": "Palestine",
+      "zh-CN": "巴勒斯坦",
+      "zh-TW": "巴勒斯坦",
+      "ja": "パレスチナ国",
+      "fr": "État de Palestine",
+      "es": "Palestina",
+      "ar": "دولة فلسطين",
+      "ru": "Государство Палестина",
+      "de": "Palästina"
+    },
+    "aliases": {
+      "fr": [
+        "État palestinien",
+        "Autorité nationale palestinienne",
+        "Autorité palestinienne",
+        "Palestine"
+      ],
+      "zh-CN": [
+        "巴勒斯坦國"
+      ],
+      "ru": [
+        "Палестинские территории",
+        "Палестина",
+        "Палестинское государство",
+        "Территория Арабского государства"
+      ],
+      "es": [
+        "Estado de Palestina"
+      ],
+      "de": [
+        "Staat Palästina"
+      ],
+      "ar": [
+        "السلطة الوطنية الفلسطينية",
+        "السلطة الفلسطينية",
+        "الدولة الفلسطينية"
+      ],
+      "en": [
+        "PSE",
+        "State of Palestine"
+      ]
+    }
+  },
+  "descriptions": {
+    "ar": "كيان سياسي يتمتع باعتراف غير مكتمل كدولة، ويقع في غرب آسيا",
+    "fr": "État d'Asie de l'Ouest",
+    "zh-CN": "西亞國家",
+    "vi": "quốc gia ở Tây Á",
+    "ru": "частично признанное государство на Ближнем Востоке",
+    "es": "país de Asia Occidental",
+    "de": "Staat in Vorderasien",
+    "ja": "西アジアにある共和制国家",
+    "zh-TW": "位於西亞的國家",
+    "en": "political entity that enjoys incomplete recognition as a state, located in West Asia"
+  },
+  "existence": {
+    "from": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 0,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      2026
+    ],
+    "first_observed_year": 2026,
+    "last_observed_year": 2026,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "georeferenced_1_10m",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "georeferenced_1_10m"
+    }
+  ],
+  "source_ids": [
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Palestine",
+    "wikidata": "https://www.wikidata.org/wiki/Q219060"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

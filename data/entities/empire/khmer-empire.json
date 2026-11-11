@@ -1,0 +1,224 @@
+{
+  "id": "khmer-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q201705",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Khmer",
+      "en": "Khmer Empire",
+      "zh-CN": "高棉帝国",
+      "zh-TW": "高棉帝國",
+      "ja": "クメール王朝",
+      "fr": "Empire khmer",
+      "es": "Imperio jemer",
+      "ar": "إمبراطورية الخمير",
+      "ru": "Камбуджадеша",
+      "de": "Khmer-Reich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "高棉王国",
+        "吴哥王朝",
+        "高棉帝國",
+        "吳哥帝國",
+        "吳哥時期",
+        "吳哥王朝"
+      ],
+      "fr": [
+        "Chronologie de l'empire Khmer"
+      ],
+      "es": [
+        "Imperio Khmer",
+        "Imperio Jmer",
+        "Reino khmer",
+        "Imperio de Angkor"
+      ],
+      "ja": [
+        "クメール王国",
+        "アンコール朝",
+        "アンコール王朝",
+        "クメール帝国"
+      ],
+      "vi": [
+        "Đế chế Khmer",
+        "Vương quốc Khmer",
+        "Đế quốc Khờ-me",
+        "Đế quốc Khờme",
+        "Đế quốc Khơ-me",
+        "Đế quốc Khơme",
+        "Đế chế Khơ-me"
+      ],
+      "ru": [
+        "Кхмерская империя",
+        "Империя Кхмеров",
+        "Ангкорская Камбоджа",
+        "Ангкорское королевство"
+      ],
+      "en": [
+        "Khmer"
+      ],
+      "ar": [
+        "إمبراطورية خميرية"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "quốc gia cổ ở Đông Nam Á (802–1431)",
+    "fr": "empire du Sud-est asiatique 802 à 1431",
+    "ru": "историческое кхмерское государство (IX—XIII века)",
+    "en": "802–1431 empire in Southeast Asia",
+    "zh-CN": "前東南亞帝國（802年–1431年）",
+    "es": "Imperio de Angkor",
+    "zh-TW": "曾統治寮國、柬埔寨、泰國的吳哥帝國",
+    "ja": "かつて東南アジアに存在していた王国"
+  },
+  "existence": {
+    "from": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "to": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "duration_years": 500,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    900,
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      900,
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400
+    ],
+    "first_observed_year": 900,
+    "last_observed_year": 1400,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khmer%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q201705"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

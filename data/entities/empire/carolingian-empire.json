@@ -1,0 +1,148 @@
+{
+  "id": "carolingian-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q31929",
+  "names": {
+    "canonical": {
+      "vi": "Đế chế Carolus",
+      "en": "Carolingian Empire",
+      "zh-CN": "第二羅馬帝國",
+      "zh-TW": "第二羅馬帝國",
+      "ja": "フランク帝国",
+      "fr": "Empire carolingien",
+      "es": "Imperio carolingio",
+      "ar": "الإمبراطورية الكارولنجية",
+      "ru": "Каролингская империя",
+      "de": "Karolingerreich"
+    },
+    "aliases": {
+      "fr": [
+        "Empire franc",
+        "Occident chrétien médiéval",
+        "Empire d'Occident carolingien",
+        "Empire de Charlemagne"
+      ],
+      "ar": [
+        "إمبراطورية كارولينجيه",
+        "إمبراطورية كارولانجية",
+        "إمبراطوريه كارولنجيه",
+        "إمبراطورية كارولينجية",
+        "الكارولنجيون",
+        "إمبراطورية كارولنجية",
+        "الامبراطوريه الكارولانجيه",
+        "الامبراطوريه الكارولينجيه"
+      ],
+      "ru": [
+        "Империя Каролингов",
+        "Империя Запада",
+        "Франкская империя"
+      ],
+      "ja": [
+        "カロリング王国",
+        "カロリング帝国"
+      ],
+      "en": [
+        "Frankish Empire"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "antiguo reino europeo",
+    "en": "800–843 final stage in the history of the early medieval realm of the Franks, ruled by the Carolingian dynasty",
+    "fr": "empire d'Europe de l'Ouest de 800 à 924",
+    "de": "historisches Reich seit Karl dem Großen",
+    "ru": "империя франков после коронации правителя Папой Римским",
+    "ar": "مملكة أوربية سابقة بالعصور الوسطى",
+    "ja": "中世前期の西ヨーロッパ・中央ヨーロッパの広大な範囲に存在した帝国",
+    "vi": "Đế chế Carolus (Carolingian Empire) là một state lịch sử tồn tại từ 800 SCN đến 900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    800,
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      800,
+      900
+    ],
+    "first_observed_year": 800,
+    "last_observed_year": 900,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carolingian%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q31929"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

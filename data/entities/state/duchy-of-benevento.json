@@ -1,0 +1,131 @@
+{
+  "id": "duchy-of-benevento",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q267816",
+  "names": {
+    "canonical": {
+      "vi": "Công quốc Benevento",
+      "en": "Duchy of Benevento",
+      "zh-CN": "贝内文托公国",
+      "zh-TW": "貝內文托公國",
+      "ja": "ベネヴェント公国",
+      "fr": "duché de Bénévent",
+      "es": "Ducado de Benevento",
+      "ar": "دوقية بينيفينتو",
+      "ru": "Беневенто",
+      "de": "Herzogtum Benevent"
+    },
+    "aliases": {
+      "zh-CN": [
+        "本尼凡托"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "duchy",
+    "zh-TW": "中世紀倫巴第人在亞平寧半島上建立的一個以義大利南部的貝內文托為中心的公國",
+    "de": "Herrschafts- und Siedlungsgebiet der Langobarden in Süditalien",
+    "vi": "Công quốc Benevento (Duchy of Benevento) là một state lịch sử tồn tại từ 1000 SCN đến 1200 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1200,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Duchy%20of%20Benevento",
+    "wikidata": "https://www.wikidata.org/wiki/Q267816"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

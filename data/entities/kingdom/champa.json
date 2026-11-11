@@ -1,0 +1,260 @@
+{
+  "id": "champa",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q216788",
+  "names": {
+    "canonical": {
+      "vi": "Champa / Chiêm Thành (Panduranga – Thuận Thành)",
+      "en": "Champa (Chiêm Thành / Panduranga)",
+      "zh-CN": "占婆",
+      "zh-TW": "占婆",
+      "ja": "チャンパ王国",
+      "fr": "Royaume de Champā",
+      "es": "Reino de Champa",
+      "de": "Champa",
+      "ru": "Тямпа",
+      "ar": "تشامبا"
+    },
+    "aliases": {
+      "vi": [
+        "Champa",
+        "Chiêm Thành",
+        "Panduranga",
+        "Trấn Thuận Thành",
+        "Các tiểu quốc Champa"
+      ],
+      "en": [
+        "Champa",
+        "Chiem Thanh",
+        "Panduranga",
+        "Principality of Thuan Thanh",
+        "Historic Champa States"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Liên minh các tiểu quốc và vương quốc Champa (Chiêm Thành) ở miền Trung và Nam Trung Bộ Việt Nam (tiếp nối Lâm Ấp và Hoàn Vương); sau năm 1471 thu hẹp về các lãnh địa phía Nam (Hoa Anh, Nam Bàn, Panduranga / trấn Thuận Thành) và sáp nhập hoàn toàn vào Đại Nam năm 1832 dưới triều vua Minh Mạng.",
+    "en": "Coalition of historic Champa states in central and south-central Vietnam; after 1471 centered in southern principalities especially Panduranga (Thuan Thanh), which remained an autonomous principality until its administrative integration into Dai Nam in 1832.",
+    "zh-CN": "曾独立存在于今越南中南部沿海的古国，由南岛语系占族建立，留有美山圣地等辉煌印度教砖塔建筑。",
+    "ja": "かつてベトナム中南部沿海地方に存在したオーストロネシア系の古代王国。ミーソン聖域などのヒンドゥー教遺跡群で知られる。"
+  },
+  "existence": {
+    "from": {
+      "year": 192,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "192 SCN"
+    },
+    "to": {
+      "year": 1832,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1832 SCN"
+    },
+    "duration_years": 1640,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "revolt_from_han",
+      "vi": "Khởi nguyên từ nước Lâm Ấp năm 192 sau cuộc nổi dậy của Khu Liên chống lại nhà Đông Hán",
+      "en": "Originated from Linyi in 192 CE following Khu Lien's uprising against Eastern Han"
+    },
+    "dissolution_reason": {
+      "type": "administrative_absorption",
+      "vi": "Vua Minh Mạng bãi bỏ chế độ tự trị của trấn Thuận Thành (Panduranga), sáp nhập trực tiếp vào Đại Nam",
+      "en": "Emperor Minh Mang dissolved the autonomy of Panduranga, directly integrating it into Dai Nam"
+    },
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000,
+    1100,
+    1279,
+    1300,
+    1400,
+    1492,
+    1500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1279,
+      1300,
+      1400,
+      1492,
+      1500
+    ],
+    "first_observed_year": 500,
+    "last_observed_year": 1500,
+    "feature_count": 12,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-khao-co",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-khao-co",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa",
+    "wikidata": "https://www.wikidata.org/wiki/Q216788"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

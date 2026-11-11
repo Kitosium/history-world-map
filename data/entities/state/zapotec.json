@@ -1,0 +1,111 @@
+{
+  "id": "zapotec",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q523414",
+  "names": {
+    "canonical": {
+      "vi": "Zapoteca",
+      "en": "Zapotec",
+      "zh-CN": "薩波特克",
+      "zh-TW": "薩波特克",
+      "es": "Zapoteca"
+    },
+    "aliases": {
+      "zh-CN": [
+        "薩巴特克"
+      ],
+      "es": [
+        "Zapotecas",
+        "Pueblo zapoteca",
+        "Zapoteco"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "page d'homonymie de Wikimedia",
+    "de": "Wikimedia-Begriffsklärungsseite",
+    "es": "página de desambiguación de Wikimedia",
+    "ru": "страница значений в проекте Викимедиа",
+    "ar": "صفحة توضيح ويكيميديا",
+    "ja": "ウィキメディアの曖昧さ回避ページ",
+    "zh-CN": "维基媒体消歧义页",
+    "zh-TW": "維基媒體消歧義頁"
+  },
+  "existence": {
+    "from": {
+      "year": -400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 TCN"
+    },
+    "to": {
+      "year": -400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -400
+    ],
+    "first_observed_year": -400,
+    "last_observed_year": -400,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zapotec",
+    "wikidata": "https://www.wikidata.org/wiki/Q523414"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

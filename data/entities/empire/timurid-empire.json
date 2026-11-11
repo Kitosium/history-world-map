@@ -1,0 +1,160 @@
+{
+  "id": "timurid-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q484195",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Timur",
+      "en": "Timurid Empire",
+      "zh-CN": "帖木尔帝国",
+      "zh-TW": "帖木尔帝国",
+      "ja": "ティムール朝",
+      "fr": "Empire timouride",
+      "es": "Imperio timúrida",
+      "ar": "الدولة التيمورية",
+      "ru": "Государство Тимуридов",
+      "de": "Timuridenreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "帖木尔汗国",
+        "浩的帖木尔帝国",
+        "帖木尔帝国",
+        "帖木爾汗國",
+        "帖木尔王朝",
+        "帖木儿帝国",
+        "帖木儿王朝"
+      ],
+      "fr": [
+        "Empire du Timur"
+      ],
+      "es": [
+        "timúridas",
+        "dinastía timurí",
+        "Imperio persa",
+        "Persia",
+        "dinastía timúrida"
+      ],
+      "de": [
+        "Timuriden-Dynastie",
+        "Timuriden"
+      ],
+      "ja": [
+        "チムール朝",
+        "ティムール帝国",
+        "チムール帝国"
+      ],
+      "vi": [
+        "Triều đại Timur",
+        "Vương triều Timur",
+        "Vương triều Timurid",
+        "Triều đại Timurid",
+        "Đế quốc Timurid",
+        "Đế quốc Timur",
+        "Nhà Timurid"
+      ],
+      "ar": [
+        "التيموريون",
+        "التيموريين"
+      ],
+      "ru": [
+        "Тимурид",
+        "Империя Тимуридов",
+        "Тимуриды",
+        "Туран"
+      ],
+      "en": [
+        "Timurid empire",
+        "Gurkani"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Central Asian Persianate Turco-Mongol empire (1370–1507)",
+    "de": "das von den turko-mongolischen Timuriden eroberte und beherrschte Reich, das von 1370 bis 1507 unter anderem im Gebiet der heutigen Staaten Afghanistan, Iran und Usbekistan bestand",
+    "es": "imperio asiático",
+    "zh-CN": "由帖木兒建立的帝國",
+    "ru": "империя, существовавшая в 14-16 веках",
+    "ar": "سلالة تركمانية حكمت في بلاد ماوراء النهرين",
+    "ja": "中央アジアからイランにかけての地域を支配したイスラム王朝（1370年 - 1507年）",
+    "fr": "empire turco-mongol persan d'Asie centrale (1370-1507)",
+    "vi": "Nhà Timur (Timurid Empire) là một state lịch sử tồn tại từ 1400 SCN đến 1400 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "to": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1400
+    ],
+    "first_observed_year": 1400,
+    "last_observed_year": 1400,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Timurid%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q484195"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

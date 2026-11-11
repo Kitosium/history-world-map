@@ -1,0 +1,334 @@
+{
+  "id": "united-states",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q30",
+  "names": {
+    "canonical": {
+      "vi": "Hoa Kỳ",
+      "en": "United States",
+      "zh-CN": "美国",
+      "zh-TW": "美國",
+      "ja": "アメリカ合衆国",
+      "fr": "États-Unis",
+      "es": "Estados Unidos",
+      "ar": "الولايات المتحدة",
+      "ru": "США",
+      "de": "Vereinigte Staaten"
+    },
+    "aliases": {
+      "fr": [
+        "États-Unis d'Amérique",
+        "É.-U.",
+        "É-U",
+        "É-U.",
+        "E.-U.",
+        "É.U.",
+        "les États",
+        "Oncle Sam",
+        "Amérique",
+        "Etats-Unis",
+        "States",
+        "les États-Unis d’Amérique",
+        "États-unis",
+        "ÉU",
+        "É.-U. A.",
+        "Pays de l'Oncle Sam",
+        "Etats-unis",
+        "États-Unis d’Amérique",
+        "pays de l’Oncle Sam"
+      ],
+      "vi": [
+        "Mỹ",
+        "Hợp chúng quốc Hoa Kỳ",
+        "Hợp chúng quốc Mỹ",
+        "Mĩ",
+        "nước Mỹ",
+        "nước Mĩ",
+        "Hoa Kì",
+        "Hợp chủng quốc Hoa Kỳ",
+        "Hợp chủng quốc Hoa Kì",
+        "Hợp chúng quốc Hoa Kì"
+      ],
+      "zh-TW": [
+        "花旗國",
+        "阿美理卡"
+      ],
+      "es": [
+        "EE.UU.",
+        "EEUU",
+        "Estados Unidos de América",
+        "Los Estados Unidos",
+        "Los Estados Unidos de América",
+        "EE.UU. de América",
+        "los Estados",
+        "Unión Americana"
+      ],
+      "ar": [
+        "أمريكا",
+        "و م أ",
+        "الولايات المتحدة الأمريكية",
+        "و.م.أ",
+        "و م",
+        "و.م"
+      ],
+      "zh-CN": [
+        "美利坚合众国",
+        "花旗国"
+      ],
+      "ja": [
+        "合衆国",
+        "アメリカ",
+        "米国",
+        "米",
+        "亜米利加",
+        "美国",
+        "亜墨利加",
+        "🇺🇸"
+      ],
+      "ru": [
+        "Соединённые Штаты Америки",
+        "Соединённые Штаты",
+        "Штаты",
+        "Соединённые Государства Америки",
+        "САСШ",
+        "Северо-Американские Соединённые Штаты"
+      ],
+      "de": [
+        "Vereinigte Staaten von Amerika",
+        "US-Amerika",
+        "U.S.-Amerika",
+        "Staaten von Amerika",
+        "VSA",
+        "V.S.A.",
+        "V. S. A.",
+        "Staaten",
+        "die Staaten",
+        "VS",
+        "V.S.",
+        "V. S.",
+        "U. S. A.",
+        "U. S.",
+        "Amerika"
+      ],
+      "en": [
+        "the States",
+        "the United States of America",
+        "US of America",
+        "the US",
+        "the U.S.",
+        "the US of A",
+        "U.S. of America",
+        "the US of America",
+        "the USA",
+        "the U.S.A.",
+        "the U.S. of A",
+        "US of A",
+        "the U.S. of America",
+        "the United States",
+        "Merica",
+        "Murica",
+        "U. S.",
+        "U. S. A.",
+        "United States of America",
+        "'Murica"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Amérique du Nord",
+    "vi": "quốc gia ở Bắc Mỹ",
+    "zh-TW": "北美洲國家",
+    "es": "país ubicado principalmente en América del Norte",
+    "ru": "федеративное государство в Северной Америке",
+    "de": "Staat in Nordamerika",
+    "ar": "دولة في أمريكا الشمالية",
+    "zh-CN": "北美洲国家",
+    "ja": "北アメリカの国",
+    "en": "country located primarily in North America"
+  },
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 2010,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2010 SCN"
+    },
+    "duration_years": 195,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815,
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815,
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 2010,
+    "feature_count": 10,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/United%20States",
+    "wikidata": "https://www.wikidata.org/wiki/Q30"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

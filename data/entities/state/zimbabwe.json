@@ -1,0 +1,236 @@
+{
+  "id": "zimbabwe",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q954",
+  "names": {
+    "canonical": {
+      "vi": "Zimbabwe",
+      "en": "Zimbabwe",
+      "zh-CN": "津巴布韦",
+      "zh-TW": "辛巴威",
+      "ja": "ジンバブエ",
+      "fr": "Zimbabwe",
+      "es": "Zimbabue",
+      "ar": "زيمبابوي",
+      "ru": "Зимбабве",
+      "de": "Simbabwe"
+    },
+    "aliases": {
+      "zh-CN": [
+        "津巴布韋共和國",
+        "南罗德西亚",
+        "津巴布韋",
+        "辛巴威",
+        "津巴布韦共和国"
+      ],
+      "vi": [
+        "Cộng hòa Zimbabwe",
+        "Dim-ba-bu-ê",
+        "Cộng hoà Zimbabwe"
+      ],
+      "es": [
+        "República de Zimbabue",
+        "Zimbagüe"
+      ],
+      "en": [
+        "Republic of Zimbabwe",
+        "Southern Rhodesia",
+        "Rhodesia",
+        "Zimbabwe Rhodesia"
+      ],
+      "ru": [
+        "Республика Зимбабве",
+        "Южная Родезия"
+      ],
+      "de": [
+        "Republik Zimbabwe",
+        "Südrhodesien",
+        "Rhodesien",
+        "Republik Rhodesien"
+      ],
+      "ja": [
+        "ジンバブエ共和国"
+      ],
+      "fr": [
+        "Zimbabwé",
+        "République du Zimbabwe",
+        "République du Zimbabwé"
+      ],
+      "ar": [
+        "جمهورية زيمبابوي"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in southern Africa",
+    "de": "Staat im südlichen Afrika",
+    "fr": "pays d'Afrique australe indépendant depuis 1980",
+    "ru": "государство на юге Африки",
+    "es": "país de África Oriental",
+    "ar": "دولة في جنوب شرق أفريقيا",
+    "zh-CN": "非洲南部國家",
+    "ja": "アフリカ南部の国",
+    "zh-TW": "非洲南部国家",
+    "vi": "quốc gia ở Nam Phi"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 106,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zimbabwe",
+    "wikidata": "https://www.wikidata.org/wiki/Q954"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

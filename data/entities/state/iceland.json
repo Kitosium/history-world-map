@@ -1,0 +1,291 @@
+{
+  "id": "iceland",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q189",
+  "names": {
+    "canonical": {
+      "vi": "Ai-xơ-len",
+      "en": "Iceland",
+      "zh-CN": "冰岛",
+      "zh-TW": "冰島",
+      "ja": "アイスランド",
+      "fr": "Islande",
+      "es": "Islandia",
+      "ar": "آيسلندا",
+      "ru": "Исландия",
+      "de": "Island"
+    },
+    "aliases": {
+      "ru": [
+        "Республика Исландия"
+      ],
+      "ar": [
+        "جمهورية آيسلندا"
+      ],
+      "fr": [
+        "République d'Islande",
+        "l'Islande",
+        "Isl."
+      ],
+      "en": [
+        "Republic of Iceland",
+        "Ysland",
+        "Isl.",
+        "Icelandic republic"
+      ],
+      "ja": [
+        "アイスランド共和国"
+      ],
+      "es": [
+        "República de Islandia"
+      ],
+      "zh-CN": [
+        "冰岛",
+        "冰岛共和国",
+        "冰島共和國"
+      ],
+      "vi": [
+        "Băng Đảo",
+        "Iceland",
+        "Island"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays insulaire d'Europe du Nord",
+    "ru": "островное государство в Северной Европе",
+    "vi": "quốc đảo tại khu vực Bắc Âu, nằm ở bắc Đại Tây Dương",
+    "de": "Inselstaat im äußersten Nordwesten Europas",
+    "ar": "إحدى الدول الإسكندنافية الجزرية الواقعة في شمال أوروبا",
+    "ja": "北ヨーロッパの島国",
+    "zh-TW": "北歐國家",
+    "en": "Nordic island country in the North Atlantic Ocean",
+    "es": "país insular de Europa del Norte",
+    "zh-CN": "北大西洋上的北歐島國"
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 148,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880,
+    1900,
+    1914,
+    1920,
+    1930,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880,
+      1900,
+      1914,
+      1920,
+      1930,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 2026,
+    "feature_count": 12,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Iceland",
+    "wikidata": "https://www.wikidata.org/wiki/Q189"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

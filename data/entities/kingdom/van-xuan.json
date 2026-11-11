@@ -1,0 +1,130 @@
+{
+  "id": "van-xuan",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q10831603",
+  "names": {
+    "canonical": {
+      "vi": "Vạn Xuân",
+      "en": "Vạn Xuân",
+      "zh-CN": "万春国",
+      "zh-TW": "萬春國",
+      "ja": "万春国",
+      "fr": "Vạn Xuân",
+      "es": "Vạn Xuân",
+      "de": "Vạn Xuân",
+      "ru": "Вансуан",
+      "ar": "فان شوان"
+    },
+    "aliases": {
+      "vi": [
+        "Nhà Tiền Lý",
+        "Triều Tiền Lý",
+        "Nước Vạn Xuân"
+      ],
+      "en": [
+        "Early Ly dynasty",
+        "State of Van Xuan"
+      ],
+      "zh-CN": [
+        "前李朝",
+        "万春",
+        "李南帝"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Nhà nước độc lập do Lý Bí (Lý Nam Đế) sáng lập năm 544 sau khi đánh đuổi quân đô hộ nhà Lương, định đô tại Long Biên, khẳng định chủ quyền độc lập của người Việt.",
+    "en": "Independent kingdom established in 544 CE by Lý Nam Đế (Lý Bí) after overthrowing Liang rule, establishing the capital at Long Biên.",
+    "zh-CN": "由李贲（李南帝）于公元544年起义击败南梁后建立的独立国家，定都龙编，国号万春。"
+  },
+  "existence": {
+    "from": {
+      "year": 544,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "544 SCN"
+    },
+    "to": {
+      "year": 602,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "602 SCN"
+    },
+    "duration_years": 58,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "rebellion_independence",
+      "vi": "Lý Bí lãnh đạo khởi nghĩa đánh đuổi thứ sử Lương Tiêu Tư, xưng Nam Đế và đặt quốc hiệu Vạn Xuân",
+      "en": "Ly Bi led an uprising expelling Liang forces, proclaimed himself Southern Emperor and founded Van Xuan"
+    },
+    "dissolution_reason": {
+      "type": "imperial_conquest",
+      "vi": "Tùy Văn Đế sai tướng Lưu Phương đem đại quân sang xâm lược, Lý Phật Tử đầu hàng",
+      "en": "Sui dynasty general Liu Fang invaded, forcing Ly Phat Tu to surrender"
+    },
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    600
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      600
+    ],
+    "first_observed_year": 600,
+    "last_observed_year": 600,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-dai-viet"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "historical_reconstruction",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-dai-viet"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/V%E1%BA%A1n_Xu%C3%A2n",
+    "wikidata": "https://www.wikidata.org/wiki/Q10831603"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

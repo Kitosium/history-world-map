@@ -1,0 +1,139 @@
+{
+  "id": "kingdom-of-georgia",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q154667",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Gruzia",
+      "en": "Kingdom of Georgia",
+      "zh-CN": "格鲁吉亚王国",
+      "zh-TW": "喬治亞王國",
+      "ja": "グルジア王国",
+      "fr": "royaume de Géorgie",
+      "es": "Reino de Georgia",
+      "ar": "مملكة جورجيا",
+      "ru": "Грузинское царство",
+      "de": "Königreich Georgien"
+    },
+    "aliases": {
+      "de": [
+        "Georgisches Königreich"
+      ],
+      "en": [
+        "Georgian Empire",
+        "Georgia"
+      ],
+      "zh-CN": [
+        "角兒只",
+        "角儿只"
+      ],
+      "ar": [
+        "مملكة الكرج",
+        "الإمبراطورية الجورجية"
+      ],
+      "ru": [
+        "Королевство Грузии"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat",
+    "fr": "ancien État (1008 à 1490)",
+    "en": "medieval state in Eastern Europe",
+    "zh-CN": "历史国家",
+    "ru": "государство, существовавшее на Кавказе в средние века",
+    "ja": "かつてコーカサス地方に存在した国家",
+    "ar": "مملكة جورجيا السابقة في القوقاز",
+    "es": "monarquía medieval",
+    "vi": "quốc gia ở Kavkaz (1008–1490)"
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1100 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1100,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom%20of%20Georgia",
+    "wikidata": "https://www.wikidata.org/wiki/Q154667"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

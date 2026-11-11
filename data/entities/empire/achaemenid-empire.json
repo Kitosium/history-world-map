@@ -1,0 +1,161 @@
+{
+  "id": "achaemenid-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q389688",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Achaemenes",
+      "en": "Achaemenid Empire",
+      "zh-CN": "阿契美尼德王朝",
+      "zh-TW": "阿契美尼德王朝",
+      "ja": "アケメネス朝",
+      "fr": "Empire achéménide",
+      "es": "Imperio aqueménida",
+      "ar": "الإمبراطورية الأخمينية",
+      "ru": "Держава Ахеменидов",
+      "de": "Achämenidenreich"
+    },
+    "aliases": {
+      "en": [
+        "First Persian Empire",
+        "Achaemenid Persian Empire",
+        "Persian Achaemenid Empire",
+        "Achaemenid Persia"
+      ],
+      "zh-CN": [
+        "阿契美尼德帝國",
+        "波斯帝国",
+        "波斯第一帝国"
+      ],
+      "fr": [
+        "empire perse"
+      ],
+      "ru": [
+        "Империя Ахеменидов",
+        "Ахемениды",
+        "Мидо-Персия",
+        "Первая Персидская империя"
+      ],
+      "es": [
+        "Imperio persa",
+        "Persia",
+        "aqueménida"
+      ],
+      "ja": [
+        "アケメネス朝ペルシャ",
+        "アケメネス朝ペルシア",
+        "アカイメネス朝",
+        "ハカーマニシュ朝",
+        "アカイメネス朝ペルシア",
+        "アカイメネス朝ペルシャ",
+        "アカイメネース朝"
+      ],
+      "ar": [
+        "الإمبراطورية الهخامنشية",
+        "الدولة الهخامنشية",
+        "هخامنشيون",
+        "الهخامنشيون"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "erstes persisches Großreich in der Antike bis zur Niederlage gegen Alexander den Großen",
+    "en": "Iranian (Persian) empire (550–330 BC)",
+    "es": "primer Imperio persa (550 a. C.-330 a. C.)",
+    "ar": "إمبراطورية فارسية نشأت في بلاد فارس عام 550ق.م وسميت بالإمبراطورية الأخمينية نسبة إلى أخمينس مؤسس السلالة الأخمينية و انتهت 330ق.م",
+    "fr": "premier empire perse, de 550 à 330 av. J.-C.",
+    "ru": "древнее государство на Ближнем Востоке",
+    "zh-CN": "歷史國家",
+    "vi": "Đế quốc cổ của người Iran",
+    "ja": "古代オリエントのペルシアの王朝"
+  },
+  "existence": {
+    "from": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "to": {
+      "year": -400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 TCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -500,
+    -400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -500,
+      -400
+    ],
+    "first_observed_year": -500,
+    "last_observed_year": -400,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Achaemenid%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q389688"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

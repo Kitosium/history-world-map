@@ -1,0 +1,159 @@
+{
+  "id": "muscat-and-oman",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q157734",
+  "names": {
+    "canonical": {
+      "vi": "Muscat và Oman",
+      "en": "Muscat and Oman",
+      "zh-CN": "马斯喀特苏丹国",
+      "zh-TW": "马斯喀特苏丹国",
+      "ja": "マスカット・オマーン",
+      "fr": "Mascate et Oman",
+      "es": "Sultanato de Mascate y Omán",
+      "ar": "سلطنة مسقط وعمان",
+      "ru": "Султанат Маската и Омана",
+      "de": "Mascat und Oman"
+    },
+    "aliases": {
+      "ru": [
+        "Колонии Маската и Омана",
+        "Оманская империя",
+        "Маскат и Оман",
+        "Оман и Маскат"
+      ],
+      "ar": [
+        "محمية مسقط وعمان",
+        "مسقط وعمان",
+        "سلطنة مسقط وعُمان"
+      ],
+      "es": [
+        "Sultanato de Mascate y Oman"
+      ],
+      "zh-CN": [
+        "马斯喀特和阿曼苏丹国"
+      ],
+      "en": [
+        "Sultanate of Oman and Muscat",
+        "Oman"
+      ],
+      "ja": [
+        "マスカットおよびオマーン",
+        "マスカット・オマーン王国",
+        "マスカット・オマーン・スルターン国"
+      ],
+      "de": [
+        "Oman (Sultanat)"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "monarchy on the Arab Peninsula between 1820-1970",
+    "ru": "монархия на Аравийском полуострове (1820-1970)",
+    "de": "historischer Staat",
+    "fr": "ancien sultanat",
+    "ar": "سلطنة قديمة تابعة لعمان",
+    "vi": "Muscat và Oman (Muscat and Oman) là một state lịch sử tồn tại từ 1920 SCN đến 1938 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 18,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 1938,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Muscat%20and%20Oman",
+    "wikidata": "https://www.wikidata.org/wiki/Q157734"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

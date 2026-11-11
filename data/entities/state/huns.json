@@ -1,0 +1,135 @@
+{
+  "id": "huns",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q45813",
+  "names": {
+    "canonical": {
+      "vi": "Người Hung",
+      "en": "Huns",
+      "zh-CN": "匈人",
+      "zh-TW": "匈人",
+      "ja": "フン族",
+      "fr": "Huns",
+      "es": "hunos",
+      "ar": "الهون",
+      "ru": "гунны",
+      "de": "Hunnen"
+    },
+    "aliases": {
+      "es": [
+        "Pueblo huno",
+        "Huno",
+        "Hun"
+      ],
+      "ru": [
+        "гунн"
+      ],
+      "fr": [
+        "Hunnique"
+      ],
+      "de": [
+        "Hunnensturm",
+        "Hunne",
+        "Hunnisch"
+      ],
+      "ja": [
+        "フン人",
+        "フンぞく"
+      ],
+      "vi": [
+        "Huns",
+        "Người Hun"
+      ],
+      "en": [
+        "The Huns"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "ancien peuple nomade originaire de l’Asie centrale",
+    "en": "extinct nomadic people in Eurasia (14th BC–16th centuries)",
+    "ru": "древний кочевой народ",
+    "de": "nomadische zentralasiatische Reitervölker, ethnisch heterogener Kriegerverband",
+    "zh-CN": "古代游牧民族",
+    "es": "confederación de pueblos nómadas y seminómadas",
+    "ja": "4世紀から6世紀にかけて中央アジア、コーカサス、東ヨーロッパに住んでいた遊牧民",
+    "vi": "Người Hung (Huns) là một state lịch sử tồn tại từ 700 SCN đến 700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      700
+    ],
+    "first_observed_year": 700,
+    "last_observed_year": 700,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Huns",
+    "wikidata": "https://www.wikidata.org/wiki/Q45813"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

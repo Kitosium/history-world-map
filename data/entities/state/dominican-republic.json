@@ -1,0 +1,303 @@
+{
+  "id": "dominican-republic",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q786",
+  "names": {
+    "canonical": {
+      "vi": "Cộng hòa Dominica",
+      "en": "Dominican Republic",
+      "zh-CN": "多米尼加",
+      "zh-TW": "多明尼加",
+      "ja": "ドミニカ共和国",
+      "fr": "République dominicaine",
+      "es": "República Dominicana",
+      "ar": "جمهورية الدومينيكان",
+      "ru": "Доминиканская Республика",
+      "de": "Dominikanische Republik"
+    },
+    "aliases": {
+      "ar": [
+        "جمهورية الدومنيكان"
+      ],
+      "en": [
+        "República Dominicana",
+        "RD",
+        "Republica Dominicana",
+        "Dominicana",
+        "DomRep",
+        "Dominican Rep.",
+        "dominican-rep"
+      ],
+      "zh-CN": [
+        "多明尼加共和國",
+        "多明尼加共和国",
+        "多米尼加",
+        "多米尼加共和國",
+        "多米尼加共和国"
+      ],
+      "fr": [
+        "Dominicaine",
+        "la République dominicaine",
+        "Rep. Dominicaine"
+      ],
+      "ru": [
+        "Доминикана"
+      ],
+      "vi": [
+        "Cộng hoà Dominica",
+        "Dominican Rep.",
+        "dominican-rep"
+      ]
+    }
+  },
+  "descriptions": {
+    "ar": "دولة جزرية في المحيط الأطلسي",
+    "fr": "État situé sur l'île d'Hispaniola dans l'archipel des Grandes Antilles",
+    "en": "island sovereign state in the Caribbean Sea",
+    "zh-CN": "加勒比海國家",
+    "ru": "островное государство в Северной Америке",
+    "es": "país de América ubicado en la región del Caribe",
+    "de": "Staat in der Karibik",
+    "zh-TW": "加勒比海國家",
+    "ja": "カリブ海の島国",
+    "vi": "quốc đảo ở vùng Caribe"
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 148,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880,
+    1900,
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880,
+      1900,
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 2026,
+    "feature_count": 13,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dominican%20Republic",
+    "wikidata": "https://www.wikidata.org/wiki/Q786"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

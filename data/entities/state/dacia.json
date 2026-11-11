@@ -1,0 +1,135 @@
+{
+  "id": "dacia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q173082",
+  "names": {
+    "canonical": {
+      "vi": "Dacia",
+      "en": "Dacia",
+      "zh-CN": "达契亚",
+      "zh-TW": "達契亞",
+      "ja": "ダキア",
+      "fr": "Dacie",
+      "es": "Dacia",
+      "ar": "داقية",
+      "ru": "Дакия",
+      "de": "Dakien"
+    },
+    "aliases": {
+      "zh-CN": [
+        "達西亞",
+        "达西亚",
+        "達其亞",
+        "达西亚王国",
+        "达契亚",
+        "达基亚"
+      ],
+      "fr": [
+        "Gètodaces"
+      ],
+      "de": [
+        "Dazien",
+        "Dacia"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Königreich des antiken Volks der Daker",
+    "en": "Balkan kingdom of the Dacians (168 BC-106 AD)",
+    "zh-CN": "喀尔巴阡山与多瑙河之间的古代王国",
+    "es": "antiguo reino de la zona de los Cárpatos (168 a.C. - 105)",
+    "fr": "région historique des Balkans, correspondant approximativement aux actuelles Roumanie, Moldavie et aux régions adjacentes",
+    "ru": "историческая область времён классической античности",
+    "ar": "منطقة تاريخية موجودة في رومانيا",
+    "vi": "Dacia (Dacia) là một state lịch sử tồn tại từ 1 TCN đến 100 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": -1,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1 TCN"
+    },
+    "to": {
+      "year": 100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 SCN"
+    },
+    "duration_years": 101,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1,
+    100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1,
+      100
+    ],
+    "first_observed_year": -1,
+    "last_observed_year": 100,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dacia",
+    "wikidata": "https://www.wikidata.org/wiki/Q173082"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

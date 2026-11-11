@@ -1,0 +1,172 @@
+{
+  "id": "british-somaliland",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q662653",
+  "names": {
+    "canonical": {
+      "vi": "Somaliland thuộc Anh",
+      "en": "British Somaliland",
+      "zh-CN": "英屬索馬利蘭",
+      "zh-TW": "英屬索馬利蘭",
+      "ja": "イギリス領ソマリランド",
+      "fr": "Somalie britannique",
+      "es": "Somalilandia británica",
+      "ar": "الصومال البريطاني",
+      "ru": "Британское Сомали",
+      "de": "Britisch-Somaliland"
+    },
+    "aliases": {
+      "es": [
+        "Somalilandia britanica",
+        "Somalia británica"
+      ],
+      "ar": [
+        "الصومال البريطانية",
+        "ولاية الصومال البريطانية",
+        "بريطانيا الصومالية"
+      ],
+      "ru": [
+        "Британский Сомалиленд",
+        "Сомалиленд"
+      ],
+      "en": [
+        "Somaliland"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "former British protectorate",
+    "ru": "протекторат Великобритании (1884-1960)",
+    "de": "historischer Staat",
+    "ja": "かつてアフリカに存在したイギリスの保護領",
+    "fr": "ancien protectorat britannique (1884-1960)",
+    "ar": "محمية بريطانية سابقة تقع في شرق إفريقيا",
+    "es": "antiguo protectorado británico",
+    "vi": "xứ bảo hộ Anh (1884-1960)"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "duration_years": 31,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938,
+    1945
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938,
+      1945
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1945,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/British%20Somaliland",
+    "wikidata": "https://www.wikidata.org/wiki/Q662653"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "southern-rhodesia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q750583",
+  "names": {
+    "canonical": {
+      "vi": "Nam Rhodesia",
+      "en": "Southern Rhodesia",
+      "zh-CN": "南羅德西亞",
+      "zh-TW": "南羅德西亞",
+      "ja": "南ローデシア",
+      "fr": "Rhodésie du Sud",
+      "es": "Rodesia del Sur",
+      "ar": "رودسيا الجنوبية",
+      "ru": "Южная Родезия",
+      "de": "Südrhodesien"
+    },
+    "aliases": {
+      "zh-CN": [
+        "南羅得西亞"
+      ],
+      "fr": [
+        "République de Rhodésie",
+        "Rhodesie du Sud"
+      ],
+      "es": [
+        "Rhodesia del Sur",
+        "Fuerza Aérea de Rodesia del Sur",
+        "Fuerza Aerea de Rodesia del Sur"
+      ],
+      "ar": [
+        "روديسيا الجنوبية"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "British colony in Africa (1923–1980)",
+    "fr": "colonie britannique en Afrique de 1923 à 1980",
+    "es": "Colonia Británica en África Austral",
+    "de": "frühere britische Kolonie",
+    "ar": "دولة سابقة",
+    "ja": "かつてアフリカに存在したイギリスの植民地",
+    "ru": "британская колония в Африке",
+    "vi": "Nam Rhodesia (Southern Rhodesia) là một state lịch sử tồn tại từ 1938 SCN đến 1938 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1938
+    ],
+    "first_observed_year": 1938,
+    "last_observed_year": 1938,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Southern%20Rhodesia",
+    "wikidata": "https://www.wikidata.org/wiki/Q750583"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

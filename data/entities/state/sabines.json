@@ -1,0 +1,125 @@
+{
+  "id": "sabines",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q108356",
+  "names": {
+    "canonical": {
+      "vi": "Sabines",
+      "en": "Sabines",
+      "zh-CN": "萨宾",
+      "zh-TW": "薩賓",
+      "ja": "サビニ人",
+      "fr": "Sabins",
+      "es": "sabinos",
+      "ar": "سابينيون",
+      "ru": "сабины",
+      "de": "Sabiner"
+    },
+    "aliases": {
+      "ja": [
+        "サビニ族",
+        "サビニ語"
+      ],
+      "ru": [
+        "Южные пицены",
+        "Сабиняне",
+        "Сабиняны"
+      ],
+      "en": [
+        "Sabine",
+        "sabine"
+      ],
+      "es": [
+        "pueblo sabino",
+        "sabino",
+        "sabina",
+        "sabinas"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ancient Italic people",
+    "ru": "народ италийской группы",
+    "fr": "peuple italique d'Italie centrale",
+    "es": "antiguo pueblo de la península itálica",
+    "de": "Volk in den Sabiner Bergen",
+    "vi": "Sabines (Sabines) là một state lịch sử tồn tại từ 323 TCN đến 323 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -323,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "323 TCN"
+    },
+    "to": {
+      "year": -323,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "323 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -323
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -323
+    ],
+    "first_observed_year": -323,
+    "last_observed_year": -323,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sabines",
+    "wikidata": "https://www.wikidata.org/wiki/Q108356"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,181 @@
+{
+  "id": "slavs",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q40477",
+  "names": {
+    "canonical": {
+      "vi": "người Slav",
+      "en": "Slavs",
+      "zh-CN": "斯拉夫人",
+      "zh-TW": "斯拉夫人",
+      "ja": "スラヴ人",
+      "fr": "Slaves",
+      "es": "pueblos eslavos",
+      "ar": "صقالبة",
+      "ru": "славяне",
+      "de": "Slawen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "斯拉夫民族",
+        "斯拉夫",
+        "斯拉夫地區"
+      ],
+      "es": [
+        "Europa eslava",
+        "Pueblo eslavo",
+        "eslavas",
+        "eslavos"
+      ],
+      "ar": [
+        "صقلب",
+        "السلافي",
+        "شعوب سلافية",
+        "الشعوب السلافية",
+        "السلافيين",
+        "السلاف",
+        "قبائل سلافية",
+        "الصقالبة",
+        "سلافيون",
+        "سلافيين",
+        "السلافيون",
+        "سلاف"
+      ],
+      "ru": [
+        "славянские народы",
+        "славянин",
+        "словяне",
+        "славянка",
+        "славянки"
+      ],
+      "fr": [
+        "peuple slave"
+      ],
+      "de": [
+        "Slaven",
+        "Slawische Völker",
+        "Slawisches Volk",
+        "Slawe"
+      ],
+      "ja": [
+        "スラブ人",
+        "スラヴ族",
+        "スラヴ",
+        "スラブ系",
+        "スラヴ民族",
+        "スラヴ系",
+        "スラブ民族",
+        "スラブ化"
+      ],
+      "vi": [
+        "Slav",
+        "người Tư Lạp Phu",
+        "người Slavơ",
+        "người Sla-vơ"
+      ],
+      "en": [
+        "Slavic peoples"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "ethnolinguistische Gruppe von indoeuropäischen Völkern",
+    "en": "Indo-European group living in Central Europe, Eastern Europe, Southeastern Europe, Northern Asia, and Central Asia",
+    "ru": "крупнейшая в Европе этноязыковая общность",
+    "es": "grupo etnolingüístico originario de Europa",
+    "fr": "groupe ethno-linguistique",
+    "vi": "các nhóm dân tộc nói tiếng Slav",
+    "ar": "مجموعة عرقية",
+    "zh-CN": "族群",
+    "ja": "ヨーロッパの民族"
+  },
+  "existence": {
+    "from": {
+      "year": 600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "600 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    600,
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      600,
+      700
+    ],
+    "first_observed_year": 600,
+    "last_observed_year": 700,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Slavs",
+    "wikidata": "https://www.wikidata.org/wiki/Q40477"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "umayyad-caliphate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q8575586",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Omeyyad",
+      "en": "Umayyad Caliphate",
+      "zh-CN": "倭马亚哈里发国",
+      "zh-TW": "伍麥亞王朝",
+      "ja": "ウマイヤ朝",
+      "fr": "Califat omeyyade",
+      "es": "califato Omeya",
+      "ar": "الدولة الأموية",
+      "ru": "Омейядский халифат",
+      "de": "Umayyaden-Kalifat"
+    },
+    "aliases": {
+      "en": [
+        "Umayyad Empire",
+        "Caliphate of Damascus"
+      ],
+      "es": [
+        "califato de los Omeyas",
+        "califato Umayyad",
+        "Imperio omeya",
+        "califato de Damasco",
+        "califato Damasquino"
+      ],
+      "fr": [
+        "Califat de Damas",
+        "Empire omeyyade"
+      ],
+      "ar": [
+        "دولة بني أمية",
+        "دولة الأمويين",
+        "الخلافة الأموية"
+      ],
+      "ru": [
+        "Дамасский халифат",
+        "халифат Дамаска"
+      ],
+      "zh-CN": [
+        "伍麥亞王朝",
+        "倭马亚王朝",
+        "伍麦叶王朝",
+        "奧米亞王朝",
+        "伍麥葉王朝",
+        "伍麦耶王朝",
+        "烏邁耶王朝",
+        "奧米雅王朝",
+        "奧瑪雅王朝",
+        "白衣大食",
+        "倭马亚帝国",
+        "倭馬亞王朝"
+      ],
+      "zh-TW": [
+        "倭馬亞王朝",
+        "白衣大食"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "феодальное государство (661–750), располагавшееся в Африке, Иберии и на Ближнем Востоке",
+    "en": "second Islamic caliphate (661–750 CE)",
+    "es": "califato islámico (661-750)",
+    "fr": "deuxième Califat",
+    "ar": "دولة إسلامية سابقة، أسسها معاوية بن أبي سفيان واستمرت ما بين (41 – 132هـ / 661 – 750م)",
+    "de": "historischer Staat",
+    "zh-CN": "第二個哈里發國",
+    "ja": "イスラム史上最初の世襲イスラム王朝",
+    "vi": "Nhà Omeyyad (Umayyad Caliphate) là một state lịch sử tồn tại từ 700 SCN đến 700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      700
+    ],
+    "first_observed_year": 700,
+    "last_observed_year": 700,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Umayyad%20Caliphate",
+    "wikidata": "https://www.wikidata.org/wiki/Q8575586"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

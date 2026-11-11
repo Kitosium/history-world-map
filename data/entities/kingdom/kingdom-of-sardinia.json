@@ -1,0 +1,204 @@
+{
+  "id": "kingdom-of-sardinia",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q165154",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Sardigna",
+      "en": "Kingdom of Sardinia",
+      "zh-CN": "萨丁尼亚王国",
+      "zh-TW": "薩丁尼亞王國",
+      "ja": "サルデーニャ王国",
+      "fr": "royaume de Sardaigne",
+      "es": "Reino de Cerdeña",
+      "ar": "مملكة سردينيا",
+      "ru": "Сардинское королевство",
+      "de": "Königreich Sardinien"
+    },
+    "aliases": {
+      "zh-CN": [
+        "萨丁王国",
+        "皮德蒙-薩丁尼亞王國",
+        "撒丁尼亞王國",
+        "撒丁王国",
+        "萨丁尼亚与科西嘉王国",
+        "薩丁"
+      ],
+      "es": [
+        "Reino de Piamonte",
+        "Cerdeña Piamonte",
+        "Reino de Cerdena",
+        "Regnum Sardiniae i Corsicae",
+        "Reino de Cerdeña Piamonte",
+        "Reino de Cerdena y de Corcega",
+        "Reino de Piamonte-Cerdena",
+        "Reino del Piamonte",
+        "Reino de Cerdeña y de Corcega",
+        "Reino de Cerdeña y de Córcega",
+        "Cerdeña-Piamonte",
+        "Cerdena Piamonte",
+        "Reino de Cerdena y de Córcega",
+        "Piamonte Cerdena",
+        "Reino de Cerdeña, Chipre y Jerusalén",
+        "Reino de Piamonte y Cerdeña"
+      ],
+      "ar": [
+        "مملكة بيدمونت وسردينيا"
+      ],
+      "ru": [
+        "Сардиния",
+        "Королевство Сардиния",
+        "Сардиния-Пьемонт",
+        "Пьемонт-Сардиния"
+      ],
+      "fr": [
+        "Royaume du Piémont-Sardaigne",
+        "Royaume de Sardaigne (1324-1861)",
+        "royaume du Piémont-Sardaigne",
+        "Piémont-Sardaigne"
+      ],
+      "de": [
+        "Piemont-Sardinien",
+        "Sardinien-Piemont",
+        "Königreich Piemont-Sardinien",
+        "Königreich von Sardinien",
+        "Königreich Sardinien-Piemont",
+        "Königreich Sardinien (1720-1861)"
+      ],
+      "ja": [
+        "サルディニア王国",
+        "サルジニア王国",
+        "ピエモンテ王国",
+        "サルデーニャ＝コルシカ王国"
+      ],
+      "vi": [
+        "Vương quốc Sardinia",
+        "Piedmont-Sardinia",
+        "Piemonte-Sardigna"
+      ],
+      "en": [
+        "Piedmont-Sardinia",
+        "Kingdom of Sardinia-Piedmont",
+        "Kingdom of Sardinia (1324–1861)",
+        "Kingdom of Piedmont-Sardinia"
+      ],
+      "zh-TW": [
+        "薩丁王國",
+        "撒丁尼亞王國",
+        "撒丁王國"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "state in Southern Europe from 1324 to 1861",
+    "zh-TW": "十九世紀時統一義大利",
+    "ru": "государство, существовавшее в 1720-1861 годах",
+    "zh-CN": "曾經存在於義大利的王國，並在十九世紀時統一義大利半島",
+    "es": "país de Europa (1324-1861)",
+    "de": "historischer Staat in Europa (1324-1861)",
+    "fr": "ancien État de la péninsule italienne (1324-1861), qui a connu de multiples formes",
+    "ja": "かつてヨーロッパに存在した王国",
+    "vi": "Vương quốc Sardigna (Kingdom of Sardinia) là một state lịch sử tồn tại từ 1783 SCN đến 1815 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 32,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1783,
+    1800,
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1783,
+      1800,
+      1815
+    ],
+    "first_observed_year": 1783,
+    "last_observed_year": 1815,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom%20of%20Sardinia",
+    "wikidata": "https://www.wikidata.org/wiki/Q165154"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,243 @@
+{
+  "id": "hindu-kingdoms",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": null,
+  "names": {
+    "canonical": {
+      "vi": "Các vương quốc Ấn Độ giáo",
+      "en": "Hindu Kingdoms"
+    },
+    "aliases": {}
+  },
+  "descriptions": {},
+  "existence": {
+    "from": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 2215,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -500,
+    -400,
+    -323,
+    -300,
+    -100,
+    -1,
+    100,
+    300,
+    400,
+    600,
+    700,
+    1100,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -500,
+      -400,
+      -323,
+      -300,
+      -100,
+      -1,
+      100,
+      300,
+      400,
+      600,
+      700,
+      1100,
+      1700,
+      1715
+    ],
+    "first_observed_year": -500,
+    "last_observed_year": 1715,
+    "feature_count": 14,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps"
+  ],
+  "provenance": {
+    "names": [
+      "src-basemaps"
+    ],
+    "existence": [
+      "src-basemaps"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hindu%20kingdoms"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

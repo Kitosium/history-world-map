@@ -1,0 +1,149 @@
+{
+  "id": "timor-leste",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q574",
+  "names": {
+    "canonical": {
+      "vi": "Đông Timor",
+      "en": "Timor-Leste",
+      "zh-CN": "东帝汶",
+      "zh-TW": "東帝汶",
+      "ja": "東ティモール",
+      "fr": "Timor oriental",
+      "es": "Timor Oriental",
+      "ar": "تيمور الشرقية",
+      "ru": "Восточный Тимор",
+      "de": "Osttimor"
+    },
+    "aliases": {
+      "en": [
+        "Democratic Republic of Timor-Leste",
+        "East Timor",
+        "TL"
+      ],
+      "de": [
+        "Timór Loro Sa'e"
+      ],
+      "es": [
+        "República Democrática de Timor Oriental"
+      ],
+      "fr": [
+        "Timor-Oriental",
+        "République démocratique du Timor oriental",
+        "République démocratique du Timor-Oriental",
+        "République démocratique du Timor-Leste",
+        "Timor Oriental",
+        "TL",
+        "la République démocratique du Timor oriental"
+      ],
+      "ru": [
+        "Демократическая Республика Восточный Тимор",
+        "Тимор-Леште",
+        "Тимор-Лешти",
+        "Демократическая Республика Тимор-Лешти"
+      ],
+      "ja": [
+        "東ティモール民主共和国",
+        "チモール",
+        "ティモール・レステ",
+        "ティモール・レステ民主共和国"
+      ],
+      "vi": [
+        "Cộng hoà Dân chủ Đông Timor",
+        "TL"
+      ],
+      "zh-CN": [
+        "东帝汶"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Staat in Südostasien",
+    "es": "país insular de Asia Sudoriental",
+    "fr": "pays d'Asie du Sud-Est indépendant depuis 2002",
+    "ru": "страна в Азии",
+    "en": "sovereign state situated on several islands in Southeast Asia",
+    "ar": "دولة في جنوب شرق آسيا",
+    "zh-CN": "位于东南亚地区帝汶岛东端的国家",
+    "ja": "東南アジアの国",
+    "zh-TW": "東南亞國家",
+    "vi": "quốc gia thuộc Đông Nam Á"
+  },
+  "existence": {
+    "from": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 0,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      2026
+    ],
+    "first_observed_year": 2026,
+    "last_observed_year": 2026,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "georeferenced_1_10m",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "georeferenced_1_10m"
+    }
+  ],
+  "source_ids": [
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Timor-Leste",
+    "wikidata": "https://www.wikidata.org/wiki/Q574"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

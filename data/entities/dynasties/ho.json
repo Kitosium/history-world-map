@@ -1,0 +1,18 @@
+{
+  "id": "ho",
+  "state_id": "dai-ngu",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Hồ (Hồ Quý Ly)",
+      "en": "Ho dynasty",
+      "zh-CN": "胡朝",
+      "ja": "胡朝"
+    }
+  },
+  "from_year": 1400,
+  "to_year": 1407,
+  "capital": "tay-do",
+  "source_ids": [
+    "src-dai-viet"
+  ]
+}

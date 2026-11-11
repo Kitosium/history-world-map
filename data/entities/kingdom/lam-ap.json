@@ -1,0 +1,145 @@
+{
+  "id": "lam-ap",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q1369368",
+  "names": {
+    "canonical": {
+      "vi": "Lâm Ấp (Champa sơ kỳ)",
+      "en": "Linyi (Early Champa)",
+      "zh-CN": "林邑",
+      "zh-TW": "林邑",
+      "ja": "林邑",
+      "fr": "Linyi (Early Champa)",
+      "es": "Linyi (Early Champa)",
+      "de": "Linyi (Early Champa)",
+      "ru": "Linyi (Early Champa)",
+      "ar": "Linyi (Early Champa)"
+    },
+    "aliases": {
+      "vi": [
+        "Lâm Ấp",
+        "Nước Lâm Ấp",
+        "Tượng Lâm (Khu Liên)"
+      ],
+      "en": [
+        "Linyi",
+        "Lam Ap",
+        "Early Champa"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Quốc gia cổ ở miền Trung Việt Nam hình thành khoảng năm 192 dưới sự lãnh đạo của Khu Liên tại huyện Tượng Lâm, thường được xem là giai đoạn đầu của lịch sử Champa (192–758).",
+    "en": "Ancient coastal kingdom in central Vietnam founded c. 192 CE by Khu Lien in Tuong Lam, constituting the early period of Champa history (192–758)."
+  },
+  "existence": {
+    "from": {
+      "year": 192,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "192 SCN"
+    },
+    "to": {
+      "year": 758,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "758 SCN"
+    },
+    "duration_years": 566,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    200,
+    300,
+    400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      200,
+      300,
+      400
+    ],
+    "first_observed_year": 200,
+    "last_observed_year": 400,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-khao-co"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "historical_reconstruction",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    },
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    },
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-khao-co",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-khao-co"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "wikidata": "https://www.wikidata.org/wiki/Q1369368"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

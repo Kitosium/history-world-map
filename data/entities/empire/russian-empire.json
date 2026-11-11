@@ -1,0 +1,245 @@
+{
+  "id": "russian-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q34266",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Nga",
+      "en": "Russian Empire",
+      "zh-CN": "俄罗斯帝国",
+      "zh-TW": "俄羅斯帝國",
+      "ja": "ロシア帝国",
+      "fr": "Empire russe",
+      "es": "Imperio ruso",
+      "ar": "الإمبراطورية الروسية",
+      "ru": "Российская империя",
+      "de": "Russisches Kaiserreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "帝俄时代",
+        "沙俄帝国",
+        "帝俄",
+        "沙俄",
+        "沙皇俄國",
+        "俄羅斯帝國"
+      ],
+      "es": [
+        "Rusia imperial",
+        "Rusia zarista"
+      ],
+      "ar": [
+        "الإمبراطوريه الروسيه",
+        "روسيا الإمبراطورية",
+        "الامبراطورية الروسية",
+        "إمبراطورية روسية"
+      ],
+      "ru": [
+        "Россия",
+        "Царская Россия",
+        "РИ",
+        "Императорская Россия",
+        "Имперская Россия",
+        "Россия имперского периода"
+      ],
+      "fr": [
+        "Russie tzariste",
+        "Empire de Russie",
+        "Russie tsariste",
+        "Russie imperiale",
+        "Empire tzariste",
+        "Russie impériale",
+        "Empire tsariste"
+      ],
+      "de": [
+        "Russisches Reich 1721 bis 1917",
+        "Kaiserreich Russland",
+        "Russländisches Kaiserreich",
+        "Rußisches Kaiserreich",
+        "Rußisches Imperium",
+        "Russisches Imperium"
+      ],
+      "ja": [
+        "帝政ロシア",
+        "旧ロシア帝国",
+        "ツァーリ・ロシア"
+      ],
+      "vi": [
+        "Đế chế Nga",
+        "Đế chế Nga hoàng",
+        "Đế quốc Nga hoàng"
+      ],
+      "en": [
+        "Tsarist Russia",
+        "Imperial Russia",
+        "Russia",
+        "Empire of Russia",
+        "Moscovy",
+        "Moscovy or Russia",
+        "Russia or Moscovy",
+        "Rossia",
+        "Rusia"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "former empire in Eurasia and North America (1721–1917)",
+    "ru": "государство, существовавшее с 1721 по 1917 год",
+    "de": "historischer Staat (1721–1917)",
+    "es": "antiguo imperio en Eurasia (1721-1917) y en Norteamérica (1721-1867)",
+    "fr": "État multi-ethnique principalement russe, de 1721 à 1917",
+    "ja": "かつて存在したヨーロッパとアジアに渡る帝国",
+    "ar": "إمبراطورية شملت روسيا وما جاورها",
+    "zh-CN": "俄羅斯歷史上最後一個君主制政權",
+    "vi": "cựu quốc gia ở châu lục Âu – Á và Bắc Mỹ"
+  },
+  "existence": {
+    "from": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "to": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "duration_years": 131,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1783,
+    1800,
+    1815,
+    1878,
+    1880,
+    1900,
+    1914
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1783,
+      1800,
+      1815,
+      1878,
+      1880,
+      1900,
+      1914
+    ],
+    "first_observed_year": 1783,
+    "last_observed_year": 1914,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Russian%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q34266"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

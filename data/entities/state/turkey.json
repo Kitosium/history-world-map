@@ -1,0 +1,249 @@
+{
+  "id": "turkey",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q43",
+  "names": {
+    "canonical": {
+      "vi": "Thổ Nhĩ Kỳ",
+      "en": "Turkey",
+      "zh-CN": "土耳其",
+      "zh-TW": "土耳其",
+      "ja": "トルコ",
+      "fr": "Turquie",
+      "es": "Turquía",
+      "ar": "تركيا",
+      "ru": "Турция",
+      "de": "Türkei"
+    },
+    "aliases": {
+      "fr": [
+        "la République de Turquie",
+        "Turq",
+        "République de Turquie",
+        "République turque"
+      ],
+      "en": [
+        "Republic of Türkiye",
+        "Republic of Turkey"
+      ],
+      "zh-CN": [
+        "土耳其共和国"
+      ],
+      "ru": [
+        "Турецкая Республика",
+        "Республика Тюркие"
+      ],
+      "zh-TW": [
+        "土耳其共和國"
+      ],
+      "es": [
+        "República de Turquía",
+        "República Turca"
+      ],
+      "ja": [
+        "トルコ共和国",
+        "テュルキエ",
+        "テュルキエ共和国",
+        "トゥルキエ",
+        "トゥルキエ共和国"
+      ],
+      "de": [
+        "Republik Türkei"
+      ],
+      "ar": [
+        "جمهورية تركيا"
+      ],
+      "vi": [
+        "Thổ Nhĩ Kì",
+        "TNK",
+        "Cộng hòa Thổ Nhĩ Kỳ",
+        "Turkey"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Asie occidentale et d'Europe du Sud-Est",
+    "zh-CN": "地跨东南欧和西亚的国家",
+    "ru": "государство в Западной Азии и Южной Европе",
+    "zh-TW": "地跨東南歐和西亞的國家",
+    "es": "país de Asia Occidental y Europa Sudoriental",
+    "de": "Staat in Südosteuropa und Vorderasien",
+    "ar": "دولة يقع معظمها في غرب آسيا و جزء منها في جنوب شرق أوروبا",
+    "en": "country in West Asia and Southeast Europe",
+    "ja": "南ヨーロッパと西アジアに跨がる国",
+    "vi": "quốc gia xuyên lục địa ở Đông Nam Âu và Tây Á"
+  },
+  "existence": {
+    "from": {
+      "year": 1930,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1930 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 96,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1930,
+    "last_observed_year": 2026,
+    "feature_count": 8,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 0
+  },
+  "boundary_references": [
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Turkey",
+    "wikidata": "https://www.wikidata.org/wiki/Q43"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

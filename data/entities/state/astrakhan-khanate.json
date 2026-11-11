@@ -1,0 +1,125 @@
+{
+  "id": "astrakhan-khanate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q210163",
+  "names": {
+    "canonical": {
+      "vi": "Astrakhan Khanate",
+      "en": "Astrakhan Khanate",
+      "zh-CN": "阿斯特拉罕汗国",
+      "zh-TW": "阿斯特拉罕汗國",
+      "ja": "アストラハン・ハン国",
+      "fr": "Khanat d'Astrakhan",
+      "es": "Kanato de Astracán",
+      "ar": "خانية أستراخان",
+      "ru": "Астраханское ханство",
+      "de": "Khanat Astrachan"
+    },
+    "aliases": {
+      "es": [
+        "Kanato de Astracan",
+        "Janato de Astrajan",
+        "Janato de Astracán",
+        "Janato de Astrakán",
+        "Janato de Astracan",
+        "Khanato de Astrakhán",
+        "Janato de Astraján",
+        "Kanato de Astrakán",
+        "Khanato de Astrakhan",
+        "Janato de Astrakan",
+        "Kanato de Astrakan"
+      ],
+      "de": [
+        "Astrachan-Khanat",
+        "Xacitarxan Khanate"
+      ],
+      "ja": [
+        "アストラハン汗国",
+        "アストラカン汗国"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "medieval state",
+    "de": "historischer Staat",
+    "ru": "татарское государство, возникшее в результате распада Золотой Орды и существовавшее в XVI веке в Нижнем Поволжье",
+    "vi": "Astrakhan Khanate (Astrakhan Khanate) là một state lịch sử tồn tại từ 1530 SCN đến 1530 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1530,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Astrakhan%20Khanate",
+    "wikidata": "https://www.wikidata.org/wiki/Q210163"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

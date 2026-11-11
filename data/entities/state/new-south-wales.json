@@ -1,0 +1,145 @@
+{
+  "id": "new-south-wales",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q3224",
+  "names": {
+    "canonical": {
+      "vi": "New South Wales",
+      "en": "New South Wales",
+      "zh-CN": "新南威尔士州",
+      "zh-TW": "新南威尔士州",
+      "ja": "ニューサウスウェールズ州",
+      "fr": "Nouvelle-Galles du Sud",
+      "es": "Nueva Gales del Sur",
+      "ar": "نيوساوث ويلز",
+      "ru": "Новый Южный Уэльс",
+      "de": "New South Wales"
+    },
+    "aliases": {
+      "en": [
+        "NSW",
+        "N.S.W.",
+        "State of New South Wales",
+        "AU-NSW"
+      ],
+      "zh-CN": [
+        "新南威爾士",
+        "新南威尔士",
+        "新南威爾斯",
+        "新南威尔斯",
+        "紐修威",
+        "紐省"
+      ],
+      "fr": [
+        "Nouvelle-Galles-Méridionale",
+        "Nouvelle-Galles méridionale",
+        "NSW",
+        "New South Wales"
+      ],
+      "es": [
+        "Estado de Nueva Gales del Sur",
+        "New South Wales",
+        "NSW"
+      ],
+      "ar": [
+        "نيو ساوث ويلز",
+        "ويلز الجنوبية الجديدة"
+      ],
+      "de": [
+        "NSW",
+        "Neusüdwales",
+        "Neu-Südwales",
+        "Neu-Süd-Wales",
+        "Staat Neusüdwales"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "штат в Австралии",
+    "fr": "État d'Australie",
+    "en": "state of Australia",
+    "es": "estado de Australia",
+    "de": "Bundesstaat von Australien",
+    "ja": "オーストラリアの州",
+    "vi": "bang của Úc",
+    "zh-CN": "澳洲州份",
+    "ar": "إحدى ولايات أستراليا"
+  },
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 1815,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/New%20South%20Wales",
+    "wikidata": "https://www.wikidata.org/wiki/Q3224"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

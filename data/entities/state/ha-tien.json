@@ -1,0 +1,100 @@
+{
+  "id": "ha-tien",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q5628876",
+  "names": {
+    "canonical": {
+      "vi": "Trấn Hà Tiên (Họ Mạc)",
+      "en": "Hà Tiên Protectorate (Mạc Clan)",
+      "zh-CN": "河仙镇",
+      "zh-TW": "河仙鎮",
+      "ja": "河仙鎮",
+      "fr": "Hà Tiên Protectorate (Mạc Clan)",
+      "es": "Hà Tiên Protectorate (Mạc Clan)",
+      "de": "Hà Tiên Protectorate (Mạc Clan)",
+      "ru": "Hà Tiên Protectorate (Mạc Clan)",
+      "ar": "Hà Tiên Protectorate (Mạc Clan)"
+    },
+    "aliases": {
+      "vi": [
+        "Trấn Hà Tiên",
+        "Hà Tiên trấn",
+        "Mạc thị Hà Tiên",
+        "Cảng thị Hà Tiên"
+      ],
+      "en": [
+        "Ha Tien",
+        "Principality of Ha Tien",
+        "Mac clan of Ha Tien"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Chính thể và trấn biên viễn ở vùng cực Tây Nam Bộ do Mạc Cửu khai phá và dâng đất quy phục Chúa Nguyễn Đàng Trong từ năm 1708, bao gồm Hà Tiên, Rạch Giá, Cà Mau cùng các đảo Phú Quốc, Thổ Chu.",
+    "en": "Autonomous frontier鎮 (protectorate) on the Gulf of Thailand coast developed by Mac Cuu, who submitted as a vassal territory of the Nguyen Lords of Dang Trong in 1708, encompassing Ha Tien, Rach Gia, Ca Mau, Phu Quoc, and Tho Chu."
+  },
+  "existence": {
+    "from": {
+      "year": 1707,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1707 SCN"
+    },
+    "to": {
+      "year": 1777,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1777 SCN"
+    },
+    "duration_years": 70,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [],
+    "first_observed_year": null,
+    "last_observed_year": null,
+    "feature_count": 0,
+    "boundary_source_ids": [],
+    "boundary_confidence": null,
+    "boundary_precision": null,
+    "border_precision": null
+  },
+  "boundary_references": [],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-khao-co",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co",
+      "src-wikidata"
+    ],
+    "boundaries": [],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Existence/names are supported by authoritative sources; no boundary geometry is asserted.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "wikidata": "https://www.wikidata.org/wiki/Q5628876"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

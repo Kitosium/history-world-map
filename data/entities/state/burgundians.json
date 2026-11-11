@@ -1,0 +1,130 @@
+{
+  "id": "burgundians",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q150412",
+  "names": {
+    "canonical": {
+      "vi": "Người Burgundi",
+      "en": "Burgundians",
+      "zh-CN": "勃艮第人",
+      "zh-TW": "勃艮第人",
+      "ja": "ブルグント族",
+      "fr": "Burgondes",
+      "es": "pueblo burgundio",
+      "ar": "برغنديون",
+      "ru": "бургунды",
+      "de": "Burgunden"
+    },
+    "aliases": {
+      "es": [
+        "burgundio",
+        "reino burgundio",
+        "burgundianos",
+        "pueblo borgoñón",
+        "burgundios"
+      ],
+      "ja": [
+        "ブルグンド族",
+        "ブルグンド人",
+        "ブルグント人"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical ethnical group",
+    "es": "pueblo germánico de Escandinavia o Germania oriental",
+    "fr": "peuple issu du groupe ethnique des Germains orientaux et originaire de Scandinavie",
+    "de": "ostgermanisches Volk",
+    "ru": "германское племя",
+    "vi": "Người Burgundi (Burgundians) là một state lịch sử tồn tại từ 400 SCN đến 500 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 SCN"
+    },
+    "to": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    400,
+    500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      400,
+      500
+    ],
+    "first_observed_year": 400,
+    "last_observed_year": 500,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Burgundians",
+    "wikidata": "https://www.wikidata.org/wiki/Q150412"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

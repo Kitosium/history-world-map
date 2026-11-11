@@ -1,0 +1,316 @@
+{
+  "id": "greece",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q41",
+  "names": {
+    "canonical": {
+      "vi": "Hy Lạp",
+      "en": "Greece",
+      "zh-CN": "希腊",
+      "zh-TW": "希臘",
+      "ja": "ギリシャ",
+      "fr": "Grèce",
+      "es": "Grecia",
+      "ar": "اليونان",
+      "ru": "Греция",
+      "de": "Griechenland"
+    },
+    "aliases": {
+      "en": [
+        "Hellenic Republic",
+        "Hellas",
+        "gr",
+        "el",
+        "Greek Republic",
+        "Ellada",
+        "Hellas, Greece"
+      ],
+      "zh-CN": [
+        "希腊共和国"
+      ],
+      "ja": [
+        "ギリシア",
+        "ギリシャ共和国",
+        "希臘",
+        "希"
+      ],
+      "vi": [
+        "Hi Lạp",
+        "Cộng hòa Hy Lạp"
+      ],
+      "ru": [
+        "Греческая Республика",
+        "Эллада"
+      ],
+      "zh-TW": [
+        "希臘共和國"
+      ],
+      "es": [
+        "República Helénica",
+        "Hélade",
+        "Hellás"
+      ],
+      "de": [
+        "Hellas",
+        "Hellenische Republik",
+        "Hellas, Griechenland"
+      ],
+      "fr": [
+        "République hellénique",
+        "Hellas",
+        "GR",
+        "🇬🇷"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Europe du Sud-Est indépendant depuis 1822",
+    "zh-CN": "南欧国家",
+    "vi": "quốc gia ở Đông Nam châu Âu",
+    "ru": "государство в Южной Европе",
+    "zh-TW": "南歐國家",
+    "es": "país de Europa del Sur",
+    "de": "Staat in Südosteuropa",
+    "ar": "دولة في جنوب شرق أوروبا",
+    "en": "country in Southeast Europe",
+    "ja": "南ヨーロッパの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 148,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880,
+    1900,
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880,
+      1900,
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 2026,
+    "feature_count": 13,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 0
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Greece",
+    "wikidata": "https://www.wikidata.org/wiki/Q41"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "zaire",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q6500954",
+  "names": {
+    "canonical": {
+      "vi": "Zaire",
+      "en": "Zaire",
+      "zh-CN": "扎伊尔",
+      "zh-TW": "薩伊",
+      "ja": "ザイール",
+      "fr": "Zaïre",
+      "es": "Zaire",
+      "ar": "زائير",
+      "ru": "Заир",
+      "de": "Zaire"
+    },
+    "aliases": {
+      "en": [
+        "Republic of Zaire"
+      ],
+      "ru": [
+        "Республика Заир"
+      ],
+      "fr": [
+        "République du Zaïre"
+      ],
+      "zh-CN": [
+        "扎伊尔",
+        "薩伊共和國",
+        "扎伊爾共和國",
+        "扎伊尔共和国"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "one-party military dictatorship in Central Africa (1965–1997) under Mobutu Sese Seko; renamed Republic of Zaire in 1971 as part of Mobutu's Authenticité policy; formerly Belgian Congo, now Democratic Republic of the Congo",
+    "fr": "pays africain maintenant appelé république démocratique du Congo",
+    "es": "país africano actualmente llamado República Democrática del Congo",
+    "de": "ehemaliger Name der Demokratischen Republik Kongo",
+    "ru": "название Демократической Республики Конго в 1971-1997 годах",
+    "zh-CN": "非洲历史国家",
+    "ar": "اسم قديم لجمهورية الكونغو الديمقراطية في الوقت الحالي والتي عاصمتها كينشاسا",
+    "zh-TW": "歷史國家",
+    "vi": "quốc gia ở Trung Phi từ 1971 đến 1997",
+    "ja": "かつて中央アフリカにあった国"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 2010,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2010 SCN"
+    },
+    "duration_years": 65,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    1994,
+    2000,
+    2010
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      1994,
+      2000,
+      2010
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2010,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zaire",
+    "wikidata": "https://www.wikidata.org/wiki/Q6500954"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

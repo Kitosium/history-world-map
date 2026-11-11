@@ -1,0 +1,172 @@
+{
+  "id": "potawatomi",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1065583",
+  "names": {
+    "canonical": {
+      "vi": "Potawatomi",
+      "en": "Potawatomi",
+      "zh-CN": "波塔瓦托米人",
+      "zh-TW": "波塔瓦托米人",
+      "ja": "ポタワトミ族",
+      "fr": "Potawatomis",
+      "es": "Potawatomi",
+      "ar": "بوتاواتومي",
+      "ru": "Потаватоми",
+      "de": "Potawatomi"
+    },
+    "aliases": {
+      "fr": [
+        "Potawatomi",
+        "Potéouatamis"
+      ],
+      "ja": [
+        "ポタワトミ"
+      ],
+      "en": [
+        "Neshnabé",
+        "Bodéwadme",
+        "Pottawatomi",
+        "Pottawatomie",
+        "Pottowatomies",
+        "Potawatomi people"
+      ],
+      "ru": [
+        "Потаватоми (народ)"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Native American people of the Great Plains",
+    "de": "indigener Stamm der Algonkin-Sprachfamilie",
+    "fr": "peuple algonquien d'Amérique du Nord",
+    "ru": "Индейский народ в США и Канаде",
+    "ja": "五大湖地域を中心に居住していたアルゴンキン語族系の先住民族",
+    "vi": "Potawatomi (Potawatomi) là một state lịch sử tồn tại từ 1530 SCN đến 1715 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1715,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Potawatomi",
+    "wikidata": "https://www.wikidata.org/wiki/Q1065583"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,208 @@
+{
+  "id": "curonians",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q756922",
+  "names": {
+    "canonical": {
+      "vi": "Curonians",
+      "en": "Curonians",
+      "zh-CN": "库洛尼亚人",
+      "zh-TW": "库洛尼亚人",
+      "ja": "クロニア人",
+      "fr": "coures",
+      "es": "curonios",
+      "ru": "курши",
+      "de": "Kuren"
+    },
+    "aliases": {
+      "fr": [
+        "Curoniens"
+      ],
+      "ru": [
+        "куроны",
+        "корсь"
+      ],
+      "es": [
+        "Curios",
+        "Curonianos"
+      ],
+      "ja": [
+        "クロニア",
+        "クール人"
+      ],
+      "zh-CN": [
+        "庫洛尼亞人"
+      ],
+      "en": [
+        "Couronians"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Volksstamm an der Ostsee",
+    "en": "Western Baltic tribe",
+    "ru": "западнобалтская народность",
+    "vi": "Curonians (Curonians) là một state lịch sử tồn tại từ 500 TCN đến 100 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "to": {
+      "year": 100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 SCN"
+    },
+    "duration_years": 600,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -500,
+    -400,
+    -323,
+    -300,
+    -200,
+    -100,
+    -1,
+    100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -500,
+      -400,
+      -323,
+      -300,
+      -200,
+      -100,
+      -1,
+      100
+    ],
+    "first_observed_year": -500,
+    "last_observed_year": 100,
+    "feature_count": 8,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Curonians",
+    "wikidata": "https://www.wikidata.org/wiki/Q756922"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

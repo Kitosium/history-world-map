@@ -1,0 +1,232 @@
+{
+  "id": "czechoslovakia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q33946",
+  "names": {
+    "canonical": {
+      "vi": "Tiệp Khắc",
+      "en": "Czechoslovakia",
+      "zh-CN": "捷克斯洛伐克",
+      "zh-TW": "捷克斯洛伐克",
+      "ja": "チェコスロバキア",
+      "fr": "Tchécoslovaquie",
+      "es": "Checoslovaquia",
+      "ar": "تشيكوسلوفاكيا",
+      "ru": "Чехословакия",
+      "de": "Tschechoslowakei"
+    },
+    "aliases": {
+      "zh-CN": [
+        "捷克斯拉夫"
+      ],
+      "es": [
+        "Czechoslovakia",
+        "Checoeslovaco",
+        "Checoslovaco",
+        "Republica Checoslovaca",
+        "Checoeslovaquia",
+        "Segunda Republica Checoslovaquia"
+      ],
+      "ar": [
+        "تشيكوسلوفاكي",
+        "تشكسلوفاكيا",
+        "تشكوسلوفاكيا",
+        "تشيكسلوفاكيا"
+      ],
+      "ru": [
+        "Чешско-Словацкая Социалистическая Республика",
+        "Чешская и Словацкая Федеративная Республика",
+        "Чешско-Словацкая Федеративная Республика",
+        "Чехословацкая ССР",
+        "Чехия и Словакия",
+        "ЧСФР",
+        "Чехословацкая Федеративная Республика",
+        "Чехо-Словакия"
+      ],
+      "fr": [
+        "Tchecoslovaquie",
+        "République tchécoslovaque",
+        "Tchéco-Slovaquie",
+        "République socialiste tchécoslovaque",
+        "République fédérale tchèque et slovaque",
+        "Tchéc."
+      ],
+      "de": [
+        "Tschechoslowakisch",
+        "ČSR",
+        "Tschecho-Slowakei",
+        "Tschechoslowakische Sozialistische Republik",
+        "Republik Tschecho-Slowakei",
+        "Tschecho-Slowakische Republik",
+        "Tschechoslowakische Republik",
+        "Republik Tschechoslowakei",
+        "Tschechische und Slowakische Föderative Republik"
+      ],
+      "ja": [
+        "チェコ・スロバキア",
+        "捷克斯洛伐克",
+        "チェコスロバキア共和国",
+        "チェコ・スロヴァキア",
+        "チェコスロバキア連邦共和国",
+        "チェコおよびスロバキア連邦共和国",
+        "チェコスロヴァキア",
+        "チェコス"
+      ],
+      "vi": [
+        "Czechoslovakia",
+        "Cộng hoà Tiệp Khắc",
+        "Cộng hòa Xã hội Chủ nghĩa Tiệp Khắc",
+        "Séc-Slovakia",
+        "Cộng hòa Liên bang Séc và Slovakia",
+        "Cộng hòa Tiệp",
+        "Tiệp-Khắc",
+        "Tiệp",
+        "Cộng hòa Tiệp Khắc"
+      ],
+      "en": [
+        "Czecho-Slovakia",
+        "cs",
+        "TCH",
+        "Československo",
+        "Federation of Czechoslovakia",
+        "People's Republic of Czechoslovakia"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat in Mitteleuropa (1918–1992)",
+    "en": "country in Central Europe (1918–1992)",
+    "es": "antiguo país de Europa Oriental que existió entre 1918 y 1992",
+    "fr": "ancien pays européen (1918-1992)",
+    "ru": "государство в Центральной Европе, существовавшее в период с 1918 по 1993 год",
+    "ar": "دولة زائلة كانت ذات سيادة في أوروبا الوسطى (1918-1992)",
+    "zh-CN": "歷史國家",
+    "ja": "かつて中央ヨーロッパに存在した連邦国家 (1918-1992)",
+    "vi": "cựu quốc gia Trung Âu từ 1918 đến 1992"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 1960,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1960 SCN"
+    },
+    "duration_years": 40,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930,
+    1938,
+    1945,
+    1960
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930,
+      1938,
+      1945,
+      1960
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 1960,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Czechoslovakia",
+    "wikidata": "https://www.wikidata.org/wiki/Q33946"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "geneva",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q71",
+  "names": {
+    "canonical": {
+      "vi": "Genève",
+      "en": "Geneva",
+      "zh-CN": "日内瓦",
+      "zh-TW": "日內瓦",
+      "ja": "ジュネーヴ",
+      "fr": "Genève",
+      "es": "Ginebra",
+      "ar": "جنيف",
+      "ru": "Женева",
+      "de": "Genf"
+    },
+    "aliases": {
+      "en": [
+        "Geneva GE",
+        "Genf"
+      ],
+      "fr": [
+        "GE",
+        "Cité de Calvin",
+        "Ville de Genève"
+      ],
+      "ja": [
+        "ジュネーブ"
+      ],
+      "es": [
+        "Geneva"
+      ],
+      "vi": [
+        "Geneva"
+      ],
+      "de": [
+        "Stadt Genf",
+        "Ville de Genève"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Stadt und politische Gemeinde sowie Hauptort des gleichnamigen Kantons in der Schweiz",
+    "fr": "ville de Suisse et chef-lieu du canton de Genève",
+    "en": "capital of the canton of Geneva, Switzerland",
+    "ru": "город в Швейцарии, административный центр одноимённого кантона и коммуны",
+    "es": "ciudad y municipio político, así como capital del cantón homónimo en Suiza",
+    "zh-CN": "瑞士日内瓦州首府",
+    "zh-TW": "瑞士第二大城,日內瓦州首府",
+    "ja": "スイスの都市",
+    "ar": "مدينة سويسرية وعاصمة كانتون جنيف",
+    "vi": "thành phố của Thụy Sĩ"
+  },
+  "existence": {
+    "from": {
+      "year": 1700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1700 SCN"
+    },
+    "to": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "duration_years": 83,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1700,
+    1715,
+    1783
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1700,
+      1715,
+      1783
+    ],
+    "first_observed_year": 1700,
+    "last_observed_year": 1783,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Geneva",
+    "wikidata": "https://www.wikidata.org/wiki/Q71"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

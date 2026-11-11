@@ -1,0 +1,135 @@
+{
+  "id": "gujarat",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1061",
+  "names": {
+    "canonical": {
+      "vi": "Gujarat",
+      "en": "Gujarat",
+      "zh-CN": "古吉拉特邦",
+      "zh-TW": "古吉拉特邦",
+      "ja": "グジャラート州",
+      "fr": "Gujarat",
+      "es": "Guyarat",
+      "ar": "كجرات",
+      "ru": "Гуджарат",
+      "de": "Gujarat"
+    },
+    "aliases": {
+      "en": [
+        "State of Gujarat",
+        "Guzerat",
+        "Guzeratte",
+        "IN-GJ"
+      ],
+      "fr": [
+        "Goudjarat",
+        "État du Goudjarat"
+      ],
+      "ar": [
+        "الكجرات",
+        "غوجارات"
+      ],
+      "zh-CN": [
+        "古加拉特邦",
+        "古茶拉底邦",
+        "古茶拉底省",
+        "瞿折羅",
+        "胡茶辣"
+      ],
+      "zh-TW": [
+        "古茶拉底省",
+        "古加拉特邦",
+        "古茶拉底邦"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "state of India",
+    "ru": "штат в Индии",
+    "fr": "État du nord-ouest de l'Inde",
+    "es": "estado de la India",
+    "de": "indischer Bundesstaat",
+    "zh-CN": "印度一级行政区",
+    "ar": "إحدى ولايات الهند",
+    "ja": "インドの州",
+    "vi": "bang của Ấn Độ"
+  },
+  "existence": {
+    "from": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "to": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1492
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1492
+    ],
+    "first_observed_year": 1492,
+    "last_observed_year": 1492,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gujarat",
+    "wikidata": "https://www.wikidata.org/wiki/Q1061"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

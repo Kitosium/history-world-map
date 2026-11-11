@@ -1,0 +1,134 @@
+{
+  "id": "west-francia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q46370",
+  "names": {
+    "canonical": {
+      "vi": "Tây Frank",
+      "en": "West Francia",
+      "zh-CN": "西法蘭克王國",
+      "zh-TW": "西法蘭克王國",
+      "ja": "西フランク王国",
+      "fr": "Francie occidentale",
+      "es": "Francia Occidental",
+      "ar": "مملكة الفرنجة الغربية",
+      "ru": "Западно-Франкское королевство",
+      "de": "Westfrankenreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "西法兰克王国",
+        "西法兰克",
+        "西法蘭克"
+      ],
+      "fr": [
+        "Francia occidentalis"
+      ],
+      "es": [
+        "Reino Franco Occidental",
+        "Francia occidentalis"
+      ],
+      "de": [
+        "Westfränkisches Reich"
+      ],
+      "ru": [
+        "Западнофранкское королевство",
+        "Королевство западных франков",
+        "Западное франкское королевство",
+        "Западно-франкское государство",
+        "ршщрг",
+        "каепнр"
+      ],
+      "en": [
+        "Kingdom of the West Franks"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat (843–987)",
+    "en": "former kingdom (843–987)",
+    "fr": "ancien royaume (843-987)",
+    "ru": "королевство, существовавшее в 843-947 годах",
+    "es": "reino medieval",
+    "zh-CN": "西歐歷史國家（843年-987年）",
+    "ja": "西ヨーロッパに存在した王国",
+    "vi": "Tây Frank (West Francia) là một state lịch sử tồn tại từ 900 SCN đến 900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      900
+    ],
+    "first_observed_year": 900,
+    "last_observed_year": 900,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/West%20Francia",
+    "wikidata": "https://www.wikidata.org/wiki/Q46370"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,138 @@
+{
+  "id": "cappadocia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q217265",
+  "names": {
+    "canonical": {
+      "vi": "Cappadocia",
+      "en": "Cappadocia",
+      "zh-CN": "卡帕多细亚",
+      "zh-TW": "卡帕多细亚",
+      "ja": "カッパドキア",
+      "fr": "Cappadoce",
+      "es": "Capadocia",
+      "ar": "قبادوقية",
+      "ru": "Каппадокия",
+      "de": "Kappadokien"
+    },
+    "aliases": {
+      "en": [
+        "Capadocia"
+      ],
+      "ar": [
+        "قبادوقيا",
+        "قباذق",
+        "كبادوكيا",
+        "قباذوقية"
+      ],
+      "zh-CN": [
+        "卡帕多西亞",
+        "卡帕多奇亞",
+        "卡帕多基亚"
+      ],
+      "de": [
+        "Kappadokia"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical region of Anatolia in Turkey",
+    "de": "Landschaft in Zentralanatolien in der Türkei",
+    "fr": "région historique au centre de l'Anatolie en Turquie",
+    "ar": "منطقة في منطقة وسط الأناضول، تركيا",
+    "ru": "историческое название местности на территории современной Турции",
+    "zh-CN": "土耳其地名",
+    "es": "región histórica de Anatolia Central, en Turquía",
+    "ja": "トルコの中央アナトリアの歴史的地域",
+    "vi": "Cappadocia (Cappadocia) là một state lịch sử tồn tại từ 323 TCN đến 300 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -323,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "323 TCN"
+    },
+    "to": {
+      "year": -300,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "300 TCN"
+    },
+    "duration_years": 23,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -323,
+    -300
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -323,
+      -300
+    ],
+    "first_observed_year": -323,
+    "last_observed_year": -300,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cappadocia",
+    "wikidata": "https://www.wikidata.org/wiki/Q217265"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

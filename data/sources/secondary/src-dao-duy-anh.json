@@ -1,0 +1,74 @@
+{
+  "id": "src-dao-duy-anh",
+  "schema_version": "1.3.0",
+  "type": "academic_monograph",
+  "title": {
+    "canonical": {
+      "vi": "Đất nước Việt Nam qua các đời: Nghiên cứu địa lý học lịch sử Việt Nam",
+      "en": "The Land of Vietnam Across Eras: Historical Geography of Vietnam",
+      "zh-CN": "历代越南国家：越南历史地理研究",
+      "zh-TW": "歷代越南國家：越南歷史地理研究"
+    }
+  },
+  "creators": [
+    {
+      "name": "Đào Duy Anh",
+      "role": "author",
+      "affiliation": "Viện Sử học Việt Nam"
+    }
+  ],
+  "publication": {
+    "publisher": "Nhà xuất bản Khoa học (1964); Nhà xuất bản Thuận Hóa (1994, 2006)",
+    "year": 1964,
+    "place": "Hà Nội",
+    "edition": "In lần đầu 1964; tái bản 1994 (262 tr.) và 2006 (469 tr.)",
+    "pages": "262 (1994); 469 (2006)",
+    "language": "vi",
+    "notes": "Bản 1964 là công trình đặt nền móng cho địa lý lịch sử Việt Nam; các tái bản sau có bổ sung."
+  },
+  "digital_access": [
+    {
+      "label": "Open Library — tác phẩm (các bản 1994, 2006)",
+      "url": "https://openlibrary.org/works/OL951296W",
+      "access_type": "catalogue",
+      "format": "html",
+      "provider": "Open Library",
+      "notes": "Không có PDF công khai hợp pháp; dùng để tra cứu thư mục và vị trí thư viện."
+    },
+    {
+      "label": "Open Library — bản 1994, NXB Thuận Hóa, 262 tr.",
+      "url": "https://openlibrary.org/books/OL959651M",
+      "access_type": "catalogue",
+      "format": "html",
+      "provider": "Open Library"
+    },
+    {
+      "label": "Open Library — bản 2006, NXB Thuận Hóa, 469 tr.",
+      "url": "https://openlibrary.org/books/OL16387805M",
+      "access_type": "catalogue",
+      "format": "html",
+      "provider": "Open Library"
+    }
+  ],
+  "license": {
+    "name": "In copyright",
+    "spdx": "NOASSERTION"
+  },
+  "coverage": {
+    "temporal": "prehistory - 19th century",
+    "spatial": "Vietnam",
+    "geometry": "historical-geographical reconstruction"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_3_peer_reviewed_academic",
+    "historiographical_notes": "Công trình đặt nền móng và chuẩn mực nhất về địa lý lịch sử Việt Nam; khảo cứu ranh giới 15 bộ Văn Lang, không gian cư trú Tây Âu và Lạc Việt, thành Cổ Loa, các quận huyện thời Bắc thuộc và các lộ phủ thời phong kiến độc lập.",
+    "spatial_precision_rating": "historical_geographical_survey"
+  },
+  "citation_formats": {
+    "chicago": "Đào Duy Anh. Đất nước Việt Nam qua các đời: Nghiên cứu địa lý học lịch sử Việt Nam. Hà Nội: Nhà xuất bản Khoa học, 1964.",
+    "apa": "Đào, D. A. (1964). Đất nước Việt Nam qua các đời: Nghiên cứu địa lý học lịch sử Việt Nam. Nhà xuất bản Khoa học.",
+    "bibtex": "@book{daoduyanh1964, author={Đào Duy Anh}, title={Đất nước Việt Nam qua các đời: Nghiên cứu địa lý học lịch sử Việt Nam}, year={1964}, publisher={Nhà xuất bản Khoa học}, address={Hà Nội}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "judea",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q104028",
+  "names": {
+    "canonical": {
+      "vi": "Judea",
+      "en": "Judea",
+      "zh-CN": "犹大山地",
+      "zh-TW": "猶大山地",
+      "ja": "ユダヤ",
+      "fr": "Judée",
+      "es": "Judea",
+      "ar": "يهودية",
+      "ru": "Иудея",
+      "de": "Judäa"
+    },
+    "aliases": {
+      "ar": [
+        "جوديا"
+      ],
+      "fr": [
+        "Judee",
+        "Judéens"
+      ],
+      "de": [
+        "Iudaea",
+        "Judaea"
+      ],
+      "en": [
+        "Judæa"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "историческая область",
+    "de": "Gebiet in der Levante am östlichen Mittelmeer",
+    "en": "region of ancient Israel",
+    "es": "región histórica de Israel",
+    "ar": "منطقة في مملكة يهوذا قديمة",
+    "fr": "région historique du Proche-Orient",
+    "ja": "レバントの地域",
+    "vi": "Judea (Judea) là một state lịch sử tồn tại từ 1 TCN đến 1 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -1,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1 TCN"
+    },
+    "to": {
+      "year": -1,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1
+    ],
+    "first_observed_year": -1,
+    "last_observed_year": -1,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Judea",
+    "wikidata": "https://www.wikidata.org/wiki/Q104028"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,260 @@
+{
+  "id": "mughal-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q33296",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Mogul",
+      "en": "Mughal Empire",
+      "zh-CN": "莫卧儿帝国",
+      "zh-TW": "蒙兀兒帝國",
+      "ja": "ムガル帝国",
+      "fr": "Empire moghol",
+      "es": "Imperio mogol",
+      "ar": "سلطنة مغول الهند",
+      "ru": "Империя Великих Моголов",
+      "de": "Mogulreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "莫臥爾",
+        "莫卧尔帝国",
+        "蒙兀儿帝国",
+        "莫卧儿王朝",
+        "莫卧儿",
+        "蒙兀兒帝國",
+        "蒙兀爾",
+        "莫臥兒帝國",
+        "蒙兀兒王朝",
+        "痕都斯坦"
+      ],
+      "es": [
+        "Imperio mogul",
+        "Mogoles",
+        "Gran Mogol",
+        "Moghul",
+        "El Imperio Mogul",
+        "Era mongol",
+        "Imperio Moghul",
+        "Mugal",
+        "Imperio mogol de la india",
+        "Gran Mogol de la India",
+        "Mogules",
+        "Mogol",
+        "Periodo mongol",
+        "Bengal Subah",
+        "Imperio mongol de la India"
+      ],
+      "ar": [
+        "امبراطورية مغول الهند",
+        "إمبراطوريه مغول الهند",
+        "مغول",
+        "موغال",
+        "مغول الهند",
+        "المغول الكبار",
+        "الأسرة المغولية"
+      ],
+      "ru": [
+        "Великие Моголы",
+        "Могольская империя",
+        "Моголы"
+      ],
+      "fr": [
+        "Empereur moghol",
+        "Empire mogol",
+        "Moghols",
+        "Grand Moghol"
+      ],
+      "de": [
+        "Mogul-Reich",
+        "Mogul-Imperium",
+        "Mogul-Dynastie",
+        "Reich der Großmoguln"
+      ],
+      "ja": [
+        "ムガル朝",
+        "ムガル",
+        "ムガール朝",
+        "ムガール",
+        "ティムール朝インド",
+        "ムガール帝国"
+      ],
+      "vi": [
+        "Vương triều Mogul",
+        "Vương triều Ấn Độ Mogul",
+        "Đế quốc Moghul",
+        "Nhà Mogul",
+        "Vương triều Mogon",
+        "Đế chế Mughal",
+        "Đế quốc Mô-gôn",
+        "Đế chế Moghol",
+        "Đế chế Môgôn",
+        "Vương triều Môgôn",
+        "Vương triều Moghol",
+        "Đế quốc Môgôn",
+        "Nhà Môgôn",
+        "Đế quốc Mughal",
+        "Đế chế Mogul",
+        "Triều đại Môgôn",
+        "Đế quốc Moghol"
+      ],
+      "en": [
+        "Mogul Empire",
+        "Mughal India",
+        "Moghul Empire",
+        "Mogul India",
+        "Moghul India",
+        "Mogol Empire",
+        "Mogol India",
+        "Moghol Empire",
+        "Moghol India",
+        "Moghal Empire",
+        "Moghal India",
+        "Mongol Empire in India",
+        "Hindostan",
+        "Hindustan",
+        "Dominion of Hindustan",
+        "Land of Hind",
+        "Sultanate of al-Hind",
+        "Hind"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "estado feudal islámico del subcontinente indio (1526-1857)",
+    "de": "historischer islamischer Feudalstaat in Indien, 1526–1858",
+    "en": "great Turkic descent empire ruling India (1526–1857)",
+    "fr": "État turco-mongol musulman de l'Inde (1526-1857)",
+    "ja": "インド亜大陸の大部分を支配したイスラーム王朝",
+    "zh-CN": "印度次大陆帝国（1526－1857）",
+    "ar": "أخر الدول والامبراطوريات الاسلامية في الهند، أسسها ظهير الدين بابر 1526م",
+    "ru": "государство, существовавшее на территории современных Индии, Пакистана, Бангладеш и юго-восточного Афганистана в XVI—XIX веках",
+    "zh-TW": "印度伊斯蘭帝國，國土延伸到印度次大陸的大部分地區 (1526–1857)",
+    "vi": "Đế quốc Mogul (Mughal Empire) là một state lịch sử tồn tại từ 1530 SCN đến 1715 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1715,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mughal%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q33296"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

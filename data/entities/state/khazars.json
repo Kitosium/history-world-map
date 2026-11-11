@@ -1,0 +1,227 @@
+{
+  "id": "khazars",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q173282",
+  "names": {
+    "canonical": {
+      "vi": "Khazar",
+      "en": "Khazars",
+      "zh-CN": "可萨人",
+      "zh-TW": "可薩人",
+      "ja": "ハザール",
+      "fr": "Khazars",
+      "es": "jázaros",
+      "ar": "خزر",
+      "ru": "хазары",
+      "de": "Chasaren"
+    },
+    "aliases": {
+      "zh-CN": [
+        "卡扎人",
+        "哈扎尔人",
+        "哈扎尔汗国",
+        "可萨汗国",
+        "可萨利亚",
+        "卡扎汗国"
+      ],
+      "fr": [
+        "Royaume khazar",
+        "Khazarie",
+        "Khazar"
+      ],
+      "es": [
+        "Jazaro",
+        "Kazaro",
+        "Imperio jázaro",
+        "Jázaro",
+        "Kházaros",
+        "Jazaros",
+        "Pueblo jázaro",
+        "Khazar",
+        "Kázaro",
+        "Kázaros",
+        "Kházaro",
+        "Khuzar",
+        "Khazaro",
+        "Pueblo jazaro",
+        "Kazaros",
+        "Khazaros",
+        "Imperio jazaro"
+      ],
+      "de": [
+        "Chasarien",
+        "Chasarenreich",
+        "Chazaren",
+        "Kasaren",
+        "Khasaren",
+        "Khazaren"
+      ],
+      "ja": [
+        "カザール王国",
+        "カザール",
+        "ハザール王国",
+        "ハザール人",
+        "カザール人",
+        "ハザール汗国",
+        "ハザール国",
+        "ハザル族",
+        "ハザール族"
+      ],
+      "ar": [
+        "الخزر",
+        "بلاد الخزر"
+      ],
+      "ru": [
+        "хазар",
+        "хазарка"
+      ],
+      "en": [
+        "Khazaria"
+      ],
+      "zh-TW": [
+        "可薩汗國",
+        "卡扎人",
+        "哈扎爾人",
+        "卡扎汗國",
+        "哈扎爾汗國",
+        "可薩利亞"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical semi-nomadic Turkic ethnic group",
+    "ru": "исторический тюркоязычный народ, основное население Хазарского каганата",
+    "fr": "ancien peuple semi-nomade d’Asie centrale",
+    "de": "semi-nomadisches Turkvolk in Osteuropa und Zentralasien",
+    "ar": "شعب تركي قديم",
+    "es": "antiguo pueblo túrquico",
+    "vi": "bộ lộc bán du mục người Turk",
+    "zh-TW": "歐亞交界處的民族",
+    "ja": "カスピ海の北、カフカス、黒海沿岸に存在した遊牧民族(7世紀-10世紀)"
+  },
+  "existence": {
+    "from": {
+      "year": 600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "600 SCN"
+    },
+    "to": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "duration_years": 400,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    600,
+    700,
+    800,
+    900,
+    1000
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      600,
+      700,
+      800,
+      900,
+      1000
+    ],
+    "first_observed_year": 600,
+    "last_observed_year": 1000,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khazars",
+    "wikidata": "https://www.wikidata.org/wiki/Q173282"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

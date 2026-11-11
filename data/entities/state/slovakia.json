@@ -1,0 +1,187 @@
+{
+  "id": "slovakia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q214",
+  "names": {
+    "canonical": {
+      "vi": "Slovakia",
+      "en": "Slovakia",
+      "zh-CN": "斯洛伐克",
+      "zh-TW": "斯洛伐克",
+      "ja": "スロバキア",
+      "fr": "Slovaquie",
+      "es": "Eslovaquia",
+      "ar": "سلوفاكيا",
+      "ru": "Словакия",
+      "de": "Slowakei"
+    },
+    "aliases": {
+      "de": [
+        "Slowakische Republik",
+        "Slowakien",
+        "sk"
+      ],
+      "fr": [
+        "République slovaque",
+        "SK",
+        "la République slovaque"
+      ],
+      "en": [
+        "Slovak Republic",
+        "SVK",
+        "SK"
+      ],
+      "ru": [
+        "Slovensko",
+        "Словацкая Республика"
+      ],
+      "es": [
+        "República Eslovaca"
+      ],
+      "ja": [
+        "スロヴァキア",
+        "スロバキア共和国"
+      ],
+      "ar": [
+        "جمهورية سلوفاكيا"
+      ],
+      "vi": [
+        "Cộng hòa Slovakia",
+        "Cộng hoà Slovakia"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Europe centrale dont la capitale est Bratislava",
+    "zh-CN": "东欧国家",
+    "ru": "страна в Центральной Европе",
+    "es": "país de Europa Oriental",
+    "de": "Staat in Mittelosteuropa",
+    "ar": "دولة في أوروبا الوسطى",
+    "en": "country in Central Europe",
+    "ja": "東ヨーロッパの国",
+    "zh-TW": "中歐的內陸國家",
+    "vi": "quốc gia ở Trung Âu"
+  },
+  "existence": {
+    "from": {
+      "year": 1994,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1994 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 32,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1994,
+    "last_observed_year": 2026,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Slovakia",
+    "wikidata": "https://www.wikidata.org/wiki/Q214"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

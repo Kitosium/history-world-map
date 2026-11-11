@@ -1,0 +1,193 @@
+{
+  "id": "cape-colony",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q370736",
+  "names": {
+    "canonical": {
+      "vi": "Cape Colony",
+      "en": "Cape Colony",
+      "zh-CN": "开普殖民地",
+      "zh-TW": "開普殖民地",
+      "ja": "ケープ植民地",
+      "fr": "Colonie du Cap",
+      "es": "Colonia del Cabo",
+      "ar": "مستعمرة كيب",
+      "ru": "Капская колония",
+      "de": "Kapkolonie"
+    },
+    "aliases": {
+      "zh-CN": [
+        "開普长官"
+      ],
+      "es": [
+        "Colonia de El Cabo"
+      ],
+      "de": [
+        "Geschichte der Kapkolonie",
+        "Kapland",
+        "Geschichte der Kapkolonie vor 1806"
+      ],
+      "en": [
+        "Cape of Good Hope"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Dutch and British colony in Southern Africa",
+    "de": "zunächst niederländische, später britische Kolonie im heutigen Südafrika",
+    "ru": "колония Нидерландов (1662-1795) и Великобритании (1795-1910); ныне - часть ЮАР",
+    "es": "colonia neerlandesa y británica en Sudáfrica",
+    "fr": "colonie alternativement néerlandaise et britannique, de 1652 à 1910, devenue ensuite partie de l’Union sud-africaine puis de l’Afrique du Sud",
+    "zh-CN": "英國在南非的殖民地",
+    "vi": "Cape Colony (Cape Colony) là một state lịch sử tồn tại từ 1715 SCN đến 1900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "to": {
+      "year": 1900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1900 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1715,
+    1783,
+    1800,
+    1815,
+    1878,
+    1880,
+    1900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1715,
+      1783,
+      1800,
+      1815,
+      1878,
+      1880,
+      1900
+    ],
+    "first_observed_year": 1715,
+    "last_observed_year": 1900,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape%20Colony",
+    "wikidata": "https://www.wikidata.org/wiki/Q370736"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

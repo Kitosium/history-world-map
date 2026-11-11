@@ -1,0 +1,170 @@
+{
+  "id": "belarus",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q184",
+  "names": {
+    "canonical": {
+      "vi": "Belarus",
+      "en": "Belarus",
+      "zh-CN": "白俄罗斯",
+      "zh-TW": "白俄羅斯",
+      "ja": "ベラルーシ",
+      "fr": "Biélorussie",
+      "es": "Bielorrusia",
+      "ar": "بيلاروس",
+      "ru": "Беларусь",
+      "de": "Belarus"
+    },
+    "aliases": {
+      "ar": [
+        "روسيا البيضاء",
+        "بيلاروسيا",
+        "بيلوروسية"
+      ],
+      "fr": [
+        "Bélarus",
+        "la République de Biélorussie",
+        "Biélor.",
+        "république de Biélorussie"
+      ],
+      "en": [
+        "White Russia",
+        "White Ruthenia",
+        "Republic of Belarus",
+        "by",
+        "Byeloruss",
+        "Bielorussia",
+        "Belorussia",
+        "Byelorussia",
+        "Respublika Belarus'",
+        "Respublika Bielaruś",
+        "Bielaruś"
+      ],
+      "ru": [
+        "РБ",
+        "Белая Русь",
+        "Республика Беларусь",
+        "Белоруссия"
+      ],
+      "es": [
+        "República de Belarús",
+        "Belarús"
+      ],
+      "de": [
+        "Belorußland",
+        "Belorussland",
+        "Republik Belarus",
+        "Weißruthenien",
+        "Weißrussland"
+      ],
+      "ja": [
+        "ベラルーシ共和国",
+        "ベロルシア"
+      ],
+      "zh-CN": [
+        "白罗斯",
+        "白俄罗斯共和国"
+      ],
+      "vi": [
+        "Cộng hòa Belarus",
+        "Bạch Nga",
+        "Nga trắng",
+        "Byelorussia",
+        "Cộng hoà Belarus"
+      ],
+      "zh-TW": [
+        "白羅斯",
+        "白俄羅斯共和國"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Europe orientale",
+    "zh-CN": "东欧国家",
+    "ru": "государство в Восточной Европе",
+    "es": "país de Europa Oriental",
+    "de": "Staat in Osteuropa",
+    "ar": "دولة في أوروبا الشرقية",
+    "en": "country in Eastern Europe",
+    "ja": "東ヨーロッパの国",
+    "zh-TW": "東歐國家",
+    "vi": "quốc gia ở Đông Âu"
+  },
+  "existence": {
+    "from": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 0,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      2026
+    ],
+    "first_observed_year": 2026,
+    "last_observed_year": 2026,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "georeferenced_1_10m",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "georeferenced_1_10m"
+    }
+  ],
+  "source_ids": [
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Belarus",
+    "wikidata": "https://www.wikidata.org/wiki/Q184"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

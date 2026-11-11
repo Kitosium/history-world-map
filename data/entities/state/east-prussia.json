@@ -1,0 +1,148 @@
+{
+  "id": "east-prussia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q103801",
+  "names": {
+    "canonical": {
+      "vi": "Đông Phổ",
+      "en": "East Prussia",
+      "zh-CN": "东普鲁士",
+      "zh-TW": "東普魯士",
+      "ja": "東プロイセン",
+      "fr": "province de Prusse-Orientale",
+      "es": "Prusia Oriental",
+      "ar": "بروسيا الشرقية",
+      "ru": "Восточная Пруссия",
+      "de": "Ostpreußen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "东普鲁士",
+        "東普魯士省"
+      ],
+      "fr": [
+        "Prusse orientale",
+        "Prusse ducale"
+      ],
+      "es": [
+        "Provincia de Prusia Oriental",
+        "Este de Prusia",
+        "Prusia del Este",
+        "OstpreuBen"
+      ],
+      "de": [
+        "Provinz Ostpreussen",
+        "Provinz Ostpreußen"
+      ],
+      "ja": [
+        "オストプロイセン",
+        "東プロシア",
+        "東プロイセン州"
+      ],
+      "ru": [
+        "Пруссия Восточная",
+        "Восточная Пруссия (провинция Пруссии)",
+        "провинция Восточная Пруссия"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "región histórica situada en la costa sudoriental del Mar Báltico",
+    "de": "Teil von Preußen (1773–1829 und 1878–1945)",
+    "ru": "прусская провинция",
+    "en": "province of Prussia",
+    "fr": "ancienne province allemande, de 1773 à 1945",
+    "ja": "バルト海南岸にある地域の歴史的な地名",
+    "zh-CN": "普鲁士的省份",
+    "vi": "Đông Phổ (East Prussia) là một state lịch sử tồn tại từ 1920 SCN đến 1930 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 1930,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1930 SCN"
+    },
+    "duration_years": 10,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 1930,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/East%20Prussia",
+    "wikidata": "https://www.wikidata.org/wiki/Q103801"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

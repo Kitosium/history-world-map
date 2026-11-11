@@ -1,0 +1,133 @@
+{
+  "id": "brandenburg",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1208",
+  "names": {
+    "canonical": {
+      "vi": "Brandenburg",
+      "en": "Brandenburg",
+      "zh-CN": "勃兰登堡州",
+      "zh-TW": "勃兰登堡州",
+      "ja": "ブランデンブルク州",
+      "fr": "Brandebourg",
+      "es": "Brandemburgo",
+      "ar": "براندنبورغ",
+      "ru": "Бранденбург",
+      "de": "Brandenburg"
+    },
+    "aliases": {
+      "zh-CN": [
+        "勃蘭登堡",
+        "勃蘭登堡州",
+        "勃兰登堡"
+      ],
+      "de": [
+        "DE-BB",
+        "Land Brandenburg",
+        "BB",
+        "Kraj Bramborska",
+        "Bramborska",
+        "Land Brannenborg",
+        "Brannenborg"
+      ],
+      "ar": [
+        "براندينبرغ"
+      ],
+      "en": [
+        "Land Brandenburg",
+        "State of Brandenburg"
+      ],
+      "es": [
+        "Brandeburgo"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Land der Bundesrepublik Deutschland",
+    "fr": "land (État fédéré) d'Allemagne",
+    "en": "state in North-East of Germany",
+    "ru": "федеральная земля Германии",
+    "es": "estado federado de Alemania",
+    "ar": "ولاية في ألمانيا",
+    "zh-CN": "德国联邦州",
+    "ja": "ドイツの州",
+    "vi": "bang của Đức"
+  },
+  "existence": {
+    "from": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1715
+    ],
+    "first_observed_year": 1715,
+    "last_observed_year": 1715,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandenburg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1208"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

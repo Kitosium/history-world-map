@@ -1,0 +1,328 @@
+{
+  "id": "holy-roman-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q12548",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc La Mã Thần thánh",
+      "en": "Holy Roman Empire",
+      "zh-CN": "神圣罗马帝国",
+      "zh-TW": "神聖羅馬帝國",
+      "ja": "神聖ローマ帝国",
+      "fr": "Saint-Empire romain germanique",
+      "es": "Sacro Imperio Romano Germánico",
+      "ar": "الإمبراطورية الرومانية المقدسة",
+      "ru": "Священная Римская империя",
+      "de": "Heiliges Römisches Reich"
+    },
+    "aliases": {
+      "de": [
+        "Reich der Deutschen",
+        "HRR",
+        "Sacrum Imperium Romanum",
+        "Römisch-Deutsches Reich",
+        "Sacrum Imperium",
+        "Heiliges römisches Reich deutscher Nation",
+        "Sacrum Imperium Romanum Nationis Germanicae",
+        "H.R.R.",
+        "HRRdN",
+        "Sacrum Romanum Imperium",
+        "Sacrum Romanum Imperium Nationis Germanicae",
+        "Erstes Reich",
+        "Heiliges Römisches Reich Deutscher Nation"
+      ],
+      "fr": [
+        "Saint-Empire romain de la nation germanique",
+        "Premier Reich",
+        "Vieil Empire",
+        "Saint-Empire romain",
+        "SERG",
+        "S.E.R.G."
+      ],
+      "en": [
+        "First Reich",
+        "Reich",
+        "HRE",
+        "Roman-German Empire",
+        "Old Empire",
+        "Holy Roman Empire of the German Nation"
+      ],
+      "zh-CN": [
+        "神圣罗马帝国",
+        "德意志民族神聖羅馬帝國",
+        "日耳曼民族神聖羅馬帝國",
+        "神羅"
+      ],
+      "ru": [
+        "Священная Римская империя германской нации",
+        "СРИГН",
+        "Первый рейх",
+        "Священная Римская Империя",
+        "Священная римская империя",
+        "Первый Рейх",
+        "Римско-Германская империя",
+        "Кризис позднего Средневековья в Священной Римской империи",
+        "Римская империя германской нации",
+        "I Рейх",
+        "СРИ",
+        "Цезария",
+        "Священная Римская Империя Германской Нации",
+        "Государственный строй Священной Римской империи",
+        "Священноримская империя"
+      ],
+      "ar": [
+        "الامبراطورية الرومانية المقدسة",
+        "الامبراطورية الرومية",
+        "الامبراطوريه الرومانيه المقدسة",
+        "الامبراطوريه الرومانيه المقدسة الاولى",
+        "إمبراطورية رومانية مقدسة",
+        "الإمبراطوريه الرومانيه المقدسه"
+      ],
+      "es": [
+        "Sacro Imperio Romano Germanico",
+        "Imperio Romano",
+        "Primer Reich",
+        "Imperio antiguo",
+        "Imperio Romano Germánico"
+      ],
+      "zh-TW": [
+        "德意志民族神聖羅馬帝國",
+        "日耳曼民族神聖羅馬帝國",
+        "神羅"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "multi-ethnic complex of territories in Western and Central Europe (800/962–1806)",
+    "fr": "regroupement politique de terres d’Europe occidentale et centrale, de 962 à 1806",
+    "es": "agrupación política de Europa (962–1806)",
+    "de": "Herrschaftsbereich der römisch-deutschen Kaiser (962–1806)",
+    "ja": "現在のドイツ、オーストリア、チェコ、イタリア北部を中心に存在していた国家",
+    "zh-CN": "歐洲歷史國家（962－1806），在公元800年查理大帝到羅馬被教宗良三世加冕後正式成立",
+    "ru": "межгосударственное образование, существовавшее с 962 по 1806 годы",
+    "ar": "أمبراطورية أوروبية سابقة",
+    "vi": "Chính thể ở châu Âu (800/962–1806)",
+    "zh-TW": "西元962年建國的中歐多民族帝國，納粹史觀稱「德意志第一帝國」"
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 715,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400,
+    1492,
+    1500,
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400,
+      1492,
+      1500,
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1715,
+    "feature_count": 13,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Holy%20Roman%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q12548"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

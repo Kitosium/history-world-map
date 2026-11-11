@@ -1,0 +1,237 @@
+{
+  "id": "austria",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q40",
+  "names": {
+    "canonical": {
+      "vi": "Áo",
+      "en": "Austria",
+      "zh-CN": "奥地利",
+      "zh-TW": "奧地利",
+      "ja": "オーストリア",
+      "fr": "Autriche",
+      "es": "Austria",
+      "ar": "النمسا",
+      "ru": "Австрия",
+      "de": "Österreich"
+    },
+    "aliases": {
+      "en": [
+        "Republic of Austria"
+      ],
+      "fr": [
+        "République d'Autriche"
+      ],
+      "zh-CN": [
+        "奥地利共和国"
+      ],
+      "ru": [
+        "Австрийская Республика",
+        "Республика Австрия"
+      ],
+      "zh-TW": [
+        "奧地利共和國"
+      ],
+      "es": [
+        "República de Austria"
+      ],
+      "ja": [
+        "オーストリー",
+        "オーストリア共和国"
+      ],
+      "de": [
+        "Republik Österreich",
+        "Zweite Republik"
+      ],
+      "vi": [
+        "Cộng hòa Áo",
+        "Cộng hoà Áo"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Europe centrale",
+    "zh-CN": "中欧国家",
+    "ru": "государство в Центральной Европе",
+    "zh-TW": "中歐國家",
+    "es": "país de Europa Occidental",
+    "de": "Staat in Mitteleuropa",
+    "ar": "دولة في أوروبا الوسطى",
+    "en": "country in Central Europe",
+    "ja": "西ヨーロッパの国",
+    "vi": "quốc gia nằm ở khu vực Trung Âu"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 106,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 2026,
+    "feature_count": 8,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Austria",
+    "wikidata": "https://www.wikidata.org/wiki/Q40"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

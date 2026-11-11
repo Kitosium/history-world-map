@@ -1,0 +1,114 @@
+{
+  "id": "hitchiti",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1542882",
+  "names": {
+    "canonical": {
+      "vi": "Hitchiti",
+      "en": "Hitchiti",
+      "zh-CN": "希奇蒂族",
+      "zh-TW": "希奇蒂族",
+      "fr": "Hitchitis",
+      "es": "Hitchiti",
+      "de": "Hitchiti"
+    },
+    "aliases": {
+      "fr": [
+        "Hitchiti"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "tribe and tribal town",
+    "vi": "Hitchiti (Hitchiti) là một state lịch sử tồn tại từ 1530 SCN đến 1600 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1600 SCN"
+    },
+    "duration_years": 70,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1600,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hitchiti",
+    "wikidata": "https://www.wikidata.org/wiki/Q1542882"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

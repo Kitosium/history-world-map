@@ -1,0 +1,117 @@
+{
+  "id": "golconda",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q4141623",
+  "names": {
+    "canonical": {
+      "vi": "Golconda",
+      "en": "Golconda",
+      "zh-CN": "戈尔孔达",
+      "zh-TW": "戈尔孔达",
+      "ja": "ゴールコンダ",
+      "fr": "Golkonda",
+      "es": "Golconda",
+      "ar": "كلكندة",
+      "ru": "Голконда",
+      "de": "Golkonda"
+    },
+    "aliases": {
+      "en": [
+        "Golla konda",
+        "Golkonda"
+      ],
+      "zh-CN": [
+        "戈爾康達",
+        "戈爾康達城堡"
+      ],
+      "ar": [
+        "قلقندة",
+        "قلعة كلكندة"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "крепость",
+    "en": "fortified citadel and former city in central Hyderabad, Telangana, India",
+    "de": "archäologische Stätte westlich Hyderabad in Indien, historisches Sultanat",
+    "fr": "site archéologique indien situé dans l'État du Télangana",
+    "vi": "Golconda (Golconda) là một state lịch sử tồn tại từ 1783 SCN đến 1783 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "to": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1783
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1783
+    ],
+    "first_observed_year": 1783,
+    "last_observed_year": 1783,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Golconda",
+    "wikidata": "https://www.wikidata.org/wiki/Q4141623"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

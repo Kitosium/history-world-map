@@ -1,0 +1,162 @@
+{
+  "id": "urartu",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q185068",
+  "names": {
+    "canonical": {
+      "vi": "Urartu",
+      "en": "Urartu",
+      "zh-CN": "乌拉尔图",
+      "zh-TW": "烏拉爾圖",
+      "ja": "ウラルトゥ",
+      "fr": "royaume d'Ourartou",
+      "es": "Urartu",
+      "ar": "أورارتو",
+      "ru": "Урарту",
+      "de": "Urartäisches Reich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "乌拉尔图王国"
+      ],
+      "es": [
+        "Cultura de Urartu"
+      ],
+      "ru": [
+        "Ванское царство",
+        "Биайни",
+        "Биайнили",
+        "Urartu",
+        "Арарат"
+      ],
+      "fr": [
+        "Urartéens",
+        "Royaume de Biaïna",
+        "Ourartéen",
+        "L'Urartu",
+        "Ourartou"
+      ],
+      "de": [
+        "Urartäer",
+        "Urartu",
+        "Biainili"
+      ],
+      "ja": [
+        "ウラルトゥ王国"
+      ],
+      "en": [
+        "Kingdom of Urartu"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat um den Van-See im Armenischen Hochland",
+    "en": "Iron Age kingdom located in a large region around Lake Van",
+    "fr": "royaume de l'âge du fer situé dans une vaste région autour du lac de Van",
+    "ru": "древнее государство на территории Армянского нагорья",
+    "es": "Reino de Urartu",
+    "ar": "مملكة تعود للعصر الحديدي، تقع في الهضبة الأرمينية",
+    "vi": "Urartu (Urartu) là một state lịch sử tồn tại từ 1500 TCN đến 700 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 TCN"
+    },
+    "to": {
+      "year": -700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 TCN"
+    },
+    "duration_years": 800,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1500,
+    -1000,
+    -700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1500,
+      -1000,
+      -700
+    ],
+    "first_observed_year": -1500,
+    "last_observed_year": -700,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Urartu",
+    "wikidata": "https://www.wikidata.org/wiki/Q185068"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

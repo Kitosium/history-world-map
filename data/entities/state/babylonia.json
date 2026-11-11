@@ -1,0 +1,170 @@
+{
+  "id": "babylonia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q47690",
+  "names": {
+    "canonical": {
+      "vi": "văn minh cổ Babylon",
+      "en": "Babylonia",
+      "zh-CN": "巴比倫尼亞",
+      "zh-TW": "巴比倫尼亞",
+      "ja": "バビロニア",
+      "fr": "Babylonie",
+      "es": "Imperio babilónico",
+      "ar": "بلاد بابل",
+      "ru": "Вавилония",
+      "de": "Babylonien"
+    },
+    "aliases": {
+      "es": [
+        "Babylonia",
+        "Reino de Babilonia",
+        "Imperio de Babilonia",
+        "Reino babilónico",
+        "Babilonia"
+      ],
+      "ru": [
+        "Вавилонии",
+        "Кар-Дуниаш",
+        "Вавилонское царство"
+      ],
+      "fr": [
+        "Royaume de Babylone",
+        "Royaume babylonien",
+        "Babyloniens",
+        "Empire babylonien",
+        "Babylonien",
+        "Babylone"
+      ],
+      "de": [
+        "Sinear",
+        "Babylonisches Reich"
+      ],
+      "ja": [
+        "バビロニア帝国",
+        "バビュロニア",
+        "古代バビロニア",
+        "シュメールとアッカド",
+        "バビロニア諸王朝"
+      ],
+      "vi": [
+        "triều đại Babylon đầu tiên",
+        "Babylonia"
+      ],
+      "en": [
+        "Babylonian Kingdom"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat an Euphrat und Tigris",
+    "en": "historical country",
+    "fr": "État historique sur l'Euphrate et le Tigre",
+    "ar": "دولة قديمة قامت في جنوب بلاد ما بين النهرين",
+    "es": "estado localizado en la región central-sur de Mesopotamia",
+    "vi": "quốc gia và vùng văn hóa nói tiếng Akkad cổ đại ở thành Babylon, miền trung-nam Lưỡng Hà",
+    "ru": "древнее царство на Ближнем Востоке",
+    "ja": "メソポタミア南部の地域名"
+  },
+  "existence": {
+    "from": {
+      "year": -1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 TCN"
+    },
+    "to": {
+      "year": -700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 TCN"
+    },
+    "duration_years": 800,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1500,
+    -1000,
+    -700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1500,
+      -1000,
+      -700
+    ],
+    "first_observed_year": -1500,
+    "last_observed_year": -700,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Babylonia",
+    "wikidata": "https://www.wikidata.org/wiki/Q47690"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

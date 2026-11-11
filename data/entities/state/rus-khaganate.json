@@ -1,0 +1,129 @@
+{
+  "id": "rus-khaganate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1618896",
+  "names": {
+    "canonical": {
+      "vi": "Khả hãn quốc Rus'",
+      "en": "Rus' Khaganate",
+      "zh-CN": "羅斯汗國",
+      "zh-TW": "羅斯汗國",
+      "ja": "ルーシ・カガン国",
+      "fr": "Khanat de la Rus'",
+      "es": "Kanato de Rus'",
+      "ar": "الخاقانية الروسية",
+      "ru": "Русский каганат"
+    },
+    "aliases": {
+      "fr": [
+        "Khaganat de Rus'"
+      ],
+      "es": [
+        "Jaganato de Rus",
+        "Vikingos del Volga",
+        "Khaganato de Rus",
+        "Jaganato de los Rus",
+        "Janato de Rus",
+        "Jaganato de Rus'",
+        "Kanato de Rus"
+      ],
+      "ja": [
+        "ルーシ・ハーン国"
+      ],
+      "zh-CN": [
+        "罗斯汗国"
+      ],
+      "en": [
+        "Rus Khaganate",
+        "Khaganate of Rus",
+        "Khaganate of Rus'"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "hypothetical 8th–9th century polity in Eastern Europe",
+    "de": "historischer Staat",
+    "ru": "гипотетическое государство в Восточной Европе",
+    "es": "estado hipotético en Europa Oriental",
+    "ja": "8世紀頃に存在した国家",
+    "fr": "Ensemble de villes formant un état dans l'empire des Rus' de Kiev",
+    "vi": "Khả hãn quốc Rus' (Rus' Khaganate) là một state lịch sử tồn tại từ 800 SCN đến 800 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "to": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    800
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      800
+    ],
+    "first_observed_year": 800,
+    "last_observed_year": 800,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rus%27%20Khaganate",
+    "wikidata": "https://www.wikidata.org/wiki/Q1618896"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

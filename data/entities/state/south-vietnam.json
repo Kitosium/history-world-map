@@ -1,0 +1,106 @@
+{
+  "id": "south-vietnam",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q180573",
+  "names": {
+    "canonical": {
+      "vi": "Việt Nam Cộng hòa / Cộng hòa Miền Nam Việt Nam (1955–1976)",
+      "en": "Republic of Vietnam / Provisional Revolutionary Government of South Vietnam",
+      "zh-CN": "越南共和国 / 越南南方共和国",
+      "zh-TW": "越南共和國 / 越南南方共和國",
+      "ja": "ベトナム共和国 / 南ベトナム共和国",
+      "fr": "Republic of Vietnam / Provisional Revolutionary Government of South Vietnam",
+      "es": "Republic of Vietnam / Provisional Revolutionary Government of South Vietnam",
+      "de": "Republic of Vietnam / Provisional Revolutionary Government of South Vietnam",
+      "ru": "Republic of Vietnam / Provisional Revolutionary Government of South Vietnam",
+      "ar": "Republic of Vietnam / Provisional Revolutionary Government of South Vietnam"
+    },
+    "aliases": {
+      "vi": [
+        "Việt Nam Cộng hòa",
+        "Cộng hòa Miền Nam Việt Nam",
+        "Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam",
+        "Quốc gia Việt Nam (1949–1955)",
+        "Miền Nam Việt Nam"
+      ],
+      "en": [
+        "South Vietnam",
+        "Republic of Vietnam",
+        "Provisional Revolutionary Government of the Republic of South Vietnam",
+        "State of Vietnam"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Các chính thể tồn tại ở miền Nam vĩ tuyến 17 trong giai đoạn đất nước tạm thời chia cắt (1954–1976): Quốc gia Việt Nam (1949–1955), Việt Nam Cộng hòa (1955–1975) và Chính phủ Cách mạng lâm thời Cộng hòa Miền Nam Việt Nam (1969–1976), quản lý thực tế quần đảo Hoàng Sa và quần đảo Trường Sa trước khi thống nhất đất nước ngày 2/7/1976.",
+    "en": "Polities in southern Vietnam south of the 17th parallel prior to national reunification (1954–1976): the State of Vietnam (1949–1955), Republic of Vietnam (1955–1975), and the Provisional Revolutionary Government of the Republic of South Vietnam (1969–1976), including administration of the Paracel and Spratly Islands."
+  },
+  "existence": {
+    "from": {
+      "year": 1949,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "26/10/1949 SCN",
+      "month": 10,
+      "day": 26
+    },
+    "to": {
+      "year": 1976,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "30/04/1976 SCN",
+      "month": 4,
+      "day": 30
+    },
+    "duration_years": 27,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1960
+  ],
+  "spatial_coverage": {
+    "observed_years": [],
+    "first_observed_year": null,
+    "last_observed_year": null,
+    "feature_count": 0,
+    "boundary_source_ids": [],
+    "boundary_confidence": null,
+    "boundary_precision": null,
+    "border_precision": null
+  },
+  "boundary_references": [],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-khao-co",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co",
+      "src-wikidata"
+    ],
+    "boundaries": [],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Existence/names are supported by authoritative sources; no boundary geometry is asserted.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "wikidata": "https://www.wikidata.org/wiki/Q180573"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

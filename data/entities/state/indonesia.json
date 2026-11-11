@@ -1,0 +1,218 @@
+{
+  "id": "indonesia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q252",
+  "names": {
+    "canonical": {
+      "vi": "Indonesia",
+      "en": "Indonesia",
+      "zh-CN": "印度尼西亚",
+      "zh-TW": "印度尼西亞",
+      "ja": "インドネシア",
+      "fr": "Indonésie",
+      "es": "Indonesia",
+      "ar": "إندونيسيا",
+      "ru": "Индонезия",
+      "de": "Indonesien"
+    },
+    "aliases": {
+      "en": [
+        "Republic of Indonesia",
+        "id"
+      ],
+      "zh-CN": [
+        "印度尼西亚共和国",
+        "努山達拉人民國"
+      ],
+      "ru": [
+        "Республика Индонезия",
+        "РИ"
+      ],
+      "es": [
+        "República de Indonesia"
+      ],
+      "ja": [
+        "インドネシア共和国"
+      ],
+      "fr": [
+        "République d'Indonésie",
+        "Indonesie"
+      ],
+      "ar": [
+        "جمهورية إندونيسيا"
+      ],
+      "de": [
+        "Republik Indonesien"
+      ],
+      "vi": [
+        "Cộng hòa Indonesia",
+        "Cộng hoà Indonesia",
+        "Ấn Độ Nê Tây Á",
+        "Ấn Ni"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Asie du Sud-Est",
+    "zh-CN": "东南亚国家",
+    "ru": "страна в Юго-Восточной Азии",
+    "zh-TW": "東南亞與大洋洲的國家",
+    "es": "país insular de Asia Sudoriental y Oceanía",
+    "de": "Inselstaat in Südostasien und Ozeanien",
+    "ar": "دولة عابرة للقارات تقع في جنوب شرق آسيا و في أوقيانوسيا",
+    "en": "island country in Southeast Asia and Oceania",
+    "vi": "quốc đảo có chủ quyền ở Đông Nam Á và Châu Đại Dương",
+    "ja": "東南アジアの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "17/08/1945 SCN",
+      "month": 8,
+      "day": 17
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "03/11/2026 SCN",
+      "month": 11,
+      "day": 3
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Indonesia",
+    "wikidata": "https://www.wikidata.org/wiki/Q252"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

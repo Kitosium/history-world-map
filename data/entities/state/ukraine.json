@@ -1,0 +1,194 @@
+{
+  "id": "ukraine",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q212",
+  "names": {
+    "canonical": {
+      "vi": "Ukraina",
+      "en": "Ukraine",
+      "zh-CN": "乌克兰",
+      "zh-TW": "烏克蘭",
+      "ja": "ウクライナ",
+      "fr": "Ukraine",
+      "es": "Ucrania",
+      "ar": "أوكرانيا",
+      "ru": "Украина",
+      "de": "Ukraine"
+    },
+    "aliases": {
+      "en": [
+        "Ukrainia",
+        "Ukr.",
+        "Ukraina",
+        "Ukraïna"
+      ],
+      "fr": [
+        "Ukr."
+      ],
+      "zh-CN": [
+        "乌克兰"
+      ],
+      "vi": [
+        "Ucraina",
+        "U-crai-na",
+        "Uy Kiên",
+        "Ô Khắc Lan"
+      ],
+      "es": [
+        "Ukrainia",
+        "🇺🇦",
+        "Ukraina",
+        "Ucraina"
+      ],
+      "ja": [
+        "ウクライナ共和国"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Europe de l'Est",
+    "ru": "государство в Центральной и Восточной Европе",
+    "de": "Staat in Osteuropa",
+    "ar": "دولة في شرق أوروبا",
+    "zh-CN": "東歐國家",
+    "en": "country in Eastern Europe",
+    "vi": "quốc gia ở Đông Âu",
+    "es": "país de Europa Oriental",
+    "ja": "東ヨーロッパの国",
+    "zh-TW": "東歐國家"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 106,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 2026,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ukraine",
+    "wikidata": "https://www.wikidata.org/wiki/Q212"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

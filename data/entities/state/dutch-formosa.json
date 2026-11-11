@@ -1,0 +1,146 @@
+{
+  "id": "dutch-formosa",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q699446",
+  "names": {
+    "canonical": {
+      "vi": "Formosa thuộc Hà Lan",
+      "en": "Dutch Formosa",
+      "zh-CN": "台灣荷蘭統治時期",
+      "zh-TW": "台灣荷蘭統治時期",
+      "ja": "オランダ統治時代",
+      "fr": "Formose hollandaise",
+      "es": "Formosa holandesa",
+      "ar": "فورموسا الهولندية",
+      "ru": "Голландская Формоза",
+      "de": "Niederländisch-Formosa"
+    },
+    "aliases": {
+      "zh-CN": [
+        "荷屬福爾摩沙",
+        "臺灣荷治時期",
+        "荷治時期",
+        "台灣荷蘭殖民時期",
+        "荷屬福爾摩莎",
+        "荷蘭統治時期",
+        "荷據時期",
+        "台灣荷治時期"
+      ],
+      "ja": [
+        "オランダ植民統治時代",
+        "オランダ領フォルモサ"
+      ],
+      "vi": [
+        "Formosa thuộc Hòa Lan",
+        "Đài Loan thuộc Hà Lan",
+        "Thời kỳ Hà Lan thống trị Đài Loan"
+      ],
+      "es": [
+        "Taiwan bajo dominio neerlandés",
+        "Taiwán bajo dominio neerlandés",
+        "Taiwan bajo dominio neerlandes"
+      ],
+      "en": [
+        "Formosa Holandesa",
+        "Dutch Taiwan",
+        "Dutch colonial rule of Taiwan"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Dutch colony, 1624–1662",
+    "zh-CN": "荷蘭統治臺灣的歷史時期",
+    "de": "europäische Kolonialzeit auf Taiwan",
+    "ja": "オランダ統治時代の台湾 (1624-1662)",
+    "vi": "Formosa thuộc Hà Lan (Dutch Formosa) là một state lịch sử tồn tại từ 1650 SCN đến 1700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1700 SCN"
+    },
+    "duration_years": 50,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1700,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dutch%20Formosa",
+    "wikidata": "https://www.wikidata.org/wiki/Q699446"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

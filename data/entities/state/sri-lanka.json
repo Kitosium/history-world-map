@@ -1,0 +1,233 @@
+{
+  "id": "sri-lanka",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q854",
+  "names": {
+    "canonical": {
+      "vi": "Sri Lanka",
+      "en": "Sri Lanka",
+      "zh-CN": "斯里兰卡",
+      "zh-TW": "斯里蘭卡",
+      "ja": "スリランカ",
+      "fr": "Sri Lanka",
+      "es": "Sri Lanka",
+      "ar": "سريلانكا",
+      "ru": "Шри-Ланка",
+      "de": "Sri Lanka"
+    },
+    "aliases": {
+      "fr": [
+        "Ceylan",
+        "Taprobane",
+        "Serendib",
+        "la République socialiste démocratique de Sri Lanka",
+        "île de Ceylan"
+      ],
+      "en": [
+        "Democratic Socialist Republic of Sri Lanka",
+        "Taprobane",
+        "Serendib",
+        "Ceylan",
+        "lk",
+        "Lanka, Sri",
+        "sri",
+        "lke",
+        "ce",
+        "Srilanka",
+        "SRI"
+      ],
+      "zh-CN": [
+        "锡兰"
+      ],
+      "ru": [
+        "Демократическая Социалистическая Республика Шри-Ланка",
+        "Цейлон",
+        "Ланкийцы",
+        "Sri Lanka",
+        "Шри ланка",
+        "Шри Ланка"
+      ],
+      "es": [
+        "República Democrática Socialista de Sri Lanka",
+        "Ceilán",
+        "Heladiva",
+        "Esrilanca"
+      ],
+      "ja": [
+        "スリランカ民主社会主義共和国",
+        "スリ・ランカ",
+        "スリ・ランカ民主社会主義共和国",
+        "セイロン",
+        "錫",
+        "師子国"
+      ],
+      "ar": [
+        "جمهورية سريلنكا الاشتراكية الديمقراطية",
+        "سري لنكا",
+        "سريلنكا"
+      ],
+      "vi": [
+        "Tích Lan"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays insulaire d'Asie du Sud indépendant depuis 1972",
+    "zh-CN": "南亚国家",
+    "ru": "островное государство в Южной Азии, к юго-востоку от полуострова Индостана",
+    "vi": "quốc đảo ở Nam Á",
+    "zh-TW": "南亞國家",
+    "es": "país insular de Asia del Sur",
+    "de": "Inselstaat südöstlich des indischen Subkontinents in Südasien",
+    "ar": "دولة في جنوب آسيا",
+    "en": "island country in South Asia",
+    "ja": "南アジアの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sri%20Lanka",
+    "wikidata": "https://www.wikidata.org/wiki/Q854"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

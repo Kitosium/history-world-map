@@ -1,0 +1,202 @@
+{
+  "id": "yugoslavia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q36704",
+  "names": {
+    "canonical": {
+      "vi": "Nam Tư",
+      "en": "Yugoslavia",
+      "zh-CN": "南斯拉夫",
+      "zh-TW": "南斯拉夫",
+      "ja": "ユーゴスラビア",
+      "fr": "Yougoslavie",
+      "es": "Yugoslavia",
+      "ar": "يوغوسلافيا",
+      "ru": "Югославия",
+      "de": "Jugoslawien"
+    },
+    "aliases": {
+      "zh-CN": [
+        "前南斯拉夫",
+        "南聯盟"
+      ],
+      "ar": [
+        "يوغسلافية",
+        "يوغسلافيا",
+        "اليوغوسلافي",
+        "الاتحاد اليوغسلافي",
+        "يوجوسلافيا",
+        "الإتحاد اليوغوسلافي",
+        "الاتحاد اليوغوسلافي"
+      ],
+      "fr": [
+        "Yougo",
+        "Yugoslavia",
+        "Youg."
+      ],
+      "de": [
+        "Jugoslavija",
+        "Yugoslavien",
+        "Југославија",
+        "SHS-Königreich",
+        "Südslawien",
+        "Jugoszlávia",
+        "Jugosllavia",
+        "Ex-Jugoslawien",
+        "Yugoslawien"
+      ],
+      "ja": [
+        "セルビア・クロアチア・スロベニア王国",
+        "ユーゴスラビア改名",
+        "ユーゴスラヴィア",
+        "セルブ・クロアート・スロヴェーヌ王国"
+      ],
+      "vi": [
+        "Liên bang Nam Tư",
+        "Yugoslavia",
+        "Nam-tư"
+      ],
+      "ru": [
+        "СРЮ",
+        "Союзная республика Югославия"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Staat in Mittel- und Südosteuropa (1918–2003)",
+    "en": "1918–1992 country in Southeastern Europe",
+    "fr": "ancien pays d'Europe du Sud-Est ayant eu divers gouvernements de 1918 à 2003",
+    "es": "país en Europa (1918-1992)",
+    "ru": "государство в Европе, существовавшее с 1918 по 2003 год",
+    "zh-CN": "前东南欧国家",
+    "zh-TW": "前東南歐國家",
+    "ar": "دولة سابقة في جنوب شرق أوروبا",
+    "vi": "cựu quốc gia ở Đông Nam Âu (1918 — 2003)",
+    "ja": "南東ヨーロッパのバルカン半島地域に存在した国家 (1918-1992)"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 1960,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1960 SCN"
+    },
+    "duration_years": 40,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930,
+    1938,
+    1945,
+    1960
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930,
+      1938,
+      1945,
+      1960
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 1960,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yugoslavia",
+    "wikidata": "https://www.wikidata.org/wiki/Q36704"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

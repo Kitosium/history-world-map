@@ -1,0 +1,180 @@
+{
+  "id": "turkmenistan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q874",
+  "names": {
+    "canonical": {
+      "vi": "Turkmenistan",
+      "en": "Turkmenistan",
+      "zh-CN": "土库曼斯坦",
+      "zh-TW": "土庫曼",
+      "ja": "トルクメニスタン",
+      "fr": "Turkménistan",
+      "es": "Turkmenistán",
+      "ar": "تركمانستان",
+      "ru": "Туркменистан",
+      "de": "Turkmenistan"
+    },
+    "aliases": {
+      "es": [
+        "Turcmenistán",
+        "Türkmenistán"
+      ],
+      "en": [
+        "Turkmenia",
+        "tm",
+        "TKM"
+      ],
+      "ru": [
+        "Туркмения"
+      ],
+      "fr": [
+        "Turkménie",
+        "Turkmenistan"
+      ],
+      "de": [
+        "Turkmenien",
+        "Türkmenistan"
+      ],
+      "zh-CN": [
+        "土库曼斯坦"
+      ],
+      "ar": [
+        "تركمانيا"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in Central Asia",
+    "de": "Staat in Zentralasien",
+    "es": "país de Asia Central",
+    "fr": "pays souverain d'Asie centrale indépendant depuis 1991",
+    "ru": "государство в Центральной Азии",
+    "ar": "دولة في آسيا الوسطى",
+    "ja": "中央アジアの国",
+    "zh-CN": "中亞國家",
+    "zh-TW": "中亞國家",
+    "vi": "quốc gia thuộc khu vực Trung Á"
+  },
+  "existence": {
+    "from": {
+      "year": 1994,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1994 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 32,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1994,
+    "last_observed_year": 2026,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Turkmenistan",
+    "wikidata": "https://www.wikidata.org/wiki/Q874"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

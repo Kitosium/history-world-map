@@ -1,0 +1,66 @@
+{
+  "id": "src-luong-ninh",
+  "schema_version": "1.3.0",
+  "type": "academic_monograph",
+  "title": {
+    "canonical": {
+      "vi": "Lịch sử Vương quốc Champa",
+      "en": "History of the Kingdom of Champa",
+      "zh-CN": "占婆王国历史"
+    }
+  },
+  "creators": [
+    {
+      "name": "Lương Ninh",
+      "role": "author",
+      "affiliation": "Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội"
+    }
+  ],
+  "publication": {
+    "publisher": "Nhà xuất bản Đại học Quốc gia Hà Nội",
+    "year": 2004,
+    "place": "Hà Nội",
+    "edition": "In lần thứ nhất",
+    "language": "vi",
+    "notes": "Chuyên khảo về 5 tiểu quốc Champa; không có bản PDF công khai hợp pháp."
+  },
+  "digital_access": [
+    {
+      "label": "WorldCat — tìm bản in theo tên sách",
+      "url": "https://search.worldcat.org/search?q=L%E1%BB%8Bch+s%E1%BB%AD+V%C6%B0%C6%A1ng+qu%E1%BB%91c+Champa",
+      "access_type": "catalogue",
+      "format": "html",
+      "provider": "OCLC WorldCat",
+      "notes": "Dùng để tra cứu thư viện sở hữu; không có PDF công khai."
+    },
+    {
+      "label": "Open Library — tìm kiếm theo tên sách",
+      "url": "https://openlibrary.org/search?q=L%E1%BB%8Bch+s%E1%BB%AD+V%C6%B0%C6%A1ng+qu%E1%BB%91c+Champa",
+      "access_type": "catalogue",
+      "format": "html",
+      "provider": "Open Library",
+      "notes": "Có thể chưa có bản ghi chính xác; dùng WorldCat để đối chiếu."
+    }
+  ],
+  "license": {
+    "name": "In copyright",
+    "spdx": "NOASSERTION"
+  },
+  "coverage": {
+    "temporal": "2nd - 19th century CE",
+    "spatial": "central and southern Vietnam",
+    "geometry": "historical-geographical synthesis"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_3_peer_reviewed_academic",
+    "historiographical_notes": "Chuyên khảo học thuật toàn diện về không gian lịch sử 5 tiểu quốc Champa (Amaravati, Vijaya, Kauthara, Panduranga, Indrapura), hệ thống thành lũy và đền tháp.",
+    "spatial_precision_rating": "historical_geographical_survey"
+  },
+  "citation_formats": {
+    "chicago": "Lương Ninh. Lịch sử Vương quốc Champa. Hà Nội: Nhà xuất bản Đại học Quốc gia Hà Nội, 2004.",
+    "apa": "Lương, N. (2004). Lịch sử Vương quốc Champa. Nhà xuất bản Đại học Quốc gia Hà Nội.",
+    "bibtex": "@book{luongninh2004, author={Lương Ninh}, title={Lịch sử Vương quốc Champa}, year={2004}, publisher={Nhà xuất bản Đại học Quốc gia Hà Nội}, address={Hà Nội}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "trieu",
+  "state_id": "nam-viet",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Triệu (Triệu triều)",
+      "en": "Zhao dynasty of Nanyue",
+      "zh-CN": "赵朝 (南越国)",
+      "ja": "趙朝 (南越国)"
+    }
+  },
+  "from_year": -204,
+  "to_year": -111,
+  "capital": "panyu",
+  "source_ids": [
+    "src-shiji",
+    "src-dai-viet"
+  ]
+}

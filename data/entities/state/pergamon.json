@@ -1,0 +1,138 @@
+{
+  "id": "pergamon",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q18986",
+  "names": {
+    "canonical": {
+      "vi": "Pergamon",
+      "en": "Pergamon",
+      "zh-CN": "帕加马",
+      "zh-TW": "帕加马",
+      "ja": "ペルガモン",
+      "fr": "Pergame",
+      "es": "Pérgamo",
+      "ar": "فرغامس",
+      "ru": "Пергам",
+      "de": "Pergamon"
+    },
+    "aliases": {
+      "zh-CN": [
+        "拍加马",
+        "珀耳伽摩斯",
+        "拍加马王国",
+        "柏加曼城",
+        "別迦摩"
+      ],
+      "es": [
+        "Pergamo"
+      ],
+      "ru": [
+        "Пергамон"
+      ],
+      "de": [
+        "Pergamenisches Reich"
+      ],
+      "ja": [
+        "ベルガモン",
+        "ペルガマ"
+      ],
+      "en": [
+        "Pergamum",
+        "Pergamos",
+        "Mint of Pergamum"
+      ],
+      "ar": [
+        "بيرغامون",
+        "برغامون",
+        "برغامس"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "antigua ciudad de Misia, en Anatolia",
+    "de": "antike griechische Stadt in der heutigen Türkei",
+    "fr": "cité historique d'Asie Mineure",
+    "ru": "античный город в Мизии",
+    "vi": "Thành phố Hy Lạp cổ đại",
+    "ja": "トルコの遺跡",
+    "en": "ancient city of Ionia in modern-day Turkey and UNESCO World Heritage Site",
+    "ar": "مدينة تاريخية قديمة تقع في الأناضول"
+  },
+  "existence": {
+    "from": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "to": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pergamon",
+    "wikidata": "https://www.wikidata.org/wiki/Q18986"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

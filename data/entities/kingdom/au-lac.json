@@ -1,0 +1,153 @@
+{
+  "id": "au-lac",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q1056580",
+  "names": {
+    "canonical": {
+      "vi": "Âu Lạc",
+      "en": "Âu Lạc",
+      "zh-CN": "瓯雒",
+      "zh-TW": "甌駱",
+      "ja": "オウラック",
+      "fr": "Âu Lạc",
+      "es": "Âu Lạc",
+      "de": "Âu Lạc",
+      "ru": "Аулак",
+      "ar": "أو لاك"
+    },
+    "aliases": {
+      "vi": [
+        "Nhà nước Âu Lạc",
+        "Kỷ Thục An Dương Vương",
+        "Nước Âu Lạc",
+        "Thành Cổ Loa"
+      ],
+      "en": [
+        "Au Lac",
+        "Kingdom of Au Lac",
+        "Thuc dynasty"
+      ],
+      "zh-CN": [
+        "瓯骆",
+        "甌雒",
+        "蜀朝",
+        "安阳王"
+      ],
+      "ja": [
+        "甌駱",
+        "蜀泮"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Nhà nước cổ đại do Thục Phán An Dương Vương sáng lập sau khi hợp nhất người Tây Âu và Lạc Việt, nổi tiếng với kinh thành Cổ Loa hình xoáy ốc và kỹ thuật chế tạo nỏ liên châu.",
+    "en": "Ancient kingdom founded by An Dương Vương after uniting the Tây Âu and Lạc Việt peoples, renowned for its spiral fortress of Cổ Loa and bronze metallurgy.",
+    "zh-CN": "由蜀泮（安阳王）合并西瓯与骆越建立的古代王国，建都于螺城（古螺），防御工事坚固。",
+    "ja": "蜀泮（安陽王）が西甌と駱越を統合して建国した古代ベトナムの王国。螺旋状の古螺城で知られる。",
+    "fr": "Royaume ancien fondé par An Dương Vương unissant les peuples Tây Âu et Lạc Việt, célèbre pour la forteresse en spirale de Cổ Loa.",
+    "es": "Reino antiguo fundado por An Dương Vương tras unificar los pueblos Tây Âu y Lạc Việt, célebre por la fortaleza espiral de Cổ Loa.",
+    "de": "Antikes Königreich, gegründet von An Dương Vương nach Vereinigung von Tây Âu und Lạc Việt, bekannt für die Festung Cổ Loa.",
+    "ru": "Древнее вьетское государство, основанное Ан Зыонг-выонгом после объединения тейау и лаквьетов, со столицей в крепости Колоа.",
+    "ar": "مملكة قديمة أسسها آن دونغ فونغ بعد توحيد شعبي تاي أو ولاك فييت، واشتهرت بقلعة كو لوا الحلزونية."
+  },
+  "existence": {
+    "from": {
+      "year": -257,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "257 TCN"
+    },
+    "to": {
+      "year": -179,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "179 TCN"
+    },
+    "duration_years": 78,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "state_formation",
+      "vi": "Thục Phán đánh bại Hùng Vương, thống nhất các bộ tộc Âu Việt và Lạc Việt, lập đô tại Cổ Loa",
+      "en": "Thuc Phan defeated the Hung king, merged Au Viet and Lac Viet, establishing Co Loa citadel"
+    },
+    "dissolution_reason": {
+      "type": "military_conquest",
+      "vi": "Triệu Đà (Nam Việt) dùng mưu kế chiếm Cổ Loa, sáp nhập Âu Lạc vào Nam Việt",
+      "en": "Zhao Tuo of Nanyue conquered Co Loa and incorporated Au Lac into Nanyue"
+    },
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co",
+      "src-shiji"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "historical_reconstruction",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet",
+        "src-khao-co",
+        "src-shiji"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-khao-co",
+    "src-shiji",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co",
+      "src-shiji",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co",
+      "src-shiji"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/%C3%82u_L%E1%BA%A1c",
+    "wikidata": "https://www.wikidata.org/wiki/Q1056580"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

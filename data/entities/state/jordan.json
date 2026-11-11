@@ -1,0 +1,222 @@
+{
+  "id": "jordan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q810",
+  "names": {
+    "canonical": {
+      "vi": "Jordan",
+      "en": "Jordan",
+      "zh-CN": "约旦",
+      "zh-TW": "約旦",
+      "ja": "ヨルダン",
+      "fr": "Jordanie",
+      "es": "Jordania",
+      "ar": "الأردن",
+      "ru": "Иордания",
+      "de": "Jordanien"
+    },
+    "aliases": {
+      "ru": [
+        "Иорданское Хашимитское Королевство"
+      ],
+      "ar": [
+        "المملكة الأردنيّة الهاشميّة",
+        "الاردن"
+      ],
+      "es": [
+        "Reino Hachemita de Jordania"
+      ],
+      "en": [
+        "Hashemite Kingdom of Jordan",
+        "Kingdom of Jordan",
+        "Yarden",
+        "Giordania",
+        "ISO 3166-1:JO",
+        "HKJ",
+        "State of Jordan"
+      ],
+      "ja": [
+        "ヨルダン・ハシェミット王国"
+      ],
+      "fr": [
+        "Royaume hachémite de Jordanie",
+        "Jord."
+      ],
+      "zh-CN": [
+        "约旦"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "État du Proche-Orient, monarchie créée en 1946",
+    "zh-CN": "中东国家",
+    "ru": "государство на Ближнем Востоке",
+    "zh-TW": "中東國家",
+    "es": "país de Asia Occidental",
+    "de": "Staat in Vorderasien",
+    "ar": "دولة عربية تقع في غرب آسيا",
+    "en": "country in West Asia",
+    "ja": "西アジアの国",
+    "vi": "quốc gia nằm ở khu vực Tây Á"
+  },
+  "existence": {
+    "from": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 88,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1938,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jordan",
+    "wikidata": "https://www.wikidata.org/wiki/Q810"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

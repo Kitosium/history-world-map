@@ -1,0 +1,189 @@
+{
+  "id": "kushan-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q25979",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Quý Sương",
+      "en": "Kushan Empire",
+      "zh-CN": "贵霜帝国",
+      "zh-TW": "貴霜帝國",
+      "ja": "クシャーナ朝",
+      "fr": "Empire kouchan",
+      "es": "Imperio kushán",
+      "ar": "الإمبراطورية الكوشانية",
+      "ru": "Кушанское царство",
+      "de": "Kuschana"
+    },
+    "aliases": {
+      "zh-CN": [
+        "贵霜皇朝",
+        "贵霜王朝",
+        "贵霜国",
+        "贵霜王国",
+        "贵霜"
+      ],
+      "es": [
+        "Imperio kushān",
+        "Imperio kusán",
+        "Kushanes",
+        "Imperio kushana",
+        "Imperio kushan",
+        "Imperio kusan"
+      ],
+      "ru": [
+        "Кушанская империя",
+        "Кушан",
+        "Империя кушан",
+        "Кушаны"
+      ],
+      "fr": [
+        "Empire indien des Kouchans Kushana",
+        "Kuṣāṇa",
+        "Empire kushan",
+        "Empire guishuang"
+      ],
+      "de": [
+        "Kushan",
+        "Kushan-Reich",
+        "Kuṣāṇ",
+        "Kushana",
+        "Kuschan-Reich",
+        "Tocharistan",
+        "Kuschanen",
+        "Kuschana-Zeit",
+        "Kuschan"
+      ],
+      "ja": [
+        "クシャーナ国",
+        "クシャーナ",
+        "貴霜朝",
+        "クシャーナ族",
+        "貴霜",
+        "貴霜王朝",
+        "クシャーニヤ",
+        "クシャン帝国",
+        "クシャナ朝",
+        "クシャン朝",
+        "クシャーン",
+        "クシャーン朝",
+        "クシャナ国"
+      ],
+      "vi": [
+        "Vương triều Quý Sương",
+        "Đế quốc Kushan",
+        "Vương quốc Quý Sương"
+      ],
+      "zh-TW": [
+        "貴霜皇朝",
+        "貴霜王朝",
+        "貴霜國",
+        "貴霜王國",
+        "貴霜"
+      ],
+      "en": [
+        "Guishuang",
+        "Kuṣāṇa Empire",
+        "Kushana Empire"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "empire in Central and South Asia (30–375 AD)",
+    "zh-CN": "古代中亚的帝国",
+    "zh-TW": "古代中亞的帝國",
+    "es": "imperio del centro y sur de Asia",
+    "de": "Herrscher in Zentralasien und Nordindien",
+    "fr": "ancien empire en Asie centrale et Asie du sud (Ier-IVe siècles de notre ère)",
+    "vi": "Đế quốc Quý Sương (Kushan Empire) là một state lịch sử tồn tại từ 100 TCN đến 100 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": -100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 TCN"
+    },
+    "to": {
+      "year": 100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 SCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -100,
+    100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -100,
+      100
+    ],
+    "first_observed_year": -100,
+    "last_observed_year": 100,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kushan%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q25979"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

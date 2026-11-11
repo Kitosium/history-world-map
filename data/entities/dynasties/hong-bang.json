@@ -1,0 +1,19 @@
+{
+  "id": "hong-bang",
+  "state_id": "van-lang",
+  "names": {
+    "canonical": {
+      "vi": "Họ Hồng Bàng (Thời đại Hùng Vương)",
+      "en": "Hong Bang dynasty (Era of Hung Kings)",
+      "zh-CN": "鸿庞氏 (雄王时代)",
+      "ja": "鴻龐氏 (雄王時代)"
+    }
+  },
+  "from_year": -700,
+  "to_year": -258,
+  "capital": "phong-chau",
+  "source_ids": [
+    "src-dai-viet",
+    "src-dao-duy-anh"
+  ]
+}

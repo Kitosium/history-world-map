@@ -1,0 +1,147 @@
+{
+  "id": "norsemen",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1211290",
+  "names": {
+    "canonical": {
+      "vi": "Norsemen",
+      "en": "Norsemen",
+      "zh-CN": "諾爾斯人",
+      "zh-TW": "諾爾斯人",
+      "ja": "ノース人",
+      "fr": "Normands (scandinaves)",
+      "es": "nórdicos",
+      "ar": "شماليون",
+      "ru": "древние скандинавы",
+      "de": "nordgermanische Völker"
+    },
+    "aliases": {
+      "zh-CN": [
+        "北人",
+        "诺斯人",
+        "北蛮人",
+        "北欧人"
+      ],
+      "es": [
+        "nórdico",
+        "pueblo nórdico",
+        "pueblos nórdicos",
+        "hombres del Norte"
+      ],
+      "de": [
+        "nordische Völker",
+        "nordische Bevölkerung"
+      ],
+      "en": [
+        "Norseman",
+        "Northmen",
+        "Northman",
+        "Norse people",
+        "Norse peoples"
+      ],
+      "fr": [
+        "vikings",
+        "peuples scandinaves",
+        "peuples norrois",
+        "scandinaves"
+      ],
+      "ar": [
+        "شماليين",
+        "الشماليين",
+        "نورسمان",
+        "النورسمان",
+        "نورثمان",
+        "النورثمان"
+      ],
+      "ru": [
+        "норманны"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical ethnolinguistic group of people originating in Scandinavia",
+    "es": "grupo etnolingüístico",
+    "fr": "groupe ethnolinguistique historique de peuples d’origine scandinave",
+    "ar": "مجموعة عرقية لغوية يرجع أصلها إلى إسكندنافيا",
+    "de": "nordgermanische Sprachen sprechende Gruppe von Menschen",
+    "ru": "историческая этнолингвистическая группа людей, происходящая из Скандинавии",
+    "vi": "Norsemen (Norsemen) là một state lịch sử tồn tại từ 200 TCN đến 200 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "to": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Norsemen",
+    "wikidata": "https://www.wikidata.org/wiki/Q1211290"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

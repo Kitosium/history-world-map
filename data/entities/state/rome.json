@@ -1,0 +1,173 @@
+{
+  "id": "rome",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q220",
+  "names": {
+    "canonical": {
+      "vi": "Roma",
+      "en": "Rome",
+      "zh-CN": "罗马",
+      "zh-TW": "羅馬",
+      "ja": "ローマ",
+      "fr": "Rome",
+      "es": "Roma",
+      "ar": "روما",
+      "ru": "Рим",
+      "de": "Rom"
+    },
+    "aliases": {
+      "ar": [
+        "رومية",
+        "رومة"
+      ],
+      "fr": [
+        "La ville éternelle",
+        "La ville aux sept collines",
+        "l'Urbs"
+      ],
+      "en": [
+        "The Eternal City",
+        "Rome, Italy",
+        "City of Seven Hills",
+        "Eternal City",
+        "The City of Marble",
+        "City of Marble",
+        "The Capital of the World",
+        "Capital of the World"
+      ],
+      "ru": [
+        "Вечный город"
+      ],
+      "es": [
+        "La Ciudad Eterna"
+      ],
+      "de": [
+        "Die Ewige Stadt"
+      ],
+      "vi": [
+        "La Mã",
+        "Thành phố vĩnh hằng",
+        "Kinh đô thế giới",
+        "Thành phố bảy ngọn đồi",
+        "Thành phố đài phun nước"
+      ],
+      "ja": [
+        "永遠の都",
+        "ローマ市"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "capitale de l'Italie",
+    "zh-CN": "意大利首都及最大城市",
+    "zh-TW": "義大利首都及最大城市",
+    "de": "Haupt- und bevölkerungsreichste Stadt Italiens",
+    "ru": "столица Италии",
+    "ar": "عاصمة إيطاليا",
+    "en": "capital and largest city of Italy",
+    "es": "capital de Italia",
+    "ja": "イタリアの首都",
+    "vi": "thủ đô của Ý"
+  },
+  "existence": {
+    "from": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "to": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "duration_years": 300,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -500,
+    -323,
+    -200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -500,
+      -323,
+      -200
+    ],
+    "first_observed_year": -500,
+    "last_observed_year": -200,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rome",
+    "wikidata": "https://www.wikidata.org/wiki/Q220"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

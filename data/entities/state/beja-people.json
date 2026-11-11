@@ -1,0 +1,139 @@
+{
+  "id": "beja-people",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q813961",
+  "names": {
+    "canonical": {
+      "vi": "Beja people",
+      "en": "Beja people",
+      "zh-CN": "貝扎人",
+      "zh-TW": "貝扎人",
+      "ja": "ベジャ人",
+      "fr": "Bejas",
+      "es": "Pueblo beja",
+      "ar": "شعب البجا",
+      "ru": "Беджа (народ)",
+      "de": "Bedscha"
+    },
+    "aliases": {
+      "ru": [
+        "Беджа (народ в Африке)"
+      ],
+      "fr": [
+        "Bedja"
+      ],
+      "de": [
+        "Beni-Amer"
+      ],
+      "ar": [
+        "لغة البجا",
+        "لغة البجة",
+        "بجا (لغة)",
+        "لغات البيجا",
+        "لغات البجا",
+        "بيجا",
+        "لغة بجاوية",
+        "بجا",
+        "بجة",
+        "البجة",
+        "قبائل البجا",
+        "البجاة",
+        "بلاد البجة",
+        "بلاد البجا",
+        "بداويت",
+        "بجاويت"
+      ],
+      "es": [
+        "Beja (pueblo)"
+      ],
+      "zh-CN": [
+        "貝賈人"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ethnic group of Red Sea Hills",
+    "de": "Ethnie in Afrika",
+    "ar": "مجموعة عرقية في جبال البحر الأحمر و التاكا و سواحل مصوع و سواكن",
+    "ru": "Этническая группа в Судане, частях Эритреи и Египта",
+    "fr": "peuple d'Afrique de l'Est",
+    "vi": "Beja people (Beja people) là một state lịch sử tồn tại từ 900 SCN đến 900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      900
+    ],
+    "first_observed_year": 900,
+    "last_observed_year": 900,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Beja%20people",
+    "wikidata": "https://www.wikidata.org/wiki/Q813961"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

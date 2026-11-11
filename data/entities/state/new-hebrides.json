@@ -1,0 +1,143 @@
+{
+  "id": "new-hebrides",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q752431",
+  "names": {
+    "canonical": {
+      "vi": "Tân Hebrides",
+      "en": "New Hebrides",
+      "zh-CN": "新赫布里底群島",
+      "zh-TW": "新赫布里底群島",
+      "ja": "ニューヘブリディーズ諸島",
+      "fr": "condominium des Nouvelles-Hébrides",
+      "es": "Nuevas Hébridas",
+      "ar": "هيبريدس الجديدة",
+      "ru": "Новые Гебриды",
+      "de": "Kondominium Neue Hebriden"
+    },
+    "aliases": {
+      "zh-CN": [
+        "新赫布里底",
+        "新赫布里底群岛",
+        "新赫布里底共管地",
+        "新赫布里底群島共管地"
+      ],
+      "es": [
+        "Condominio Anglo-Francés",
+        "Condominio Franco Britanico",
+        "Condominio Franco-Británico",
+        "Condominio Anglo-Frances",
+        "Condominio Franco-Britanico",
+        "Condominio Franco Británico",
+        "Nuevas Hebridas",
+        "Condominio Anglo Frances",
+        "Condominio Anglo Francés"
+      ],
+      "ja": [
+        "ニューヘブリディース諸島",
+        "ニューヘブライズ",
+        "ニューヘブリデス諸島",
+        "ニュー・ヘブリディーズ諸島",
+        "ヌーベルゼブリード諸島",
+        "ニューヘブリディス諸島"
+      ],
+      "vi": [
+        "Nouvelles-Hébrides",
+        "New Hebrides"
+      ],
+      "de": [
+        "Neue Hebriden"
+      ],
+      "en": [
+        "New Hebrides Condominium"
+      ],
+      "fr": [
+        "New Hebrides Condominium"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "von Frankreich und Großbritannien gemeinsam verwaltetes Land (1906–1980)",
+    "en": "former country, now Vanuatu",
+    "fr": "colonie franco-britannique érigée dans l'archipel des Nouvelles-Hébrides, sur le territoire de l'actuel Vanuatu",
+    "es": "antiguo condominio franco-británico en Oceanía (1906-1980)",
+    "vi": "Tân Hebrides (New Hebrides) là một state lịch sử tồn tại từ 1938 SCN đến 1938 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1938
+    ],
+    "first_observed_year": 1938,
+    "last_observed_year": 1938,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/New%20Hebrides",
+    "wikidata": "https://www.wikidata.org/wiki/Q752431"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

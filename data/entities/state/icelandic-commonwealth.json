@@ -1,0 +1,142 @@
+{
+  "id": "icelandic-commonwealth",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q62389",
+  "names": {
+    "canonical": {
+      "vi": "Icelandic Commonwealth",
+      "en": "Icelandic Commonwealth",
+      "zh-CN": "冰島自由邦",
+      "zh-TW": "冰島自由邦",
+      "ja": "アイスランド自治州",
+      "fr": "État libre islandais",
+      "es": "Mancomunidad Islandesa",
+      "ar": "كومنولث آيسلندي",
+      "ru": "Исландия эпохи народовластия",
+      "de": "Freistaat Island"
+    },
+    "aliases": {
+      "ru": [
+        "Исландское народовластие",
+        "Исландия"
+      ],
+      "fr": [
+        "Thjodveldisold",
+        "Þjóðveldisöld",
+        "Etat libre islandais",
+        "Thjodveldisöld"
+      ],
+      "es": [
+        "Estado Libre Islandes",
+        "Estado Libre Islandés",
+        "Þjóðveldisöld"
+      ],
+      "en": [
+        "Þjóðveldið Ísland",
+        "Icelandic Free State",
+        "Free State of Iceland"
+      ],
+      "ja": [
+        "アイスランド共和国"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "predecessor state of Iceland",
+    "de": "historischer Staat",
+    "ru": "республиканское государство существовавшее на территории Исландии в 930—1262 годах",
+    "fr": "entité politique indépendante en Islande de 930 à 1262",
+    "zh-CN": "歐洲國家",
+    "es": "antiguo sistema político no estatal de Islandia (930-1264)",
+    "vi": "Icelandic Commonwealth (Icelandic Commonwealth) là một state lịch sử tồn tại từ 1000 SCN đến 1100 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1100 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1100,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Icelandic%20Commonwealth",
+    "wikidata": "https://www.wikidata.org/wiki/Q62389"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

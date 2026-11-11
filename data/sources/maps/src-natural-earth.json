@@ -1,0 +1,76 @@
+{
+  "id": "src-natural-earth",
+  "schema_version": "1.3.0",
+  "type": "authoritative_cartography",
+  "title": {
+    "canonical": {
+      "en": "Natural Earth Vector 1:10m Admin-0 Countries (2026 snapshot)",
+      "vi": "Natural Earth Vector 1:10.000.000 - Ranh giới Quốc gia (bản chụp 2026)"
+    }
+  },
+  "creators": [
+    {
+      "name": "Natural Earth",
+      "role": "compiler",
+      "affiliation": "NACIS / North American Cartographic Information Society"
+    }
+  ],
+  "publication": {
+    "publisher": "Natural Earth Data",
+    "year": 2022,
+    "place": "Washington D.C.",
+    "edition": "v5.1.2 (Admin-0, 1:10m)",
+    "snapshot_date": "2026-11-05",
+    "language": "en",
+    "volumes": "Admin-0 countries, 1:10m",
+    "notes": "Bản chụp ngày 2026-11-05 từ nhánh master của natural-earth-vector."
+  },
+  "digital_access": [
+    {
+      "url": "https://www.naturalearthdata.com/",
+      "access_type": "open_access"
+    },
+    {
+      "label": "natural-earth-vector (GitHub)",
+      "url": "https://github.com/nvkelso/natural-earth-vector",
+      "access_type": "open_access"
+    },
+    {
+      "label": "Admin-0 countries, 1:10m",
+      "url": "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/",
+      "access_type": "open_access",
+      "format": "shapefile/geojson",
+      "provider": "Natural Earth"
+    },
+    {
+      "label": "natural-earth-vector releases",
+      "url": "https://github.com/nvkelso/natural-earth-vector/releases",
+      "access_type": "open_access",
+      "format": "html",
+      "provider": "GitHub"
+    }
+  ],
+  "license": {
+    "name": "Public Domain",
+    "spdx": "CC0-1.0",
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+  },
+  "coverage": {
+    "temporal": "2026 snapshot (boundary data v5.1.2)",
+    "spatial": "global",
+    "geometry": "1:10m Admin-0 country polygons",
+    "border_precision": "surveyed / international law; disputed units flagged"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_3_authoritative_cartography",
+    "historiographical_notes": "Natural Earth là bộ dữ liệu bản đồ public domain, tổng hợp từ nguồn biên giới quốc gia và quốc tế. Lớp 2026 dùng edition 1:10m Admin-0. Các đơn vị disputed, lease và indeterminate được giữ nhưng gắn nhãn riêng. Không có PDF chính thức; dữ liệu được phân phối dưới dạng shapefile/GeoJSON.",
+    "spatial_precision_rating": "exact_survey"
+  },
+  "citation_formats": {
+    "chicago": "Natural Earth. Natural Earth Vector 1:10m Admin-0 Countries. Version 5.1.2. Washington, D.C.: Natural Earth Data, 2022. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/.",
+    "apa": "Natural Earth. (2022). Natural Earth vector 1:10m admin-0 countries (Version 5.1.2) [Data set]. Natural Earth Data. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/",
+    "bibtex": "@misc{naturalearth2022, author={{Natural Earth}}, title={Natural Earth Vector 1:10m Admin-0 Countries}, year={2022}, edition={v5.1.2}, publisher={Natural Earth Data}, url={https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

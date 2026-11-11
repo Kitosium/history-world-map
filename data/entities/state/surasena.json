@@ -1,0 +1,111 @@
+{
+  "id": "surasena",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1330149",
+  "names": {
+    "canonical": {
+      "vi": "Surasena",
+      "en": "Surasena",
+      "zh-CN": "苏罗娑",
+      "zh-TW": "苏罗娑",
+      "ja": "シューラセーナ国",
+      "es": "Surasena",
+      "ru": "Шурасена"
+    },
+    "aliases": {
+      "ru": [
+        "Сурасены",
+        "Шурасены",
+        "Сурасена"
+      ],
+      "es": [
+        "Sūrasena",
+        "Śūrasena",
+        "Śurasena"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Region of ancient India",
+    "de": "historischer Staat",
+    "ja": "古代インドの地域名",
+    "vi": "Surasena (Surasena) là một state lịch sử tồn tại từ 500 TCN đến 500 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "to": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -500
+    ],
+    "first_observed_year": -500,
+    "last_observed_year": -500,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Surasena",
+    "wikidata": "https://www.wikidata.org/wiki/Q1330149"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

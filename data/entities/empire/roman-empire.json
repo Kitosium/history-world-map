@@ -1,0 +1,150 @@
+{
+  "id": "roman-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q2277",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc La Mã",
+      "en": "Roman Empire",
+      "zh-CN": "罗马帝国",
+      "zh-TW": "羅馬帝國",
+      "ja": "ローマ帝国",
+      "fr": "Empire romain",
+      "es": "Imperio romano",
+      "ar": "الإمبراطورية الرومانية",
+      "ru": "Римская империя",
+      "de": "Römisches Kaiserreich"
+    },
+    "aliases": {
+      "en": [
+        "Imperium Romanum",
+        "Romanum imperium",
+        "imperium romanum",
+        "Roman period"
+      ],
+      "ja": [
+        "帝政ローマ",
+        "古代ローマの貴族制度"
+      ],
+      "zh-CN": [
+        "罗马帝国"
+      ],
+      "ar": [
+        "الرومان"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "period of Ancient Rome following the Republic",
+    "de": "antikes Weltreich",
+    "es": "periodo de la civilización romana en la Antigüedad clásica, posterior a la República romana",
+    "ja": "古代ローマの帝政期、共和政の後の時代",
+    "fr": "nom donné à la domination romaine antique entre 27 av. J.-C. et 395 ap. J.-C.",
+    "ru": "период в древнеримской истории после Римской республики",
+    "zh-CN": "古羅馬帝制時期",
+    "ar": "مرحلة ما بعد الجمهورية الرومانية، في الفتره ( 27 ق.م -395 ب.م )",
+    "zh-TW": "古羅馬帝制時期",
+    "vi": "giai đoạn nối tiếp chế độ cộng hòa của La Mã cổ đại"
+  },
+  "existence": {
+    "from": {
+      "year": -1,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1 TCN"
+    },
+    "to": {
+      "year": 200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 SCN"
+    },
+    "duration_years": 201,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1,
+    100,
+    200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1,
+      100,
+      200
+    ],
+    "first_observed_year": -1,
+    "last_observed_year": 200,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Roman%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q2277"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

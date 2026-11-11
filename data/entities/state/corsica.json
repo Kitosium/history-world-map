@@ -1,0 +1,196 @@
+{
+  "id": "corsica",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q14112",
+  "names": {
+    "canonical": {
+      "vi": "Corse",
+      "en": "Corsica",
+      "zh-CN": "科西嘉",
+      "zh-TW": "科西嘉",
+      "ja": "コルシカ島",
+      "fr": "Corse",
+      "es": "Córcega",
+      "ar": "كورسيكا",
+      "ru": "Корсика",
+      "de": "Korsika"
+    },
+    "aliases": {
+      "ar": [
+        "قَرْسَقَة",
+        "قرشقة",
+        "قـُرْشِقَة",
+        "كُورَسِكَا",
+        "كُورَسِيكَا",
+        "كورسكا"
+      ],
+      "en": [
+        "Collectivity of Corsica",
+        "Territorial Collectivity of Corsica",
+        "Island of Beauty"
+      ],
+      "ja": [
+        "コルシカ"
+      ],
+      "zh-CN": [
+        "科西嘉岛"
+      ],
+      "zh-TW": [
+        "科西嘉島"
+      ],
+      "fr": [
+        "Collectivité de Corse",
+        "Île de la beauté"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "French single territorial collectivity and island in the Mediterranean Sea",
+    "de": "französische territoriale Kollektivität",
+    "es": "región de Francia",
+    "ja": "フランスの島",
+    "ru": "остров и регион во Франции",
+    "vi": "Vùng của Pháp",
+    "zh-CN": "地中海西部的岛屿及法国的单一领土集体",
+    "zh-TW": "地中海西部的島嶼及法國的單一領土集體",
+    "fr": "île méditerranéenne et collectivité territoriale unique française",
+    "ar": "جزيرة فرنسية بالبحر المتوسط"
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "duration_years": 400,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1400,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Corsica",
+    "wikidata": "https://www.wikidata.org/wiki/Q14112"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

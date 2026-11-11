@@ -1,0 +1,154 @@
+{
+  "id": "illyrians",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q146715",
+  "names": {
+    "canonical": {
+      "vi": "Người Illyria",
+      "en": "Illyrians",
+      "zh-CN": "伊利里亚人",
+      "zh-TW": "伊利里亞人",
+      "ja": "イリュリア人",
+      "fr": "Illyriens",
+      "es": "ilirios",
+      "ar": "إيليريون",
+      "ru": "иллирийцы",
+      "de": "Illyrer"
+    },
+    "aliases": {
+      "de": [
+        "Ilir",
+        "Illyrier",
+        "Pannonier"
+      ],
+      "ja": [
+        "イリリア人"
+      ],
+      "en": [
+        "Illyrii"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "eine Gruppe von Stämmen der Antike",
+    "fr": "groupe de tribus dans l'Antiquité",
+    "en": "ancient Western Balkanic tribes",
+    "zh-CN": "古代部落的一群部落",
+    "es": "pueblo indoeuropeo procedente de los Balcanes",
+    "ar": "مجموعة من القبائل الهندية الأوروبية عاشت في العصور القديمة",
+    "vi": "Người Illyria (Illyrians) là một state lịch sử tồn tại từ 1500 TCN đến 500 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 TCN"
+    },
+    "to": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "duration_years": 1000,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1500,
+    -1000,
+    -700,
+    -500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1500,
+      -1000,
+      -700,
+      -500
+    ],
+    "first_observed_year": -1500,
+    "last_observed_year": -500,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Illyrians",
+    "wikidata": "https://www.wikidata.org/wiki/Q146715"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

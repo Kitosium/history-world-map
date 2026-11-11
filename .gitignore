@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+npm-debug.log*
+.DS_Store
+*.tsbuildinfo
+__pycache__/
+*.pyc
+*AGENTS.md

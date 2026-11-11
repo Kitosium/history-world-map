@@ -1,0 +1,18 @@
+{
+  "id": "hau-le",
+  "state_id": "đại-việt",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Hậu Lê (Lê Sơ & Lê Trung Hưng)",
+      "en": "Later Le dynasty",
+      "zh-CN": "后黎朝",
+      "ja": "後黎朝"
+    }
+  },
+  "from_year": 1428,
+  "to_year": 1789,
+  "capital": "thang-long",
+  "source_ids": [
+    "src-dai-viet"
+  ]
+}

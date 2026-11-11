@@ -1,0 +1,154 @@
+{
+  "id": "western-roman-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q42834",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Tây La Mã",
+      "en": "Western Roman Empire",
+      "zh-CN": "西羅馬帝國",
+      "zh-TW": "西羅馬帝國",
+      "ja": "西ローマ帝国",
+      "fr": "Empire romain d'Occident",
+      "es": "Imperio romano de Occidente",
+      "ar": "الإمبراطورية الرومانية الغربية",
+      "ru": "Западная Римская империя",
+      "de": "Weströmisches Reich"
+    },
+    "aliases": {
+      "ar": [
+        "امبراطورية رومانية غربية",
+        "الامبراطورية الرومانية الغربية",
+        "الإمبراطورية الرومانية غربية",
+        "الإمبراطوريه الرومانيه الغربيه",
+        "إمبراطورية رومانية غربية"
+      ],
+      "ru": [
+        "Западно-Римская империя",
+        "Западной Римской империи",
+        "Гесперия"
+      ],
+      "fr": [
+        "Empire romain d’Occident"
+      ],
+      "de": [
+        "Weströmisch",
+        "Westrom"
+      ],
+      "ja": [
+        "西ローマ"
+      ],
+      "vi": [
+        "Đế chế Tây La Mã"
+      ],
+      "zh-CN": [
+        "西罗马帝国"
+      ],
+      "en": [
+        "Roman Empire"
+      ],
+      "es": [
+        "imperio de occidente"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "independently administered western provinces of the Roman Empire",
+    "zh-CN": "羅馬帝國分裂後的西半部分",
+    "fr": "provinces indépendantes à l'Ouest de l'Empire romain de 395 à 476",
+    "de": "westliche Hälfte des spätrömischen Reiches",
+    "es": "estado surgido en Occidente tras la división del Imperio romano en dos entidades",
+    "ru": "западная часть Римской империи в конце (или середине) IV — конце V вв.",
+    "vi": "Phần phía tây độc lập của Đế chế La Mã",
+    "ja": "ローマ帝国の西半分の地域"
+  },
+  "existence": {
+    "from": {
+      "year": 400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 SCN"
+    },
+    "to": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    400,
+    500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      400,
+      500
+    ],
+    "first_observed_year": 400,
+    "last_observed_year": 500,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Western%20Roman%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q42834"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "göktürks",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q205466",
+  "names": {
+    "canonical": {
+      "vi": "Hãn quốc Đột Quyết",
+      "en": "Göktürks",
+      "zh-CN": "突厥汗国",
+      "zh-TW": "突厥汗国",
+      "ja": "突厥",
+      "fr": "Göktürks",
+      "es": "Köktürks",
+      "ar": "كوكتورك",
+      "ru": "Тюркский каганат",
+      "de": "Kök-Türken"
+    },
+    "aliases": {
+      "en": [
+        "Ashina Türks",
+        "Celestial Turks",
+        "Kok Turks",
+        "Gökturks",
+        "Sky Turks"
+      ],
+      "ar": [
+        "الكوكتورك",
+        "كوك تورك",
+        "الكوك تورك"
+      ],
+      "ja": [
+        "とっけつ",
+        "とっくつ",
+        "テュルク"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Turkic people organized as a state in medieval Inner Asia",
+    "de": "historische türkische Konföderation nördlich des Kaukasus und in Zentralasien",
+    "fr": "empire turcique en Asie centrale de 552 à 657",
+    "ar": "شعوب بدوية من الشعوب التركية في آسيا الداخلية في العصور الوسطى",
+    "ja": "中央ユーラシアに存在した遊牧国家",
+    "es": "Confederación de pueblos nómadas en Asia Central",
+    "ru": "древний кочевой народ",
+    "vi": "Hãn quốc Đột Quyết (Göktürks) là một state lịch sử tồn tại từ 600 SCN đến 700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "600 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    600,
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      600,
+      700
+    ],
+    "first_observed_year": 600,
+    "last_observed_year": 700,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks",
+    "wikidata": "https://www.wikidata.org/wiki/Q205466"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "sixteen-kingdoms",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q683551",
+  "names": {
+    "canonical": {
+      "vi": "Ngũ Hồ thập lục quốc",
+      "en": "Sixteen Kingdoms",
+      "zh-CN": "五胡十六国",
+      "zh-TW": "五胡十六国",
+      "ja": "五胡十六国時代",
+      "fr": "Seize Royaumes",
+      "es": "Dieciséis Reinos",
+      "ar": "الممالك الستة عشر",
+      "ru": "Шестнадцать варварских государств",
+      "de": "Sechzehn Reiche"
+    },
+    "aliases": {
+      "zh-CN": [
+        "十六国",
+        "五胡十六国时期",
+        "五胡",
+        "东晋-五胡十六国",
+        "东晋十六国",
+        "十六國",
+        "東晉十六國"
+      ],
+      "fr": [
+        "Période des Seize Royaumes"
+      ],
+      "es": [
+        "Dieciseis Reinos"
+      ],
+      "de": [
+        "Sechzehnkönigreiche",
+        "16 Reiche",
+        "Sechzehn Königreiche",
+        "Shiliuguo",
+        "Sechzehn Reiche der fünf Barbaren",
+        "Shiliuguo-Dynastie",
+        "Sechzehn Staaten",
+        "Wuhu shiliuguo"
+      ],
+      "ja": [
+        "五胡十六国",
+        "十六国"
+      ],
+      "vi": [
+        "Thập Lục Quốc"
+      ],
+      "ru": [
+        "Цзе",
+        "Шестнадцать государств",
+        "16 Государств"
+      ],
+      "en": [
+        "Five Barbarians and Sixteen Kingdoms",
+        "Sixteen Barbarian States",
+        "Wu hu shi liu guo",
+        "Shiliu guo"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Name einer Periode der chinesischen Geschichte",
+    "ru": "Конгломерат древнекитайских варварских государств",
+    "en": "period of Chinese history from 304 to 439",
+    "zh-CN": "4世紀至5世紀的中國歷史時期",
+    "fr": "période de l'histoire de la Chine",
+    "es": "pequeños estados soberanos chinos del s. IV y V",
+    "ja": "中国の時代区分のひとつ（304年 - 439年）",
+    "vi": "Ngũ Hồ thập lục quốc (Sixteen Kingdoms) là một state lịch sử tồn tại từ 400 SCN đến 400 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 SCN"
+    },
+    "to": {
+      "year": 400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      400
+    ],
+    "first_observed_year": 400,
+    "last_observed_year": 400,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sixteen%20Kingdoms",
+    "wikidata": "https://www.wikidata.org/wiki/Q683551"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

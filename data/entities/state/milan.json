@@ -1,0 +1,175 @@
+{
+  "id": "milan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q490",
+  "names": {
+    "canonical": {
+      "vi": "Milano",
+      "en": "Milan",
+      "zh-CN": "米兰",
+      "zh-TW": "米蘭",
+      "ja": "ミラノ",
+      "fr": "Milan",
+      "es": "Milán",
+      "ar": "ميلانو",
+      "ru": "Милан",
+      "de": "Mailand"
+    },
+    "aliases": {
+      "es": [
+        "Milan"
+      ],
+      "en": [
+        "Milano, Italy",
+        "Milan, Italy",
+        "Mailand",
+        "Milan, Lombardy"
+      ],
+      "ja": [
+        "ミラーノ",
+        "ファッションの都"
+      ],
+      "zh-CN": [
+        "米兰市",
+        "米兰诺"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "capitale de la région de Lombardie, Italie",
+    "zh-CN": "意大利伦巴第大区米兰广域市的首府及市镇，国际时尚与设计之都",
+    "ru": "город в итальянском регионе Ломбардия, столица одноимённой провинции",
+    "zh-TW": "義大利的西北方大城",
+    "ar": "ثاني أكبر مدينة في إيطاليا",
+    "en": "Italian commune and capital city of Lombardy",
+    "de": "zweitgrößte Stadt Italiens, Hauptstadt der Lombardei",
+    "es": "ciudad de Italia",
+    "ja": "イタリアの都市",
+    "vi": "thành phố lớn thứ hai ở Ý"
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1715,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Milan",
+    "wikidata": "https://www.wikidata.org/wiki/Q490"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

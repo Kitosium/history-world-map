@@ -1,0 +1,139 @@
+{
+  "id": "antarctica",
+  "schema_version": "1.3.0",
+  "type": "disputed_territory",
+  "wikidata_id": "Q51",
+  "names": {
+    "canonical": {
+      "es": "Antártida",
+      "zh-CN": "南極洲",
+      "ru": "Антарктида",
+      "de": "Antarktika",
+      "ar": "القارة القطبية الجنوبية",
+      "en": "Antarctica",
+      "zh-TW": "南極洲",
+      "fr": "Antarctique",
+      "vi": "châu Nam Cực",
+      "ja": "南極大陸"
+    },
+    "aliases": {}
+  },
+  "descriptions": {
+    "fr": "continent terrestre de l'hémisphère sud",
+    "zh-CN": "地球大陸，七大洲之一",
+    "vi": "châu lục nằm ở cực Nam Trái Đất",
+    "ru": "континент",
+    "zh-TW": "七大洲之一",
+    "es": "continente del hemisferio sur",
+    "de": "terrestrischer Kontinent auf der Südhalbkugel",
+    "ar": "قارة قطبية تقع في النصف الجنوبي من الكرة الأرضية",
+    "en": "terrestrial continent in the Southern Hemisphere",
+    "ja": "地球の最も南にある大陸"
+  },
+  "existence": {
+    "from": {
+      "year": -3500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "3500 TCN"
+    },
+    "to": {
+      "year": 2010,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2010 SCN"
+    },
+    "duration_years": 5510,
+    "status": "historical",
+    "basis": "cartographic_observation",
+    "continuity_asserted": false,
+    "is_approximate": true,
+    "foundation_reason": null,
+    "dissolution_reason": null
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "mixed",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q51"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

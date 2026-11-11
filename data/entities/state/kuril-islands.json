@@ -1,0 +1,172 @@
+{
+  "id": "kuril-islands",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q80389",
+  "names": {
+    "canonical": {
+      "vi": "Quần đảo Kuril",
+      "en": "Kuril Islands",
+      "zh-CN": "千島群島",
+      "zh-TW": "千島群島",
+      "ja": "千島列島",
+      "fr": "îles Kouriles",
+      "es": "Islas Kuriles",
+      "ar": "جزر الكوريل",
+      "ru": "Курильские острова",
+      "de": "Kurilen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "千島列島",
+        "千岛群岛",
+        "库里尔群岛",
+        "庫里爾群島"
+      ],
+      "es": [
+        "Archipiélago de las Kuriles",
+        "Islas Curiles",
+        "Islas Kurilas",
+        "Islas Kuril",
+        "Kuriles",
+        "Archipielago de las Kuriles"
+      ],
+      "ar": [
+        "جزر كوريل"
+      ],
+      "ru": [
+        "Курильские о-ва",
+        "Курильская гряда",
+        "Тисима",
+        "Курилы"
+      ],
+      "fr": [
+        "Territoires du Nord",
+        "Kouriles",
+        "Iles Kouriles",
+        "Îles Kuril",
+        "Курильские острова",
+        "Chishima",
+        "千島列島",
+        "クリル列島"
+      ],
+      "de": [
+        "Archipel der tausend Inseln",
+        "Kurilen-Archipel"
+      ],
+      "ja": [
+        "クリル諸島",
+        "クリル列島",
+        "ちしまれっとう",
+        "千島"
+      ],
+      "vi": [
+        "Kuril",
+        "Quần đảo Chishima"
+      ],
+      "en": [
+        "Chishima Islands",
+        "Kurile Islands"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "island chain located in Northeast Asia administered by Russia",
+    "ru": "архипелаг в Тихом океане",
+    "de": "Inselgruppe im Nordpazifik",
+    "ja": "北東アジアの列島",
+    "es": "conjunto de islas en el Océano Pacífico administradas por Rusia y reclamadas por Japón",
+    "zh-CN": "俄羅斯遠東的群島",
+    "fr": "îles contestées du Pacifique nord, administrées par la Russie",
+    "ar": "مجموعة جزر في المحيط الهادئ تتبع روسيا وتطالب بها اليابان أيضا",
+    "vi": "quần đảo núi lửa có tranh chấp ở Tây Bắc Thái Bình Dương"
+  },
+  "existence": {
+    "from": {
+      "year": 1800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1800 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 15,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1800,
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1800,
+      1815
+    ],
+    "first_observed_year": 1800,
+    "last_observed_year": 1815,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kuril%20Islands",
+    "wikidata": "https://www.wikidata.org/wiki/Q80389"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

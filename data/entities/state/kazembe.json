@@ -1,0 +1,103 @@
+{
+  "id": "kazembe",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q5675285",
+  "names": {
+    "canonical": {
+      "vi": "Kazembe",
+      "en": "Kazembe",
+      "zh-CN": "卡申貝王國",
+      "zh-TW": "卡申貝王國",
+      "ja": "カゼンベ",
+      "fr": "Royaume du Kazembe",
+      "es": "Reino de Cazembe"
+    },
+    "aliases": {
+      "en": [
+        "Kazembe kingdom",
+        "Kazembe polity"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "traditional kingdom in present-day Zambia",
+    "vi": "Kazembe (Kazembe) là một state lịch sử tồn tại từ 1815 SCN đến 1815 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 1815,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kazembe",
+    "wikidata": "https://www.wikidata.org/wiki/Q5675285"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

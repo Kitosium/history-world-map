@@ -1,0 +1,179 @@
+{
+  "id": "new-caledonia",
+  "schema_version": "1.3.0",
+  "type": "dependent_territory",
+  "wikidata_id": "Q33788",
+  "names": {
+    "canonical": {
+      "vi": "Nouvelle-Calédonie",
+      "en": "New Caledonia",
+      "zh-CN": "新喀里多尼亚",
+      "zh-TW": "新喀里多尼亚",
+      "ja": "ニューカレドニア",
+      "fr": "Nouvelle-Calédonie",
+      "es": "Nueva Caledonia",
+      "ar": "كاليدونيا الجديدة",
+      "ru": "Новая Каледония",
+      "de": "Neukaledonien"
+    },
+    "aliases": {
+      "zh-CN": [
+        "新喀爾多尼亞",
+        "新克里多尼亞",
+        "新喀里多尼亚群岛",
+        "新喀里多尼亚",
+        "新卡里多尼亞",
+        "新喀里多尼亚岛"
+      ],
+      "es": [
+        "Nouvelle Calédonie",
+        "Nouvelle-Caledonie",
+        "Neocaledonio",
+        "Canaquía"
+      ],
+      "ar": [
+        "كاليدونيا الجديده",
+        "نيوكاليدونيا",
+        "نيو كاليدونيا",
+        "كاناكي"
+      ],
+      "ja": [
+        "カレドニア",
+        "ヌーヴェルカレドニー",
+        "ヌーベルカレドニー",
+        "ニューカレドニア島",
+        "ヌーヴェル=カレドニー",
+        "カナキー"
+      ],
+      "vi": [
+        "Tân Calédonie",
+        "Nouvelle Caledonie",
+        "Tân Caledonia",
+        "Nouvelle Calédonie",
+        "Tân Calêđôni",
+        "Tân Thế giới"
+      ],
+      "fr": [
+        "Territoire de la Nouvelle-Calédonie et dépendances",
+        "Territoire de la Nouvelle-Calédonie et Dépendances",
+        "Kanaky-Nouvelle-Calédonie",
+        "Kanaky Nouvelle-Calédonie",
+        "Kanaky / Nouvelle-Calédonie",
+        "Calédonie"
+      ],
+      "de": [
+        "Neu-Kaledonien",
+        "FR-PF"
+      ],
+      "en": [
+        "Territory of New Caledonia and Dependencies",
+        "New Cal"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "French special collectivity and archipelago in Oceania",
+    "de": "zu Frankreich gehörende Inselgruppe im südlichen Pazifik",
+    "es": "archipiélago francés de Oceanía situado en la Melanesia, al norte del Trópico de Capricornio",
+    "fr": "collectivité spéciale et archipel français en Océanie",
+    "ru": "заморская территория Франции",
+    "ja": "南太平洋にあるフランスの海外領土",
+    "ar": "مجموعة جزر في المحيط الهادئ تتبع إداريا إلى فرنسا",
+    "zh-CN": "位于大洋洲的法国特殊集体",
+    "vi": "lãnh thổ hải ngoại của pháp nằm ở Tây Nam Thái Bình Dương"
+  },
+  "existence": {
+    "from": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 88,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1938,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1938,
+      2026
+    ],
+    "first_observed_year": 1938,
+    "last_observed_year": 2026,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/New%20Caledonia",
+    "wikidata": "https://www.wikidata.org/wiki/Q33788"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

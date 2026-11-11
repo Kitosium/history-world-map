@@ -1,0 +1,87 @@
+{
+  "id": "src-dai-nam",
+  "schema_version": "1.3.0",
+  "type": "primary_chronicle",
+  "title": {
+    "canonical": {
+      "vi": "Đại Nam Nhất Thống Chí",
+      "en": "Comprehensive Gazetteer of Dai Nam",
+      "zh-CN": "大南一统志"
+    }
+  },
+  "creators": [
+    {
+      "name": "Quốc sử quán triều Nguyễn",
+      "role": "compiler"
+    }
+  ],
+  "publication": {
+    "publisher": "Nội các quan bản khắc in",
+    "year": 1882,
+    "place": "Huế",
+    "edition": "Bản thảo triều Tự Đức (28 tập, 31 quyển); bản khắc in hoàn chỉnh 1910",
+    "volumes": "28 tập, 31 quyển",
+    "language": "lzh; vi",
+    "notes": "Bản thảo hoàn thành khoảng 1882-1883 nhưng bị thất lạc trong biến động 1885; năm 1906 được làm lại và khắc in năm 1910."
+  },
+  "digital_access": [
+    {
+      "label": "Bản dịch Việt ngữ — Tập Thượng (PDF)",
+      "url": "https://archive.org/download/dai-nam-nhat-thong-chi-thuo-ng-tu-trai-nguyen-tao/Đại Nam Nhất Thống Chí _ THƯỢNG _ Tu Trai Nguyễn Tạo.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-nam-nhat-thong-chi-thuo-ng-tu-trai-nguyen-tao",
+      "page_url": "https://archive.org/details/dai-nam-nhat-thong-chi-thuo-ng-tu-trai-nguyen-tao",
+      "notes": "Bản dịch của Tu Trai Nguyễn Tạo; tình trạng bản quyền của bản dịch chưa được xác minh, chỉ dùng để tra cứu."
+    },
+    {
+      "label": "Bản dịch Việt ngữ — Tập Kinh sư (PDF)",
+      "url": "https://archive.org/download/dai-nam-nhat-thong-chi-kinh-su-tu-trai-nguyen-tao/Đại Nam Nhất Thống Chí _ KINH SƯ _ Tu Trai Nguyễn Tạo.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-nam-nhat-thong-chi-kinh-su-tu-trai-nguyen-tao",
+      "page_url": "https://archive.org/details/dai-nam-nhat-thong-chi-kinh-su-tu-trai-nguyen-tao",
+      "notes": "Bản dịch của Tu Trai Nguyễn Tạo; tình trạng bản quyền của bản dịch chưa được xác minh."
+    },
+    {
+      "label": "Bản dịch Việt ngữ — Tập Hạ (PDF)",
+      "url": "https://archive.org/download/dai-nam-nhat-thong-chi-ha-tu-trai-nguyen-tao/Đại Nam Nhất Thống Chí _ HẠ _ Tu Trai Nguyễn Tạo.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "dai-nam-nhat-thong-chi-ha-tu-trai-nguyen-tao",
+      "page_url": "https://archive.org/details/dai-nam-nhat-thong-chi-ha-tu-trai-nguyen-tao",
+      "notes": "Bản dịch của Tu Trai Nguyễn Tạo; tình trạng bản quyền của bản dịch chưa được xác minh."
+    },
+    {
+      "label": "Open Library — bản 1992, NXB Thuận Hóa",
+      "url": "https://openlibrary.org/works/OL23609757W",
+      "access_type": "catalogue",
+      "format": "html",
+      "provider": "Open Library"
+    }
+  ],
+  "license": {
+    "name": "Public domain (historical text)",
+    "spdx": "NOASSERTION"
+  },
+  "coverage": {
+    "temporal": "19th century (Nguyễn dynasty)",
+    "spatial": "Vietnam",
+    "geometry": "administrative gazetteer descriptions"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_1_official_primary",
+    "historiographical_notes": "Bộ địa chí quốc gia lớn nhất của Việt Nam thời phong kiến, khảo tả chi tiết phân giới hành chính, sơn xuyên, thành lũy, cổ tích từ Bắc chí Nam.",
+    "spatial_precision_rating": "administrative_boundary_definition"
+  },
+  "citation_formats": {
+    "chicago": "Quốc sử quán triều Nguyễn. Đại Nam nhất thống chí. 1882; bản khắc in 1910. Bản dịch Tu Trai Nguyễn Tạo, Internet Archive.",
+    "apa": "Quốc sử quán triều Nguyễn. (1882/1910). Đại Nam nhất thống chí [Bản dịch Tu Trai Nguyễn Tạo]. Internet Archive. https://archive.org/details/dai-nam-nhat-thong-chi-thuo-ng-tu-trai-nguyen-tao",
+    "bibtex": "@book{dainamnhungthongchi, author={{Quốc sử quán triều Nguyễn}}, title={Đại Nam nhất thống chí}, year={1882}, note={Bản khắc in 1910; bản dịch Tu Trai Nguyễn Tạo}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

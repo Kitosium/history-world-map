@@ -1,0 +1,161 @@
+{
+  "id": "vandals",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q42211",
+  "names": {
+    "canonical": {
+      "vi": "người Vandal",
+      "en": "Vandals",
+      "zh-CN": "汪达尔人",
+      "zh-TW": "汪达尔人",
+      "ja": "ヴァンダル族",
+      "fr": "Vandales",
+      "es": "vándalos",
+      "ar": "وندال",
+      "ru": "вандалы",
+      "de": "Vandalen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "汪达人",
+        "汪达尔"
+      ],
+      "es": [
+        "Reino Vándalo",
+        "vándalo",
+        "pueblo vándalo"
+      ],
+      "ar": [
+        "فاندليون",
+        "واندال",
+        "الوندالي",
+        "فاندل",
+        "الواندل",
+        "فندل",
+        "الفاندال",
+        "واندل",
+        "واندليون",
+        "فنداليون",
+        "فاندال",
+        "وندليون",
+        "وانداليون",
+        "فانداليون",
+        "الوندال",
+        "الفاندل",
+        "الفنداليون",
+        "الواندال",
+        "وندل",
+        "فندال"
+      ],
+      "de": [
+        "Vandali",
+        "Vandili",
+        "Wandale",
+        "Vandale",
+        "Wandalen",
+        "Vanduli",
+        "Vandilier"
+      ],
+      "ja": [
+        "ヴァンダル",
+        "バンダル人",
+        "ヴァンダル人",
+        "バンダル族"
+      ],
+      "vi": [
+        "Vandal"
+      ],
+      "en": [
+        "Vandal"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "East Germanic tribe",
+    "de": "germanisches Volk",
+    "fr": "peuple germanique oriental",
+    "ru": "германское племя",
+    "es": "tribu bárbara",
+    "zh-CN": "東日耳曼部落",
+    "ar": "إحدى القبائل الجرمانية الشرقية",
+    "ja": "古代末期にゲルマニアから北アフリカに移住した民族",
+    "vi": "người Vandal (Vandals) là một state lịch sử tồn tại từ 500 SCN đến 500 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "to": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      500
+    ],
+    "first_observed_year": 500,
+    "last_observed_year": 500,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vandals",
+    "wikidata": "https://www.wikidata.org/wiki/Q42211"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

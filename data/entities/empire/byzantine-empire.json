@@ -1,0 +1,245 @@
+{
+  "id": "byzantine-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q12544",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Đông La Mã",
+      "en": "Byzantine Empire",
+      "zh-CN": "拜占庭帝國",
+      "zh-TW": "拜占庭帝國",
+      "ja": "東ローマ帝国",
+      "fr": "Empire byzantin",
+      "es": "Imperio bizantino",
+      "ar": "الإمبراطورية البيزنطية",
+      "ru": "Византия",
+      "de": "Byzantinisches Reich"
+    },
+    "aliases": {
+      "de": [
+        "Byzanz",
+        "Oströmisches Reich",
+        "Byzantinisches Kaiserreich",
+        "Ostrom"
+      ],
+      "en": [
+        "Byzantium",
+        "Eastern Roman Empire",
+        "Roman Empire",
+        "Lower Empire",
+        "Romanía",
+        "Greek Empire",
+        "Empire of the Greeks"
+      ],
+      "es": [
+        "Imperio romano de oriente",
+        "Imperio Bizantino",
+        "Bizancio",
+        "Romania",
+        "Imperio romano de Oriente"
+      ],
+      "zh-CN": [
+        "东罗马帝国",
+        "東羅馬帝國",
+        "拜占庭帝国",
+        "拜占廷帝国"
+      ],
+      "ru": [
+        "Восточная Римская империя",
+        "Византийская империя"
+      ],
+      "ar": [
+        "الامبراطورية البيزنطية",
+        "الدولة البيزنطية",
+        "الإمبراطورية الرومانية الشرقية",
+        "امبراطورية رومانية شرقية",
+        "الحضارة البيزنطية",
+        "الأمبراطورية البيزنطية",
+        "إمبراطورية رومانية شرقية",
+        "العصر البيزنطي",
+        "العهد البيزنطي",
+        "إمبراطورية بيزنطية",
+        "بيزنطية"
+      ],
+      "ja": [
+        "ビザンツ帝国",
+        "ビザンティン帝国"
+      ],
+      "fr": [
+        "Empire romain d'Orient"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Roman Empire during Late Antiquity and the Middle Ages",
+    "de": "Kaiserreich im östlichen Mittelmeerraum nach der römischen Reichsteilung 395",
+    "es": "continuación del Imperio romano en Oriente (395 d. C.-1453)",
+    "fr": "État issu de la scission de l'Empire romain du IVe siècle jusqu'au XVè siècle",
+    "zh-CN": "古代後期和中世紀的帝國",
+    "ru": "государство-преемник распавшейся Римской империи",
+    "ja": "中世のローマ帝国",
+    "ar": "دولة سابقة، أسسها قسطنطين العظيم واستمرت ما بين (330 – 1453م)",
+    "vi": "đế quốc tồn tại trong thời kỳ 330–1453"
+  },
+  "existence": {
+    "from": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "to": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "duration_years": 600,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    800,
+    900,
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400
+    ],
+    "first_observed_year": 800,
+    "last_observed_year": 1400,
+    "feature_count": 8,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Byzantine%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q12544"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

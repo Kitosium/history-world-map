@@ -1,0 +1,198 @@
+{
+  "id": "czech-republic",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q213",
+  "names": {
+    "canonical": {
+      "vi": "Séc",
+      "en": "Czech Republic",
+      "zh-CN": "捷克",
+      "zh-TW": "捷克",
+      "ja": "チェコ共和国",
+      "fr": "Tchéquie",
+      "es": "República Checa",
+      "ar": "جمهورية التشيك",
+      "ru": "Чехия",
+      "de": "Tschechien"
+    },
+    "aliases": {
+      "ar": [
+        "الجمهورية التشيكية",
+        "تشيكيا",
+        "تشيكي",
+        "جمهورية تشيكية",
+        "الجمهوريةالتشيكية",
+        "التشيكي",
+        "جمهورية تشيكيا"
+      ],
+      "fr": [
+        "République tchèque",
+        "la République tchèque",
+        "Rép. tchèque",
+        "tchèque (rép.)",
+        "Rep. Tcheque"
+      ],
+      "en": [
+        "Czechia",
+        "the Czech Republic",
+        "czechia"
+      ],
+      "ja": [
+        "チェコ"
+      ],
+      "ru": [
+        "Чешская Республика"
+      ],
+      "es": [
+        "Bohemia",
+        "Chequia"
+      ],
+      "de": [
+        "Tschechische Republik",
+        "Czechia"
+      ],
+      "zh-CN": [
+        "捷克共和国"
+      ],
+      "vi": [
+        "Cộng hòa Séc",
+        "Cộng hoà Séc",
+        "Tiệp",
+        "Czechia",
+        "czechia"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Europe centrale",
+    "zh-CN": "中欧国家",
+    "es": "país de Europa Oriental",
+    "de": "Staat in Mitteleuropa",
+    "ru": "государство в Европе",
+    "ar": "دولة في أوروبا الوسطى",
+    "en": "country in Central Europe",
+    "vi": "quốc gia ở Trung Âu",
+    "ja": "東ヨーロッパの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1994,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1994 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 32,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1994,
+    "last_observed_year": 2026,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Czech%20Republic",
+    "wikidata": "https://www.wikidata.org/wiki/Q213"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

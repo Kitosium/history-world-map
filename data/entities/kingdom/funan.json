@@ -1,0 +1,186 @@
+{
+  "id": "funan",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q212913",
+  "names": {
+    "canonical": {
+      "vi": "Phù Nam",
+      "en": "Funan",
+      "zh-CN": "扶南",
+      "zh-TW": "扶南",
+      "ja": "扶南",
+      "fr": "Fou-nan",
+      "es": "Funan",
+      "de": "Funan",
+      "ru": "Фунань",
+      "ar": "فونان"
+    },
+    "aliases": {
+      "vi": [
+        "Vương quốc Phù Nam",
+        "Văn hóa Óc Eo",
+        "Văn minh Óc Eo"
+      ],
+      "en": [
+        "Kingdom of Funan",
+        "Oc Eo civilization"
+      ],
+      "zh-CN": [
+        "扶南国",
+        "扶南古国"
+      ],
+      "ja": [
+        "扶南王国",
+        "オケオ文明"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Vương quốc cổ đại và nền văn minh thương mại hàng hải phồn vinh ở châu thổ sông Mê Kông (Nam Bộ Việt Nam và nam Campuchia), với thương cảng quốc tế Óc Eo sầm uất bậc nhất Đông Nam Á.",
+    "en": "Ancient maritime trading kingdom in the Mekong Delta (southern Vietnam and southern Cambodia), centered on the cosmopolitan port city of Óc Eo.",
+    "zh-CN": "存在于湄公河三角洲（越南南部与柬埔寨南部）的古代海洋贸易大国，其核心商港沃澳（Óc Eo）是当时东南亚海上丝绸之路的重要枢纽。",
+    "ja": "メコンデルタ（現在のベトナム南部およびカンボジア南部）に栄えた古代海上貿易国家。国際港オケオを中心に繁栄した。"
+  },
+  "existence": {
+    "from": {
+      "year": 68,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "68 SCN"
+    },
+    "to": {
+      "year": 627,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "627 SCN"
+    },
+    "duration_years": 559,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "maritime_statehood",
+      "vi": "Hình thành từ sự liên minh các cộng đồng cảng thị ven biển Óc Eo và châu thổ sông Cửu Long",
+      "en": "Formed through confederation of maritime trading communities in Mekong delta"
+    },
+    "dissolution_reason": {
+      "type": "conquest_by_chenla",
+      "vi": "Bị Vương quốc Chân Lạp (Chenla) dưới triều Isanavarman đánh bại và sáp nhập hoàn toàn vào năm 627 SCN",
+      "en": "Conquered and fully annexed by the kingdom of Chenla under Isanavarman in 627 CE"
+    },
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    200,
+    300,
+    400,
+    500,
+    600
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      200,
+      300,
+      400,
+      500,
+      600
+    ],
+    "first_observed_year": 200,
+    "last_observed_year": 600,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-khao-co"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-khao-co",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-khao-co",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-khao-co"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam",
+    "wikidata": "https://www.wikidata.org/wiki/Q212913"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

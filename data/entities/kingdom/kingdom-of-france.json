@@ -1,0 +1,158 @@
+{
+  "id": "kingdom-of-france",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q70972",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Pháp",
+      "en": "Kingdom of France",
+      "zh-CN": "法蘭西王國",
+      "zh-TW": "法蘭西王國",
+      "ja": "フランス王国",
+      "fr": "royaume de France",
+      "es": "Reino de Francia",
+      "ar": "مملكة فرنسا",
+      "ru": "Королевство Франция",
+      "de": "Königreich Frankreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "法兰西王国"
+      ],
+      "fr": [
+        "monarchie française",
+        "royaume français",
+        "royaume de France et de Navarre"
+      ],
+      "es": [
+        "Francia y Navarra",
+        "Reino de Francia y Navarra",
+        "Royaume de France"
+      ],
+      "en": [
+        "Kingdom of France and Navarre",
+        "França e Navarra",
+        "French kingdom"
+      ],
+      "ru": [
+        "Французское королевство",
+        "Франция"
+      ],
+      "de": [
+        "Kgr. Frankreich"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "monarchical state that ruled France from 987 to 1792, and again from 1814 to 1848 (except during the Hundred Days in 1815)",
+    "de": "historischer westeuropäischer Staat",
+    "fr": "entité géopolitique monarchique ayant gouverné la France de 987 à 1792, puis de 1814 à 1848 (à l'exception des Cent-Jours en 1815)",
+    "ru": "королевство, существовавшее в 843—1792 годах",
+    "es": "estado monárquico que gobernó Francia entre 987 y 1792, y nuevamente entre 1814 y 1848 (excepto durante los Cien Días de 1815)",
+    "zh-CN": "西歐國家",
+    "ar": "مملكة في غرب أوروبا (987 - 1791)",
+    "ja": "西ヨーロッパに存在した王国",
+    "vi": "Vương quốc Pháp (Kingdom of France) là một state lịch sử tồn tại từ 1000 SCN đến 1200 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1200,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom%20of%20France",
+    "wikidata": "https://www.wikidata.org/wiki/Q70972"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "bangladesh",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q902",
+  "names": {
+    "canonical": {
+      "vi": "Bangladesh",
+      "en": "Bangladesh",
+      "zh-CN": "孟加拉国",
+      "zh-TW": "孟加拉",
+      "ja": "バングラデシュ",
+      "fr": "Bangladesh",
+      "es": "Bangladés",
+      "ar": "بنغلاديش",
+      "ru": "Бангладеш",
+      "de": "Bangladesch"
+    },
+    "aliases": {
+      "zh-CN": [
+        "孟加拉",
+        "孟加拉人民共和国"
+      ],
+      "ru": [
+        "Народная Республика Бангладеш"
+      ],
+      "zh-TW": [
+        "孟加拉人民共和國"
+      ],
+      "es": [
+        "República Popular de Bangladés",
+        "Bangladesh"
+      ],
+      "ja": [
+        "バングラデッシュ",
+        "バングラディシュ",
+        "バングラディッシュ",
+        "孟加拉",
+        "バングラ",
+        "バングラデシュ人民共和國",
+        "バングラデシュ人民共和国",
+        "孟"
+      ],
+      "fr": [
+        "la République populaire du Bangladesh"
+      ],
+      "ar": [
+        "جمهورية بنغلاديش الشعبية",
+        "بنجلاديش"
+      ],
+      "en": [
+        "People's Republic of Bangladesh",
+        "bd",
+        "Bangla Desh",
+        "Land of Bengal",
+        "Country of Bengal"
+      ],
+      "vi": [
+        "Đông Hồi",
+        "Băng-la-đét"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Asie du Sud",
+    "zh-CN": "南亚国家",
+    "ru": "государство в Южной Азии",
+    "zh-TW": "南亞國家",
+    "es": "país de Asia del Sur",
+    "de": "Staat am östlichen Rand des indischen Subkontinents in Südasien",
+    "ar": "دولة في جنوب آسيا",
+    "en": "country in South Asia",
+    "ja": "南アジアにある共和制国家",
+    "vi": "quốc gia có chủ quyền tại Nam Á"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bangladesh",
+    "wikidata": "https://www.wikidata.org/wiki/Q902"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

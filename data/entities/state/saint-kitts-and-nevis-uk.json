@@ -1,0 +1,87 @@
+{
+  "id": "saint-kitts-and-nevis-uk",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": null,
+  "names": {
+    "canonical": {
+      "vi": "Saint Kitts and Nevis (UK)",
+      "en": "Saint Kitts and Nevis (UK)"
+    },
+    "aliases": {}
+  },
+  "descriptions": {},
+  "existence": {
+    "from": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1715
+    ],
+    "first_observed_year": 1715,
+    "last_observed_year": 1715,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps"
+  ],
+  "provenance": {
+    "names": [
+      "src-basemaps"
+    ],
+    "existence": [
+      "src-basemaps"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saint%20Kitts%20and%20Nevis%20%28UK%29"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

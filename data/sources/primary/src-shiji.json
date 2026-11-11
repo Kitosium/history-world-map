@@ -1,0 +1,78 @@
+{
+  "id": "src-shiji",
+  "schema_version": "1.3.0",
+  "type": "primary_chronicle",
+  "title": {
+    "canonical": {
+      "vi": "Sử Ký Tư Mã Thiên: Nam Việt Úy Đà Liệt Truyện",
+      "en": "Records of the Grand Historian: Account of Nanyue",
+      "zh-CN": "史记·南越列传",
+      "zh-TW": "史記·南越列傳",
+      "ja": "史記·南越列伝"
+    }
+  },
+  "creators": [
+    {
+      "name": "Tư Mã Thiên (Sima Qian)",
+      "role": "historian",
+      "affiliation": "Thái sử lệnh Nhà Tây Hán"
+    }
+  ],
+  "publication": {
+    "publisher": "Tư liệu Hán văn cổ",
+    "year": -94,
+    "place": "Trường An",
+    "edition": "Bản điện tử Chinese Text Project; bản PDF mẫu chương 1-5 trên Internet Archive",
+    "volumes": "130 quyển; nguồn này dùng quyển 113 (Nam Việt liệt truyện)",
+    "language": "lzh",
+    "notes": "Sử ký hoàn thành khoảng năm 94 TCN. Quyển 113 chép về Triệu Đà và nước Nam Việt."
+  },
+  "digital_access": [
+    {
+      "label": "Chinese Text Project — Shiji, quyển 113 (Nam Việt liệt truyện)",
+      "url": "https://ctext.org/shiji/nan-yue-lie-zhuan",
+      "access_type": "open_access",
+      "format": "html",
+      "provider": "Chinese Text Project",
+      "notes": "Nguyên văn Hán văn có chú thích và bản dịch tham khảo."
+    },
+    {
+      "label": "Chinese Text Project — toàn bộ Shiji",
+      "url": "https://ctext.org/shiji",
+      "access_type": "open_access",
+      "format": "html",
+      "provider": "Chinese Text Project"
+    },
+    {
+      "label": "Sima Qian, Historical Records, chương 1-5 (PDF mẫu)",
+      "url": "https://archive.org/download/shiji-01-05/Shiji01-05.pdf",
+      "access_type": "open_access",
+      "format": "pdf",
+      "provider": "Internet Archive",
+      "identifier": "shiji-01-05",
+      "page_url": "https://archive.org/details/shiji-01-05",
+      "notes": "PDF 58 trang do người dùng tạo từ Chinese Text Project; chỉ gồm chương 1-5, không phải toàn bộ 130 quyển."
+    }
+  ],
+  "license": {
+    "name": "Public domain (historical text)",
+    "spdx": "NOASSERTION"
+  },
+  "coverage": {
+    "temporal": "c. 2600 BCE - 94 BCE (recorded narrative)",
+    "spatial": "Han China, Nanyue and Inner Asia",
+    "geometry": "descriptive narrative; no surveyed coordinates"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_1_official_primary",
+    "historiographical_notes": "Tư liệu sơ cấp đương thời quan trọng nhất về Vương quốc Nam Việt (Triệu Đà), sự kiện sáp nhập Âu Lạc và quan hệ với nhà Tây Hán.",
+    "spatial_precision_rating": "descriptive_narrative"
+  },
+  "citation_formats": {
+    "chicago": "Sima Qian. Shiji 史記. c. 94 BCE. Chinese Text Project, https://ctext.org/shiji.",
+    "apa": "Sima, Q. (c. 94 BCE). Shiji [Records of the Grand Historian]. Chinese Text Project. https://ctext.org/shiji",
+    "bibtex": "@book{shiji, author={Sima Qian}, title={Shiji}, year={-94}, note={Chinese Text Project, https://ctext.org/shiji}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "carthage",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q6343",
+  "names": {
+    "canonical": {
+      "vi": "Carthage",
+      "en": "Carthage",
+      "zh-CN": "迦太基",
+      "zh-TW": "迦太基",
+      "ja": "カルタゴ",
+      "fr": "Carthage",
+      "es": "Cartago",
+      "ar": "قرطاج",
+      "ru": "Карфаген",
+      "de": "Karthago"
+    },
+    "aliases": {
+      "ar": [
+        "قرطاجة"
+      ],
+      "vi": [
+        "Carthago"
+      ],
+      "ja": [
+        "カルタゲ"
+      ],
+      "zh-CN": [
+        "迦太基市"
+      ],
+      "ru": [
+        "Карфаген (город)",
+        "Картаж"
+      ],
+      "en": [
+        "Carthago",
+        "Colonia Julia Carthago",
+        "Mint of Carthage"
+      ],
+      "de": [
+        "Colonia Julia Carthago",
+        "Carthago"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical city in Tunisia",
+    "de": "Hauptstadt der gleichnamigen See- und Handelsmacht in der Antike",
+    "es": "antigua ciudad capital de la república homónima",
+    "fr": "ville-État dans l'Antiquité",
+    "ru": "древний финикийский город-государство",
+    "zh-CN": "突尼斯的考古遺址",
+    "ar": "عاصمة جمهورية قرطاج التاريخية",
+    "vi": "di chỉ khảo cổ tại Tunisia",
+    "ja": "紀元前にアフリカ大陸の北岸を中心に地中海貿易で栄えた、フェニキア人による国家"
+  },
+  "existence": {
+    "from": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "to": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carthage",
+    "wikidata": "https://www.wikidata.org/wiki/Q6343"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

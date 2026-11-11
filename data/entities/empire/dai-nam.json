@@ -1,0 +1,150 @@
+{
+  "id": "dai-nam",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q10753066",
+  "names": {
+    "canonical": {
+      "vi": "Đại Nam",
+      "en": "Đại Nam",
+      "zh-CN": "大南",
+      "zh-TW": "大南",
+      "ja": "大南",
+      "fr": "Đại Nam",
+      "es": "Đại Nam",
+      "de": "Đại Nam",
+      "ru": "Дайнам",
+      "ar": "داي نام"
+    },
+    "aliases": {
+      "vi": [
+        "Đại Nam Quốc",
+        "Đại Nam Đế Quốc",
+        "Triều Nguyễn"
+      ],
+      "en": [
+        "Dai Nam",
+        "Empire of Dai Nam",
+        "Nguyen dynasty"
+      ],
+      "zh-CN": [
+        "大南国",
+        "大南帝国",
+        "阮朝"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Quốc hiệu Việt Nam dưới vương triều Nguyễn (1802–1945; quốc hiệu Việt Nam thời Gia Long – Minh Mạng 1804–1838, đổi thành Đại Nam từ 1838), đóng đô tại Phú Xuân (Huế), thống nhất lãnh thổ từ Mục Nam Quan đến mũi Cà Mau và thực thi chủ quyền nhà nước liên tục đối với hai quần đảo Hoàng Sa, Trường Sa.",
+    "en": "The Vietnamese Empire under the Nguyễn dynasty (1802–1945; officially named Việt Nam from 1804 and Đại Nam from 1838) with its imperial capital at Huế, governing unified Vietnam and exercising state sovereignty over the Hoàng Sa and Trường Sa archipelagos.",
+    "zh-CN": "阮朝明命帝于1838年定国号为大南（或大南帝国），定都顺化，意指南方广大强盛之国。"
+  },
+  "existence": {
+    "from": {
+      "year": 1802,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1802 SCN"
+    },
+    "to": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "duration_years": 143,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "imperial_renaming",
+      "vi": "Vua Minh Mạng đổi quốc hiệu Việt Nam thành Đại Nam nhằm khẳng định chủ quyền phương Nam",
+      "en": "Emperor Minh Mang renamed Vietnam to Dai Nam to affirm imperial sovereignty in the South"
+    },
+    "dissolution_reason": {
+      "type": "revolution",
+      "vi": "Cách mạng Tháng Tám năm 1945 thành công, vua Bảo Đại thoái vị",
+      "en": "August Revolution in 1945 succeeded, leading to abdication of Emperor Bao Dai"
+    },
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 1880,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-dai-nam",
+      "src-dai-viet"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "historical_reconstruction",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-nam",
+        "src-dai-viet"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-nam",
+        "src-dai-viet"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-nam",
+    "src-dai-viet",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-nam",
+      "src-dai-viet",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-dai-nam",
+      "src-dai-viet"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Nam",
+    "wikidata": "https://www.wikidata.org/wiki/Q10753066"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

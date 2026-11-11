@@ -1,0 +1,138 @@
+{
+  "id": "geats",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1496339",
+  "names": {
+    "canonical": {
+      "vi": "Geats",
+      "en": "Geats",
+      "zh-CN": "濟茲人",
+      "zh-TW": "濟茲人",
+      "ja": "イェート人",
+      "fr": "Goths de Scandinavie",
+      "es": "Gautas",
+      "ar": "جيتس",
+      "ru": "Гёты",
+      "de": "Gauten"
+    },
+    "aliases": {
+      "ru": [
+        "Гауты",
+        "Геаты"
+      ],
+      "fr": [
+        "Goths de scandinavie",
+        "Goths De Scandinavie",
+        "Geats"
+      ],
+      "de": [
+        "Göten"
+      ],
+      "es": [
+        "Götar",
+        "Gotar"
+      ],
+      "zh-CN": [
+        "吉特人",
+        "約塔人",
+        "蓋茨人",
+        "吉茲",
+        "盖特人"
+      ],
+      "ja": [
+        "ギート族",
+        "ギーツ人"
+      ],
+      "en": [
+        "Gautae",
+        "Gauti",
+        "Gutae",
+        "Gautigoth"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Nordgermanische Stammesgruppe",
+    "en": "Northern-Germanic people",
+    "fr": "peuple germanique oriental",
+    "es": "antiguo pueblo de origen germánico que habitó el sur de Suecia",
+    "vi": "Geats (Geats) là một state lịch sử tồn tại từ 400 SCN đến 400 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 SCN"
+    },
+    "to": {
+      "year": 400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      400
+    ],
+    "first_observed_year": 400,
+    "last_observed_year": 400,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Geats",
+    "wikidata": "https://www.wikidata.org/wiki/Q1496339"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

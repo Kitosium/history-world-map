@@ -1,0 +1,164 @@
+{
+  "id": "spanish-sahara",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q689837",
+  "names": {
+    "canonical": {
+      "vi": "Sahara thuộc Tây Ban Nha",
+      "en": "Spanish Sahara",
+      "zh-CN": "西屬撒哈拉",
+      "zh-TW": "西屬撒哈拉",
+      "ja": "スペイン領サハラ",
+      "fr": "Sahara espagnol",
+      "es": "Sahara español",
+      "ar": "أملاك إسبانيا في الصحراء",
+      "ru": "Испанская Сахара",
+      "de": "Spanisch-Sahara"
+    },
+    "aliases": {
+      "es": [
+        "Sáhara espanol",
+        "Sahara Espanol",
+        "Sáhara español",
+        "Provincia del Sahara"
+      ],
+      "de": [
+        "Spanisch Sahara",
+        "Spanische Sahara"
+      ],
+      "en": [
+        "Sáhara Español",
+        "Spanish Possessions in the Sahara"
+      ],
+      "fr": [
+        "Afrique occidentale espagnole"
+      ],
+      "ar": [
+        "الأملاك الإسبانية في الصحراء",
+        "الأملاك الإسبانية الصحراوية"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "former Spanish North African colonial possession",
+    "es": "antiguo territorio de España en ultramar (1884-1976)",
+    "de": "historischer Staat",
+    "ja": "1884年12月から1975年11月までのスペイン統治下での西サハラ地域",
+    "ar": "منطقة الصحراء التي كانت تحت السيطرة الإسبانية من 1884 إلى 1976",
+    "fr": "territoire du Sahara qui fut sous domination espagnole de 1884 à 1976",
+    "vi": "Sahara thuộc Tây Ban Nha (Spanish Sahara) là một state lịch sử tồn tại từ 1914 SCN đến 1938 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 24,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1938,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Spanish%20Sahara",
+    "wikidata": "https://www.wikidata.org/wiki/Q689837"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

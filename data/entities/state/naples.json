@@ -1,0 +1,178 @@
+{
+  "id": "naples",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q2634",
+  "names": {
+    "canonical": {
+      "vi": "Napoli",
+      "en": "Naples",
+      "zh-CN": "那不勒斯",
+      "zh-TW": "拿坡里",
+      "ja": "ナポリ",
+      "fr": "Naples",
+      "es": "Nápoles",
+      "ar": "نابولي",
+      "ru": "Неаполь",
+      "de": "Neapel"
+    },
+    "aliases": {
+      "en": [
+        "Neapolis"
+      ],
+      "de": [
+        "Naples"
+      ],
+      "es": [
+        "Napoles"
+      ],
+      "vi": [
+        "Naples",
+        "Neapolis",
+        "Thành phố mới"
+      ],
+      "ja": [
+        "ネイプルズ"
+      ],
+      "zh-CN": [
+        "那波利"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "ville italienne, capitale de la Campanie",
+    "en": "capital city of Campania, Italy",
+    "ar": "مدينة إيطالية وعاصمة إقليم كامبانيا",
+    "de": "italienische Großstadt",
+    "es": "ciudad del sur de Italia, capital de la región de Campania y de la provincia de Nápoles",
+    "ja": "イタリアの都市",
+    "ru": "город в Италии, административный центр области Кампания и провинции Неаполь",
+    "zh-CN": "意大利坎帕尼亚大区以及那不勒斯广域市的首府",
+    "zh-TW": "義大利南部的第一大城市，坎帕尼亞大區以及拿坡里省的首府",
+    "vi": "thành phố lớn thứ ba và thủ phủ miền Nam nước Ý"
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1715,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Naples",
+    "wikidata": "https://www.wikidata.org/wiki/Q2634"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

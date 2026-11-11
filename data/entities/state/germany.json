@@ -1,0 +1,279 @@
+{
+  "id": "germany",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q183",
+  "names": {
+    "canonical": {
+      "vi": "Đức",
+      "en": "Germany",
+      "zh-CN": "德国",
+      "zh-TW": "德國",
+      "ja": "ドイツ",
+      "fr": "Allemagne",
+      "es": "Alemania",
+      "ar": "ألمانيا",
+      "ru": "Германия",
+      "de": "Deutschland"
+    },
+    "aliases": {
+      "ar": [
+        "جمهورية ألمانيا اﻻتحادية"
+      ],
+      "de": [
+        "Bundesrepublik Deutschland",
+        "BR Deutschland"
+      ],
+      "es": [
+        "República Federal de Alemania"
+      ],
+      "ja": [
+        "ドイツ連邦共和国",
+        "独国"
+      ],
+      "ru": [
+        "Федеративная Республика Германия",
+        "ФРГ",
+        "Дойчланд"
+      ],
+      "zh-CN": [
+        "德意志",
+        "德意志联邦",
+        "德意志联邦共和国",
+        "德意志聯邦",
+        "德意志聯邦共和國",
+        "德国"
+      ],
+      "fr": [
+        "RFA",
+        "République fédérale d'Allemagne",
+        "République fédérale allemande",
+        "la République fédérale d’Allemagne",
+        "All.",
+        "R. F. A."
+      ],
+      "en": [
+        "Federal Republic of Germany",
+        "DE",
+        "DEU",
+        "FRG",
+        "BRD"
+      ],
+      "vi": [
+        "Cộng hòa Liên bang Đức",
+        "Cộng hoà Liên bang Đức",
+        "A-lê-ma-nha"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Europe centrale",
+    "zh-CN": "欧洲国家",
+    "vi": "quốc gia ở Trung Âu",
+    "zh-TW": "歐洲國家",
+    "es": "país de Europa Occidental",
+    "ru": "государство в Центральной Европе",
+    "de": "Staat in Mitteleuropa",
+    "ar": "دولة في وسط غرب أوروبا",
+    "en": "country in Central Europe",
+    "ja": "ヨーロッパの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 148,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880,
+    1900,
+    1920,
+    1930,
+    1938,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880,
+      1900,
+      1920,
+      1930,
+      1938,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 2026,
+    "feature_count": 10,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Germany",
+    "wikidata": "https://www.wikidata.org/wiki/Q183"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

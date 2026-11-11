@@ -1,0 +1,198 @@
+{
+  "id": "kazakhstan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q232",
+  "names": {
+    "canonical": {
+      "vi": "Kazakhstan",
+      "en": "Kazakhstan",
+      "zh-CN": "哈萨克斯坦",
+      "zh-TW": "哈薩克",
+      "ja": "カザフスタン",
+      "fr": "Kazakhstan",
+      "es": "Kazajistán",
+      "ar": "كازاخستان",
+      "ru": "Казахстан",
+      "de": "Kasachstan"
+    },
+    "aliases": {
+      "en": [
+        "Republic of Kazakhstan",
+        "kz",
+        "Qazaqstan",
+        "Republic of Qazaqstan"
+      ],
+      "es": [
+        "República de Kazajistán",
+        "Kazakstán",
+        "Kazajastán",
+        "Qazaqstan",
+        "Kazajia"
+      ],
+      "ru": [
+        "Республика Казахстан",
+        "РК"
+      ],
+      "fr": [
+        "Kazakstan",
+        "la République du Kazakhstan",
+        "Qazaqstan",
+        "Kazakh."
+      ],
+      "zh-TW": [
+        "哈薩克共和國"
+      ],
+      "zh-CN": [
+        "哈萨克斯坦共和国",
+        "哈薩克斯坦",
+        "哈薩克",
+        "哈薩克斯坦共和國"
+      ],
+      "vi": [
+        "Cộng hoà Kazakhstan",
+        "kz",
+        "Ca-dắc-xtan",
+        "Cadắcxtan"
+      ],
+      "ja": [
+        "カザフスタン共和国"
+      ],
+      "ar": [
+        "قازاقستان"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in Eastern Europe and Central Asia",
+    "fr": "État d'Asie centrale",
+    "de": "Staat in Zentralasien",
+    "es": "país de Asia Central y Europa Oriental",
+    "ru": "государство в Центральной Азии и в Европе",
+    "zh-CN": "中亚国家",
+    "zh-TW": "中亞國家",
+    "ja": "中央アジアの国",
+    "vi": "quốc gia có chủ quyền xuyên lục địa nằm ở Đông Âu và Trung Á",
+    "ar": "دولة في آسيا الوسطى"
+  },
+  "existence": {
+    "from": {
+      "year": 1994,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1994 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 32,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1994,
+    "last_observed_year": 2026,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kazakhstan",
+    "wikidata": "https://www.wikidata.org/wiki/Q232"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

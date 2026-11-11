@@ -1,0 +1,197 @@
+{
+  "id": "parthian-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q1986139",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Parthia",
+      "en": "Parthian Empire",
+      "zh-CN": "安息帝國",
+      "zh-TW": "安息帝國",
+      "ja": "パルティア王国",
+      "fr": "Empire parthe",
+      "es": "Imperio parto",
+      "ar": "الإمبراطورية الفرثية",
+      "ru": "Парфянское царство",
+      "de": "Partherreich"
+    },
+    "aliases": {
+      "en": [
+        "Arsacid dynasty of Parthia",
+        "Arsacid Empire"
+      ],
+      "ja": [
+        "アルサケス朝パルティア",
+        "アルサケス朝",
+        "アルシャク朝",
+        "パルティア帝国",
+        "パルティア",
+        "パルチア"
+      ],
+      "ar": [
+        "أرشكيون",
+        "ارشيكون",
+        "أرشيكونين",
+        "ارشيكونين",
+        "البارثيين",
+        "أرشيكون",
+        "الفرثيين",
+        "إمبراطورية بارثية",
+        "اشكانيون",
+        "ارشكيون",
+        "أشكانيين",
+        "الأشكانيين",
+        "بارثيين",
+        "أشكانيون",
+        "الدولة الفارثية",
+        "الإمبراطورية الفارثية",
+        "الإمبراطورية الأرشكية",
+        "الإمبراطورية الأشكانية",
+        "الدولة الأرشكية",
+        "الدولة الأشكانية"
+      ],
+      "es": [
+        "Imperio arsácida",
+        "dinastía arsácida de Partia",
+        "Imperio arsacida",
+        "dinastia arsacida de Partia",
+        "Imperio persa",
+        "Persia"
+      ],
+      "de": [
+        "Arsakiden"
+      ],
+      "fr": [
+        "Empire arsacide"
+      ],
+      "zh-CN": [
+        "帕提亚帝国",
+        "阿爾薩希德王朝"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "État iranien antique, de 247 av. J.-C. à 224 apr. J.-C",
+    "de": "historischer Staat der Arsakiden nach den Seleukiden und vor den Sassaniden",
+    "es": "imperio iranio (247 a. C.–224 d. C.)",
+    "en": "second ancient Iranian Empire (247 BC–224 AD)",
+    "zh-CN": "由阿爾薩息王朝統治伊朗的帝國",
+    "ru": "древнеиранское государство",
+    "ar": "إمبراطورية ساسية سكيثية تأسست سنة 247ق.م وسميت بالإمبراطورية الفرثية نسبة إلى مقاطعة فرثيا و انتهت في سنة 224م",
+    "vi": "Đế quốc của người Iran ở Trung Đông (247 TCN–224 CN)",
+    "ja": "古代イランの王朝"
+  },
+  "existence": {
+    "from": {
+      "year": -1,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1 TCN"
+    },
+    "to": {
+      "year": 300,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "300 SCN"
+    },
+    "duration_years": 301,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1,
+    100,
+    200,
+    300
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1,
+      100,
+      200,
+      300
+    ],
+    "first_observed_year": -1,
+    "last_observed_year": 300,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parthian%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q1986139"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

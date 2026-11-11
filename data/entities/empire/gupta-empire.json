@@ -1,0 +1,143 @@
+{
+  "id": "gupta-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q11774",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Gupta",
+      "en": "Gupta Empire",
+      "zh-CN": "笈多王朝",
+      "zh-TW": "笈多王朝",
+      "ja": "グプタ朝",
+      "fr": "Empire Gupta",
+      "es": "Imperio Gupta",
+      "ar": "إمبراطورية جوبتا",
+      "ru": "Государство Гуптов",
+      "de": "Gupta-Reich"
+    },
+    "aliases": {
+      "de": [
+        "Guptareich"
+      ],
+      "en": [
+        "Gupta dynasty",
+        "Golden age of India",
+        "the Gupta Empire"
+      ],
+      "ru": [
+        "империя Гупта"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "государство в Индии под началом династии Гупта, существовавшее в IV—VI веках",
+    "en": "ancient Indian empire (c. 3rd century CE–575 CE)",
+    "es": "antiguo estado del subcontinente indio",
+    "de": "indische Herrscher-Dynastie",
+    "fr": "dynastie indienne ayant régné entre le IIIe et le VIe siècle",
+    "zh-CN": "從公元3世紀到公元543年存在的印度的帝國",
+    "ja": "古代インドの帝国（3世紀頃〜575年頃）",
+    "vi": "Đế quốc Gupta (Gupta Empire) là một state lịch sử tồn tại từ 300 SCN đến 500 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 300,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "300 SCN"
+    },
+    "to": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    300,
+    400,
+    500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      300,
+      400,
+      500
+    ],
+    "first_observed_year": 300,
+    "last_observed_year": 500,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gupta%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q11774"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

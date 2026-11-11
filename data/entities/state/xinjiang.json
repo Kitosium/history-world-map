@@ -1,0 +1,278 @@
+{
+  "id": "xinjiang",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q34800",
+  "names": {
+    "canonical": {
+      "vi": "Tân Cương",
+      "en": "Xinjiang",
+      "zh-CN": "新疆维吾尔自治区",
+      "zh-TW": "新疆維吾爾自治區",
+      "ja": "新疆ウイグル自治区",
+      "fr": "Xinjiang",
+      "es": "Sinkiang",
+      "ar": "سنجان",
+      "ru": "Синьцзян-Уйгурский автономный район",
+      "de": "Xinjiang"
+    },
+    "aliases": {
+      "zh-CN": [
+        "新疆",
+        "新疆自治区",
+        "疆",
+        "新",
+        "新疆自治區",
+        "新疆維吾爾自治區",
+        "Xīnjiāng",
+        "Xīn",
+        "Jiāng"
+      ],
+      "es": [
+        "Región autónoma uigur de Sinkiang",
+        "Region Autonoma de Xinjiang Uygur",
+        "Xinjiang",
+        "Region Autónoma de Xinjiang Uygur",
+        "Región autónoma uigur de Xinjiang",
+        "Xingiang",
+        "Region Autónoma Uigur de Xinjiang",
+        "Uigur Xinjiang",
+        "Región autónoma uigur del Xinjiang",
+        "Xinjiang Uyghur",
+        "Xinjiang-Uigur",
+        "Region autonoma uigur del Xinjiang",
+        "Uigur-Xinjiang",
+        "Xinjiang Uigur",
+        "Región Autónoma de Xinjiang Uygur",
+        "Region Autonoma Uigur de Sinkiang",
+        "Region Autonoma Uigur de Xinjiang",
+        "Sinkiang-Uigur",
+        "Region autónoma uigur del Xinjiang",
+        "Sinkieng"
+      ],
+      "ar": [
+        "تركستان الصينية",
+        "شنغيانغ",
+        "تركستان الشرقية",
+        "مقاطعة شنغيانغ",
+        "شينكيانغ",
+        "Xin jiang",
+        "شرق تركستان",
+        "سنكاينج",
+        "شينجانغ",
+        "سينجيانغ",
+        "سينجانغ",
+        "سنكيانغ",
+        "سينكيانغ",
+        "شينجيانغ"
+      ],
+      "ru": [
+        "Синьцзян",
+        "Xinjiang",
+        "Синцьзян",
+        "Синцзян-Уйгурский автономный район",
+        "Малая Бухария",
+        "СУАР",
+        "Синцзян"
+      ],
+      "fr": [
+        "Sin Kiang",
+        "Turkestan chinois",
+        "Région autonome du Xinjiang",
+        "Région autonome ouïghoure du Xinjiang",
+        "Singkiang",
+        "Sinkiang",
+        "Turkestan Oriental",
+        "Sin-Kiang"
+      ],
+      "de": [
+        "Osttürkistan",
+        "Uigurisches Autonomes Gebiet Xinjiang",
+        "Uyguristan",
+        "Hsinkiang",
+        "Ost-Türkistan",
+        "Bingtuan",
+        "Sinkiang",
+        "CN-65",
+        "Chinesisch-Turkestan",
+        "Autonomes Gebiet Xinjiang der Uygur-Nationalität",
+        "Autonomes Gebiet Xinjiang der Uiguren",
+        "Ostturkistan",
+        "Hsin-chiang",
+        "Sin Kiang",
+        "Sin Keang"
+      ],
+      "ja": [
+        "新疆",
+        "新彊ウイグル",
+        "ウイグル自治区",
+        "新疆ウイグル",
+        "新彊ウイグル自治区",
+        "新疆自治区",
+        "新疆ウイグル族自治区",
+        "新疆維吾爾自治区"
+      ],
+      "vi": [
+        "Khu tự trị người Duy Ngô Nhĩ tại Tân Cương",
+        "Khu tự trị Tân Cương",
+        "Khu tự trị Duy Ngô Nhĩ Tân Cương",
+        "Khu tự trị dân tộc Duy Ngô Nhĩ Tân Cương"
+      ],
+      "en": [
+        "Xinjiang Uyghur Autonomous Region",
+        "Xinjiang Uighur Autonomous Region",
+        "XUAR",
+        "Xinjiang Province",
+        "Sinkiang",
+        "Sinkeang",
+        "Hsin-chiang",
+        "Chinese Turkestan",
+        "Xibei",
+        "Northwest",
+        "Chinese Northwest",
+        "Northwest China",
+        "CN-65",
+        "Northwest Ethnic Area"
+      ],
+      "zh-TW": [
+        "新疆自治區"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "región autónoma de China",
+    "de": "autonomes Gebiet von China",
+    "fr": "région autonome de la Chine",
+    "ja": "中国の自治区",
+    "ru": "автономный район Китая",
+    "en": "autonomous region in China",
+    "zh-CN": "中华人民共和国的一个自治区",
+    "ar": "إحدى مقاطعات الصين وأكبرهم بالمساحة وذات غالبية مسلمة",
+    "zh-TW": "中國的自治區",
+    "vi": "khu tự trị ở tây bắc Trung Quốc"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "duration_years": 31,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938,
+    1945
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938,
+      1945
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1945,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Xinjiang",
+    "wikidata": "https://www.wikidata.org/wiki/Q34800"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tay-son",
+  "state_id": "đại-việt",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Tây Sơn (Quang Trung - Nguyễn Huệ)",
+      "en": "Tay Son dynasty",
+      "zh-CN": "西山朝",
+      "ja": "西山朝"
+    }
+  },
+  "from_year": 1778,
+  "to_year": 1802,
+  "capital": "phu-xuan-hue",
+  "source_ids": [
+    "src-dai-nam"
+  ]
+}

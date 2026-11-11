@@ -1,0 +1,149 @@
+{
+  "id": "mapuche",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q178484",
+  "names": {
+    "canonical": {
+      "vi": "Người Mapuche",
+      "en": "Mapuche",
+      "zh-CN": "马普切人",
+      "zh-TW": "馬普切人",
+      "ja": "マプチェ族",
+      "fr": "Mapuches",
+      "es": "pueblo mapuche",
+      "ar": "مابوتشي",
+      "ru": "арауканы",
+      "de": "Mapuche"
+    },
+    "aliases": {
+      "zh-CN": [
+        "阿拉可尼人"
+      ],
+      "fr": [
+        "Araucans",
+        "Araucaniens",
+        "Araucan"
+      ],
+      "es": [
+        "pueblo mapuche",
+        "etnia mapuche",
+        "mapunche",
+        "mapuce",
+        "indígenas mapuches",
+        "mapuches",
+        "indigenas mapuches"
+      ],
+      "ja": [
+        "マプチェ人",
+        "マプチェ",
+        "マプーチェ人",
+        "マプーチェ族",
+        "アラウカノ族",
+        "マプーチェ"
+      ],
+      "ar": [
+        "المابوتشي",
+        "Mapuches",
+        "Mapuche"
+      ],
+      "ru": [
+        "мапуче"
+      ],
+      "en": [
+        "Reche",
+        "Araucanos",
+        "Mapuce"
+      ],
+      "de": [
+        "Mapuče"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "indigenes Volk, welches das historische Gebiet der Araucanía in den heutigen Staaten Chile und Argentinien bewohnt",
+    "en": "Amerindian people, who inhabit the historical territory of the Araucanía in the current states of Argentina and Chile",
+    "es": "pueblo indígena que habita la región de la Araucanía y Patagonia, en los Estados actuales de Chile y Argentina respectivamente",
+    "ar": "مجموعة من الشعوب الأصلية الأمريكية والتي تتمركز في وسط وجنوب تشيلي وجنوب الأرجنتين.",
+    "fr": "peuple amérindien habitant le territoire historique de l'Araucanie dans les États actuels du Chili et de l'Argentine",
+    "vi": "Nhóm dân tộc ở Nam Mỹ",
+    "ru": "южноамериканский коренной народ, живущий в Чили и Аргентине",
+    "zh-CN": "生活在智利和阿根廷的民族"
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 1878,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mapuche",
+    "wikidata": "https://www.wikidata.org/wiki/Q178484"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

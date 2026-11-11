@@ -1,0 +1,147 @@
+{
+  "id": "bactria",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q132646",
+  "names": {
+    "canonical": {
+      "vi": "Bactria",
+      "en": "Bactria",
+      "zh-CN": "巴克特里亚",
+      "zh-TW": "巴克特里亞",
+      "ja": "バクトリア",
+      "fr": "Bactriane",
+      "es": "Bactriana",
+      "ar": "باختر",
+      "ru": "Бактрия",
+      "de": "Baktrien"
+    },
+    "aliases": {
+      "zh-CN": [
+        "巴克特利亚"
+      ],
+      "es": [
+        "Tojaristan",
+        "Bactriano",
+        "Tocaristán",
+        "Tojaristán",
+        "Bactria",
+        "Tocaristan"
+      ],
+      "ar": [
+        "باكتريا",
+        "باختريا"
+      ],
+      "ru": [
+        "Бактрийцы",
+        "Бактриана"
+      ],
+      "fr": [
+        "Bactrie",
+        "Tokharestan"
+      ],
+      "de": [
+        "Bactria"
+      ],
+      "ja": [
+        "トハーリスターン",
+        "トハリスタン",
+        "トハラ"
+      ],
+      "vi": [
+        "Đại Hạ"
+      ],
+      "en": [
+        "Bactriana",
+        "Baktria",
+        "Baktriana"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical region in Central Asia",
+    "es": "región histórica del Asia Central",
+    "de": "der historische Name einer Landschaft um die ehemalige Hauptstadt Baktra",
+    "fr": "région à cheval sur les États actuels d’Afghanistan, du Tadjikistan et de l’Ouzbékistan",
+    "ar": "منطقة في أوزبكستان",
+    "ja": "中央アジアに位置する歴史的地域",
+    "ru": "историческая область",
+    "vi": "Bactria (Bactria) là một state lịch sử tồn tại từ 200 TCN đến 200 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "to": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bactria",
+    "wikidata": "https://www.wikidata.org/wiki/Q132646"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

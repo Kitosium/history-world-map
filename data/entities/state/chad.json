@@ -1,0 +1,213 @@
+{
+  "id": "chad",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q657",
+  "names": {
+    "canonical": {
+      "vi": "Tchad",
+      "en": "Chad",
+      "zh-CN": "乍得",
+      "zh-TW": "查德",
+      "ja": "チャド",
+      "fr": "Tchad",
+      "es": "Chad",
+      "ar": "تشاد",
+      "ru": "Чад",
+      "de": "Tschad"
+    },
+    "aliases": {
+      "es": [
+        "República de Chad"
+      ],
+      "en": [
+        "Republic of Chad",
+        "td",
+        "CHA",
+        "GUM"
+      ],
+      "ru": [
+        "Республика Чад"
+      ],
+      "zh-CN": [
+        "查德",
+        "乍得共和国"
+      ],
+      "fr": [
+        "République du Tchad",
+        "la République du Tchad"
+      ],
+      "ja": [
+        "チャド共和国"
+      ],
+      "vi": [
+        "Chad"
+      ],
+      "ar": [
+        "جمهورية تشاد",
+        "تَشَاد"
+      ],
+      "zh-TW": [
+        "查德共和國"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in central Africa",
+    "es": "país de África Central",
+    "fr": "pays d'Afrique centrale indépendant depuis 1960",
+    "ru": "страна в Африке",
+    "de": "Binnenstaat in Zentralafrika",
+    "zh-CN": "非洲国家",
+    "zh-TW": "非洲中部國家",
+    "ja": "アフリカ中部の内陸国",
+    "ar": "دولة في وسط أفريقيا",
+    "vi": "quốc gia ở khu vực Trung Phi"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chad",
+    "wikidata": "https://www.wikidata.org/wiki/Q657"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

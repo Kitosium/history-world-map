@@ -1,0 +1,133 @@
+{
+  "id": "dai-co-viet",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q10753063",
+  "names": {
+    "canonical": {
+      "vi": "Đại Cồ Việt",
+      "en": "Đại Cồ Việt",
+      "zh-CN": "大瞿越",
+      "zh-TW": "大瞿越",
+      "ja": "ダイコビエト",
+      "fr": "Đại Cồ Việt",
+      "es": "Đại Cồ Việt",
+      "de": "Đại Cồ Việt",
+      "ru": "Дайковьет",
+      "ar": "داي كو فييت"
+    },
+    "aliases": {
+      "vi": [
+        "Nước Đại Cồ Việt",
+        "Nhà Đinh",
+        "Nhà Tiền Lê",
+        "Đinh Tiên Hoàng"
+      ],
+      "en": [
+        "Dai Co Viet",
+        "Kingdom of Dai Co Viet",
+        "Dinh dynasty",
+        "Early Le dynasty"
+      ],
+      "zh-CN": [
+        "大瞿越国",
+        "丁朝",
+        "前黎朝"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Quốc hiệu đầu tiên của nước Việt sau thời kỳ Bắc thuộc nghìn năm, do Đinh Tiên Hoàng đặt năm 968 sau khi dẹp loạn 12 sứ quân, đóng đô tại kinh thành Hoa Lư.",
+    "en": "The first official state title of Vietnam after a millennium of northern rule, founded by Đinh Tiên Hoàng in 968 CE with the capital at Hoa Lư.",
+    "zh-CN": "丁部领平定十二使君之乱后于公元968年建立的王朝国号，定都华闾，历经丁朝、前黎朝及李朝初期。"
+  },
+  "existence": {
+    "from": {
+      "year": 968,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "968 SCN"
+    },
+    "to": {
+      "year": 1054,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1054 SCN"
+    },
+    "duration_years": 86,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "reunification_statehood",
+      "vi": "Đinh Bộ Lĩnh dẹp yên 12 sứ quân, xưng Hoàng đế và đặt quốc hiệu Đại Cồ Việt tại Hoa Lư",
+      "en": "Dinh Bo Linh unified the 12 warlords, proclaimed Emperor and named the state Dai Co Viet at Hoa Lu"
+    },
+    "dissolution_reason": {
+      "type": "dynastic_rebranding",
+      "vi": "Năm 1054, vua Lý Thánh Tông đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt",
+      "en": "In 1054, Emperor Ly Thanh Tong renamed the state from Dai Co Viet to Dai Viet"
+    },
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1000,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-dai-viet"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "historical_reconstruction",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-dai-viet"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_C%E1%BB%93_Vi%E1%BB%87t",
+    "wikidata": "https://www.wikidata.org/wiki/Q10753063"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "grand-duchy-of-hesse",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q20135",
+  "names": {
+    "canonical": {
+      "vi": "Đại công quốc Hesse",
+      "en": "Grand Duchy of Hesse",
+      "zh-CN": "黑森-达姆施塔特",
+      "zh-TW": "黑森-达姆施塔特",
+      "ja": "ヘッセン大公国",
+      "fr": "grand-duché de Hesse",
+      "es": "Hesse-Darmstadt",
+      "ar": "دوقية هسن الكبرى",
+      "ru": "Великое герцогство Гессен",
+      "de": "Großherzogtum Hessen"
+    },
+    "aliases": {
+      "fr": [
+        "grand-duché de Hesse-Darmstadt"
+      ],
+      "de": [
+        "Großherzogtum Hessen-Darmstadt",
+        "Großherzogtum Hessen und bei Rhein",
+        "Großherzogthum Hessen"
+      ],
+      "en": [
+        "Hesse-Darmstadt",
+        "Großherzogtum Hessen",
+        "Hesse",
+        "Grand Duchy of Hesse and by Rhine",
+        "Hesse and by Rhine"
+      ],
+      "ru": [
+        "Гессен"
+      ],
+      "es": [
+        "Gran Ducado de Hesse y el Rin",
+        "Gran Ducado de Hesse",
+        "Landgraviato de Hesse-Darmstadt"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "member state of the German Confederation & the German Empire (1806–1918)",
+    "es": "antiguo Estado vasallo alemán (1806-1918)",
+    "de": "ehemaliger deutscher Staat (1806–1918)",
+    "ru": "немецкое великое герцогство, существовавшее в 1806-1918 годах",
+    "ja": "ドイツ中部に存在した大公国",
+    "fr": "ancien État germanique, de 1806 à 1918",
+    "vi": "Đại công quốc Hesse (Grand Duchy of Hesse) là một state lịch sử tồn tại từ 1815 SCN đến 1815 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 1815,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Grand%20Duchy%20of%20Hesse",
+    "wikidata": "https://www.wikidata.org/wiki/Q20135"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

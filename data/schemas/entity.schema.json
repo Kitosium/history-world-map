@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://history-world-map.local/schemas/entity.schema.json",
+  "title": "Historical entity document",
+  "type": "object",
+  "required": [
+    "id",
+    "schema_version",
+    "type",
+    "names",
+    "existence",
+    "confidence"
+  ],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "schema_version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "type": {
+      "type": "string",
+      "description": "Must exist in data/taxonomies/entity-types.json"
+    },
+    "wikidata_id": {
+      "type": ["string", "null"],
+      "pattern": "^Q[0-9]+$"
+    },
+    "names": {
+      "type": "object",
+      "required": ["canonical"],
+      "properties": {
+        "canonical": { "$ref": "#/$defs/localisedText" },
+        "aliases": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 }
+          }
+        },
+        "native": { "type": "string" },
+        "etymology": { "$ref": "#/$defs/localisedText" },
+        "historical_names": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name"],
+            "properties": {
+              "name": { "$ref": "#/$defs/localisedText" },
+              "from": { "$ref": "#/$defs/datePoint" },
+              "to": { "$ref": "#/$defs/datePoint" },
+              "note": { "$ref": "#/$defs/localisedText" }
+            },
+            "additionalProperties": true
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "descriptions": { "$ref": "#/$defs/localisedText" },
+    "existence": {
+      "type": "object",
+      "required": ["from", "to", "status"],
+      "properties": {
+        "from": { "$ref": "#/$defs/datePoint" },
+        "to": { "$ref": "#/$defs/datePoint" },
+        "duration_years": { "type": ["integer", "null"] },
+        "status": { "enum": ["historical", "active"] },
+        "foundation_reason": { "type": ["string", "null"] },
+        "dissolution_reason": { "type": ["string", "null"] },
+        "basis": {
+          "enum": [
+            "documented",
+            "single_observation",
+            "cartographic_observation",
+            "cartographic_observation_range",
+            "modern_snapshot",
+            "unknown"
+          ]
+        },
+        "continuity_asserted": { "type": "boolean" },
+        "is_approximate": { "type": "boolean" }
+      },
+      "additionalProperties": true
+    },
+    "observed_periods": {
+      "type": "array",
+      "items": { "type": "integer", "minimum": -3500, "maximum": 2026 },
+      "uniqueItems": true
+    },
+    "spatial_coverage": {
+      "type": "object",
+      "properties": {
+        "observed_years": {
+          "type": "array",
+          "items": { "type": "integer" }
+        },
+        "first_observed_year": { "type": ["integer", "null"] },
+        "last_observed_year": { "type": ["integer", "null"] },
+        "feature_count": { "type": ["integer", "null"] },
+        "boundary_source_ids": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "boundary_confidence": { "enum": ["low", "medium", "high", null] },
+        "boundary_precision": { "type": ["string", "null"] },
+        "border_precision": { "type": ["integer", "null"], "minimum": 0, "maximum": 3 }
+      },
+      "additionalProperties": true
+    },
+    "boundary_references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["year", "file_path"],
+        "properties": {
+          "year": { "type": "integer" },
+          "year_system": { "type": "string" },
+          "file_path": { "type": "string" },
+          "source_ids": { "type": "array", "items": { "type": "string" } },
+          "boundary_confidence": { "enum": ["low", "medium", "high"] },
+          "boundary_precision": { "type": "string" }
+        },
+        "additionalProperties": true
+      }
+    },
+    "source_ids": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "names": { "type": "array", "items": { "type": "string" } },
+        "existence": { "type": "array", "items": { "type": "string" } },
+        "boundaries": { "type": "array", "items": { "type": "string" } },
+        "method": { "type": "string" },
+        "last_verified": { "type": "string", "format": "date" }
+      },
+      "additionalProperties": true
+    },
+    "confidence": { "enum": ["low", "medium", "high"] },
+    "confidence_basis": { "type": "string" },
+    "external_links": { "type": "object" },
+    "last_updated": { "type": "string" },
+    "last_verified": { "type": "string" }
+  },
+  "additionalProperties": true,
+  "$defs": {
+    "localisedText": {
+      "type": "object",
+      "propertyNames": { "pattern": "^[a-z]{2}(-[A-Za-z0-9]+)*$" },
+      "additionalProperties": { "type": "string" }
+    },
+    "datePoint": {
+      "type": "object",
+      "required": ["year"],
+      "properties": {
+        "year": { "type": "integer", "minimum": -3500, "maximum": 2026 },
+        "year_system": { "enum": ["astronomical", "historical", "gregorian"] },
+        "precision": { "enum": ["year", "month", "day", "decade", "century"] },
+        "label": { "type": "string" },
+        "month": { "type": "integer", "minimum": 1, "maximum": 12 },
+        "day": { "type": "integer", "minimum": 1, "maximum": 31 },
+        "calendar": { "type": "string" },
+        "is_approximate": { "type": "boolean" },
+        "fuzzy_range": { "type": "array", "items": { "type": "integer" } }
+      },
+      "additionalProperties": true
+    }
+  }
+}

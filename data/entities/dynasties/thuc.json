@@ -1,0 +1,20 @@
+{
+  "id": "thuc",
+  "state_id": "au-lac",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Thục (Thục Phán An Dương Vương)",
+      "en": "Thuc dynasty (An Duong Vuong)",
+      "zh-CN": "蜀朝 (安阳王)",
+      "ja": "蜀朝 (安陽王)"
+    }
+  },
+  "from_year": -257,
+  "to_year": -179,
+  "capital": "co-loa",
+  "source_ids": [
+    "src-dai-viet",
+    "src-shiji",
+    "src-dao-duy-anh"
+  ]
+}

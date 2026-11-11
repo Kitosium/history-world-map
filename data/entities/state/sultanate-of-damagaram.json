@@ -1,0 +1,133 @@
+{
+  "id": "sultanate-of-damagaram",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q4154364",
+  "names": {
+    "canonical": {
+      "vi": "Sultanate of Damagaram",
+      "en": "Sultanate of Damagaram",
+      "zh-CN": "達馬加拉姆蘇丹國",
+      "zh-TW": "達馬加拉姆蘇丹國",
+      "fr": "Sultanat du Damagaram",
+      "es": "Sultanato de Damagaram",
+      "ru": "Дамагарам (султанат)",
+      "de": "Sultanat Zinder"
+    },
+    "aliases": {
+      "ru": [
+        "Султанат Дамагарам"
+      ],
+      "en": [
+        "Sultanate of Zinder",
+        "Sultanate of Damagarim"
+      ],
+      "de": [
+        "Sultanat Damagaram",
+        "Sultanat Damagarim"
+      ],
+      "fr": [
+        "Royaume du Damagaram",
+        "Sultanat de Zinder"
+      ],
+      "zh-CN": [
+        "達馬加蘭蘇丹國"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical country and sultanate in Niger",
+    "de": "historischer Staat und Sultanat in Niger",
+    "fr": "royaume historique et sultanat au Niger",
+    "ru": "Африканское Государство Дамагарам",
+    "vi": "Sultanate of Damagaram (Sultanate of Damagaram) là một state lịch sử tồn tại từ 1878 SCN đến 1880 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 1880,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1880 SCN"
+    },
+    "duration_years": 2,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 1880,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sultanate%20of%20Damagaram",
+    "wikidata": "https://www.wikidata.org/wiki/Q4154364"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

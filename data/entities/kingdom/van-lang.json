@@ -1,0 +1,203 @@
+{
+  "id": "van-lang",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q1185960",
+  "names": {
+    "canonical": {
+      "vi": "Văn Lang",
+      "en": "Văn Lang",
+      "zh-CN": "文郎国",
+      "zh-TW": "文郎國",
+      "ja": "ヴァンラン国",
+      "fr": "Văn Lang",
+      "es": "Văn Lang",
+      "de": "Văn Lang",
+      "ru": "Ванланг",
+      "ar": "فان لانغ"
+    },
+    "aliases": {
+      "vi": [
+        "Nhà nước Văn Lang",
+        "Thời đại Hùng Vương",
+        "Họ Hồng Bàng",
+        "Nước Văn Lang"
+      ],
+      "en": [
+        "Van Lang",
+        "Hong Bang dynasty",
+        "Kingdom of Van Lang"
+      ],
+      "zh-CN": [
+        "文郎",
+        "鸿庞氏",
+        "雄王时代"
+      ],
+      "ja": [
+        "文郎",
+        "雄王時代"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Nhà nước cổ đại đầu tiên trong lịch sử Việt Nam dưới thời các Vua Hùng, gắn liền với nền văn hóa khảo cổ học Đông Sơn rực rỡ ở lưu vực sông Hồng.",
+    "en": "The first legendary and archaeological ancient state in Vietnamese history ruled by the Hùng kings, associated with the Dong Son bronze culture.",
+    "zh-CN": "越南历史上最早的古国与朝代，由雄王统领十五部，与青铜时代的东山文化密切相关。",
+    "ja": "ベトナムの歴史における最初の古代国家。歴代の雄王によって治められ、東山文化と深く関連する。",
+    "fr": "Le premier État ancien de l'histoire du Viêt Nam, gouverné par les rois Hùng et lié à la culture de Đông Sơn.",
+    "es": "El primer estado antiguo registrado en la historia de Vietnam, gobernado por los reyes Hùng y asociado a la cultura Đông Sơn.",
+    "de": "Der erste antike Staat in der Geschichte Vietnams, regiert von den Hùng-Königen und verbunden mit der Dong-Son-Kultur.",
+    "ru": "Первое древнее государство в истории Вьетнама, управлявшееся королями Хунг и связанное с бронзовой культурой Донгшон.",
+    "ar": "أول دولة قديمة مسجلة في تاريخ فيتنام تحت حكم ملوك هونغ، مرتبطة بثقافة دونغ سون البرونزية."
+  },
+  "existence": {
+    "from": {
+      "year": -700,
+      "year_system": "astronomical",
+      "precision": "century",
+      "label": "700 TCN"
+    },
+    "to": {
+      "year": -258,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "258 TCN"
+    },
+    "duration_years": 442,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "consolidation_of_tribes",
+      "vi": "Hùng Vương thống nhất 15 bộ lạc Lạc Việt lập nước Văn Lang, định đô tại Phong Châu",
+      "en": "Hung Kings unified the fifteen Lac Viet tribes to establish Van Lang at Phong Chau"
+    },
+    "dissolution_reason": {
+      "type": "dynastic_succession",
+      "vi": "Thục Phán (An Dương Vương) đánh bại Hùng Vương thứ 18, sáp nhập Tây Âu và Lạc Việt thành lập nước Âu Lạc",
+      "en": "Thuc Phan (An Duong Vuong) defeated the last Hung king and merged Tay Au with Lac Viet to form Au Lac"
+    },
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -700,
+    -500,
+    -400,
+    -323,
+    -300
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -700,
+      -500,
+      -400,
+      -323,
+      -300
+    ],
+    "first_observed_year": -700,
+    "last_observed_year": -300,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "historical_reconstruction",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": -700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-700.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    },
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    },
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    },
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-dai-viet",
+        "src-khao-co"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "historical_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-dai-viet",
+    "src-khao-co",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-dai-viet",
+      "src-khao-co"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "wikidata": "https://www.wikidata.org/wiki/Q1185960"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "mongol-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q12557",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Mông Cổ",
+      "en": "Mongol Empire",
+      "zh-CN": "蒙古帝国",
+      "zh-TW": "蒙古帝國",
+      "ja": "モンゴル帝国",
+      "fr": "Empire mongol",
+      "es": "Imperio mongol",
+      "ar": "إمبراطورية المغول",
+      "ru": "Монгольская империя",
+      "de": "Mongolisches Reich"
+    },
+    "aliases": {
+      "fr": [
+        "Empire turco-mongol"
+      ],
+      "zh-CN": [
+        "蒙古帝國"
+      ],
+      "en": [
+        "Mongolian Empire",
+        "Great Mongol Nation"
+      ],
+      "ar": [
+        "الإمبراطورية المغولية"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "13th- and 14th-century empire originating in Mongolia",
+    "es": "imperio asiático (1206-1368)",
+    "fr": "État du XIIIe siècle fondé par Gengis Khan",
+    "ru": "крупнейшее по площади континентальное государство в истории человечества",
+    "vi": "cựu đế quốc ở Bắc Á",
+    "ar": "إمبراطورية تشكلت في ما يُعرف اليوم بدولة منغوليا وهي ثاني أضخم إمبراطورية بالتاريخ والأضخم ككتلة قارية واحدة",
+    "zh-CN": "古代由蒙古人所建立橫跨歐亞兩洲的帝國",
+    "de": "historischer Staat",
+    "ja": "かつてモンゴルに存在した国家"
+  },
+  "existence": {
+    "from": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "to": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1200
+    ],
+    "first_observed_year": 1200,
+    "last_observed_year": 1200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mongol%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q12557"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

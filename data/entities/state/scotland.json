@@ -1,0 +1,279 @@
+{
+  "id": "scotland",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q22",
+  "names": {
+    "canonical": {
+      "vi": "Scotland",
+      "en": "Scotland",
+      "zh-CN": "苏格兰",
+      "zh-TW": "蘇格蘭",
+      "ja": "スコットランド",
+      "fr": "Écosse",
+      "es": "Escocia",
+      "ar": "إسكتلندا",
+      "ru": "Шотландия",
+      "de": "Schottland"
+    },
+    "aliases": {
+      "ru": [
+        "Альба"
+      ],
+      "ar": [
+        "اسكوتلندا",
+        "سكوتلاند",
+        "أسكتلندا",
+        "اسكتلندا"
+      ],
+      "en": [
+        "Alba",
+        "Scotland, United Kingdom",
+        "Caledonia",
+        "Scot"
+      ],
+      "es": [
+        "Caledonia"
+      ],
+      "ja": [
+        "アルバ",
+        "カレドニア",
+        "スコット",
+        "蘇格蘭",
+        "すこっとらんど"
+      ],
+      "zh-CN": [
+        "喀里多尼亞",
+        "加勒多尼亞",
+        "阿尔巴"
+      ],
+      "vi": [
+        "Tô Cách Lan",
+        "Ê-cốt",
+        "Tô-cách-lan",
+        "Xcốt-len",
+        "Scôtlen"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays du nord-ouest de l'Europe, faisant partie du Royaume-Uni",
+    "zh-CN": "英国的构成国",
+    "vi": "quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland",
+    "ru": "часть Соединённого Королевства Великобритании и Северной Ирландии",
+    "zh-TW": "英國的構成國",
+    "es": "país del noroeste de Europa, parte del Reino Unido",
+    "de": "Land im Nordwesten Europas, Teil des Vereinigten Königreichs",
+    "ar": "دولة تقع في شمال غرب أوروبا، وهي جزء من المملكة المتحدة",
+    "en": "country in north-west Europe, part of the United Kingdom",
+    "ja": "ヨーロッパ北西部の国、イギリス構成国"
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1700 SCN"
+    },
+    "duration_years": 700,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200,
+    1279,
+    1300,
+    1400,
+    1492,
+    1500,
+    1530,
+    1600,
+    1650,
+    1700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400,
+      1492,
+      1500,
+      1530,
+      1600,
+      1650,
+      1700
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1700,
+    "feature_count": 12,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Scotland",
+    "wikidata": "https://www.wikidata.org/wiki/Q22"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

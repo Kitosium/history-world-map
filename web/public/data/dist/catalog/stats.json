@@ -1,0 +1,419 @@
+{
+  "schema_version": "1.3.0",
+  "generated_at": "2026-11-05",
+  "entities": {
+    "total": 2938,
+    "with_geometry": 2931,
+    "without_geometry": 7,
+    "without_description": 1779,
+    "without_sources": 0,
+    "by_type": {
+      "civilization": 2,
+      "dependent_territory": 43,
+      "disputed_territory": 17,
+      "empire": 60,
+      "kingdom": 79,
+      "state": 2737
+    },
+    "by_confidence": {
+      "high": 204,
+      "low": 2373,
+      "medium": 361
+    }
+  },
+  "sources": {
+    "total": 10,
+    "by_tier": {
+      "tier_1_official_primary": 3,
+      "tier_3_authoritative_cartography": 1,
+      "tier_3_peer_reviewed_academic": 4,
+      "tier_4_scholarly_atlas": 1,
+      "tier_5_general_reference": 1
+    }
+  },
+  "spatial": {
+    "layers": 51,
+    "features": 9447,
+    "by_year": {
+      "-3500": {
+        "feature_count": 13,
+        "entity_count": 13,
+        "confidence_counts": {
+          "low": 13
+        }
+      },
+      "-3000": {
+        "feature_count": 13,
+        "entity_count": 13,
+        "confidence_counts": {
+          "low": 13
+        }
+      },
+      "-2000": {
+        "feature_count": 16,
+        "entity_count": 16,
+        "confidence_counts": {
+          "low": 16
+        }
+      },
+      "-1500": {
+        "feature_count": 34,
+        "entity_count": 34,
+        "confidence_counts": {
+          "low": 34
+        }
+      },
+      "-1000": {
+        "feature_count": 35,
+        "entity_count": 35,
+        "confidence_counts": {
+          "low": 35
+        }
+      },
+      "-700": {
+        "feature_count": 36,
+        "entity_count": 36,
+        "confidence_counts": {
+          "low": 35,
+          "medium": 1
+        }
+      },
+      "-500": {
+        "feature_count": 37,
+        "entity_count": 37,
+        "confidence_counts": {
+          "low": 36,
+          "medium": 1
+        }
+      },
+      "-400": {
+        "feature_count": 34,
+        "entity_count": 34,
+        "confidence_counts": {
+          "low": 33,
+          "medium": 1
+        }
+      },
+      "-323": {
+        "feature_count": 36,
+        "entity_count": 36,
+        "confidence_counts": {
+          "low": 35,
+          "medium": 1
+        }
+      },
+      "-300": {
+        "feature_count": 44,
+        "entity_count": 44,
+        "confidence_counts": {
+          "low": 43,
+          "medium": 1
+        }
+      },
+      "-200": {
+        "feature_count": 52,
+        "entity_count": 52,
+        "confidence_counts": {
+          "low": 50,
+          "medium": 2
+        }
+      },
+      "-100": {
+        "feature_count": 49,
+        "entity_count": 49,
+        "confidence_counts": {
+          "low": 49
+        }
+      },
+      "-1": {
+        "feature_count": 46,
+        "entity_count": 46,
+        "confidence_counts": {
+          "low": 46
+        }
+      },
+      "100": {
+        "feature_count": 50,
+        "entity_count": 50,
+        "confidence_counts": {
+          "low": 50
+        }
+      },
+      "200": {
+        "feature_count": 46,
+        "entity_count": 46,
+        "confidence_counts": {
+          "low": 44,
+          "medium": 2
+        }
+      },
+      "300": {
+        "feature_count": 48,
+        "entity_count": 48,
+        "confidence_counts": {
+          "low": 46,
+          "medium": 2
+        }
+      },
+      "400": {
+        "feature_count": 56,
+        "entity_count": 56,
+        "confidence_counts": {
+          "low": 54,
+          "medium": 2
+        }
+      },
+      "500": {
+        "feature_count": 60,
+        "entity_count": 60,
+        "confidence_counts": {
+          "low": 60
+        }
+      },
+      "600": {
+        "feature_count": 63,
+        "entity_count": 63,
+        "confidence_counts": {
+          "low": 62,
+          "medium": 1
+        }
+      },
+      "700": {
+        "feature_count": 103,
+        "entity_count": 103,
+        "confidence_counts": {
+          "low": 103
+        }
+      },
+      "800": {
+        "feature_count": 93,
+        "entity_count": 93,
+        "confidence_counts": {
+          "low": 93
+        }
+      },
+      "900": {
+        "feature_count": 112,
+        "entity_count": 112,
+        "confidence_counts": {
+          "low": 112
+        }
+      },
+      "1000": {
+        "feature_count": 107,
+        "entity_count": 107,
+        "confidence_counts": {
+          "low": 106,
+          "medium": 1
+        }
+      },
+      "1100": {
+        "feature_count": 118,
+        "entity_count": 118,
+        "confidence_counts": {
+          "low": 118
+        }
+      },
+      "1200": {
+        "feature_count": 104,
+        "entity_count": 104,
+        "confidence_counts": {
+          "low": 104
+        }
+      },
+      "1279": {
+        "feature_count": 96,
+        "entity_count": 96,
+        "confidence_counts": {
+          "low": 96
+        }
+      },
+      "1300": {
+        "feature_count": 96,
+        "entity_count": 96,
+        "confidence_counts": {
+          "low": 96
+        }
+      },
+      "1400": {
+        "feature_count": 99,
+        "entity_count": 99,
+        "confidence_counts": {
+          "low": 98,
+          "medium": 1
+        }
+      },
+      "1492": {
+        "feature_count": 1290,
+        "entity_count": 1290,
+        "confidence_counts": {
+          "high": 1,
+          "low": 1289
+        }
+      },
+      "1500": {
+        "feature_count": 124,
+        "entity_count": 124,
+        "confidence_counts": {
+          "low": 124
+        }
+      },
+      "1530": {
+        "feature_count": 257,
+        "entity_count": 257,
+        "confidence_counts": {
+          "low": 257
+        }
+      },
+      "1600": {
+        "feature_count": 627,
+        "entity_count": 627,
+        "confidence_counts": {
+          "high": 2,
+          "low": 625
+        }
+      },
+      "1650": {
+        "feature_count": 583,
+        "entity_count": 583,
+        "confidence_counts": {
+          "high": 572,
+          "low": 11
+        }
+      },
+      "1700": {
+        "feature_count": 575,
+        "entity_count": 575,
+        "confidence_counts": {
+          "high": 569,
+          "low": 6
+        }
+      },
+      "1715": {
+        "feature_count": 592,
+        "entity_count": 592,
+        "confidence_counts": {
+          "high": 589,
+          "low": 3
+        }
+      },
+      "1783": {
+        "feature_count": 542,
+        "entity_count": 542,
+        "confidence_counts": {
+          "high": 539,
+          "low": 3
+        }
+      },
+      "1800": {
+        "feature_count": 542,
+        "entity_count": 542,
+        "confidence_counts": {
+          "high": 542
+        }
+      },
+      "1815": {
+        "feature_count": 308,
+        "entity_count": 308,
+        "confidence_counts": {
+          "high": 308
+        }
+      },
+      "1878": {
+        "feature_count": 170,
+        "entity_count": 170,
+        "confidence_counts": {
+          "high": 167,
+          "medium": 3
+        }
+      },
+      "1880": {
+        "feature_count": 169,
+        "entity_count": 169,
+        "confidence_counts": {
+          "high": 166,
+          "medium": 3
+        }
+      },
+      "1900": {
+        "feature_count": 165,
+        "entity_count": 165,
+        "confidence_counts": {
+          "high": 165
+        }
+      },
+      "1914": {
+        "feature_count": 142,
+        "entity_count": 142,
+        "confidence_counts": {
+          "high": 142
+        }
+      },
+      "1920": {
+        "feature_count": 161,
+        "entity_count": 161,
+        "confidence_counts": {
+          "high": 161
+        }
+      },
+      "1930": {
+        "feature_count": 161,
+        "entity_count": 161,
+        "confidence_counts": {
+          "high": 158,
+          "low": 3
+        }
+      },
+      "1938": {
+        "feature_count": 168,
+        "entity_count": 168,
+        "confidence_counts": {
+          "high": 168
+        }
+      },
+      "1945": {
+        "feature_count": 182,
+        "entity_count": 182,
+        "confidence_counts": {
+          "high": 182
+        }
+      },
+      "1960": {
+        "feature_count": 157,
+        "entity_count": 157,
+        "confidence_counts": {
+          "high": 157
+        }
+      },
+      "1994": {
+        "feature_count": 193,
+        "entity_count": 193,
+        "confidence_counts": {
+          "high": 193
+        }
+      },
+      "2000": {
+        "feature_count": 193,
+        "entity_count": 193,
+        "confidence_counts": {
+          "high": 193
+        }
+      },
+      "2010": {
+        "feature_count": 193,
+        "entity_count": 193,
+        "confidence_counts": {
+          "high": 193
+        }
+      },
+      "2026": {
+        "feature_count": 257,
+        "entity_count": 257,
+        "confidence_counts": {
+          "high": 240,
+          "medium": 17
+        }
+      }
+    }
+  }
+}

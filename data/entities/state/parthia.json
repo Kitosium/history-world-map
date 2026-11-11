@@ -1,0 +1,127 @@
+{
+  "id": "parthia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1645483",
+  "names": {
+    "canonical": {
+      "vi": "Người Parthia",
+      "en": "Parthia",
+      "zh-CN": "帕提亚",
+      "zh-TW": "帕提亚",
+      "ja": "パルティア",
+      "fr": "Parthie",
+      "es": "Partia",
+      "ar": "فرثية",
+      "ru": "Парфия",
+      "de": "Parthien"
+    },
+    "aliases": {
+      "de": [
+        "Parther"
+      ],
+      "ar": [
+        "بارثية",
+        "فرثيا"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical region located in north-eastern Iran",
+    "de": "antike Landschaft im Norden des heutigen Iran",
+    "fr": "région située au nord-est du plateau iranien",
+    "es": "región histórica del noreste de Irán",
+    "zh-CN": "伊朗東北部地區",
+    "ar": "مملكة قديمة نشأت في جنوب شرقي بحر قزون بآسيا، وتقع في إقليم في الشمال الشرقي من إيران حاليًا",
+    "ja": "イラン北東部に位置する歴史的地域",
+    "vi": "Người Parthia (Parthia) là một state lịch sử tồn tại từ 200 TCN đến 100 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "to": {
+      "year": -100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 TCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200,
+    -100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200,
+      -100
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -100,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parthia",
+    "wikidata": "https://www.wikidata.org/wiki/Q1645483"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "qin",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q29054",
+  "names": {
+    "canonical": {
+      "vi": "Tần",
+      "en": "Qin",
+      "fr": "Qin",
+      "es": "Qin",
+      "ru": "Цинь",
+      "de": "Qin"
+    },
+    "aliases": {
+      "fr": [
+        "Tsin"
+      ]
+    }
+  },
+  "descriptions": {
+    "zh-CN": "维基媒体消歧义页",
+    "es": "página de desambiguación de Wikimedia",
+    "ru": "страница значений в проекте Викимедиа",
+    "zh-TW": "維基媒體消歧義頁",
+    "fr": "page d'homonymie de Wikimédia",
+    "de": "Wikimedia-Begriffsklärungsseite",
+    "ja": "ウィキメディアの曖昧さ回避ページ",
+    "ar": "صفحة توضيح ويكيميديا"
+  },
+  "existence": {
+    "from": {
+      "year": -323,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "323 TCN"
+    },
+    "to": {
+      "year": -300,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "300 TCN"
+    },
+    "duration_years": 23,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -323,
+    -300
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -323,
+      -300
+    ],
+    "first_observed_year": -323,
+    "last_observed_year": -300,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Qin",
+    "wikidata": "https://www.wikidata.org/wiki/Q29054"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

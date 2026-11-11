@@ -1,0 +1,380 @@
+[
+  {
+    "id": "src-dai-nam",
+    "title": {
+      "vi": "Đại Nam Nhất Thống Chí",
+      "en": "Comprehensive Gazetteer of Dai Nam",
+      "zh-CN": "大南一统志"
+    },
+    "title_vi": "Đại Nam Nhất Thống Chí",
+    "title_en": "Comprehensive Gazetteer of Dai Nam",
+    "type": "primary_chronicle",
+    "tier": "tier_1_official_primary",
+    "tier_rank": 1,
+    "creators": [
+      {
+        "name": "Quốc sử quán triều Nguyễn",
+        "role": "compiler"
+      }
+    ],
+    "publication_year": 1882,
+    "publisher": "Nội các quan bản khắc in",
+    "edition": "Bản thảo triều Tự Đức (28 tập, 31 quyển); bản khắc in hoàn chỉnh 1910",
+    "license": "NOASSERTION",
+    "urls": [
+      "https://archive.org/download/dai-nam-nhat-thong-chi-thuo-ng-tu-trai-nguyen-tao/Đại Nam Nhất Thống Chí _ THƯỢNG _ Tu Trai Nguyễn Tạo.pdf",
+      "https://archive.org/download/dai-nam-nhat-thong-chi-kinh-su-tu-trai-nguyen-tao/Đại Nam Nhất Thống Chí _ KINH SƯ _ Tu Trai Nguyễn Tạo.pdf",
+      "https://archive.org/download/dai-nam-nhat-thong-chi-ha-tu-trai-nguyen-tao/Đại Nam Nhất Thống Chí _ HẠ _ Tu Trai Nguyễn Tạo.pdf",
+      "https://openlibrary.org/works/OL23609757W"
+    ],
+    "coverage": {
+      "temporal": "19th century (Nguyễn dynasty)",
+      "spatial": "Vietnam",
+      "geometry": "administrative gazetteer descriptions"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-dai-viet",
+    "title": {
+      "vi": "Đại Việt Sử Ký Toàn Thư",
+      "en": "Complete Annals of Đại Việt",
+      "zh-CN": "大越史记全书",
+      "zh-TW": "大越史記全書",
+      "ja": "大越史記全書"
+    },
+    "title_vi": "Đại Việt Sử Ký Toàn Thư",
+    "title_en": "Complete Annals of Đại Việt",
+    "type": "primary_chronicle",
+    "tier": "tier_1_official_primary",
+    "tier_rank": 1,
+    "creators": [
+      {
+        "name": "Ngô Sĩ Liên",
+        "role": "author",
+        "affiliation": "Quốc sử viện triều Lê sơ"
+      },
+      {
+        "name": "Phạm Công Trứ",
+        "role": "reviser",
+        "affiliation": "Quốc sử viện triều Lê trung hưng"
+      },
+      {
+        "name": "Lê Hy",
+        "role": "reviser",
+        "affiliation": "Quốc sử viện triều Lê trung hưng"
+      }
+    ],
+    "publication_year": 1697,
+    "publisher": "Nội các quan bản khắc in",
+    "edition": "Bản khắc 1697; bản in 1884 (10 tập) được số hóa",
+    "license": "NOASSERTION",
+    "urls": [
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%201_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%202_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%203_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%204_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%205_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%206_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%207_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%208_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%209_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-toan-thu_202604/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20s%E1%BB%AD%20k%C3%BD%20to%C3%A0n%20th%C6%B0%20vol%2010_text.pdf",
+      "https://archive.org/download/dai-viet-su-ky-ban-ky-toan-thu-quyen-1/%C4%90%E1%BA%A1i%20Vi%E1%BB%87t%20S%E1%BB%AD%20K%C3%BD%20B%E1%BA%A3n%20K%E1%BB%B7%20To%C3%A0n%20Th%C6%B0%20Quy%E1%BB%83n%201_text.pdf",
+      "https://archive.org/details/dai-viet-su-ky-toan-thu_202604",
+      "https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư"
+    ],
+    "coverage": {
+      "temporal": "2879 BCE - 1675 CE (recorded narrative)",
+      "spatial": "Đại Việt and neighbouring polities",
+      "geometry": "descriptive narrative; no surveyed coordinates"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-shiji",
+    "title": {
+      "vi": "Sử Ký Tư Mã Thiên: Nam Việt Úy Đà Liệt Truyện",
+      "en": "Records of the Grand Historian: Account of Nanyue",
+      "zh-CN": "史记·南越列传",
+      "zh-TW": "史記·南越列傳",
+      "ja": "史記·南越列伝"
+    },
+    "title_vi": "Sử Ký Tư Mã Thiên: Nam Việt Úy Đà Liệt Truyện",
+    "title_en": "Records of the Grand Historian: Account of Nanyue",
+    "type": "primary_chronicle",
+    "tier": "tier_1_official_primary",
+    "tier_rank": 1,
+    "creators": [
+      {
+        "name": "Tư Mã Thiên (Sima Qian)",
+        "role": "historian",
+        "affiliation": "Thái sử lệnh Nhà Tây Hán"
+      }
+    ],
+    "publication_year": -94,
+    "publisher": "Tư liệu Hán văn cổ",
+    "edition": "Bản điện tử Chinese Text Project; bản PDF mẫu chương 1-5 trên Internet Archive",
+    "license": "NOASSERTION",
+    "urls": [
+      "https://ctext.org/shiji/nan-yue-lie-zhuan",
+      "https://ctext.org/shiji",
+      "https://archive.org/download/shiji-01-05/Shiji01-05.pdf"
+    ],
+    "coverage": {
+      "temporal": "c. 2600 BCE - 94 BCE (recorded narrative)",
+      "spatial": "Han China, Nanyue and Inner Asia",
+      "geometry": "descriptive narrative; no surveyed coordinates"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-coedes",
+    "title": {
+      "vi": "Các quốc gia Ấn Độ hóa ở Đông Nam Á",
+      "en": "The Indianized States of Southeast Asia",
+      "fr": "Les États hindouisés d'Indochine et d'Indonésie"
+    },
+    "title_vi": "Các quốc gia Ấn Độ hóa ở Đông Nam Á",
+    "title_en": "The Indianized States of Southeast Asia",
+    "type": "academic_monograph",
+    "tier": "tier_3_peer_reviewed_academic",
+    "tier_rank": 3,
+    "creators": [
+      {
+        "name": "George Cœdès",
+        "role": "author",
+        "affiliation": "École française d'Extrême-Orient (EFEO)"
+      },
+      {
+        "name": "Susan Brown Cowing",
+        "role": "translator",
+        "affiliation": "Bản dịch tiếng Anh 1968"
+      }
+    ],
+    "publication_year": 1968,
+    "publisher": "E. de Boccard (1948, 1964); East-West Center Press / University of Hawaii Press (1968)",
+    "edition": "Bản Pháp ngữ 1948 (466 tr.), tái bản 1964 (494 tr.); bản Anh ngữ 1968 (xxi, 403 tr.)",
+    "license": "NOASSERTION",
+    "urls": [
+      "https://archive.org/details/indianizedstates0000cdsg",
+      "https://openlibrary.org/books/OL6051498M",
+      "https://openlibrary.org/books/OL16599982M"
+    ],
+    "coverage": {
+      "temporal": "1st - 15th century CE",
+      "spatial": "Southeast Asia",
+      "geometry": "historical-geographical synthesis"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-dao-duy-anh",
+    "title": {
+      "vi": "Đất nước Việt Nam qua các đời: Nghiên cứu địa lý học lịch sử Việt Nam",
+      "en": "The Land of Vietnam Across Eras: Historical Geography of Vietnam",
+      "zh-CN": "历代越南国家：越南历史地理研究",
+      "zh-TW": "歷代越南國家：越南歷史地理研究"
+    },
+    "title_vi": "Đất nước Việt Nam qua các đời: Nghiên cứu địa lý học lịch sử Việt Nam",
+    "title_en": "The Land of Vietnam Across Eras: Historical Geography of Vietnam",
+    "type": "academic_monograph",
+    "tier": "tier_3_peer_reviewed_academic",
+    "tier_rank": 3,
+    "creators": [
+      {
+        "name": "Đào Duy Anh",
+        "role": "author",
+        "affiliation": "Viện Sử học Việt Nam"
+      }
+    ],
+    "publication_year": 1964,
+    "publisher": "Nhà xuất bản Khoa học (1964); Nhà xuất bản Thuận Hóa (1994, 2006)",
+    "edition": "In lần đầu 1964; tái bản 1994 (262 tr.) và 2006 (469 tr.)",
+    "license": "NOASSERTION",
+    "urls": [
+      "https://openlibrary.org/works/OL951296W",
+      "https://openlibrary.org/books/OL959651M",
+      "https://openlibrary.org/books/OL16387805M"
+    ],
+    "coverage": {
+      "temporal": "prehistory - 19th century",
+      "spatial": "Vietnam",
+      "geometry": "historical-geographical reconstruction"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-khao-co",
+    "title": {
+      "vi": "Khảo cổ học Việt Nam: Thời đại Kim khí và Các nền văn hóa cổ (Đông Sơn, Sa Huỳnh, Óc Eo)",
+      "en": "Archaeology of Vietnam: Bronze Age and Ancient Civilizations (Dong Son, Sa Huynh, Oc Eo)",
+      "zh-CN": "越南考古学：东山、沙黄与沃澳古文明",
+      "zh-TW": "越南考古學：東山、沙黃與沃澳古文明"
+    },
+    "title_vi": "Khảo cổ học Việt Nam: Thời đại Kim khí và Các nền văn hóa cổ (Đông Sơn, Sa Huỳnh, Óc Eo)",
+    "title_en": "Archaeology of Vietnam: Bronze Age and Ancient Civilizations (Dong Son, Sa Huynh, Oc Eo)",
+    "type": "academic_monograph",
+    "tier": "tier_3_peer_reviewed_academic",
+    "tier_rank": 3,
+    "creators": [
+      {
+        "name": "Hà Văn Tấn, Trần Quốc Vượng, Hoàng Xuân Chinh",
+        "role": "author",
+        "affiliation": "Viện Khảo cổ học Việt Nam & Đại học Quốc gia Hà Nội"
+      }
+    ],
+    "publication_year": 1999,
+    "publisher": "Nhà xuất bản Khoa học Xã hội",
+    "edition": "Bản in 1998-1999 (Open Library ghi 1998)",
+    "license": "NOASSERTION",
+    "urls": [
+      "https://openlibrary.org/works/OL23739565W"
+    ],
+    "coverage": {
+      "temporal": "Neolithic - 1st millennium CE",
+      "spatial": "Vietnam",
+      "geometry": "archaeological site locations and culture areas"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-luong-ninh",
+    "title": {
+      "vi": "Lịch sử Vương quốc Champa",
+      "en": "History of the Kingdom of Champa",
+      "zh-CN": "占婆王国历史"
+    },
+    "title_vi": "Lịch sử Vương quốc Champa",
+    "title_en": "History of the Kingdom of Champa",
+    "type": "academic_monograph",
+    "tier": "tier_3_peer_reviewed_academic",
+    "tier_rank": 3,
+    "creators": [
+      {
+        "name": "Lương Ninh",
+        "role": "author",
+        "affiliation": "Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội"
+      }
+    ],
+    "publication_year": 2004,
+    "publisher": "Nhà xuất bản Đại học Quốc gia Hà Nội",
+    "edition": "In lần thứ nhất",
+    "license": "NOASSERTION",
+    "urls": [
+      "https://search.worldcat.org/search?q=L%E1%BB%8Bch+s%E1%BB%AD+V%C6%B0%C6%A1ng+qu%E1%BB%91c+Champa",
+      "https://openlibrary.org/search?q=L%E1%BB%8Bch+s%E1%BB%AD+V%C6%B0%C6%A1ng+qu%E1%BB%91c+Champa"
+    ],
+    "coverage": {
+      "temporal": "2nd - 19th century CE",
+      "spatial": "central and southern Vietnam",
+      "geometry": "historical-geographical synthesis"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-natural-earth",
+    "title": {
+      "en": "Natural Earth Vector 1:10m Admin-0 Countries (2026 snapshot)",
+      "vi": "Natural Earth Vector 1:10.000.000 - Ranh giới Quốc gia (bản chụp 2026)"
+    },
+    "title_vi": "Natural Earth Vector 1:10.000.000 - Ranh giới Quốc gia (bản chụp 2026)",
+    "title_en": "Natural Earth Vector 1:10m Admin-0 Countries (2026 snapshot)",
+    "type": "authoritative_cartography",
+    "tier": "tier_3_authoritative_cartography",
+    "tier_rank": 3,
+    "creators": [
+      {
+        "name": "Natural Earth",
+        "role": "compiler",
+        "affiliation": "NACIS / North American Cartographic Information Society"
+      }
+    ],
+    "publication_year": 2022,
+    "publisher": "Natural Earth Data",
+    "edition": "v5.1.2 (Admin-0, 1:10m)",
+    "license": "CC0-1.0",
+    "urls": [
+      "https://www.naturalearthdata.com/",
+      "https://github.com/nvkelso/natural-earth-vector",
+      "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/",
+      "https://github.com/nvkelso/natural-earth-vector/releases"
+    ],
+    "coverage": {
+      "temporal": "2026 snapshot (boundary data v5.1.2)",
+      "spatial": "global",
+      "geometry": "1:10m Admin-0 country polygons",
+      "border_precision": "surveyed / international law; disputed units flagged"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-basemaps",
+    "title": {
+      "en": "Historical Basemaps: Georeferenced Global Political Boundaries (4000 BCE - 2010 CE)",
+      "vi": "Historical Basemaps: Ranh giới Chính trị Toàn cầu (4000 TCN - 2010 SCN)"
+    },
+    "title_vi": "Historical Basemaps: Ranh giới Chính trị Toàn cầu (4000 TCN - 2010 SCN)",
+    "title_en": "Historical Basemaps: Georeferenced Global Political Boundaries (4000 BCE - 2010 CE)",
+    "type": "historical_atlas",
+    "tier": "tier_4_scholarly_atlas",
+    "tier_rank": 4,
+    "creators": [
+      {
+        "name": "André Ourednik",
+        "role": "cartographer",
+        "affiliation": "University of Lausanne / EPFL"
+      }
+    ],
+    "publication_year": 2026,
+    "publisher": "Open Source Historical GIS",
+    "edition": "master (commit 4b5039e)",
+    "license": "GPL-3.0",
+    "urls": [
+      "https://github.com/aourednik/historical-basemaps",
+      "https://github.com/aourednik/historical-basemaps/commit/4b5039e50d8d2464b065bd76ad6086cd4597108d",
+      "https://raw.githubusercontent.com/aourednik/historical-basemaps/master/index.json"
+    ],
+    "coverage": {
+      "temporal": "4000 BCE - 2010 CE",
+      "spatial": "global",
+      "geometry": "generalised polygons suitable for world/continental scale",
+      "border_precision": "BORDERPRECISION 1-3 preserved per feature"
+    },
+    "last_verified": "2026-11-05"
+  },
+  {
+    "id": "src-wikidata",
+    "title": {
+      "en": "Wikidata: Multilingual Historical Knowledge Base",
+      "vi": "Wikidata: Cơ sở tri thức Lịch sử Đa ngôn ngữ"
+    },
+    "title_vi": "Wikidata: Cơ sở tri thức Lịch sử Đa ngôn ngữ",
+    "title_en": "Wikidata: Multilingual Historical Knowledge Base",
+    "type": "linked_open_data",
+    "tier": "tier_5_general_reference",
+    "tier_rank": 5,
+    "creators": [
+      {
+        "name": "Wikimedia Foundation & contributors",
+        "role": "compiler"
+      }
+    ],
+    "publication_year": 2026,
+    "publisher": "Wikimedia Foundation",
+    "edition": "live database (snapshot 2026-11-05)",
+    "license": "CC0-1.0",
+    "urls": [
+      "https://www.wikidata.org/",
+      "https://query.wikidata.org/",
+      "https://dumps.wikimedia.org/wikidatawiki/"
+    ],
+    "coverage": {
+      "temporal": "all periods",
+      "spatial": "global",
+      "geometry": "none (labels, descriptions and identifiers only)",
+      "border_precision": "not applicable"
+    },
+    "last_verified": "2026-11-05"
+  }
+]

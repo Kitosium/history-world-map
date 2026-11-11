@@ -1,0 +1,160 @@
+{
+  "id": "union-of-south-africa",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q193619",
+  "names": {
+    "canonical": {
+      "vi": "Liên hiệp Nam Phi",
+      "en": "Union of South Africa",
+      "zh-CN": "南非联邦",
+      "zh-TW": "南非聯邦",
+      "ja": "南アフリカ連邦",
+      "fr": "union d'Afrique du Sud",
+      "es": "Unión Sudafricana",
+      "ar": "اتحاد جنوب إفريقيا",
+      "ru": "Южно-Африканский Союз",
+      "de": "Südafrikanische Union"
+    },
+    "aliases": {
+      "fr": [
+        "Union de l'Afrique du Sud",
+        "Union Sud Africaine",
+        "Union Sud-Africaine",
+        "Union d’Afrique du Sud"
+      ],
+      "es": [
+        "Union de Sudáfrica",
+        "Union de Sudafrica",
+        "Unión de Sudáfrica",
+        "Union Sudafricana",
+        "Unión de Sudafrica"
+      ],
+      "de": [
+        "Union of South Africa"
+      ],
+      "ru": [
+        "Union of South Africa",
+        "ЮАС",
+        "Unie van Suid-Afrika",
+        "Южноафриканский Союз"
+      ],
+      "zh-CN": [
+        "英属南非"
+      ],
+      "en": [
+        "South Africa"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "state in southern Africa from 1910 to 1961, predecessor to the Republic of South Africa",
+    "de": "historischer Staat (1910–1961)",
+    "fr": "État créé en 1910, remplacé en 1961 par la république d’Afrique du Sud",
+    "ru": "исторический британский доминион",
+    "ja": "かつて南部アフリカに存在した立憲君主制国家",
+    "zh-CN": "1910年至1961年在南部非洲國家，南非共和國的前身",
+    "es": "estado en el sur de África desde 1910 hasta 1961, predecesor de la República de Sudáfrica",
+    "vi": "lãnh thổ tự trị của Đế quốc Anh (1910–1961)"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 18,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 1938,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Union%20of%20South%20Africa",
+    "wikidata": "https://www.wikidata.org/wiki/Q193619"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

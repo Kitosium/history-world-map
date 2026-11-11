@@ -1,0 +1,142 @@
+{
+  "id": "kalinago",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q27106",
+  "names": {
+    "canonical": {
+      "vi": "Người Carib",
+      "en": "Kalinago",
+      "zh-CN": "加勒比人",
+      "zh-TW": "加勒比人",
+      "ja": "カリブ族",
+      "fr": "Kalinago",
+      "es": "kalinago",
+      "ar": "كالينجو",
+      "ru": "Карибы",
+      "de": "Kariben"
+    },
+    "aliases": {
+      "zh-CN": [
+        "卡利勃人"
+      ],
+      "fr": [
+        "Indien caraïbe",
+        "Peuple Caraïbe",
+        "Indiens caraïbes",
+        "Karibs",
+        "Peuple Caraibe",
+        "Caraibes",
+        "Caribes"
+      ],
+      "es": [
+        "Caribe",
+        "Pueblos Aborigenes Caribes",
+        "Indios caribes",
+        "Karibes",
+        "pueblo caribe",
+        "Kaliponam"
+      ],
+      "ja": [
+        "カリブ人",
+        "先住民",
+        "島嶼カリブ"
+      ],
+      "vi": [
+        "Người Caribê"
+      ],
+      "ru": [
+        "Караибы"
+      ],
+      "en": [
+        "Kalhíphona",
+        "Caribs"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "group of people native to the Lesser Antilles islands",
+    "es": "conjunto de pueblos que ocupaban el norte de Colombia, el norte y este de Venezuela, y varias Antillas Menores",
+    "de": "Gruppe von indigenen Völkern in Süd- und Mittelamerika",
+    "fr": "population indigène originaire du nord du Venezuela ayant migré vers les îles des Caraïbes vers la fin du IXe siècle",
+    "ru": "группа индейских народов в Южной Америке",
+    "ar": "مجموعة من السكان الأصليين لجزر الأنتيل الصغرى",
+    "vi": "Người Carib (Kalinago) là một state lịch sử tồn tại từ 1400 SCN đến 1400 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "to": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1400
+    ],
+    "first_observed_year": 1400,
+    "last_observed_year": 1400,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalinago",
+    "wikidata": "https://www.wikidata.org/wiki/Q27106"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

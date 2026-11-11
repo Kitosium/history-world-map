@@ -1,0 +1,129 @@
+{
+  "id": "caucasian-albania",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q177076",
+  "names": {
+    "canonical": {
+      "vi": "Albania Kavkaz",
+      "en": "Caucasian Albania",
+      "zh-CN": "高加索阿尔巴尼亚王国",
+      "zh-TW": "高加索阿尔巴尼亚王国",
+      "ja": "カフカス・アルバニア王国",
+      "fr": "Albanie du Caucase",
+      "es": "Albania caucásica",
+      "ar": "ألبانيا القوقازية",
+      "ru": "Кавказская Албания",
+      "de": "Albania"
+    },
+    "aliases": {
+      "zh-CN": [
+        "高加索·阿爾巴尼亞",
+        "高加索阿爾巴尼亞",
+        "高加索。阿爾巴尼亞"
+      ],
+      "es": [
+        "Albania caucasica"
+      ],
+      "fr": [
+        "Aghouanie",
+        "Albanétie"
+      ],
+      "en": [
+        "Aghwank",
+        "Aluank",
+        "Arran"
+      ],
+      "ru": [
+        "Арран",
+        "Алуанк",
+        "Ариания",
+        "Агван"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Antiker Staat im heutigen Aserbaidschan",
+    "en": "historical state in the Caucasus region",
+    "ru": "древнее государство, возникшее в конце II — середине I веков до н. э. в восточном Закавказье",
+    "es": "entidad desaparecida",
+    "fr": "royaume antique de l'est du Caucase du Sud",
+    "vi": "Albania Kavkaz (Caucasian Albania) là một state lịch sử tồn tại từ 700 SCN đến 700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      700
+    ],
+    "first_observed_year": 700,
+    "last_observed_year": 700,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Caucasian%20Albania",
+    "wikidata": "https://www.wikidata.org/wiki/Q177076"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

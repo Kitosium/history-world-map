@@ -1,0 +1,226 @@
+{
+  "id": "estonia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q191",
+  "names": {
+    "canonical": {
+      "vi": "Estonia",
+      "en": "Estonia",
+      "zh-CN": "爱沙尼亚",
+      "zh-TW": "愛沙尼亞",
+      "ja": "エストニア",
+      "fr": "Estonie",
+      "es": "Estonia",
+      "ar": "إستونيا",
+      "ru": "Эстония",
+      "de": "Estland"
+    },
+    "aliases": {
+      "ar": [
+        "جمهورية إستونيا",
+        "استونيا"
+      ],
+      "fr": [
+        "Esthonie",
+        "République d'Estonie",
+        "la République d'Estonie"
+      ],
+      "en": [
+        "Republic of Estonia",
+        "Estland",
+        "ee",
+        "Eesti Vabariik"
+      ],
+      "ru": [
+        "Эстонская Республика",
+        "Республика Эстония",
+        "Ээсти"
+      ],
+      "es": [
+        "República de Estonia"
+      ],
+      "ja": [
+        "エストラント",
+        "エストニア共和国"
+      ],
+      "de": [
+        "Republik Estland"
+      ],
+      "vi": [
+        "Cộng hòa Estonia",
+        "Cộng hoà Estonia"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Europe du Nord sur le flanc oriental de la mer Baltique",
+    "zh-CN": "國家",
+    "ru": "государство в Северной Европе на восточном побережье Балтийского моря",
+    "vi": "quốc gia ở Bắc Âu",
+    "es": "país de Europa del Norte",
+    "de": "Staat im Baltikum, Nordeuropa",
+    "ar": "دولة تقع في شمال أوروبا",
+    "en": "country in Northern Europe",
+    "ja": "北ヨーロッパの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 106,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930,
+    1938,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930,
+      1938,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Estonia",
+    "wikidata": "https://www.wikidata.org/wiki/Q191"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

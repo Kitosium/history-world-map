@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/taxonomy.schema.json",
+  "id": "confidence-levels",
+  "version": "1.0.0",
+  "description": {
+    "vi": "Mức độ tin cậy tổng hợp của một thực thể, suy ra từ hạng nguồn và độ chính xác hình học.",
+    "en": "Overall confidence for an entity, derived from source tier and geometry precision."
+  },
+  "levels": {
+    "high": {
+      "rank": 3,
+      "labels": { "vi": "Cao", "en": "High" },
+      "criteria": {
+        "vi": "Ranh giới chính xác và nguồn tốt nhất thuộc hạng 1-3.",
+        "en": "Precise boundaries and the best source is tier 1-3."
+      }
+    },
+    "medium": {
+      "rank": 2,
+      "labels": { "vi": "Trung bình", "en": "Medium" },
+      "criteria": {
+        "vi": "Ranh giới xấp xỉ hoặc nguồn tốt nhất thuộc hạng 4.",
+        "en": "Approximate boundaries or the best source is tier 4."
+      }
+    },
+    "low": {
+      "rank": 1,
+      "labels": { "vi": "Thấp", "en": "Low" },
+      "criteria": {
+        "vi": "Chỉ có nguồn hạng 5 hoặc không có hình học/nguồn phù hợp.",
+        "en": "Only tier 5 sources are available, or no suitable geometry/source exists."
+      }
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "wetzlar",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q4178",
+  "names": {
+    "canonical": {
+      "vi": "Wetzlar",
+      "en": "Wetzlar",
+      "zh-CN": "韦茨拉尔",
+      "zh-TW": "韦茨拉尔",
+      "ja": "ヴェッツラー",
+      "fr": "Wetzlar",
+      "es": "Wetzlar",
+      "ar": "فتسلار",
+      "ru": "Вецлар",
+      "de": "Wetzlar"
+    },
+    "aliases": {}
+  },
+  "descriptions": {
+    "de": "mittelhessische Kreisstadt an Lahn und Dill im Lahn-Dill-Kreis; Stadt mit Sonderstatus",
+    "fr": "ville allemande de Hesse",
+    "es": "Tribunal de la Cámara Imperial del Sacro Imperio Romano Germánico y Ciudad de Alemania",
+    "en": "seat of Lahn-Dill-Kreis and city in Hesse, Germany",
+    "ru": "старинный город в Германии, индустриальный и культурный центр Среднего Гессена",
+    "ja": "ドイツの都市",
+    "zh-CN": "德国黑森州城市，兰-迪尔县县治",
+    "vi": "Wetzlar (Wetzlar) là một state lịch sử tồn tại từ 1815 SCN đến 1815 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 1815,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wetzlar",
+    "wikidata": "https://www.wikidata.org/wiki/Q4178"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

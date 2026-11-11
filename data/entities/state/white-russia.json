@@ -1,0 +1,119 @@
+{
+  "id": "white-russia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q42173178",
+  "names": {
+    "canonical": {
+      "vi": "White Russia",
+      "en": "White Russia",
+      "zh-CN": "白俄",
+      "zh-TW": "白俄",
+      "fr": "White Russia",
+      "es": "White Russia",
+      "ar": "روسيا البيضاء (توضيح)",
+      "de": "White Russia"
+    },
+    "aliases": {
+      "ar": [
+        "روسية البيضاء"
+      ]
+    }
+  },
+  "descriptions": {
+    "ar": "مُسمّيات روسية البيضاء",
+    "es": "página de desambiguación de Wikimedia",
+    "ru": "страница значений в проекте Викимедиа",
+    "fr": "page d'homonymie de Wikimedia",
+    "de": "Wikimedia-Begriffsklärungsseite",
+    "ja": "ウィキメディアの曖昧さ回避ページ"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 1930,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1930 SCN"
+    },
+    "duration_years": 10,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 1930,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/White%20Russia",
+    "wikidata": "https://www.wikidata.org/wiki/Q42173178"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

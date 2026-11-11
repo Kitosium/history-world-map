@@ -1,0 +1,134 @@
+{
+  "id": "kent",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q23298",
+  "names": {
+    "canonical": {
+      "vi": "Kent",
+      "en": "Kent",
+      "zh-CN": "肯特郡",
+      "zh-TW": "肯特郡",
+      "ja": "ケント",
+      "fr": "Kent",
+      "es": "Kent",
+      "ar": "كنت",
+      "ru": "Кент",
+      "de": "Kent"
+    },
+    "aliases": {
+      "de": [
+        "Zeremonielle Grafschaft Kent"
+      ],
+      "en": [
+        "Kent, England",
+        "County of Kent"
+      ],
+      "zh-CN": [
+        "根德郡"
+      ],
+      "fr": [
+        "comté du Kent"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "церемониальное графство Англии",
+    "en": "ceremonial county of England, United Kingdom",
+    "de": "Grafschaft in England",
+    "es": "condado ceremonial de Inglaterra",
+    "fr": "comté d'Angleterre situé au sud-est de Londres, Royaume-Uni",
+    "zh-CN": "英格蘭東南一郡",
+    "ar": "مقاطعة في إنجلترا",
+    "ja": "イングランドのカウンティ",
+    "vi": "Kent (Kent) là một state lịch sử tồn tại từ 800 SCN đến 900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    800,
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      800,
+      900
+    ],
+    "first_observed_year": 800,
+    "last_observed_year": 900,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kent",
+    "wikidata": "https://www.wikidata.org/wiki/Q23298"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

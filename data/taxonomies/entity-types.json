@@ -1,0 +1,95 @@
+{
+  "$schema": "../schemas/taxonomy.schema.json",
+  "id": "entity-types",
+  "version": "1.0.0",
+  "description": {
+    "vi": "Phân loại thực thể lịch sử dùng trong toàn bộ dataset.",
+    "en": "Historical entity types used across the dataset."
+  },
+  "types": {
+    "state": {
+      "category": "polity",
+      "labels": {
+        "vi": "Quốc gia / Nhà nước",
+        "en": "State"
+      },
+      "description": {
+        "vi": "Thực thể chính trị có lãnh thổ và chính quyền, chưa đủ chuyên biệt để xếp vào vương quốc hay đế chế.",
+        "en": "A territorial political entity with a government, not specific enough to classify as a kingdom or empire."
+      },
+      "geometry_expected": true
+    },
+    "kingdom": {
+      "category": "polity",
+      "labels": {
+        "vi": "Vương quốc",
+        "en": "Kingdom"
+      },
+      "description": {
+        "vi": "Nhà nước do một vị vua/vương đứng đầu.",
+        "en": "A state ruled by a king or queen."
+      },
+      "geometry_expected": true
+    },
+    "empire": {
+      "category": "polity",
+      "labels": {
+        "vi": "Đế chế",
+        "en": "Empire"
+      },
+      "description": {
+        "vi": "Thực thể chính trị quy mô lớn, thường bao gồm nhiều dân tộc và lãnh thổ dưới một trung tâm quyền lực.",
+        "en": "A large political entity, usually comprising multiple peoples and territories under one centre of power."
+      },
+      "geometry_expected": true
+    },
+    "civilization": {
+      "category": "civilization",
+      "labels": {
+        "vi": "Nền văn minh",
+        "en": "Civilization"
+      },
+      "description": {
+        "vi": "Không gian văn hóa - chính trị rộng, ranh giới thường mang tính quy ước.",
+        "en": "A broad cultural-political sphere whose boundaries are usually conventional."
+      },
+      "geometry_expected": true
+    },
+    "dependent_territory": {
+      "category": "territory",
+      "labels": {
+        "vi": "Lãnh thổ phụ thuộc",
+        "en": "Dependent territory"
+      },
+      "description": {
+        "vi": "Lãnh thổ chịu sự quản lý của một quốc gia khác nhưng không phải lãnh thổ chính.",
+        "en": "A territory administered by another state but not part of its metropolitan territory."
+      },
+      "geometry_expected": true
+    },
+    "disputed_territory": {
+      "category": "territory",
+      "labels": {
+        "vi": "Lãnh thổ tranh chấp",
+        "en": "Disputed territory"
+      },
+      "description": {
+        "vi": "Khu vực có tuyên bố chủ quyền chồng lấn hoặc không được công nhận rộng rãi.",
+        "en": "An area with overlapping sovereignty claims or limited international recognition."
+      },
+      "geometry_expected": true
+    },
+    "dynasty": {
+      "category": "polity",
+      "labels": {
+        "vi": "Triều đại",
+        "en": "Dynasty"
+      },
+      "description": {
+        "vi": "Dòng cai trị; chỉ dùng khi thực thể được mô hình hóa như một chủ thể chính trị.",
+        "en": "A ruling house; used only when modelled as a political actor."
+      },
+      "geometry_expected": false
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "kuru",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q226428",
+  "names": {
+    "canonical": {
+      "vi": "Kuru",
+      "en": "Kuru",
+      "ja": "クル",
+      "fr": "Kuru",
+      "es": "Kuru",
+      "ru": "Куру",
+      "de": "Kuru"
+    },
+    "aliases": {}
+  },
+  "descriptions": {
+    "ru": "страница значений",
+    "fr": "page d'homonymie de Wikimédia",
+    "de": "Wikimedia-Begriffsklärungsseite",
+    "es": "página de desambiguación de Wikimedia",
+    "zh-CN": "维基媒体消歧义页",
+    "ja": "ウィキメディアの曖昧さ回避ページ",
+    "ar": "صفحة توضيح في ويكيميديا",
+    "zh-TW": "維基媒體消歧義頁"
+  },
+  "existence": {
+    "from": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "to": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -500
+    ],
+    "first_observed_year": -500,
+    "last_observed_year": -500,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kuru",
+    "wikidata": "https://www.wikidata.org/wiki/Q226428"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

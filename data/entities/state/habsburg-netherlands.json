@@ -1,0 +1,131 @@
+{
+  "id": "habsburg-netherlands",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1031430",
+  "names": {
+    "canonical": {
+      "vi": "Hà Lan Habsburg",
+      "en": "Habsburg Netherlands",
+      "zh-CN": "哈布斯堡尼德兰",
+      "zh-TW": "哈布斯堡尼德兰",
+      "ja": "ハプスブルク領ネーデルラント",
+      "fr": "Pays-Bas des Habsbourg",
+      "es": "Países Bajos de los Habsburgo",
+      "ar": "الأراضي المنخفضة الهابسبورجية",
+      "ru": "Габсбургские Нидерланды",
+      "de": "Habsburgische Niederlande"
+    },
+    "aliases": {
+      "es": [
+        "Paises Bajos del Sur",
+        "Países Bajos del Sur",
+        "Paises Bajos de los Habsburgo",
+        "Países Bajos españoles"
+      ],
+      "ru": [
+        "Нидерланды"
+      ],
+      "fr": [
+        "Pays-Bas habsbourgeois"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "polity ruled by the Habsburg House from 1482 to 1795",
+    "de": "Die vom Haus Habsburg von 1482 bis 1795 beherrschte Region der Niederen Lande",
+    "ru": "Регион Низких стран, находившийся под властью дома Габсбургов с 1482 по 1795 год",
+    "es": "La región de los Países Bajos gobernada por la Casa de Habsburgo de 1482 a 1795",
+    "zh-TW": "西屬尼德蘭",
+    "fr": "La région des Pays-Bas Anciens gouvernée par la maison de Habsbourg de 1482 à 1795",
+    "vi": "Hà Lan Habsburg (Habsburg Netherlands) là một state lịch sử tồn tại từ 1530 SCN đến 1600 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1600 SCN"
+    },
+    "duration_years": 70,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1600,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Habsburg%20Netherlands",
+    "wikidata": "https://www.wikidata.org/wiki/Q1031430"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

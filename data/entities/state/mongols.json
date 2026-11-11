@@ -1,0 +1,167 @@
+{
+  "id": "mongols",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q41975",
+  "names": {
+    "canonical": {
+      "vi": "người Mông Cổ",
+      "en": "Mongols",
+      "zh-CN": "蒙古族",
+      "zh-TW": "蒙古族",
+      "ja": "モンゴル民族",
+      "fr": "Mongols",
+      "es": "mongoles",
+      "ar": "مغول",
+      "ru": "монголы",
+      "de": "Mongolen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "蒙古民族",
+        "蒙族",
+        "Ménggǔ mínzú",
+        "Ménggǔ zú",
+        "Méngzú",
+        "蒙古",
+        "Ménggǔ",
+        "蒙古人",
+        "Ménggǔrén"
+      ],
+      "es": [
+        "Tribus mongolas",
+        "Pueblos mongoles",
+        "Tribus mongoles",
+        "pueblo mongol",
+        "etnia mongol"
+      ],
+      "ar": [
+        "المغول"
+      ],
+      "ru": [
+        "Монголоязычные народы",
+        "Монгол",
+        "Монгольские народы",
+        "Монголы",
+        "монгольский народ"
+      ],
+      "fr": [
+        "Mongol",
+        "Peuple mongol",
+        "Mongous",
+        "Mongou",
+        "Peuple mongou"
+      ],
+      "de": [
+        "Монгол",
+        "Туркомонголень"
+      ],
+      "ja": [
+        "蒙古人",
+        "蒙",
+        "モンゴル人"
+      ],
+      "vi": [
+        "dân tộc Mông Cổ"
+      ],
+      "en": [
+        "Mongol people",
+        "Mongol",
+        "Mongolians",
+        "Mongolian people",
+        "Mongolian",
+        "Tartars",
+        "Tartar",
+        "Tartar people"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "asiatische Ethnie",
+    "en": "ethnic group native to Mongolia and neighbouring areas",
+    "fr": "groupe ethnique d'Asie centrale",
+    "zh-CN": "东北亚民族",
+    "es": "grupo étnico",
+    "ru": "этническая группа, происходящая из Монголии и китайского автономного района Внутренняя Монголия",
+    "vi": "dân tộc Trung Á",
+    "ja": "7世紀から歴史上に登場し、13世紀 - 14世紀にユーラシア大陸の大部分を版図としたモンゴル帝国を築いた民族",
+    "ar": "مجموعة عرقية بدوية موطنها منغوليا والمناطق المجاورة",
+    "zh-TW": "東亞民族"
+  },
+  "existence": {
+    "from": {
+      "year": 1100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1100 SCN"
+    },
+    "to": {
+      "year": 1100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1100 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1100
+    ],
+    "first_observed_year": 1100,
+    "last_observed_year": 1100,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mongols",
+    "wikidata": "https://www.wikidata.org/wiki/Q41975"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

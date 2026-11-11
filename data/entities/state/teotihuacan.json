@@ -1,0 +1,274 @@
+{
+  "id": "teotihuacan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q172613",
+  "names": {
+    "canonical": {
+      "vi": "Teotihuacan",
+      "en": "Teotihuacan",
+      "zh-CN": "特奥蒂瓦坎",
+      "zh-TW": "特奧蒂瓦坎",
+      "ja": "テオティワカン",
+      "fr": "Teotihuacan",
+      "es": "Teotihuacan",
+      "ar": "تيوتيهواكان",
+      "ru": "Теотиуакан",
+      "de": "Teotihuacán"
+    },
+    "aliases": {
+      "zh-CN": [
+        "眾神之城",
+        "特奥提华坎",
+        "提奧提華坎",
+        "提奧提華坎文明",
+        "堤奧蒂瓦坎",
+        "迪奧狄華肯"
+      ],
+      "fr": [
+        "Teotihuacán"
+      ],
+      "es": [
+        "Teotihuacán"
+      ],
+      "de": [
+        "Teotihuacan"
+      ],
+      "ja": [
+        "ティオティワカン",
+        "テオティワカン文明"
+      ],
+      "ru": [
+        "Теотихуакан",
+        "Тео Тио Кан"
+      ],
+      "en": [
+        "Teotihuacán",
+        "Place of Reeds",
+        "City of the Sun",
+        "City of the Gods",
+        "archeological site of Teotihuacan"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "archäologischer Fundplatz in Mexiko",
+    "en": "ancient Mesoamerican city",
+    "fr": "site archéologique de la principale ville de l'époque classique du Mexique précolombien",
+    "es": "ciudad prehispánica de Mesoamérica",
+    "zh-CN": "位于墨西哥流域的一個子流域的前哥伦布時代的美索美洲的城市",
+    "ar": "موقع أثري في ولاية مكسيكو، المكسيك",
+    "ru": "древний город, расположенный на северо-востоке от центра Мехико",
+    "vi": "Thành phố cổ ở Mexico",
+    "zh-TW": "位於墨西哥流域的一個子流域的前哥倫布時代的美索美洲的城市",
+    "ja": "メキシコの遺跡"
+  },
+  "existence": {
+    "from": {
+      "year": -323,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "323 TCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 1023,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -323,
+    -300,
+    -200,
+    -100,
+    -1,
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -323,
+      -300,
+      -200,
+      -100,
+      -1,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700
+    ],
+    "first_observed_year": -323,
+    "last_observed_year": 700,
+    "feature_count": 12,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Teotihuacan",
+    "wikidata": "https://www.wikidata.org/wiki/Q172613"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

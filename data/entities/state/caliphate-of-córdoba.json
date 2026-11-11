@@ -1,0 +1,177 @@
+{
+  "id": "caliphate-of-córdoba",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q171740",
+  "names": {
+    "canonical": {
+      "vi": "Caliphate Córdoba",
+      "en": "Caliphate of Córdoba",
+      "zh-CN": "后倭马亚王朝",
+      "zh-TW": "後伍麥亞王朝",
+      "ja": "コルドバ・カリフ国",
+      "fr": "califat de Cordoue",
+      "es": "Califato de Córdoba",
+      "ar": "خلافة قرطبة",
+      "ru": "Кордовский халифат",
+      "de": "Kalifat von Córdoba"
+    },
+    "aliases": {
+      "zh-CN": [
+        "科尔多瓦哈里发国",
+        "科尔多瓦统治者列表",
+        "科爾多瓦哈里發國",
+        "科尔多瓦哈里发",
+        "白衣大食",
+        "后伍麦叶王朝",
+        "哥多華哈里發國"
+      ],
+      "fr": [
+        "calife de Cordoue",
+        "califat occidental",
+        "période des Omeyyades d'Espagne"
+      ],
+      "es": [
+        "Califato de Córdova",
+        "Califato de Cordova",
+        "Califato cordobés",
+        "Califato Omeya de Cordoba",
+        "Califato de Cordoba",
+        "Califato Omeya de Córdoba",
+        "Califato cordobes",
+        "califato de Qúrtuba",
+        "Qúrtuba",
+        "Reino de Córdoba",
+        "خلافة قرطبة",
+        "Khilāfat Qurṭuba",
+        "Califato de Occidente",
+        "Segundo Califato Omeya"
+      ],
+      "de": [
+        "Kalifat von Cordoba"
+      ],
+      "ja": [
+        "西カリフ帝国",
+        "西カリフ国",
+        "コルドバ・カリフ帝国",
+        "コルドバ太守国",
+        "後ウマイヤ朝",
+        "アンダルスのウマイヤ朝",
+        "コルドバのウマイヤ朝",
+        "新ウマイヤ朝"
+      ],
+      "ar": [
+        "خلافة أموية في الأندلس",
+        "خلافة قرطبية",
+        "الخلافة القرطبية",
+        "الخلافة الاموية في الاندلس",
+        "الخلافة الأموية في الاندلس",
+        "خلافه أمويه في الأندلس",
+        "خلافة قرطبه"
+      ],
+      "ru": [
+        "Халифы Кордовы"
+      ],
+      "en": [
+        "Caliphate of Cordoba",
+        "Califato de Córdova",
+        "Western Caliphate",
+        "Caliphate of Qurṭubah",
+        "Umayyad Caliphate of Qurṭubah",
+        "Umayyad Caliphate of Córdoba",
+        "Umayyad state in al-Andalus",
+        "Umayyad state of al-Andalus",
+        "Khilāfat Qurṭuba"
+      ],
+      "zh-TW": [
+        "哥多華哈里發國"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "estado musulmán andalusí",
+    "de": "islamischer Staat auf dem Gebiet der Iberischen Halbinsel (929–1031)",
+    "fr": "ancien État (929-1031)",
+    "en": "state in Islamic Iberia (929–1031)",
+    "ar": "دولة إسلامية أموية قامت في الأندلس بهيئة إمارة ثُمَّ خلافة",
+    "ja": "後ウマイヤ朝のうちカリフ (アミール・アルムーミニーン)を称した期間 (929年～1031年) の呼称",
+    "zh-CN": "伊斯蘭伊比利亞的已解散國家",
+    "vi": "Caliphate Córdoba (Caliphate of Córdoba) là một state lịch sử tồn tại từ 1000 SCN đến 1000 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1000,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Caliphate%20of%20C%C3%B3rdoba",
+    "wikidata": "https://www.wikidata.org/wiki/Q171740"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

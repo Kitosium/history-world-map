@@ -1,0 +1,176 @@
+{
+  "id": "genoa",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1449",
+  "names": {
+    "canonical": {
+      "vi": "Genova",
+      "en": "Genoa",
+      "zh-CN": "热那亚",
+      "zh-TW": "熱那亞",
+      "ja": "ジェノヴァ",
+      "fr": "Gênes",
+      "es": "Génova",
+      "ar": "جنوة",
+      "ru": "Генуя",
+      "de": "Genua"
+    },
+    "aliases": {
+      "en": [
+        "Genoa, Italy",
+        "Genova, Italy",
+        "Zena"
+      ],
+      "ja": [
+        "ゼノア",
+        "ジェーノヴァ",
+        "ジェノバ"
+      ],
+      "zh-CN": [
+        "柔鲁",
+        "熱諾瓦",
+        "熱内亞"
+      ],
+      "de": [
+        "Genoa"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Italian city",
+    "fr": "ville d'Italie, capitale de la Ligurie",
+    "ar": "كومونا",
+    "de": "Großstadt im Nordwesten Italiens",
+    "es": "ciudad italiana, capital de la provincia homónima",
+    "ja": "イタリアの都市",
+    "ru": "город в Италии, административный центр одноимённой провинции и области Лигурия",
+    "zh-CN": "意大利的一个市镇",
+    "zh-TW": "意大利的一個市镇",
+    "vi": "Thủ phủ của vùng Liguria của Ý"
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 185,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1715,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Genoa",
+    "wikidata": "https://www.wikidata.org/wiki/Q1449"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

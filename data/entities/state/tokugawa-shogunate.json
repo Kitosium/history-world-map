@@ -1,0 +1,191 @@
+{
+  "id": "tokugawa-shogunate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q205662",
+  "names": {
+    "canonical": {
+      "vi": "Mạc phủ Tokugawa",
+      "en": "Tokugawa shogunate",
+      "zh-CN": "江户幕府",
+      "zh-TW": "江戶幕府",
+      "ja": "江戸幕府",
+      "fr": "shogunat Tokugawa",
+      "es": "shogunato Tokugawa",
+      "ar": "شوغونية توكوغاوا",
+      "ru": "Сёгунат Токугава",
+      "de": "Tokugawa-Shōgunat"
+    },
+    "aliases": {
+      "zh-CN": [
+        "江戸幕府",
+        "德川幕府"
+      ],
+      "fr": [
+        "Togukawa",
+        "Tokugawa",
+        "Shoguns Tokugawa",
+        "Shogun Tokugawa"
+      ],
+      "es": [
+        "Edo bakufu",
+        "shogunato de Tokugawa",
+        "dinastía Tokugawa",
+        "bakufu Tokugawa",
+        "bakufu de Tokugawa",
+        "shogunado Tokugawa",
+        "bakufu de Edo",
+        "shogunato Edo",
+        "sogunato Tokugawa"
+      ],
+      "ja": [
+        "徳川幕府",
+        "徳川政権",
+        "幕閣"
+      ],
+      "vi": [
+        "Mạc phủ Edo",
+        "Bakufu Tokugawa",
+        "Mạc phủ Đức Xuyên",
+        "Chính quyền Tokugawa",
+        "Shogun Tokugawa",
+        "Đức Xuyên Mạc phủ",
+        "Giang Hộ mạc phủ"
+      ],
+      "ar": [
+        "حكومة إيدو",
+        "حكومة إدو",
+        "توكوغاوا باكوفو",
+        "باكوهان تايسي",
+        "حكومة توكوغاوا",
+        "شوغون توكوغاوا",
+        "إيدو باكوفو",
+        "توكوغاوا شوغن",
+        "توكوغاوا شوغون"
+      ],
+      "ru": [
+        "Сегунат Токугава",
+        "Токугава"
+      ],
+      "de": [
+        "Tokugawa-Schogunat"
+      ],
+      "en": [
+        "Shogunate of Japan",
+        "Japan",
+        "Edo Japan",
+        "Tokugawa Shogunate"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "1603–1868 Japanese military government",
+    "ru": "феодальное правительство Японии в 1600—1868 годах",
+    "ja": "徳川氏による日本の武家政権",
+    "de": "historischer Staat",
+    "vi": "chính phủ quân quản phong kiến tại Nhật Bản (1603–1868)",
+    "es": "régimen feudal japonés (1603-1868)",
+    "fr": "dynastie ayant régné sur le Japon entre 1603 et 1867 (époque d'Edo)",
+    "ar": "نظام إقطاعي قديم باليابان"
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 65,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1715,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tokugawa%20shogunate",
+    "wikidata": "https://www.wikidata.org/wiki/Q205662"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "emirate-of-sicily",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q118780154",
+  "names": {
+    "canonical": {
+      "vi": "Emirate of Sicily",
+      "en": "Emirate of Sicily",
+      "ja": "シチリア首長国",
+      "ar": "الإمارة الصقلية"
+    },
+    "aliases": {
+      "en": [
+        "history of Muslim Sicily"
+      ],
+      "ja": [
+        "シチリア・イスラム史"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Islamic principality that ruled the island of Sicily from 948 to 1091",
+    "ar": "حكم المسلمين لصقلية في الأعوام 948 إلى 1091 م",
+    "vi": "Emirate of Sicily (Emirate of Sicily) là một state lịch sử tồn tại từ 900 SCN đến 1000 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "to": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    900,
+    1000
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      900,
+      1000
+    ],
+    "first_observed_year": 900,
+    "last_observed_year": 1000,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Emirate%20of%20Sicily",
+    "wikidata": "https://www.wikidata.org/wiki/Q118780154"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

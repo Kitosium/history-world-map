@@ -1,0 +1,216 @@
+{
+  "id": "united-kingdom-of-great-britain-and-ireland",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q174193",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Liên hiệp Anh và Ireland",
+      "en": "United Kingdom of Great Britain and Ireland",
+      "zh-CN": "大不列颠及爱尔兰联合王国",
+      "zh-TW": "大不列顛及愛爾蘭聯合王國",
+      "ja": "グレートブリテン及びアイルランド連合王国",
+      "fr": "Royaume-Uni de Grande-Bretagne et d'Irlande",
+      "es": "Reino Unido de Gran Bretaña e Irlanda",
+      "ar": "المملكة المتحدة لبريطانيا العظمى وأيرلندا",
+      "ru": "Соединённое королевство Великобритании и Ирландии",
+      "de": "Vereinigtes Königreich Großbritannien und Irland"
+    },
+    "aliases": {
+      "zh-CN": [
+        "大不列顛與愛爾蘭聯合王國",
+        "大不列颠和爱尔兰王国",
+        "大不列颠与爱尔兰联合王国",
+        "大不列颠和爱尔兰联合王国"
+      ],
+      "es": [
+        "Reino Unido de la Gran Bretaña e Irlanda",
+        "Reino Unido de Gran Bretana e Irlanda",
+        "Reino Unido"
+      ],
+      "ja": [
+        "グレート・ブリテンおよびアイルランド連合王国",
+        "グレートブリテンおよびアイルランド連合王国"
+      ],
+      "vi": [
+        "Liên hiệp Vương quốc Anh và Ireland",
+        "Vương quốc liên hiệp Anh",
+        "Đại Anh và Ireland",
+        "Vương quốc Liên hiệp Đại Anh và Ái Nhĩ Lan"
+      ],
+      "ar": [
+        "المملكة المتحدة لبريطانيا العظمى وأيرلندة",
+        "مملكة بريطانيا العظمى و إيرلندا المتحدة"
+      ],
+      "ru": [
+        "Соединенное королевство Великобритании и Ирландии",
+        "Великобритания"
+      ],
+      "en": [
+        "United Kingdom",
+        "UKGBI",
+        "Great Britain and Ireland"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical sovereign state (1801–1922)",
+    "de": "historischer Staat (1801–1922), bis 1927 gebräuchlicher Name",
+    "es": "estado histórico (1801-1922), cuyo nombre estuvo en uso hasta 1927",
+    "fr": "État historique (1801-1922), nom en usage jusqu’en 1927",
+    "zh-CN": "英国自1801年至1927年间的国名",
+    "zh-TW": "英國自1801年至1927年間的國名",
+    "ru": "конституционная монархия в Западной Европе (1801—1927)",
+    "ja": "かつて西ヨーロッパに存在した王国",
+    "vi": "quốc gia có chủ quyền (1801-1922)",
+    "ar": "دولة تاريخية ذات سيادة"
+  },
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 1930,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1930 SCN"
+    },
+    "duration_years": 115,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815,
+    1878,
+    1880,
+    1900,
+    1914,
+    1920,
+    1930
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815,
+      1878,
+      1880,
+      1900,
+      1914,
+      1920,
+      1930
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 1930,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/United%20Kingdom%20of%20Great%20Britain%20and%20Ireland",
+    "wikidata": "https://www.wikidata.org/wiki/Q174193"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

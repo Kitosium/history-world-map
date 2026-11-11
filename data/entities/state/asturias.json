@@ -1,0 +1,150 @@
+{
+  "id": "asturias",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q3934",
+  "names": {
+    "canonical": {
+      "vi": "Asturies",
+      "en": "Asturias",
+      "zh-CN": "阿斯图里亚斯自治区",
+      "zh-TW": "阿斯图里亚斯自治区",
+      "ja": "アストゥリアス州",
+      "fr": "Asturies",
+      "es": "Asturias",
+      "ar": "منطقة أشتورية",
+      "ru": "Астурия",
+      "de": "Asturien"
+    },
+    "aliases": {
+      "fr": [
+        "Principauté des Asturies"
+      ],
+      "ru": [
+        "Астурийское княжество"
+      ],
+      "en": [
+        "Principality of Asturias",
+        "Principáu d'Asturies",
+        "Asturies",
+        "ES-AS"
+      ],
+      "es": [
+        "Asturies",
+        "Principado de Asturias",
+        "Principáu d'Asturies"
+      ],
+      "ar": [
+        "مقاطعة أستورياس",
+        "مقاطعة أشتورية",
+        "منطقة أستورياس",
+        "أشتورية",
+        "أَشْتُورِيَةُ"
+      ],
+      "vi": [
+        "Asturias"
+      ],
+      "de": [
+        "Asturias"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "communauté autonome du nord-ouest de l'Espagne",
+    "es": "comunidad autónoma de España",
+    "de": "autonome Gemeinschaft im Nordwesten Spaniens",
+    "ru": "автономное сообщество и провинция на севере Испании",
+    "en": "autonomous community of Spain, situated in the northwest part of the country",
+    "ja": "スペインの自治州",
+    "zh-CN": "西班牙自治区",
+    "vi": "khu tự trị của Tây Ban Nha"
+  },
+  "existence": {
+    "from": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    800,
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      800,
+      900
+    ],
+    "first_observed_year": 800,
+    "last_observed_year": 900,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Asturias",
+    "wikidata": "https://www.wikidata.org/wiki/Q3934"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

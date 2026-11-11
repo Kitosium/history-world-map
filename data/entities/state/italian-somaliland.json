@@ -1,0 +1,169 @@
+{
+  "id": "italian-somaliland",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q319984",
+  "names": {
+    "canonical": {
+      "vi": "Somaliland thuộc Ý",
+      "en": "Italian Somaliland",
+      "zh-CN": "意属索马里兰",
+      "zh-TW": "義屬索馬利蘭",
+      "ja": "イタリア領ソマリランド",
+      "fr": "Somalie italienne",
+      "es": "Somalia Italiana",
+      "ar": "الصومال الإيطالي",
+      "ru": "Итальянское Сомали",
+      "de": "Italienisch-Somaliland"
+    },
+    "aliases": {
+      "zh-CN": [
+        "義屬索馬利亞",
+        "意屬索馬利蘭"
+      ],
+      "fr": [
+        "Somaliland italien",
+        "Somalia Italiana"
+      ],
+      "es": [
+        "Somalía Italiana",
+        "Somalilandia Italiana"
+      ],
+      "ar": [
+        "إيطاليا الصومالية"
+      ],
+      "ru": [
+        "Итальянский Сомалиленд"
+      ],
+      "en": [
+        "Somalia italiana",
+        "Al-Sumal Al-Italiy",
+        "Dhulka Talyaaniga ee Soomaaliya",
+        "Somalia",
+        "Italian Somalia"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "colony of the Kingdom of Italy in Somalia",
+    "es": "Antigua colonia italiana en África Oriental.",
+    "de": "italienische Kolonie auf dem Gebiet des heutigen Somalias",
+    "ru": "колония Италии в Восточной Африке",
+    "fr": "ancienne colonie italienne",
+    "ja": "かつてアフリカに存在したイタリアの植民地",
+    "ar": "مستعمرة أفريقية",
+    "vi": "thuộc địa của Ý tại châu Phi (1889–1941)"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 24,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1938,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Italian%20Somaliland",
+    "wikidata": "https://www.wikidata.org/wiki/Q319984"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

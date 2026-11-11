@@ -1,0 +1,136 @@
+{
+  "id": "new-france",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q170604",
+  "names": {
+    "canonical": {
+      "vi": "Nouvelle-France",
+      "en": "New France",
+      "zh-CN": "新法蘭西",
+      "zh-TW": "新法蘭西",
+      "ja": "ヌーベルフランス",
+      "fr": "Nouvelle-France",
+      "es": "Nueva Francia",
+      "ar": "فرنسا الجديدة",
+      "ru": "Новая Франция",
+      "de": "Neufrankreich"
+    },
+    "aliases": {
+      "de": [
+        "Neu-Frankreich"
+      ],
+      "en": [
+        "Vice-royauté de Nouvelle-France",
+        "Viceroyalty of New France",
+        "Vice-royaute de Nouvelle-France"
+      ],
+      "ja": [
+        "ニューフランス",
+        "ヌーヴェルフランス",
+        "ヌーヴェル・フランス",
+        "ヌーベル・フランス",
+        "ヌーヴェル・フランス植民地"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "colonie française en Amérique du Nord, de 1534 à 1763",
+    "en": "area colonized by France in North America",
+    "ja": "フランスの北アメリカにおける植民地",
+    "es": "colonia del reino de Francia en América del norte",
+    "zh-CN": "历史上的行政区划",
+    "de": "Ehemals von Frankreich beanspruchte historische Gebiete in Nordamerika",
+    "ar": "منطقة في أمريكا الشمالية، استعمرت من قبل فرنسا",
+    "ru": "колонии Франции в Северной Америке",
+    "vi": "Nouvelle-France (New France) là một state lịch sử tồn tại từ 1650 SCN đến 1700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1700 SCN"
+    },
+    "duration_years": 50,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1700,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/New%20France",
+    "wikidata": "https://www.wikidata.org/wiki/Q170604"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

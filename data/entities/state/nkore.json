@@ -1,0 +1,87 @@
+{
+  "id": "nkore",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": null,
+  "names": {
+    "canonical": {
+      "vi": "Nkore",
+      "en": "Nkore"
+    },
+    "aliases": {}
+  },
+  "descriptions": {},
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 1815,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps"
+  ],
+  "provenance": {
+    "names": [
+      "src-basemaps"
+    ],
+    "existence": [
+      "src-basemaps"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nkore"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

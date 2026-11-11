@@ -1,0 +1,229 @@
+{
+  "id": "north-korea",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q423",
+  "names": {
+    "canonical": {
+      "vi": "Cộng hòa Dân chủ Nhân dân Triều Tiên",
+      "en": "North Korea",
+      "zh-CN": "朝鲜民主主义人民共和国",
+      "zh-TW": "朝鮮民主主義人民共和國",
+      "ja": "朝鮮民主主義人民共和国",
+      "fr": "Corée du Nord",
+      "es": "Corea del Norte",
+      "ar": "كوريا الشمالية",
+      "ru": "КНДР",
+      "de": "Nordkorea"
+    },
+    "aliases": {
+      "fr": [
+        "République populaire démocratique de Corée",
+        "RPDC",
+        "kp",
+        "République populaire de Corée",
+        "Corée Du Nord",
+        "la République populaire démocratique de Corée"
+      ],
+      "en": [
+        "kp",
+        "Democratic People's Republic of Korea",
+        "DPRK",
+        "N. Korea",
+        "DPR Korea",
+        "Korea, Democratic People's Republic of",
+        "korea-democratic-peoples-republic-of"
+      ],
+      "zh-CN": [
+        "朝鲜",
+        "🇰🇵"
+      ],
+      "ru": [
+        "Северная Корея",
+        "Корея",
+        "Корейская Народно-Демократическая Республика"
+      ],
+      "vi": [
+        "Bắc Triều Tiên",
+        "Triều Tiên",
+        "Cộng hoà Dân chủ Nhân dân Triều Tiên",
+        "Bắc Hàn",
+        "Korea, Democratic People's Republic of",
+        "korea-democratic-peoples-republic-of"
+      ],
+      "zh-TW": [
+        "朝鮮",
+        "北朝鮮",
+        "北韓"
+      ],
+      "es": [
+        "Norcorea",
+        "Corea Popular",
+        "República Popular Democrática de Corea",
+        "RPDC"
+      ],
+      "ja": [
+        "北朝鮮",
+        "DPRK"
+      ],
+      "de": [
+        "Demokratische Volksrepublik Korea",
+        "DVRK",
+        "Koreanische Demokratische Volksrepublik",
+        "KVDR"
+      ],
+      "ar": [
+        "جمهورية كوريا الديمقراطية الشعبية"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Asie orientale",
+    "zh-CN": "东北亚国家",
+    "ru": "государство в Восточной Азии",
+    "vi": "quốc gia ở Đông Á",
+    "zh-TW": "東亞國家",
+    "es": "país de Asia Oriental",
+    "de": "Staat in Ostasien",
+    "ar": "دولة في شرق آسيا",
+    "en": "sovereign state in East Asia",
+    "ja": "東アジアの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1960,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "09/09/1960 SCN",
+      "month": 9,
+      "day": 9
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "03/11/2026 SCN",
+      "month": 11,
+      "day": 3
+    },
+    "duration_years": 66,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1960,
+    "last_observed_year": 2026,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/North%20Korea",
+    "wikidata": "https://www.wikidata.org/wiki/Q423"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,201 @@
+{
+  "id": "berbers",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q45315",
+  "names": {
+    "canonical": {
+      "vi": "Người Berber",
+      "en": "Berbers",
+      "zh-CN": "柏柏尔人",
+      "zh-TW": "柏柏尔人",
+      "ja": "ベルベル人",
+      "fr": "Berbères",
+      "es": "bereberes",
+      "ar": "الأمازيغ",
+      "ru": "берберы",
+      "de": "Berber"
+    },
+    "aliases": {
+      "zh-CN": [
+        "柏柏尔",
+        "柏柏尔族",
+        "柏柏爾人",
+        "柏爾柏爾人",
+        "柏柏人"
+      ],
+      "es": [
+        "Bereber",
+        "pueblo bereber",
+        "amazigh"
+      ],
+      "ar": [
+        "امازيغ",
+        "الامازيغ",
+        "الامازيغي",
+        "قبائل أمازيغية",
+        "الأمازيغي",
+        "أمازيغي",
+        "تاريخ الأمازيغ",
+        "أمازيع",
+        "بربر",
+        "مازيغ",
+        "ماكسير",
+        "ماكلير"
+      ],
+      "ru": [
+        "Берберские народы",
+        "Берберские племена"
+      ],
+      "fr": [
+        "Berberes",
+        "Imazigh",
+        "Amazighs",
+        "Amazighes",
+        "Amazighité",
+        "Barabras",
+        "Berber",
+        "Berbères judaïsés",
+        "Imazighen",
+        "Imazighens",
+        "Amazigh"
+      ],
+      "ja": [
+        "アマズィーグ",
+        "アマジーグ",
+        "ベルベル系",
+        "ベルベル",
+        "カビル人",
+        "ベルベル族"
+      ],
+      "en": [
+        "Imazighen",
+        "Amazigh",
+        "Berber"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "indigene Ethnie in Nordafrika",
+    "en": "ethnic group indigenous to North Africa",
+    "ar": "مجموعة عرقية في شمال إفريقيا",
+    "es": "etnias autóctonas del norte de África",
+    "fr": "groupe ethnique autochtone d'Afrique du Nord",
+    "zh-CN": "北非土著族群",
+    "ja": "北アフリカに古くから住む人々の総称",
+    "ru": "разнообразная группировка различных этнических групп, являющихся коренными жителями Северной Африки",
+    "vi": "Người Berber (Berbers) là một state lịch sử tồn tại từ 1500 TCN đến 900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": -1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 TCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 2400,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1500,
+    -1000,
+    -700,
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1500,
+      -1000,
+      -700,
+      900
+    ],
+    "first_observed_year": -1500,
+    "last_observed_year": 900,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Berbers",
+    "wikidata": "https://www.wikidata.org/wiki/Q45315"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

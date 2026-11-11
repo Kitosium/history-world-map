@@ -1,0 +1,139 @@
+{
+  "id": "florence",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q2044",
+  "names": {
+    "canonical": {
+      "vi": "Firenze",
+      "en": "Florence",
+      "zh-CN": "佛罗伦萨",
+      "zh-TW": "佛羅倫斯",
+      "ja": "フィレンツェ",
+      "fr": "Florence",
+      "es": "Florencia",
+      "ar": "فلورنسا",
+      "ru": "Флоренция",
+      "de": "Florenz"
+    },
+    "aliases": {
+      "fr": [
+        "Florence, Toscane"
+      ],
+      "en": [
+        "Florence, Italy",
+        "Florence, Tuscany",
+        "Florence Municipality"
+      ],
+      "vi": [
+        "Florence",
+        "Florence, Ý"
+      ],
+      "ja": [
+        "フィレンチェ",
+        "フィレンツェ市",
+        "フローレンス",
+        "フローランス"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "ville de Toscane, en Italie",
+    "ru": "город в Италии, административный центр области Тоскана",
+    "es": "ciudad de Italia, situada en la región de Toscana",
+    "de": "Hauptstadt der Toskana, Italien",
+    "ar": "مدينة في شمال إيطاليا",
+    "en": "Italian city and commune, located in Tuscany",
+    "ja": "イタリアの都市",
+    "zh-CN": "意大利市鎮",
+    "vi": "thủ phủ vùng Toscana, Ý"
+  },
+  "existence": {
+    "from": {
+      "year": 1530,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1530 SCN"
+    },
+    "to": {
+      "year": 1600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1600 SCN"
+    },
+    "duration_years": 70,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1530,
+    1600
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1530,
+      1600
+    ],
+    "first_observed_year": 1530,
+    "last_observed_year": 1600,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence",
+    "wikidata": "https://www.wikidata.org/wiki/Q2044"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "saar-protectorate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q310293",
+  "names": {
+    "canonical": {
+      "vi": "Saar",
+      "en": "Saar Protectorate",
+      "zh-CN": "萨尔保护领",
+      "zh-TW": "薩爾保護領",
+      "ja": "ザール",
+      "fr": "Sarre",
+      "es": "Protectorado del Sarre",
+      "ar": "محمية سار",
+      "ru": "Саар",
+      "de": "Saarprotektorat"
+    },
+    "aliases": {
+      "zh-CN": [
+        "薩爾",
+        "薩爾保護地"
+      ],
+      "es": [
+        "Protectorado de Sarre"
+      ],
+      "en": [
+        "Saarprotektorat",
+        "Saarland protectorate",
+        "Protectorate de Sarre",
+        "Protectorate de la Sarre",
+        "Sarre (Protectorate)"
+      ],
+      "fr": [
+        "Protectorat de la Sarre",
+        "Saarprotektorat",
+        "Protectorat de Sarre",
+        "Saar"
+      ],
+      "ru": [
+        "Протекторат Саар"
+      ],
+      "de": [
+        "Saarland 1947 bis 1956"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Protektorat Frankreichs 1947 bis 1956",
+    "en": "French protectorate over German Saarland, 1947–56",
+    "fr": "protectorat français sur la Sarre allemande, de 1947 à 1956",
+    "ru": "государство под протекторатом Франции (1947-1956)",
+    "es": "antiguo territorio europeo",
+    "ja": "1947年から1957年までの間に存在したフランスの保護領",
+    "zh-TW": "法國保護國",
+    "vi": "Saar (Saar Protectorate) là một state lịch sử tồn tại từ 1945 SCN đến 1945 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 1945,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saar%20Protectorate",
+    "wikidata": "https://www.wikidata.org/wiki/Q310293"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

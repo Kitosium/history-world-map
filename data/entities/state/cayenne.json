@@ -1,0 +1,146 @@
+{
+  "id": "cayenne",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q44401",
+  "names": {
+    "canonical": {
+      "vi": "Cayenne",
+      "en": "Cayenne",
+      "zh-CN": "卡宴",
+      "zh-TW": "開雲",
+      "ja": "カイエンヌ",
+      "fr": "Cayenne",
+      "es": "Cayena",
+      "ar": "كايين",
+      "ru": "Кайенна",
+      "de": "Cayenne"
+    },
+    "aliases": {
+      "zh-CN": [
+        "皆因"
+      ],
+      "es": [
+        "Cayenne"
+      ],
+      "ru": [
+        "Кайена"
+      ],
+      "ja": [
+        "ケインヌ"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "commune and capital city of French Guiana",
+    "es": "capital de la Guayana Francesa, país dependiente de Francia",
+    "fr": "commune française de la collectivité territoriale unique de Guyane (chef-lieu)",
+    "de": "französische Gemeinde",
+    "ru": "коммуна во Франции",
+    "zh-CN": "法属圭亚那的首府",
+    "ar": "مدينة فرنسية وعاصمة إقليم غويانا الفرنسية",
+    "zh-TW": "法屬圭亞那的首府",
+    "ja": "フランス領ギアナの首都",
+    "vi": "Cayenne (Cayenne) là một state lịch sử tồn tại từ 1650 SCN đến 1715 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 65,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1715,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cayenne",
+    "wikidata": "https://www.wikidata.org/wiki/Q44401"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

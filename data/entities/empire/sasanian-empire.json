@@ -1,0 +1,221 @@
+{
+  "id": "sasanian-empire",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q83891",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Sassanid",
+      "en": "Sasanian Empire",
+      "zh-CN": "萨珊王朝",
+      "zh-TW": "薩珊王朝",
+      "ja": "サーサーン朝",
+      "fr": "Empire sassanide",
+      "es": "Imperio sasánida",
+      "ar": "الإمبراطورية الساسانية",
+      "ru": "Государство Сасанидов",
+      "de": "Sassanidenreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "薩珊王朝",
+        "萨珊帝国",
+        "萨珊",
+        "萨桑王朝",
+        "萨珊波斯",
+        "卡尤斯王朝"
+      ],
+      "es": [
+        "Imperio Sasanida",
+        "Imperio persa",
+        "persia"
+      ],
+      "ar": [
+        "آل ساسان",
+        "الساساني",
+        "الساسانيون",
+        "الدولة الساسانية",
+        "العهود الساسانية",
+        "أكاسرة",
+        "الفرس الساسانيين",
+        "الساسانيين",
+        "العهد الساساني",
+        "ساسانيين",
+        "العصر الساساني",
+        "الساسانية",
+        "المملكة الساسانية",
+        "إمبراطورية ساسانية",
+        "الامبراطورية الساسانية",
+        "الساسان",
+        "إمبراطورية الساسانيين"
+      ],
+      "ru": [
+        "Сасанидская империя",
+        "Сасанидов государство",
+        "Империя Сасанидов",
+        "Эраншахр",
+        "Сасанидский Иран",
+        "Сассаниды",
+        "Сасаниды",
+        "Царство иранцев",
+        "Новоперсидское царство",
+        "Вторая Персидская империя"
+      ],
+      "fr": [
+        "Empire Perse"
+      ],
+      "de": [
+        "Sasanidenreich",
+        "Neupersisches Reich"
+      ],
+      "ja": [
+        "ササン朝ペルシア",
+        "サーサーン朝ペルシャ",
+        "ササン朝",
+        "ササン朝ペルシャ",
+        "カユス王朝"
+      ],
+      "vi": [
+        "Đế chế Sassanid",
+        "Nhà Sassan",
+        "Vương triều Sassanid",
+        "Triều Sassanid",
+        "Sassanid",
+        "Tân đế quốc Ba Tư",
+        "Sassan Thị",
+        "Triều đại Sassanid",
+        "Đế quốc Ba Tư Sassanid",
+        "Nhà Sassanian",
+        "Đế quốc Ba Tư thứ hai",
+        "Đế quốc Sassanid",
+        "Sassanids",
+        "Sassanides"
+      ],
+      "en": [
+        "Neo-Persian Empire",
+        "Ērānshahr",
+        "Ērān",
+        "Second Persian Empire",
+        "Sassanid Empire",
+        "Sasanid Empire",
+        "Sassanid Persia",
+        "Sasanid Persia",
+        "Sasanian Persia",
+        "Sassanian Persia",
+        "Sassanian Empire"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "last pre-Islamic Iranian empire (224–651 AD)",
+    "ar": "إمبراطورية فارسية استمرت لأكثر من أربعة قرون من 224 إلى 651 م",
+    "es": "estado de la antigüedad y medieval en Asia occidental (224–651)",
+    "de": "zweites persisches Großreich des vorislamischen Altertums",
+    "ru": "вторая персидская империя",
+    "fr": "ancien empire perse, de 224 à 651",
+    "zh-CN": "224年—651年统治伊朗的王朝",
+    "ja": "イラン高原・メソポタミアなどを支配した王朝・帝国（226年 - 651年）",
+    "zh-TW": "224年—651年統治伊朗的王朝",
+    "vi": "triều đại Iran cuối cùng trước thời kỳ Hồi giáo (224–651 CN)"
+  },
+  "existence": {
+    "from": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    500,
+    600,
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      500,
+      600,
+      700
+    ],
+    "first_observed_year": 500,
+    "last_observed_year": 700,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sasanian%20Empire",
+    "wikidata": "https://www.wikidata.org/wiki/Q83891"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

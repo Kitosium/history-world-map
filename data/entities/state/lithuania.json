@@ -1,0 +1,254 @@
+{
+  "id": "lithuania",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q37",
+  "names": {
+    "canonical": {
+      "vi": "Litva",
+      "en": "Lithuania",
+      "zh-CN": "立陶宛",
+      "zh-TW": "立陶宛",
+      "ja": "リトアニア",
+      "fr": "Lituanie",
+      "es": "Lituania",
+      "ar": "لتوانيا",
+      "ru": "Литва",
+      "de": "Litauen"
+    },
+    "aliases": {
+      "fr": [
+        "Lithuanie",
+        "la République de Lituanie",
+        "République de Lituanie"
+      ],
+      "en": [
+        "Republic of Lithuania"
+      ],
+      "zh-CN": [
+        "立陶宛共和国"
+      ],
+      "vi": [
+        "Lithuania",
+        "Cộng hòa Litva",
+        "Cộng hòa Lithuania",
+        "Cộng hoà Litva"
+      ],
+      "ru": [
+        "Литовская Республика"
+      ],
+      "zh-TW": [
+        "立陶宛共和國"
+      ],
+      "es": [
+        "República de Lituania"
+      ],
+      "ja": [
+        "リトアニア共和国"
+      ],
+      "de": [
+        "Republik Litauen"
+      ],
+      "ar": [
+        "ليتوانيا"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays du nord-est de l'Europe",
+    "zh-CN": "东北欧国家",
+    "ru": "государство в Северной Европе",
+    "zh-TW": "東北歐國家",
+    "es": "país de Europa del Norte",
+    "de": "Staat im Nordosten Europas",
+    "ar": "دولة في شمال شرق أوروبا",
+    "en": "country in northeastern Europe",
+    "ja": "北ヨーロッパの国",
+    "vi": "quốc gia ở Bắc Âu"
+  },
+  "existence": {
+    "from": {
+      "year": 1279,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1279 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 747,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1279,
+    1300,
+    1920,
+    1930,
+    1938,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1279,
+      1300,
+      1920,
+      1930,
+      1938,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1279,
+    "last_observed_year": 2026,
+    "feature_count": 9,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lithuania",
+    "wikidata": "https://www.wikidata.org/wiki/Q37"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

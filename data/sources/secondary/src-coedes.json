@@ -1,0 +1,79 @@
+{
+  "id": "src-coedes",
+  "schema_version": "1.3.0",
+  "type": "academic_monograph",
+  "title": {
+    "canonical": {
+      "vi": "Các quốc gia Ấn Độ hóa ở Đông Nam Á",
+      "en": "The Indianized States of Southeast Asia",
+      "fr": "Les États hindouisés d'Indochine et d'Indonésie"
+    }
+  },
+  "creators": [
+    {
+      "name": "George Cœdès",
+      "role": "author",
+      "affiliation": "École française d'Extrême-Orient (EFEO)"
+    },
+    {
+      "name": "Susan Brown Cowing",
+      "role": "translator",
+      "affiliation": "Bản dịch tiếng Anh 1968"
+    }
+  ],
+  "publication": {
+    "publisher": "E. de Boccard (1948, 1964); East-West Center Press / University of Hawaii Press (1968)",
+    "year": 1968,
+    "place": "Paris; Honolulu",
+    "edition": "Bản Pháp ngữ 1948 (466 tr.), tái bản 1964 (494 tr.); bản Anh ngữ 1968 (xxi, 403 tr.)",
+    "pages": "466 (1948); 494 (1964); 403 (1968, bản Anh ngữ)",
+    "language": "fr; en",
+    "notes": "Bản gốc tiếng Pháp 1948; bản dịch tiếng Anh 1968 của Susan Brown Cowing được dùng phổ biến trong học giới."
+  },
+  "digital_access": [
+    {
+      "label": "Internet Archive — bản Anh ngữ 1968 (mượn)",
+      "url": "https://archive.org/details/indianizedstates0000cdsg",
+      "access_type": "borrow",
+      "format": "pdf/html",
+      "provider": "Internet Archive",
+      "identifier": "indianizedstates0000cdsg",
+      "notes": "Bản 1968, xxi + 403 tr.; cần tài khoản Internet Archive để mượn."
+    },
+    {
+      "label": "Open Library — bản Pháp ngữ 1948, 466 tr.",
+      "url": "https://openlibrary.org/books/OL6051498M",
+      "access_type": "catalogue",
+      "format": "html",
+      "provider": "Open Library"
+    },
+    {
+      "label": "Open Library — bản Pháp ngữ 1964, 494 tr.",
+      "url": "https://openlibrary.org/books/OL16599982M",
+      "access_type": "catalogue",
+      "format": "html",
+      "provider": "Open Library"
+    }
+  ],
+  "license": {
+    "name": "In copyright",
+    "spdx": "NOASSERTION"
+  },
+  "coverage": {
+    "temporal": "1st - 15th century CE",
+    "spatial": "Southeast Asia",
+    "geometry": "historical-geographical synthesis"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_3_peer_reviewed_academic",
+    "historiographical_notes": "Tác phẩm kinh điển quốc tế khảo sát nguồn gốc, sự hưng thịnh và cương vực của Phù Nam (Funan), thương cảng Óc Eo và Chân Lạp (Chenla).",
+    "spatial_precision_rating": "historical_geographical_survey"
+  },
+  "citation_formats": {
+    "chicago": "Cœdès, George. The Indianized States of Southeast Asia. Translated by Susan Brown Cowing. Honolulu: East-West Center Press, 1968.",
+    "apa": "Cœdès, G. (1968). The Indianized states of Southeast Asia (S. B. Cowing, Trans.). East-West Center Press.",
+    "bibtex": "@book{coedes1968, author={George Cœdès}, title={The Indianized States of Southeast Asia}, translator={Susan Brown Cowing}, year={1968}, publisher={East-West Center Press}, address={Honolulu}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

@@ -1,0 +1,168 @@
+{
+  "id": "french-west-africa",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q210682",
+  "names": {
+    "canonical": {
+      "vi": "Tây Phi thuộc Pháp",
+      "en": "French West Africa",
+      "zh-CN": "法属西非",
+      "zh-TW": "法屬西非",
+      "ja": "フランス領西アフリカ",
+      "fr": "Afrique-Occidentale française",
+      "es": "África Occidental Francesa",
+      "ar": "غرب إفريقيا الفرنسي",
+      "ru": "Французская Западная Африка",
+      "de": "Französisch-Westafrika"
+    },
+    "aliases": {
+      "zh-CN": [
+        "法属西非洲"
+      ],
+      "fr": [
+        "Afrique Occidentale Française",
+        "Afrique occidentale francaise",
+        "AOF"
+      ],
+      "es": [
+        "Africa Occidental Francesa"
+      ],
+      "de": [
+        "Französisch Westafrika"
+      ],
+      "ja": [
+        "AOF",
+        "仏領西アフリカ"
+      ],
+      "en": [
+        "Afrique occidentale française",
+        "AOF"
+      ],
+      "ar": [
+        "غرب إفريقيا الفرنسية"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "French colonial federation in west Africa from 1895 to 1958",
+    "fr": "ancienne colonie française en Afrique",
+    "de": "Föderation der französischen Kolonien in Westafrika 1895–1958",
+    "es": "conjunto de colonias francesas ubicadas en la parte occidental del continente",
+    "ja": "かつてアフリカに存在したフランスの植民地",
+    "ar": "الاتحاد الاستعماري الفرنسي في غرب إفريقيا من عام 1895 إلى عام 1958",
+    "vi": "Tây Phi thuộc Pháp (French West Africa) là một state lịch sử tồn tại từ 1914 SCN đến 1938 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 24,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1938,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/French%20West%20Africa",
+    "wikidata": "https://www.wikidata.org/wiki/Q210682"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

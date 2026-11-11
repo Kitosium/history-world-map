@@ -1,0 +1,284 @@
+{
+  "id": "australia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q408",
+  "names": {
+    "canonical": {
+      "vi": "Úc",
+      "en": "Australia",
+      "zh-CN": "澳大利亚",
+      "zh-TW": "澳洲",
+      "ja": "オーストラリア",
+      "fr": "Australie",
+      "es": "Australia",
+      "ar": "أستراليا",
+      "ru": "Австралия",
+      "de": "Australien"
+    },
+    "aliases": {
+      "en": [
+        "Commonwealth of Australia",
+        "Straya",
+        "Aussieland",
+        "Oz",
+        "Stralia",
+        "New Holland",
+        "New Hollandia",
+        "Nova Hollandia",
+        "Down Under",
+        "Stria",
+        "The Commonwealth of Australia",
+        "'Straya"
+      ],
+      "zh-CN": [
+        "澳大利亚联邦"
+      ],
+      "ru": [
+        "Австралийский Союз",
+        "Австралийский союз"
+      ],
+      "vi": [
+        "Australia",
+        "Úc Đại Lợi",
+        "Úc Châu",
+        "Ô-xtrây-li-a",
+        "Ôxtrâylia",
+        "nước Úc"
+      ],
+      "ja": [
+        "豪州",
+        "オーストラリア連邦"
+      ],
+      "de": [
+        "Commonwealth von Australien"
+      ],
+      "fr": [
+        "Commonwealth d'Australie",
+        "Nouvelle-Hollande",
+        "l'Australie"
+      ],
+      "es": [
+        "Mancomunidad de Australia"
+      ],
+      "ar": [
+        "أوستراليا",
+        "كومنولث أستراليا",
+        "كومنولث أوستراليا"
+      ],
+      "zh-TW": [
+        "澳大利亞"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Océanie",
+    "zh-CN": "大洋洲国家",
+    "ru": "государство на одноимённом континенте в южном полушарии",
+    "vi": "quốc gia ở châu Đại Dương",
+    "es": "país de Oceanía",
+    "de": "Staat in Ozeanien",
+    "ar": "دولة في أوقيانوسيا",
+    "en": "country in Oceania",
+    "ja": "オセアニアの国",
+    "zh-TW": "大洋洲國家"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 112,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 2026,
+    "feature_count": 10,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Australia",
+    "wikidata": "https://www.wikidata.org/wiki/Q408"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

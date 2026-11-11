@@ -1,0 +1,217 @@
+{
+  "id": "dutch-republic",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q170072",
+  "names": {
+    "canonical": {
+      "vi": "Cộng hòa Hà Lan",
+      "en": "Dutch Republic",
+      "zh-CN": "荷兰共和国",
+      "zh-TW": "荷蘭共和國",
+      "ja": "ネーデルラント連邦共和国",
+      "fr": "Provinces-Unies",
+      "es": "Provincias Unidas de los Países Bajos",
+      "ar": "جمهورية هولندا",
+      "ru": "Республика Соединённых провинций",
+      "de": "Republik der Vereinigten Niederlande"
+    },
+    "aliases": {
+      "zh-CN": [
+        "尼德蘭七省聯合共和國",
+        "七省聯合共和國",
+        "尼德蘭聯邦",
+        "荷蘭聯省共和國"
+      ],
+      "es": [
+        "Republica de los Siete Paises Bajos Unidos",
+        "Zeven Provinciën",
+        "Republiek der Zeven Verenigde Nederlanden",
+        "Republica de los Siete Países Bajos Unidos",
+        "Republica de las Siete Provincias Unidas",
+        "Provincias Unidas de los Paises Bajos",
+        "República de los Siete Países Bajos Unidos",
+        "Zeven Provincien",
+        "República de las Siete Provincias Unidas"
+      ],
+      "ar": [
+        "الجمهورية الهولندية",
+        "جمهوريه هولندا"
+      ],
+      "ru": [
+        "Республика Соединённых Провинций Нидерландов",
+        "Голландская республика",
+        "Соединённые провинции",
+        "Соединенные провинции",
+        "Республика Соединенных Провинций",
+        "Республика Соединенных провинций Нидерландов",
+        "Объединённые Провинции",
+        "Нидерланды"
+      ],
+      "fr": [
+        "République des Sept Pays-Bas",
+        "République des Sept Pays-Bas-Unis",
+        "Provinces Unies",
+        "République des Provinces Unies",
+        "République des Provinces-Unies",
+        "Sept pays-bas unis",
+        "Sept provinces unies",
+        "République des Sept Pays-Bas Unies",
+        "Pays-Bas septentrionaux"
+      ],
+      "de": [
+        "Republik der Niederlande",
+        "Vereinigte Provinzen",
+        "Republik der Sieben Vereinigten Niederlande",
+        "Vereinigte Niederlande",
+        "Niederländische Republik"
+      ],
+      "ja": [
+        "ネーデルランド連邦共和国",
+        "ネーデルランド共和国",
+        "オランダ共和国",
+        "ネーデルラント共和国",
+        "オランダ連邦共和国"
+      ],
+      "en": [
+        "Republic of the Seven United Netherlands",
+        "Republic of the United Netherlands",
+        "Republic of the Seven United Provinces",
+        "United Provinces",
+        "Federated Dutch Provinces",
+        "Dutch Federation",
+        "United Provinces of the Netherlands",
+        "Netherlands (1581–1795)",
+        "Republic of the Netherlands",
+        "Republiek der Zeven Verenigde Nederlanden"
+      ],
+      "zh-TW": [
+        "尼德蘭七省共和國"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat, 1581–1795",
+    "en": "predecessor state of the Netherlands (1581–1795)",
+    "fr": "ancien pays européen ayant existé de 1581 à 1795 correspondant aux Pays-Bas aujourd'hui",
+    "zh-TW": "1581年到1795年由尼德蘭七省組建的自治聯盟---共和政體或君主憲政的爭議不斷",
+    "ru": "конфедеративная республика в Западной Европе (1581—1795)",
+    "es": "país de Europa (1581–1795)",
+    "ja": "現在のオランダおよびベルギー北部（フランデレン地域）にかつて存在した国家",
+    "zh-CN": "尼德蘭的前身",
+    "ar": "دولة سابقة",
+    "vi": "nước cộng hòa liên bang tồn tại từ năm 1588 đến năm 1795"
+  },
+  "existence": {
+    "from": {
+      "year": 1600,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1600 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 115,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1600,
+    "last_observed_year": 1715,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dutch%20Republic",
+    "wikidata": "https://www.wikidata.org/wiki/Q170072"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,254 @@
+{
+  "id": "eritrea",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q986",
+  "names": {
+    "canonical": {
+      "vi": "Eritrea",
+      "en": "Eritrea",
+      "zh-CN": "厄立特里亚",
+      "zh-TW": "厄利垂亞",
+      "ja": "エリトリア",
+      "fr": "Érythrée",
+      "es": "Eritrea",
+      "ar": "إرتريا",
+      "ru": "Эритрея",
+      "de": "Eritrea"
+    },
+    "aliases": {
+      "en": [
+        "State of Eritrea",
+        "Ertrā",
+        "Iritriyā",
+        "er"
+      ],
+      "ru": [
+        "Государство Эритрея"
+      ],
+      "es": [
+        "Estado de Eritrea"
+      ],
+      "zh-CN": [
+        "厄特"
+      ],
+      "fr": [
+        "Erythrée",
+        "État d'Érythrée"
+      ],
+      "ar": [
+        "دولة إرتريا",
+        "دولة إريتريا",
+        "إريتريا",
+        "ارتريا"
+      ],
+      "ja": [
+        "エリトリア国",
+        "エリトレア"
+      ],
+      "de": [
+        "Iritriyyā"
+      ],
+      "vi": [
+        "Nhà nước Eritrea"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in the Horn of Africa",
+    "fr": "pays d'Afrique de l'Est",
+    "de": "Staat in Ostafrika",
+    "es": "país de África Oriental",
+    "ru": "государство в Восточной Африке",
+    "ar": "دولة في شرق أفريقيا",
+    "ja": "アフリカ北東部の国",
+    "zh-CN": "非洲之角的國家",
+    "zh-TW": "非洲之角的國家",
+    "vi": "quốc gia ở sừng châu Phi"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 112,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 2026,
+    "feature_count": 9,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eritrea",
+    "wikidata": "https://www.wikidata.org/wiki/Q986"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,211 @@
+{
+  "id": "cherokee",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q105405",
+  "names": {
+    "canonical": {
+      "vi": "Cherokee",
+      "en": "Cherokee",
+      "zh-CN": "切罗基人",
+      "zh-TW": "切羅基人",
+      "ja": "チェロキー",
+      "fr": "Cherokees",
+      "es": "cheroqui",
+      "ar": "شيروكي",
+      "ru": "чероки",
+      "de": "Cherokee"
+    },
+    "aliases": {
+      "zh-CN": [
+        "切诺基"
+      ],
+      "fr": [
+        "Chérokî",
+        "Cherokee",
+        "Tchérokî",
+        "Tchérokîs"
+      ],
+      "es": [
+        "Pueblo cheroqui",
+        "Cheroki"
+      ],
+      "de": [
+        "Tscherokesen",
+        "Cherokee Nation",
+        "Anigiduwagi",
+        "Aniyunwiya",
+        "Anikituhwagi",
+        "Tschiroki",
+        "Aniyvwiya",
+        "Tsalagi"
+      ],
+      "ja": [
+        "チェロキー族",
+        "チェロキー人"
+      ],
+      "vi": [
+        "Người Cherokee"
+      ],
+      "en": [
+        "Ani-Yunwiya",
+        "Cherokees",
+        "Cherokee Indian"
+      ],
+      "ru": [
+        "чироки"
+      ],
+      "ar": [
+        "تشيروكي",
+        "قبائل الشيروكي"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Native American people indigenous to the Southeastern United States",
+    "ru": "индейский народ в Северной Америке",
+    "es": "grupo étnico de Norteamérica",
+    "de": "größtes noch existierendes Ureinwohnervolk Nordamerikas",
+    "ar": "قبيلة من الهنود الحمر",
+    "fr": "peuple autochtone de l’Est et du Sud-Est des États-Unis",
+    "zh-CN": "美国原住民族",
+    "ja": "アメリカ南東部に居住するイロコイ語族系の先住民族",
+    "vi": "Cherokee (Cherokee) là một state lịch sử tồn tại từ 1500 SCN đến 1715 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 215,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1500,
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1500,
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1500,
+    "last_observed_year": 1715,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cherokee",
+    "wikidata": "https://www.wikidata.org/wiki/Q105405"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

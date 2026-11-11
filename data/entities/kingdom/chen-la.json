@@ -1,0 +1,155 @@
+{
+  "id": "chen-la",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q843419",
+  "names": {
+    "canonical": {
+      "vi": "Chân Lạp",
+      "en": "Chenla",
+      "zh-CN": "真腊",
+      "zh-TW": "真臘",
+      "ja": "真臘",
+      "fr": "Chenla",
+      "es": "Chenla",
+      "de": "Chenla",
+      "ru": "Ченла",
+      "ar": "تشنلا"
+    },
+    "aliases": {
+      "vi": [
+        "Vương quốc Chân Lạp",
+        "Thủy Chân Lạp",
+        "Lục Chân Lạp"
+      ],
+      "en": [
+        "Kingdom of Chenla",
+        "Water Chenla",
+        "Land Chenla"
+      ],
+      "zh-CN": [
+        "真腊国",
+        "水真腊",
+        "陆真腊"
+      ],
+      "ja": [
+        "真臘国",
+        "水真臘",
+        "陸真臘"
+      ]
+    }
+  },
+  "descriptions": {
+    "vi": "Vương quốc cổ đại của người Khmer kế tục Phù Nam ở hạ lưu sông Mê Kông, sau này phát triển thành Đế quốc Khmer huy hoàng thời kỳ Angkor.",
+    "en": "Pre-Angkorian Khmer kingdom that succeeded Funan in the lower Mekong basin, preceding the Khmer Empire.",
+    "zh-CN": "曾统治中南半岛湄公河流域的高棉古国，继承扶南，后发展成为建立吴哥王朝的高棉帝国。"
+  },
+  "existence": {
+    "from": {
+      "year": 550,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "550 SCN"
+    },
+    "to": {
+      "year": 802,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "802 SCN"
+    },
+    "duration_years": 252,
+    "status": "historical",
+    "foundation_reason": {
+      "type": "expansion",
+      "vi": "Bhavavarman I lãnh đạo Chân Lạp ly khai khỏi Phù Nam rồi chinh phục toàn bộ Phù Nam",
+      "en": "Bhavavarman I declared independence from Funan and conquered it"
+    },
+    "dissolution_reason": {
+      "type": "dynastic_transformation",
+      "vi": "Jayavarman II thống nhất đất nước, xưng Devaraja lập nên Đế quốc Khmer năm 802",
+      "en": "Jayavarman II unified the regions and founded the Khmer Empire in 802"
+    },
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    600,
+    700,
+    800
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      600,
+      700,
+      800
+    ],
+    "first_observed_year": 600,
+    "last_observed_year": 800,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://vi.wikipedia.org/wiki/Ch%C3%A2n_L%E1%BA%A1p",
+    "wikidata": "https://www.wikidata.org/wiki/Q843419"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

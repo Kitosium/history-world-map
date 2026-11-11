@@ -1,0 +1,95 @@
+{
+  "id": "macau",
+  "schema_version": "1.3.0",
+  "type": "dependent_territory",
+  "wikidata_id": "Q14773",
+  "names": {
+    "canonical": {
+      "en": "Macau",
+      "vi": "Ma Cao",
+      "zh-CN": "澳门",
+      "zh-TW": "澳門",
+      "ja": "マカオ",
+      "fr": "Macao",
+      "es": "Macao",
+      "de": "Macau",
+      "ru": "Макао",
+      "ar": "ماكاو"
+    },
+    "aliases": {}
+  },
+  "descriptions": {},
+  "existence": {
+    "from": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 0,
+    "status": "active",
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true,
+    "foundation_reason": null,
+    "dissolution_reason": null
+  },
+  "observed_periods": [
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      2026
+    ],
+    "first_observed_year": 2026,
+    "last_observed_year": 2026,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "georeferenced_1_10m",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "georeferenced_1_10m"
+    }
+  ],
+  "source_ids": [
+    "src-natural-earth"
+  ],
+  "provenance": {
+    "names": [
+      "src-natural-earth"
+    ],
+    "existence": [
+      "src-natural-earth"
+    ],
+    "boundaries": [
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14773"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

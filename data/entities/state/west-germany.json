@@ -1,0 +1,167 @@
+{
+  "id": "west-germany",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q713750",
+  "names": {
+    "canonical": {
+      "vi": "Tây Đức",
+      "en": "West Germany",
+      "zh-CN": "西德",
+      "zh-TW": "西德",
+      "ja": "西ドイツ",
+      "fr": "Allemagne de l'Ouest",
+      "es": "Alemania Occidental",
+      "ar": "ألمانيا الغربية",
+      "ru": "ФРГ",
+      "de": "Bundesrepublik Deutschland bis 1990"
+    },
+    "aliases": {
+      "ja": [
+        "西独",
+        "旧西ドイツ",
+        "ボン共和国"
+      ],
+      "ru": [
+        "Западная Германия",
+        "Боннская республика",
+        "Федеративная Республика Германии"
+      ],
+      "fr": [
+        "République fédérale allemande",
+        "République fédérale d’Allemagne",
+        "Ouest-Allemand",
+        "Allemagne fédérale",
+        "Allemagne de l’Ouest"
+      ],
+      "de": [
+        "Bundesrepublik Deutschland (1949-1990)",
+        "West-Deutschland",
+        "alte Bundesrepublik",
+        "alte Bundesrepublik Deutschland",
+        "BR Dtld.",
+        "Bundesrepublik Deutschland von 1949 bis 1990",
+        "Bonner Republik"
+      ],
+      "zh-CN": [
+        "联邦德国",
+        "德意志联邦共和国"
+      ],
+      "ar": [
+        "ألمانيا الغربيه",
+        "جمهورية المانيا الاتحادية",
+        "ألمانية الغربية",
+        "المانيا الغربيه",
+        "جمهورية ألمانيا الإتحادية",
+        "المانيا الغربية"
+      ],
+      "en": [
+        "West-Deutschland",
+        "BR Dtld.",
+        "Federal Republic of Germany (1949–1990)",
+        "Bonn Republic",
+        "Second German Republic",
+        "Federal Germany"
+      ],
+      "es": [
+        "Alemania Federal",
+        "República Federal de Alemania",
+        "Alemania del Oeste"
+      ],
+      "vi": [
+        "Cộng hoà Liên bang Đức"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Westdeutschland einschließlich West-Berlin 1949–1990",
+    "en": "Federal Republic of Germany in the period between its formation on 23 May 1949 and German reunification on 3 October 1990",
+    "ru": "ФРГ до объединения Германии",
+    "fr": "République fédérale d'Allemagne, de 1949 à 1990, avant sa réunification",
+    "ar": "دولة أوروبية سابقة",
+    "zh-CN": "存在於1949年至1990年的歐洲國家",
+    "es": "República Federal de Alemania desde su fundación, el 23 de mayo de 1949, hasta la reunificación alemana el 3 de octubre de 1990",
+    "vi": "Cộng hoà Liên bang Đức trong giai đoạn 23 tháng 5 năm 1949 đến 3 tháng 10 năm 1990",
+    "ja": "1949年5月23日から1990年10月2日までのドイツ連邦共和国の通称"
+  },
+  "existence": {
+    "from": {
+      "year": 1960,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "23/05/1960 SCN",
+      "month": 5,
+      "day": 23
+    },
+    "to": {
+      "year": 1960,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "03/10/1960 SCN",
+      "month": 10,
+      "day": 3
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1960
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1960
+    ],
+    "first_observed_year": 1960,
+    "last_observed_year": 1960,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/West%20Germany",
+    "wikidata": "https://www.wikidata.org/wiki/Q713750"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

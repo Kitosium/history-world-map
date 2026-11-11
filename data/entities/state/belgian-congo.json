@@ -1,0 +1,131 @@
+{
+  "id": "belgian-congo",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q213510",
+  "names": {
+    "canonical": {
+      "vi": "Congo thuộc Bỉ",
+      "en": "Belgian Congo",
+      "zh-CN": "比属刚果",
+      "zh-TW": "比屬剛果",
+      "ja": "ベルギー領コンゴ",
+      "fr": "Congo belge",
+      "es": "Congo Belga",
+      "ar": "الكونغو البلجيكية",
+      "ru": "Бельгийское Конго",
+      "de": "Belgisch-Kongo"
+    },
+    "aliases": {
+      "zh-CN": [
+        "比属刚果"
+      ],
+      "ja": [
+        "白領コンゴー",
+        "ベルギーコンゴ"
+      ],
+      "en": [
+        "Congo Belge",
+        "Belgisch-Congo"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Belgian colony in Central Africa (1908–1960), established after international pressure forced Belgium to annex the Congo Free State following King Leopold II's brutal personal rule; now the Democratic Republic of the Congo",
+    "fr": "ancienne colonie belge devenue la république démocratique du Congo",
+    "es": "colonia belga de África (1908-1960)",
+    "zh-CN": "历史殖民地",
+    "ru": "колония Бельгии",
+    "ja": "かつてアフリカ中央部に存在したベルギーの植民地",
+    "vi": "thuộc địa Bỉ ở Trung Phi (1908–1960)",
+    "de": "frührere belgische Kolonie in Afrika"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 24,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1938
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1938,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Belgian%20Congo",
+    "wikidata": "https://www.wikidata.org/wiki/Q213510"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

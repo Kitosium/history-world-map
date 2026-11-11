@@ -1,0 +1,87 @@
+{
+  "id": "gáuigú-kiowa",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": null,
+  "names": {
+    "canonical": {
+      "vi": "[Gáuigú (Kiowa)",
+      "en": "[Gáuigú (Kiowa)"
+    },
+    "aliases": {}
+  },
+  "descriptions": {},
+  "existence": {
+    "from": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "to": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1492
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1492
+    ],
+    "first_observed_year": 1492,
+    "last_observed_year": 1492,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps"
+  ],
+  "provenance": {
+    "names": [
+      "src-basemaps"
+    ],
+    "existence": [
+      "src-basemaps"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/%5BG%C3%A1uig%C3%BA%20%28Kiowa%29"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "french-somaliland",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q333126",
+  "names": {
+    "canonical": {
+      "vi": "Somaliland thuộc Pháp",
+      "en": "French Somaliland",
+      "zh-CN": "法属索马里兰",
+      "zh-TW": "法屬索馬利亞蘭",
+      "ja": "フランス領ソマリ (1896年 - 1967年)",
+      "fr": "Côte française des Somalis",
+      "es": "Somalia francesa",
+      "ar": "أرض الصومال الفرنسي",
+      "ru": "Французский Сомалиленд",
+      "de": "Französische Somaliküste"
+    },
+    "aliases": {
+      "fr": [
+        "Somalie française",
+        "Cote francaise des Somalis"
+      ],
+      "ru": [
+        "Французское Сомали"
+      ],
+      "es": [
+        "Somalilandia francesa"
+      ],
+      "en": [
+        "Côte française des Somalis",
+        "Dhulka Faransiiska ee Soomaaliya",
+        "ʾArḍ Aṣ-Ṣūmāl Al-Fransī"
+      ],
+      "ja": [
+        "フランス領ソマリランド"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "former French colony in the Horn of Africa",
+    "de": "ehemalige französische Kolonie",
+    "ja": "かつてアフリカに存在したフランスの植民地",
+    "vi": "thuộc địa của Pháp tại Sừng châu Phi (1883–1967)",
+    "fr": "colonie française (1884-1967)"
+  },
+  "existence": {
+    "from": {
+      "year": 1920,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1920 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 18,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1920,
+    "last_observed_year": 1938,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/French%20Somaliland",
+    "wikidata": "https://www.wikidata.org/wiki/Q333126"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

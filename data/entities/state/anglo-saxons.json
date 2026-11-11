@@ -1,0 +1,158 @@
+{
+  "id": "anglo-saxons",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q32768",
+  "names": {
+    "canonical": {
+      "vi": "người Anh-Sắc",
+      "en": "Anglo-Saxons",
+      "zh-CN": "盎格鲁-撒克逊人",
+      "zh-TW": "盎格魯-薩克森人",
+      "ja": "アングロ・サクソン人",
+      "fr": "Anglo-Saxons",
+      "es": "anglosajones",
+      "ar": "أنجلوسكسونيون",
+      "ru": "англосаксы",
+      "de": "Angelsachsen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "盎格鲁撒克逊人"
+      ],
+      "es": [
+        "Anglosajón",
+        "Anglo-sajón",
+        "Anglosajon",
+        "Pueblos anglosajones",
+        "Anglo sajón",
+        "Anglo sajon",
+        "Anglo-sajon",
+        "Anglosajona"
+      ],
+      "ar": [
+        "الأنكلوساكسونية",
+        "انجلوسكسونيون",
+        "وحدات إنكليزية",
+        "الانكلوسكسون",
+        "الأنجلوسكسونيون",
+        "انغلوساكسوني",
+        "الأنجلوسكسونية",
+        "انقلوساكسونية",
+        "أنجلوسكسونية"
+      ],
+      "ru": [
+        "Англо-саксы",
+        "Англосакс"
+      ],
+      "de": [
+        "Angelsachse"
+      ],
+      "ja": [
+        "アングロ・サクソン族",
+        "アングロ＝サクソン人",
+        "アングロ・サクソン",
+        "アングロ・サクソン民族",
+        "アングロサクソン系",
+        "アングロサクソン人",
+        "アングロサクソン"
+      ],
+      "vi": [
+        "Anglo-Saxons",
+        "người Anglo-Saxon"
+      ],
+      "en": [
+        "Anglo Saxons",
+        "Anglo-Saxon people",
+        "Anglo Saxon people"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "término que designa a los pueblos germánicos que invadieron el sur y el este de la Gran Bretaña",
+    "de": "germanisches Sammelvolk",
+    "en": "confederation of Germanic tribes who started to inhabit parts of Great Britain from the 5th century onwards",
+    "fr": "peuple germanique habitant la Grande-Bretagne à partir du Ve siècle",
+    "vi": "Sắc tộc sinh sống tại Đảo Anh",
+    "ru": "древнегерманские племена англов и саксов, к которым примкнули юты и фризы",
+    "zh-CN": "西日耳曼人，起源于丹麦和德国的交界处，是英格兰人的文化认同祖先",
+    "ja": "英国の基礎を築いたゲルマン系部族",
+    "zh-TW": "西日耳曼人，起源於丹麦和德國的交界處，是英格蘭人的文化認同祖先"
+  },
+  "existence": {
+    "from": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "to": {
+      "year": 500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      500
+    ],
+    "first_observed_year": 500,
+    "last_observed_year": 500,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anglo-Saxons",
+    "wikidata": "https://www.wikidata.org/wiki/Q32768"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

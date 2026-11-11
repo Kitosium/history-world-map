@@ -1,0 +1,128 @@
+{
+  "$schema": "../schemas/taxonomy.schema.json",
+  "id": "historical-periods",
+  "schema_version": "1.3.0",
+  "title": {
+    "vi": "Phân kỳ Lịch sử Thế giới",
+    "en": "World Historical Periods"
+  },
+  "periods": [
+    {
+      "id": "prehistory",
+      "name": {
+        "vi": "Thời kỳ Tiền sử",
+        "en": "Prehistory"
+      },
+      "range_label": {
+        "vi": "~3,3 tr. TCN – 3000 TCN",
+        "en": "~3.3M BCE – 3000 BCE"
+      },
+      "from_year": -3300000,
+      "to_year": -3000
+    },
+    {
+      "id": "ancient_history",
+      "name": {
+        "vi": "Thời kỳ Cổ đại",
+        "en": "Ancient History"
+      },
+      "range_label": {
+        "vi": "3000 TCN – 476",
+        "en": "3000 BCE – 476 CE"
+      },
+      "from_year": -3000,
+      "to_year": 476
+    },
+    {
+      "id": "middle_ages",
+      "name": {
+        "vi": "Thời kỳ Trung đại",
+        "en": "Middle Ages"
+      },
+      "range_label": {
+        "vi": "476 – 1492",
+        "en": "476 – 1492"
+      },
+      "from_year": 476,
+      "to_year": 1492
+    },
+    {
+      "id": "early_modern",
+      "name": {
+        "vi": "Thời kỳ Cận đại",
+        "en": "Early Modern Period"
+      },
+      "range_label": {
+        "vi": "1492 – 1914",
+        "en": "1492 – 1914"
+      },
+      "from_year": 1492,
+      "to_year": 1914
+    },
+    {
+      "id": "world_war_1",
+      "name": {
+        "vi": "Chiến tranh Thế giới thứ nhất",
+        "en": "World War I"
+      },
+      "range_label": {
+        "vi": "1914 – 1918",
+        "en": "1914 – 1918"
+      },
+      "from_year": 1914,
+      "to_year": 1918
+    },
+    {
+      "id": "interwar",
+      "name": {
+        "vi": "Giai đoạn Giữa hai cuộc thế chiến",
+        "en": "Interwar Period"
+      },
+      "range_label": {
+        "vi": "1918 – 1939",
+        "en": "1918 – 1939"
+      },
+      "from_year": 1918,
+      "to_year": 1939
+    },
+    {
+      "id": "world_war_2",
+      "name": {
+        "vi": "Chiến tranh Thế giới thứ hai",
+        "en": "World War II"
+      },
+      "range_label": {
+        "vi": "1939 – 1945",
+        "en": "1939 – 1945"
+      },
+      "from_year": 1939,
+      "to_year": 1945
+    },
+    {
+      "id": "cold_war",
+      "name": {
+        "vi": "Thời kỳ Chiến tranh Lạnh",
+        "en": "Cold War Era"
+      },
+      "range_label": {
+        "vi": "1947 – 1991",
+        "en": "1947 – 1991"
+      },
+      "from_year": 1947,
+      "to_year": 1991
+    },
+    {
+      "id": "modern",
+      "name": {
+        "vi": "Thời kỳ Hiện đại",
+        "en": "Contemporary Period"
+      },
+      "range_label": {
+        "vi": "1991 – nay",
+        "en": "1991 – present"
+      },
+      "from_year": 1991,
+      "to_year": 2026
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "karluks",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q815677",
+  "names": {
+    "canonical": {
+      "vi": "Người Turk Karluk",
+      "en": "Karluks",
+      "zh-CN": "葛逻禄",
+      "zh-TW": "葛逻禄",
+      "ja": "カルルク",
+      "fr": "Karlouks",
+      "es": "carlucos",
+      "ar": "قارلوق",
+      "ru": "Карлуки",
+      "de": "Karluken"
+    },
+    "aliases": {
+      "zh-CN": [
+        "葛罗禄",
+        "哈刺鲁",
+        "葛邏祿"
+      ],
+      "fr": [
+        "Karlouk"
+      ],
+      "de": [
+        "Karluk",
+        "Argul"
+      ],
+      "ja": [
+        "葛邏禄",
+        "歌邏禄",
+        "歌羅禄",
+        "カルルク・テュルク"
+      ],
+      "ar": [
+        "القارلوق"
+      ],
+      "es": [
+        "karluk",
+        "qarluq"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ethnic group",
+    "ru": "древнее тюркское племя на территории Средней Азии в VIII—XV веках",
+    "es": "grupo étnico",
+    "de": "historische Föderation nomadischer türkischer Stämme in Mittelasien",
+    "zh-CN": "古代民族",
+    "fr": "tribu nomade de Turquie",
+    "ja": "7世紀から12世紀にわたってジュンガル盆地やイリ地方に存在したテュルク系遊牧民",
+    "vi": "Người Turk Karluk (Karluks) là một state lịch sử tồn tại từ 700 SCN đến 900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    700,
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      700,
+      900
+    ],
+    "first_observed_year": 700,
+    "last_observed_year": 900,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Karluks",
+    "wikidata": "https://www.wikidata.org/wiki/Q815677"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

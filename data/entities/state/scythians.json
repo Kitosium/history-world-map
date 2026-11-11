@@ -1,0 +1,221 @@
+{
+  "id": "scythians",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q131802",
+  "names": {
+    "canonical": {
+      "vi": "người Scythia",
+      "en": "Scythians",
+      "zh-CN": "斯基泰人",
+      "zh-TW": "斯基泰人",
+      "ja": "スキタイ",
+      "fr": "Scythes",
+      "es": "pueblos escitas",
+      "ar": "إصقوث",
+      "ru": "скифы",
+      "de": "Skythen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "塞人",
+        "塞西亞人",
+        "西徐安人",
+        "塞西亞",
+        "撒卡依人",
+        "西徐安",
+        "西古提人",
+        "斯庫提亞",
+        "西徐亚人",
+        "塞种人",
+        "斯奇提亚",
+        "赛西亚人",
+        "西徐亞",
+        "赛西亚",
+        "萨吉人",
+        "斯基泰"
+      ],
+      "es": [
+        "escita",
+        "shaka",
+        "escitios",
+        "saca",
+        "tribu shaka",
+        "saka",
+        "sakas",
+        "escitas"
+      ],
+      "ar": [
+        "السكيثيين",
+        "سكيثيين",
+        "إسكيثيون",
+        "سكوثيون"
+      ],
+      "ru": [
+        "скифское государство",
+        "скиф",
+        "скифская культура",
+        "скифское царство",
+        "сколоты"
+      ],
+      "fr": [
+        "Identité des Scythes",
+        "Peuples scythiques",
+        "Scythique"
+      ],
+      "de": [
+        "Scythen",
+        "Skyten",
+        "Skoloten",
+        "Skythisch",
+        "Skythe"
+      ],
+      "ja": [
+        "スキュタイ",
+        "スキティア",
+        "スキタイ人",
+        "スキュティア",
+        "スキュタイ人"
+      ],
+      "vi": [
+        "người Scythes"
+      ],
+      "en": [
+        "Scythian",
+        "Scythian people",
+        "Scyth",
+        "Saka",
+        "Sakae",
+        "Sai",
+        "Iskuzai",
+        "Askuzai",
+        "Scythæ",
+        "Sacans",
+        "Skolots"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ancient Iranian nomadic people",
+    "ru": "древний ираноязычный народ",
+    "de": "indogermanische Ethnie, Reiternomaden",
+    "ar": "شعبٌ إيراني قديم من الرُّحَّل",
+    "zh-CN": "历史上的民族",
+    "ja": "ユーラシア、中央アジアで活動した遊牧騎馬民族および国家",
+    "fr": "peuples indo-européens en partie nomades, parlant des langues iraniennes",
+    "es": "antiguos pueblos nómadas iranios",
+    "vi": "người Scythia (Scythians) là một state lịch sử tồn tại từ 400 TCN đến 100 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": -400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 TCN"
+    },
+    "to": {
+      "year": 100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 SCN"
+    },
+    "duration_years": 500,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -400,
+    -200,
+    -100,
+    100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -400,
+      -200,
+      -100,
+      100
+    ],
+    "first_observed_year": -400,
+    "last_observed_year": 100,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Scythians",
+    "wikidata": "https://www.wikidata.org/wiki/Q131802"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

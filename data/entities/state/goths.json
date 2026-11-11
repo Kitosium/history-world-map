@@ -1,0 +1,144 @@
+{
+  "id": "goths",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q42193",
+  "names": {
+    "canonical": {
+      "vi": "Goth",
+      "en": "Goths",
+      "zh-CN": "哥特人",
+      "zh-TW": "歌德人",
+      "ja": "ゴート族",
+      "fr": "Goths",
+      "es": "pueblo godo",
+      "ar": "قوط",
+      "ru": "готы",
+      "de": "Goten"
+    },
+    "aliases": {
+      "zh-CN": [
+        "哥德人",
+        "約特人"
+      ],
+      "es": [
+        "Godo",
+        "Pueblos godos",
+        "Godos"
+      ],
+      "ar": [
+        "قوطيون",
+        "القوط",
+        "القوطيين",
+        "القوطيون"
+      ],
+      "fr": [
+        "Goth"
+      ],
+      "de": [
+        "Gotonen",
+        "Visigoten",
+        "Westgote",
+        "Gothe"
+      ],
+      "ja": [
+        "ゴート人"
+      ],
+      "vi": [
+        "Goths",
+        "Người Goth"
+      ],
+      "zh-TW": [
+        "歌特人"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "ostgermanisches Volk",
+    "es": "pueblo germánico",
+    "fr": "peuple germanique, du Ier au IXe siècle",
+    "en": "East Germanic ethnolinguistic group",
+    "ru": "древнегерманский племенной союз",
+    "ar": "قبائل جرمانية شرقية",
+    "vi": "bộ tộc German sơ khai",
+    "ja": "東ゲルマン語系の民族集団",
+    "zh-CN": "东日耳曼人，起源于瑞典，意大利和西班牙众多祖先之一",
+    "zh-TW": "東日耳曼人，起源於瑞典，義大利和西班牙众眾祖先之一"
+  },
+  "existence": {
+    "from": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "to": {
+      "year": 700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      700
+    ],
+    "first_observed_year": 700,
+    "last_observed_year": 700,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Goths",
+    "wikidata": "https://www.wikidata.org/wiki/Q42193"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

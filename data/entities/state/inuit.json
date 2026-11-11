@@ -1,0 +1,148 @@
+{
+  "id": "inuit",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q189975",
+  "names": {
+    "canonical": {
+      "vi": "Inuit",
+      "en": "Inuit",
+      "zh-CN": "因纽特人",
+      "zh-TW": "因紐特人",
+      "ja": "イヌイット",
+      "fr": "Inuit",
+      "es": "inuit",
+      "ar": "إنويت",
+      "ru": "инуиты",
+      "de": "Inuit"
+    },
+    "aliases": {
+      "zh-CN": [
+        "因努伊特人",
+        "伊努特人",
+        "因纽特",
+        "伊努伊特"
+      ],
+      "fr": [
+        "Inuits",
+        "Inuuk",
+        "Inuk"
+      ],
+      "de": [
+        "Inuk"
+      ],
+      "ja": [
+        "イヌイット族"
+      ],
+      "ar": [
+        "الإنويت",
+        "اسكيمو",
+        "الأسكيمو",
+        "انويت",
+        "إسكيمو",
+        "إنوي",
+        "أينويت",
+        "أسكيمو"
+      ],
+      "en": [
+        "Inuk"
+      ],
+      "ru": [
+        "инуит",
+        "эскимосы",
+        "эскимос"
+      ],
+      "es": [
+        "inuk",
+        "Inuits"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "group of Indigenous peoples of the Circumpolar Arctic",
+    "fr": "groupe ethnique présent dans l'Arctique, l'Amérique du Nord et la Sibérie",
+    "de": "indigene Volksgruppen, die im arktischen Zentral- und Nordostkanada sowie auf Grönland leben",
+    "ru": "эскимосы Северной Америки",
+    "es": "etnia de las regiones árticas de América del Norte",
+    "ar": "شعب في شمال الكرة الأرضية",
+    "zh-CN": "人种",
+    "ja": "北極圏に伝統的に居住する先住民族",
+    "vi": "Inuit (Inuit) là một state lịch sử tồn tại từ 1492 SCN đến 1492 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "to": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1492
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1492
+    ],
+    "first_observed_year": 1492,
+    "last_observed_year": 1492,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Inuit",
+    "wikidata": "https://www.wikidata.org/wiki/Q189975"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

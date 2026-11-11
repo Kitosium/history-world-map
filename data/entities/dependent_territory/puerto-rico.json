@@ -1,0 +1,266 @@
+{
+  "id": "puerto-rico",
+  "schema_version": "1.3.0",
+  "type": "dependent_territory",
+  "wikidata_id": "Q1183",
+  "names": {
+    "canonical": {
+      "vi": "Puerto Rico",
+      "en": "Puerto Rico",
+      "zh-CN": "波多黎各",
+      "zh-TW": "波多黎各",
+      "ja": "プエルトリコ",
+      "fr": "Porto Rico",
+      "es": "Puerto Rico",
+      "ar": "بورتوريكو",
+      "ru": "Пуэрто-Рико",
+      "de": "Puerto Rico"
+    },
+    "aliases": {
+      "fr": [
+        "État libre associé de Porto Rico",
+        "Puerto Rico"
+      ],
+      "en": [
+        "Free Associated State of Puerto Rico",
+        "Porto Rico",
+        "Territory of Puerto Rico",
+        "Commonwealth of Puerto Rico",
+        "Island of Enchantment",
+        "Borikén",
+        "Borinquen",
+        "Boriquén",
+        "Isle of Enchantment",
+        "Territory of Porto Rico"
+      ],
+      "es": [
+        "Estado Libre Asociado de Puerto Rico",
+        "Territorio Estadounidense de Puerto Rico",
+        "Mancomunidad de Puerto Rico",
+        "Isla del Encanto",
+        "Territorio de Puerto Rico"
+      ],
+      "ru": [
+        "Свободно ассоциированное государство Пуэрто-Рико",
+        "Свободно присоединившееся государство Пуэрто-Рико",
+        "Содружество Пуэрто-Рико"
+      ],
+      "ja": [
+        "プエルトリコ自治連邦区"
+      ],
+      "ar": [
+        "دولة بورتوريكو الحرة المرتبطة"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "unincorporated territory of the United States of America",
+    "ru": "зависимая территория США",
+    "fr": "territoire non incorporé des États-Unis d'Amérique",
+    "es": "territorio no incorporado de los Estados Unidos en el Caribe",
+    "de": "Außengebiet der Vereinigten Staaten",
+    "zh-CN": "美國在加勒比海的一個自治邦",
+    "ja": "カリブ海にあるアメリカ合衆国の自治連邦区",
+    "ar": "مقاطعة تابعة إداريا إلى الولايات المتحدة الأمريكية",
+    "zh-TW": "美國在加勒比海的一個自治邦",
+    "vi": "lãnh thổ của Hoa Kỳ tại vùng Caribe"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 112,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 2026,
+    "feature_count": 10,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Puerto%20Rico",
+    "wikidata": "https://www.wikidata.org/wiki/Q1183"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

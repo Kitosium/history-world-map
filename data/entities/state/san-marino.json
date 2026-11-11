@@ -1,0 +1,161 @@
+{
+  "id": "san-marino",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q238",
+  "names": {
+    "canonical": {
+      "vi": "San Marino",
+      "en": "San Marino",
+      "zh-CN": "圣马力诺",
+      "zh-TW": "聖馬利諾",
+      "ja": "サンマリノ",
+      "fr": "Saint-Marin",
+      "es": "San Marino",
+      "ar": "سان مارينو",
+      "ru": "Сан-Марино",
+      "de": "San Marino"
+    },
+    "aliases": {
+      "fr": [
+        "République de Saint-Marin",
+        "la République de Saint-Marin",
+        "Sérénissime république de Saint-Marin"
+      ],
+      "ru": [
+        "San Marino",
+        "Республика Сан-Марино",
+        "Светлейшая Республика Сан-Марино"
+      ],
+      "es": [
+        "Serenísima República de San Marino",
+        "República de San Marino"
+      ],
+      "en": [
+        "sm",
+        "Most Serene Republic of San Marino"
+      ],
+      "zh-CN": [
+        "聖馬利諾",
+        "圣马里诺"
+      ],
+      "ja": [
+        "サンマリノ共和国"
+      ],
+      "de": [
+        "Republik San Marino",
+        "sm"
+      ],
+      "ar": [
+        "جمهورية سان مارينو",
+        "جمهورية سان مارينو الأكثر صفاء"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in southern Europe, enclaved within Italy",
+    "fr": "État européen enclavé dans l'Italie fondé en 301 ap. JC",
+    "de": "Staat in Südeuropa",
+    "es": "país de Europa del Sur",
+    "ru": "карликовое государство в Южной Европе",
+    "ar": "دولة في جنوب أوروبا",
+    "zh-CN": "國家",
+    "ja": "南ヨーロッパの国",
+    "zh-TW": "國家",
+    "vi": "một quốc gia ở châu Âu có lãnh thổ Ý bao quanh"
+  },
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815,
+      2026
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 2026,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/San%20Marino",
+    "wikidata": "https://www.wikidata.org/wiki/Q238"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

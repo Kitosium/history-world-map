@@ -1,0 +1,224 @@
+{
+  "id": "empire-of-japan",
+  "schema_version": "1.3.0",
+  "type": "empire",
+  "wikidata_id": "Q188712",
+  "names": {
+    "canonical": {
+      "vi": "Đế quốc Nhật Bản",
+      "en": "Empire of Japan",
+      "zh-CN": "大日本帝国",
+      "zh-TW": "大日本帝國",
+      "ja": "大日本帝国",
+      "fr": "empire du Japon",
+      "es": "Imperio del Japón",
+      "ar": "إمبراطورية اليابان",
+      "ru": "Японская империя",
+      "de": "Japanisches Kaiserreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "大日本帝国",
+        "日本帝國",
+        "日本帝国",
+        "帝國日本",
+        "日本",
+        "日"
+      ],
+      "fr": [
+        "Japon impérial",
+        "Empire colonial japonais",
+        "Japon impérialiste",
+        "Empire japonais",
+        "Impérialisme japonais",
+        "Empire nippon"
+      ],
+      "es": [
+        "Imperio nipon",
+        "Imperio de Japon",
+        "Imperio japonés",
+        "Imperio del Japon",
+        "Imperio nipón",
+        "Imperio de Japón",
+        "Imperio Japones",
+        "Imperio del Sol Naciente"
+      ],
+      "de": [
+        "Japanischer Imperialismus",
+        "Kaiserreich von Groß-Japan",
+        "Kaiserreich Großjapan",
+        "Kaiserreich Japan",
+        "Imperialistisches Japan",
+        "Japanisches Reich",
+        "Kaiserreich Groß-Japan",
+        "Kaiserliches Japan",
+        "Großjapanisches Reich"
+      ],
+      "ja": [
+        "大日本帝国政府",
+        "大日本帝國",
+        "大日本帝国憲法下の日本",
+        "日本帝国",
+        "日本帝國",
+        "帝国憲法下の日本",
+        "日本帝国政府",
+        "だいにっぽんていこく",
+        "だいにほんていこく"
+      ],
+      "vi": [
+        "Đế chế Nhật Bản",
+        "Nhật Bản đế quốc",
+        "Đế quốc Nhật",
+        "Phát xít Nhật",
+        "Đại Nhật Bản Đế Quốc",
+        "Đế quốc Đại Nhật Bản"
+      ],
+      "ar": [
+        "القيصرية اليابانية",
+        "امبراطورية اليابان",
+        "الإمبراطورية اليابانية",
+        "إمبراطوريه اليابان"
+      ],
+      "ru": [
+        "Imperial Japan",
+        "Японcкая империя",
+        "Японская колониальная империя",
+        "Великая Японская империя"
+      ],
+      "en": [
+        "Japanese Empire",
+        "Imperial Japan",
+        "Great Empire of Japan",
+        "Great Japanese Empire",
+        "Japan"
+      ],
+      "zh-TW": [
+        "日本帝國"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "empire in the Asia-Pacific region from 1868 to 1947",
+    "de": "historischer Staat",
+    "fr": "État de la région Asie-Pacifique, de 1868 à 1947",
+    "ru": "империя в Восточной Азии (1868—1947)",
+    "ja": "大日本帝国憲法下における日本の国号",
+    "es": "período histórico de Japón que inició en 1868 y finalizó en 1947",
+    "zh-CN": "自1868年到1947年間日本政权",
+    "zh-TW": "1868年-1947年的君主制國家",
+    "vi": "nhà nước Nhật Bản tồn tại từ năm 1868 đến năm 1947",
+    "ar": "إمبراطورية في آسيا المحيط الهادئ بين 1868-1947"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 24,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1938,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Empire%20of%20Japan",
+    "wikidata": "https://www.wikidata.org/wiki/Q188712"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

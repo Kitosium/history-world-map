@@ -1,0 +1,162 @@
+{
+  "id": "bidar",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q461922",
+  "names": {
+    "canonical": {
+      "vi": "Bidar",
+      "en": "Bidar",
+      "zh-CN": "比德尔",
+      "zh-TW": "比德尔",
+      "ja": "ビーダル",
+      "fr": "Bîdâr",
+      "es": "Bidar",
+      "ar": "بيدر",
+      "ru": "Бидар",
+      "de": "Bidar"
+    },
+    "aliases": {
+      "en": [
+        "City of Whispering Monuments"
+      ],
+      "ar": [
+        "بَيْدَر"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "city in Karnataka, India",
+    "fr": "ville de l'Inde",
+    "es": "ciudad de la India",
+    "ar": "من مدن ولاية كرناتك الهندية",
+    "de": "Siedlung in Indien",
+    "ja": "インドの都市",
+    "ru": "Город в Индии",
+    "vi": "Bidar (Bidar) là một state lịch sử tồn tại từ 1492 SCN đến 1650 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "to": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "duration_years": 158,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1492,
+    1500,
+    1530,
+    1600,
+    1650
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1492,
+      1500,
+      1530,
+      1600,
+      1650
+    ],
+    "first_observed_year": 1492,
+    "last_observed_year": 1650,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bidar",
+    "wikidata": "https://www.wikidata.org/wiki/Q461922"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

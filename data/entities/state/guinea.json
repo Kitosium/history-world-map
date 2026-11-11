@@ -1,0 +1,221 @@
+{
+  "id": "guinea",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1006",
+  "names": {
+    "canonical": {
+      "vi": "Guinée",
+      "en": "Guinea",
+      "zh-CN": "几内亚",
+      "zh-TW": "幾內亞",
+      "ja": "ギニア",
+      "fr": "Guinée",
+      "es": "Guinea",
+      "ar": "غينيا",
+      "ru": "Гвинея",
+      "de": "Guinea"
+    },
+    "aliases": {
+      "en": [
+        "Guinea-Conakry",
+        "Republic of Guinea",
+        "gn",
+        "GUI"
+      ],
+      "es": [
+        "República de Guinea",
+        "Guinea-Conakri",
+        "Guinea Francesa"
+      ],
+      "ru": [
+        "Гвинейская Республика",
+        "Республика Гвинея",
+        "Гвинея-Конакри"
+      ],
+      "fr": [
+        "Guinée-Conakry",
+        "République de Guinée"
+      ],
+      "zh-CN": [
+        "幾內亞",
+        "畿內亞",
+        "几内亚共和国"
+      ],
+      "ja": [
+        "ギニア共和国",
+        "ギネ",
+        "ギニー",
+        "幾内亜",
+        "銀名",
+        "ギニア・コナクリ"
+      ],
+      "vi": [
+        "Guinea",
+        "Cộng hòa Guinée",
+        "Cộng hoà Guinée"
+      ],
+      "ar": [
+        "جمهورية غينيا"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in West Africa",
+    "de": "Staat in Westafrika",
+    "fr": "pays d'Afrique de l'Ouest indépendant depuis 1958",
+    "es": "país de África Occidental",
+    "ru": "страна в Западной Африке",
+    "ar": "دولة في غرب أفريقيا",
+    "zh-CN": "西非國家",
+    "ja": "アフリカ西部の国",
+    "zh-TW": "西非國家",
+    "vi": "quốc gia ở Tây Phi"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guinea",
+    "wikidata": "https://www.wikidata.org/wiki/Q1006"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "bengal",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q80338",
+  "names": {
+    "canonical": {
+      "vi": "Bengal",
+      "en": "Bengal",
+      "zh-CN": "孟加拉",
+      "zh-TW": "孟加拉地區",
+      "ja": "ベンガル地方",
+      "fr": "Bengale",
+      "es": "Bengala",
+      "ar": "بنغال",
+      "ru": "Бенгалия",
+      "de": "Bengalen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "孟加拉地区"
+      ],
+      "es": [
+        "Bengal",
+        "Gaudadesa",
+        "Gauḍadeśa"
+      ],
+      "ja": [
+        "ベンゴール地方",
+        "ベンガル州",
+        "榜葛剌"
+      ],
+      "en": [
+        "Bangal"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical and geographical region in the east region of the Indian subcontinent",
+    "de": "Region auf dem östlichen indischen Subkontinent",
+    "fr": "région du sous-continent indien oriental",
+    "ru": "исторический регион в северо-восточной части Южной Азии",
+    "es": "región situada en el noreste del subcontinente indio",
+    "ar": "منطقة تاريخية في الراج البريطاني تقع حاليا شرق الهند ودولة بنغلاديش",
+    "ja": "南アジア北東部の地域",
+    "zh-CN": "南亚地区",
+    "vi": "khu vực ở phía đông tiểu lục địa Ấn Độ"
+  },
+  "existence": {
+    "from": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "to": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "duration_years": 291,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1492,
+    1500,
+    1530,
+    1600,
+    1783
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1492,
+      1500,
+      1530,
+      1600,
+      1783
+    ],
+    "first_observed_year": 1492,
+    "last_observed_year": 1783,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bengal",
+    "wikidata": "https://www.wikidata.org/wiki/Q80338"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

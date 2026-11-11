@@ -1,0 +1,281 @@
+{
+  "id": "brazil",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q155",
+  "names": {
+    "canonical": {
+      "vi": "Brasil",
+      "en": "Brazil",
+      "zh-CN": "巴西",
+      "zh-TW": "巴西",
+      "ja": "ブラジル",
+      "fr": "Brésil",
+      "es": "Brasil",
+      "ar": "البرازيل",
+      "ru": "Бразилия",
+      "de": "Brasilien"
+    },
+    "aliases": {
+      "ar": [
+        "برازيلي",
+        "برازيل",
+        "برازيلية",
+        "البرازيلي",
+        "شرق أمريكا الجنوبية",
+        "جمهورية البرازيل الإتحادية",
+        "جمهورية البرازيل الاتحادية",
+        "البرازیل",
+        "برازیل",
+        "الجمهورية البرازيلية"
+      ],
+      "de": [
+        "Föderative Republik Brasilien"
+      ],
+      "es": [
+        "República Federativa de Brasil",
+        "República Federativa del Brasil"
+      ],
+      "ja": [
+        "ブラジル連邦共和国",
+        "伯国",
+        "伯剌西爾"
+      ],
+      "ru": [
+        "Estados Unidos del Brazil",
+        "Федеративная Республика Бразилия"
+      ],
+      "vi": [
+        "Brazil",
+        "Ba Tây"
+      ],
+      "fr": [
+        "République fédérative du Brésil",
+        "Brésilienne",
+        "Brésilien",
+        "Brézil",
+        "Amérique lusophone",
+        "Auriverde",
+        "République des États-Unis du Brésil",
+        "Brazil",
+        "la République fédérative du Brésil",
+        "Brés.",
+        "Bré.",
+        "Bresil"
+      ],
+      "en": [
+        "Federative Republic of Brazil"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Amérique du Sud",
+    "zh-CN": "南美洲国家",
+    "ru": "страна в Южной Америке",
+    "zh-TW": "南美洲國家",
+    "es": "país de América del Sur",
+    "de": "Staat in Südamerika",
+    "ar": "دولة فدرالية في أمريكا الجنوبية وتعد اكبر دولة في القارة",
+    "en": "country in South America",
+    "vi": "quốc gia ở Nam Mỹ",
+    "ja": "南アメリカの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 112,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 2026,
+    "feature_count": 10,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+    "wikidata": "https://www.wikidata.org/wiki/Q155"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

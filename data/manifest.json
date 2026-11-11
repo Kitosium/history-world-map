@@ -1,0 +1,158 @@
+{
+  "$schema": "./schemas/manifest.schema.json",
+  "id": "history-world-map",
+  "schema_version": "1.3.0",
+  "dataset_version": "2026.11.05",
+  "generated_at": "2026-11-05",
+  "title": {
+    "vi": "Bản đồ Lịch sử Thế giới",
+    "en": "World History Atlas"
+  },
+  "description": {
+    "vi": "Tập dữ liệu không gian - thời gian về các thực thể chính trị từ 3500 TCN đến 2026, kèm nguồn tham chiếu và mức độ tin cậy.",
+    "en": "A spatio-temporal dataset of political entities from 3500 BCE to 2026 CE, with source references and confidence levels."
+  },
+  "temporal_coverage": {
+    "start_year": -3500,
+    "end_year": 2026,
+    "year_system": "astronomical",
+    "snapshot_years": [
+      -3500,
+      -3000,
+      -2000,
+      -1500,
+      -1000,
+      -700,
+      -500,
+      -400,
+      -323,
+      -300,
+      -200,
+      -100,
+      -1,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900,
+      1000,
+      1100,
+      1200,
+      1279,
+      1300,
+      1400,
+      1492,
+      1500,
+      1530,
+      1600,
+      1650,
+      1700,
+      1715,
+      1783,
+      1800,
+      1815,
+      1878,
+      1880,
+      1900,
+      1914,
+      1920,
+      1930,
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ]
+  },
+  "spatial_coverage": {
+    "extent": "global",
+    "historical_layers": "generalised vector polygons, scale varies by era",
+    "modern_layer": "Natural Earth Admin-0 countries, 1:10m"
+  },
+  "counts": {
+    "entities": 2938,
+    "entities_with_geometry": 2931,
+    "sources": 10,
+    "spatial_layers": 51,
+    "spatial_features": 9447,
+    "source_pdfs": 11,
+    "source_pdf_bytes": 79847214
+  },
+  "entity_type_counts": {
+    "civilization": 2,
+    "dependent_territory": 43,
+    "disputed_territory": 17,
+    "empire": 60,
+    "kingdom": 79,
+    "state": 2737
+  },
+  "confidence_counts": {
+    "high": 204,
+    "low": 2373,
+    "medium": 361
+  },
+  "layout": {
+    "entities": "data/entities/<type>/<id>.json (state, kingdom, empire, civilization, ...)",
+    "sources": "data/sources/{primary,secondary,maps,linked-data}/*.json",
+    "source_pdf_manifest": "data/sources/manifests/pdf.json (URL, path, bytes, sha256, pages)",
+    "spatial": "data/dist/spatial/by-year/*.geojson (full) + data/dist/spatial/web/*.geojson (browser)",
+    "catalog": "data/dist/catalog/*.json",
+    "taxonomies": "data/taxonomies/*.json",
+    "schemas": "data/schemas/*.schema.json",
+    "aliases": "data/aliases/entity-aliases.json, data/aliases/excluded-entities.json",
+    "cartographic_manifest": "data/sources/manifests/cartographic.json",
+    "docs": "docs/data-model.md, docs/scripts.md, docs/legacy-crawler.md",
+    "source_files": "data/sources/pdfs/<collection>/ (public-domain/open-access PDFs)",
+    "web": "web/app/, web/components/, web/lib/, web/public/geo/land.geojson (Next.js)"
+  },
+  "sources": [
+    "src-basemaps",
+    "src-coedes",
+    "src-dai-nam",
+    "src-dai-viet",
+    "src-dao-duy-anh",
+    "src-khao-co",
+    "src-luong-ninh",
+    "src-natural-earth",
+    "src-shiji",
+    "src-wikidata"
+  ],
+  "licenses": {
+    "code": "MIT",
+    "historical_boundaries": "GPL-3.0 (Historical Basemaps / André Ourednik)",
+    "modern_boundaries": "CC0-1.0 (Natural Earth)",
+    "linked_data": "CC0-1.0 (Wikidata)"
+  },
+  "limitations": [
+    {
+      "vi": "Ranh giới lịch sử là tái dựng từ atlas, không phải biên giới pháp lý đương thời; nhiều vùng chỉ mang tính ước lệ.",
+      "en": "Historical boundaries are atlas reconstructions, not contemporary legal borders; many areas are conventional."
+    },
+    {
+      "vi": "Các mốc thời gian là ảnh chụp rời rạc, không phải chuỗi liên tục.",
+      "en": "Timeline entries are discrete snapshots, not a continuous sequence."
+    },
+    {
+      "vi": "Độ tin cậy thấp không có nghĩa thực thể không tồn tại, mà phản ánh thiếu nguồn hoặc hình học chính xác.",
+      "en": "Low confidence does not mean an entity did not exist; it reflects missing sources or imprecise geometry."
+    }
+  ],
+  "rebuild": {
+    "entrypoint": "python3 script/build.py",
+    "steps": [
+      "migrate.py",
+      "sources.py",
+      "spatial.py",
+      "entities.py",
+      "catalog.py",
+      "optimize.py",
+      "validate.py"
+    ]
+  }
+}

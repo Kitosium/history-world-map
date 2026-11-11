@@ -1,0 +1,206 @@
+{
+  "id": "fatimid-caliphate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q160307",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Fatima",
+      "en": "Fatimid Caliphate",
+      "zh-CN": "法蒂玛王朝",
+      "zh-TW": "法提瑪王朝",
+      "ja": "ファーティマ朝",
+      "fr": "Califat fatimide",
+      "es": "Califato fatimí",
+      "ar": "الدولة الفاطمية",
+      "ru": "Фатимидский халифат",
+      "de": "Fatimidenreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "绿衣大食",
+        "法帖梅王朝"
+      ],
+      "es": [
+        "Imperio fatimí",
+        "Califato fatimi",
+        "fatimíes",
+        "fatimi",
+        "dinastia fatimi",
+        "fatimies",
+        "dinastía fatimida",
+        "dinastía fatimí",
+        "fatimí",
+        "Califato fatimida",
+        "dinastia fatimí",
+        "Imperio fatimi",
+        "dinastia fatimida",
+        "Califato de Egipto"
+      ],
+      "ar": [
+        "الفاطميين",
+        "الفاطمي",
+        "عبيديون",
+        "العهد الفاطمي",
+        "العصر الفاطمي",
+        "فاطميين",
+        "الفاطميون",
+        "الخلافة الفاطمية",
+        "العهد الفاطمى",
+        "العبيديون",
+        "الدولة العبيدية",
+        "خلافه فاطميه",
+        "خلافة فاطمية",
+        "دولة فاطمية",
+        "الفاطمية",
+        "عبيديين",
+        "العبيديين",
+        "الخليفة الفاطمي"
+      ],
+      "ru": [
+        "Фатимид",
+        "Ал-Фатимийун",
+        "Халифат Фатимидов"
+      ],
+      "fr": [
+        "Fatimide",
+        "Fâtimide",
+        "Fatimides"
+      ],
+      "de": [
+        "Al-ʿUbaydīyah",
+        "Fāṭimiden",
+        "Fatimiden"
+      ],
+      "ja": [
+        "中カリフ国",
+        "カイロ・カリフ国",
+        "カイロ・カリフ帝国",
+        "中カリフ帝国"
+      ],
+      "vi": [
+        "Triều đại Fatimid",
+        "Vương triều Fatimid"
+      ],
+      "zh-TW": [
+        "綠衣大食"
+      ],
+      "en": [
+        "Fatimid empire",
+        "Fatimid dynasty"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "islamisches Kalifat (909-1171)",
+    "ar": "دولة إسلامية سابقة، استمرت ما بين (297 – 567هـ / 909 – 1171م)",
+    "en": "Egyptian Shia Islamic caliphate (909–1171)",
+    "zh-CN": "伊斯瑪儀派什葉派伊斯蘭哈里發",
+    "zh-TW": "十至十二世紀，由什葉派建立之伊斯蘭哈里發國",
+    "fr": "Califat islamique chiite (909–1171)",
+    "ru": "государство в Северной Африке во главе с шиитами-исмаилитами из династии Фатимидов",
+    "es": "antiguo califato chiita",
+    "ja": "イスラム王朝（909-1171）",
+    "vi": "Nhà Fatima (Fatimid Caliphate) là một state lịch sử tồn tại từ 1000 SCN đến 1200 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1200,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Fatimid%20Caliphate",
+    "wikidata": "https://www.wikidata.org/wiki/Q160307"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

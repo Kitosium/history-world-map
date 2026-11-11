@@ -1,0 +1,169 @@
+{
+  "id": "england",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q21",
+  "names": {
+    "canonical": {
+      "vi": "Anh",
+      "en": "England",
+      "zh-CN": "英格兰",
+      "zh-TW": "英格蘭",
+      "ja": "イングランド",
+      "fr": "Angleterre",
+      "es": "Inglaterra",
+      "ar": "إنجلترا",
+      "ru": "Англия",
+      "de": "England"
+    },
+    "aliases": {
+      "fr": [
+        "Ang."
+      ],
+      "zh-CN": [
+        "英格蘭"
+      ],
+      "ar": [
+        "إنغلترا",
+        "إنگلترا",
+        "إنكلترا",
+        "إنقلترا"
+      ],
+      "vi": [
+        "Anh Cách Lan",
+        "Anh-cách-lan"
+      ],
+      "en": [
+        "England, United Kingdom",
+        "England, UK"
+      ],
+      "zh-TW": [
+        "英格兰"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in north-west Europe, part of the United Kingdom",
+    "de": "Land im Nordwesten Europas, Teil des Vereinigten Königreichs",
+    "fr": "pays du nord-ouest de l'Europe, faisant partie du Royaume-Uni",
+    "es": "país del noroeste de Europa, parte del Reino Unido",
+    "ru": "часть Соединённого Королевства Великобритании и Северной Ирландии",
+    "zh-CN": "西北欧的非主权国家，英国的最大构成国",
+    "zh-TW": "西北歐的非主權國家，英國的最大構成國",
+    "ja": "ヨーロッパ北西部の国、イギリス構成国",
+    "vi": "quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland nằm ở khu vực đông nam đảo Anh thuộc khu vực Tây Âu",
+    "ar": "دولة أوربية ضمن المملكة المتحدة في غرب أوروبا"
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "duration_years": 500,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1492,
+    1500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1492,
+      1500
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1500,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/England",
+    "wikidata": "https://www.wikidata.org/wiki/Q21"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

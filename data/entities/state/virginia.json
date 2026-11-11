@@ -1,0 +1,160 @@
+{
+  "id": "virginia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1370",
+  "names": {
+    "canonical": {
+      "vi": "Virginia",
+      "en": "Virginia",
+      "zh-CN": "弗吉尼亚州",
+      "zh-TW": "維吉尼亞州",
+      "ja": "バージニア州",
+      "fr": "Virginie",
+      "es": "Virginia",
+      "ar": "فرجينيا",
+      "ru": "Виргиния",
+      "de": "Virginia"
+    },
+    "aliases": {
+      "en": [
+        "Commonwealth of Virginia",
+        "State of Virginia",
+        "VA",
+        "Virginia, United States",
+        "Old Dominion",
+        "Va.",
+        "US-VA"
+      ],
+      "zh-CN": [
+        "弗吉尼亞州",
+        "維吉尼亞州",
+        "維珍尼亞聯邦"
+      ],
+      "ru": [
+        "Вирджиния"
+      ],
+      "de": [
+        "Virginien"
+      ],
+      "ja": [
+        "ヴァージニア",
+        "ヴァージニア州",
+        "バージニア",
+        "バージニヤ",
+        "バージニヤ州"
+      ],
+      "es": [
+        "Mancomunidad de Virginia",
+        "Estado de Virginia",
+        "Virginia, Estados Unidos",
+        "Antiguo Dominio",
+        "Madre de presidentes y madre de estadistas"
+      ],
+      "fr": [
+        "Commonwealth de Virginie",
+        "VA"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "state of the United States of America",
+    "fr": "État des États-Unis d'Amérique",
+    "ru": "штат на востоке США",
+    "de": "Bundesstaat der Vereinigten Staaten von Amerika",
+    "es": "estado de los Estados Unidos",
+    "zh-CN": "美国州份",
+    "zh-TW": "美國州份",
+    "vi": "tiểu bang của Hoa Kỳ",
+    "ja": "アメリカ合衆国の州",
+    "ar": "ولاية أمريكية"
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1700 SCN"
+    },
+    "duration_years": 50,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1700,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Virginia",
+    "wikidata": "https://www.wikidata.org/wiki/Q1370"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

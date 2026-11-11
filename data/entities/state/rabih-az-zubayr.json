@@ -1,0 +1,143 @@
+{
+  "id": "rabih-az-zubayr",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q932368",
+  "names": {
+    "canonical": {
+      "vi": "Rabih az-Zubayr",
+      "en": "Rabih az-Zubayr",
+      "zh-CN": "拉巴赫·祖拜爾",
+      "zh-TW": "拉巴赫·祖拜爾",
+      "ja": "ラビーフ・アッ＝ズバイル",
+      "fr": "Rabah",
+      "es": "Rabih az-Zubayr",
+      "ar": "رابح بن الزبير",
+      "ru": "Рабих аз-Зубайр",
+      "de": "Rabih az-Zubayr"
+    },
+    "aliases": {
+      "de": [
+        "Rabih az-Zubair",
+        "Rabih b. Fadlallah"
+      ],
+      "ru": [
+        "Рабех вад Фадлуллах"
+      ],
+      "en": [
+        "Rabih az-Zubayr ibn Fadl Allah",
+        "al-Zabayr Fadl Allah Rabih"
+      ],
+      "zh-CN": [
+        "拉比赫·祖拜尔",
+        "拉比赫·祖拜爾"
+      ],
+      "ar": [
+        "نابليون أفريقيا"
+      ],
+      "fr": [
+        "Rabih al-Zubeir ibn Fadl Allah",
+        "Rabih Fadlallah"
+      ],
+      "ja": [
+        "ラビ・アズ＝ズバイル"
+      ]
+    }
+  },
+  "descriptions": {
+    "ar": "سياسي سوداني",
+    "de": "Kriegsherr und Herrscher im Bereich des Tschad-See",
+    "es": "señor de la guerra y comerciante de esclavos sudanés",
+    "fr": "seigneur de guerre et marchand d’esclaves soudanais",
+    "en": "Sudanese warlord and slave trader (1842–1900)",
+    "vi": "Rabih az-Zubayr (Rabih az-Zubayr) là một state lịch sử tồn tại từ 1878 SCN đến 1880 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1878 SCN"
+    },
+    "to": {
+      "year": 1880,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1880 SCN"
+    },
+    "duration_years": 2,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 1880,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rabih%20az-Zubayr",
+    "wikidata": "https://www.wikidata.org/wiki/Q932368"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

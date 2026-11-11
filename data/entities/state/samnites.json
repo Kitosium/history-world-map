@@ -1,0 +1,144 @@
+{
+  "id": "samnites",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q500272",
+  "names": {
+    "canonical": {
+      "vi": "Samnites",
+      "en": "Samnites",
+      "zh-CN": "萨莫奈人",
+      "zh-TW": "薩莫奈人",
+      "ja": "サムニウム人",
+      "fr": "Samnites",
+      "es": "samnitas",
+      "ar": "سامنيتيون",
+      "ru": "Самниты",
+      "de": "Samniten"
+    },
+    "aliases": {
+      "ru": [
+        "Сабельцы",
+        "сабеллы"
+      ],
+      "es": [
+        "samnita",
+        "pueblo samnita"
+      ],
+      "de": [
+        "Sabeller",
+        "Sabelli",
+        "Samniter"
+      ],
+      "zh-CN": [
+        "萨谟奈人",
+        "萨姆奈特人"
+      ],
+      "zh-TW": [
+        "薩謨奈人",
+        "薩姆奈特人"
+      ],
+      "en": [
+        "Sabellians"
+      ]
+    }
+  },
+  "descriptions": {
+    "zh-CN": "古代意大利南部的部落",
+    "zh-TW": "古代意大利南部的部落",
+    "en": "Italic people living in Samnium in south-central Italy",
+    "de": "italischer Volksstamm",
+    "es": "pueblo itálico de la Antigüedad",
+    "fr": "tribus sabelliennes établies dans le Samnium",
+    "vi": "người gốc Ý sống ở Samnium ở miền trung nam nước Ý",
+    "ar": "شعب إيطالقي عاش في إقليم سامنيوم في جنوب وسط إيطاليا"
+  },
+  "existence": {
+    "from": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "to": {
+      "year": -400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "400 TCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -500,
+    -400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -500,
+      -400
+    ],
+    "first_observed_year": -500,
+    "last_observed_year": -400,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Samnites",
+    "wikidata": "https://www.wikidata.org/wiki/Q500272"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

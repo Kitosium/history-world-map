@@ -1,0 +1,19 @@
+{
+  "id": "ly",
+  "state_id": "đại-việt",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Lý (Triều Lý)",
+      "en": "Ly dynasty",
+      "zh-CN": "李朝",
+      "ja": "李朝"
+    }
+  },
+  "from_year": 1009,
+  "to_year": 1225,
+  "capital": "thang-long",
+  "source_ids": [
+    "src-dai-viet",
+    "src-dao-duy-anh"
+  ]
+}

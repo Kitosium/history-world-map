@@ -1,0 +1,152 @@
+{
+  "id": "ur",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q5699",
+  "names": {
+    "canonical": {
+      "vi": "Ur",
+      "en": "Ur",
+      "zh-CN": "乌尔",
+      "zh-TW": "乌尔",
+      "ja": "ウル",
+      "fr": "Ur",
+      "es": "Ur",
+      "ar": "أور",
+      "ru": "Ур",
+      "de": "Ur"
+    },
+    "aliases": {
+      "ja": [
+        "ᚢ"
+      ],
+      "de": [
+        "Mugajjar",
+        "Tell al-Mukaijar",
+        "Mukaijar"
+      ],
+      "en": [
+        "Tell al-Muqayyar"
+      ],
+      "ru": [
+        "Ур Халдейский"
+      ],
+      "zh-CN": [
+        "吾珥",
+        "烏爾",
+        "烏爾城"
+      ]
+    }
+  },
+  "descriptions": {
+    "ru": "Древний шумерский город в Месопотамии",
+    "de": "antike Stadt in Mesopotamien",
+    "es": "antigua ciudad del sur de Mesopotamia",
+    "en": "ancient Mesopotamian city-state",
+    "fr": "ville de la Mésopotamie antique",
+    "ar": "موقع أثري جنوب العراق",
+    "vi": "Thành phố cổ đại ở khu vực Lưỡng Hà; địa điểm khảo cổ học ở Iraq ngày nay",
+    "zh-CN": "两河流域古城",
+    "ja": "古代メソポタミア南部に存在した古代都市"
+  },
+  "existence": {
+    "from": {
+      "year": -3500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "3500 TCN"
+    },
+    "to": {
+      "year": -2000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2000 TCN"
+    },
+    "duration_years": 1500,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -3500,
+    -3000,
+    -2000
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -3500,
+      -3000,
+      -2000
+    ],
+    "first_observed_year": -3500,
+    "last_observed_year": -2000,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -3500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-3500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -3000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-3000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-2000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ur",
+    "wikidata": "https://www.wikidata.org/wiki/Q5699"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

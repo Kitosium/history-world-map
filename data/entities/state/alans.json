@@ -1,0 +1,180 @@
+{
+  "id": "alans",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q178054",
+  "names": {
+    "canonical": {
+      "vi": "Alan",
+      "en": "Alans",
+      "zh-CN": "奄蔡",
+      "zh-TW": "奄蔡",
+      "ja": "アラン人",
+      "fr": "Alains",
+      "es": "alanos",
+      "ar": "ألانز",
+      "ru": "аланы",
+      "de": "Alanen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "阿蘭人",
+        "阿蘭",
+        "闔蘇",
+        "阿蘭聊",
+        "奄蔡人"
+      ],
+      "es": [
+        "Pueblo alano",
+        "Alano"
+      ],
+      "de": [
+        "Alanisch"
+      ],
+      "ja": [
+        "アラニ族",
+        "アラン族",
+        "阿蘭"
+      ],
+      "ru": [
+        "аланами"
+      ],
+      "en": [
+        "Alani",
+        "Halani",
+        "Alains"
+      ],
+      "zh-TW": [
+        "阿蘭人",
+        "阿蘭",
+        "闔蘇",
+        "阿蘭聊",
+        "奄蔡人"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "pueblo de origen iranio",
+    "fr": "peuple scythique et nomade",
+    "ru": "ираноязычный кочевой народ",
+    "de": "antike Ethnie nordöstlich des Kaspischen Meeres",
+    "en": "an ancient Iranian people",
+    "zh-CN": "一个古老的伊朗人民",
+    "zh-TW": "一個古老的伊朗人民",
+    "ja": "かつて北カフカスから黒海北岸を支配した遊牧騎馬民族",
+    "ar": "شعوب إيرانية تاريخية قديمة",
+    "vi": "Alan (Alans) là một state lịch sử tồn tại từ 100 SCN đến 1100 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 SCN"
+    },
+    "to": {
+      "year": 1100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1100 SCN"
+    },
+    "duration_years": 1000,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    100,
+    700,
+    1000,
+    1100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      100,
+      700,
+      1000,
+      1100
+    ],
+    "first_observed_year": 100,
+    "last_observed_year": 1100,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alans",
+    "wikidata": "https://www.wikidata.org/wiki/Q178054"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

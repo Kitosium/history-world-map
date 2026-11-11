@@ -1,0 +1,127 @@
+{
+  "id": "bagan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q29317",
+  "names": {
+    "canonical": {
+      "vi": "Bagan",
+      "en": "Bagan",
+      "zh-CN": "蒲甘",
+      "zh-TW": "蒲甘",
+      "ja": "バガン",
+      "fr": "Bagan",
+      "es": "Bagan",
+      "ar": "باغان",
+      "ru": "Паган",
+      "de": "Bagan"
+    },
+    "aliases": {
+      "de": [
+        "Pagan",
+        "Arimaddana",
+        "Arimaddanapura",
+        "Stadt Zerbrecher der Feinde",
+        "Tambadipa",
+        "Kupferland",
+        "Tassadessa",
+        "Ausgedörrtes Land"
+      ],
+      "ja": [
+        "パガン"
+      ],
+      "fr": [
+        "Pagan"
+      ],
+      "en": [
+        "Pagan"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ancient city in Myanmar",
+    "de": "historische Königsstadt in Myanmar",
+    "es": "antigua capital de Birmania",
+    "fr": "ancienne ville de Birmanie",
+    "ar": "موقع أثري في منطقة ماندالاي، ميانمار",
+    "ru": "древняя столица Мьянмы",
+    "zh-CN": "缅甸城市",
+    "vi": "Bagan (Bagan) là một state lịch sử tồn tại từ 1200 SCN đến 1200 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "to": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1200
+    ],
+    "first_observed_year": 1200,
+    "last_observed_year": 1200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bagan",
+    "wikidata": "https://www.wikidata.org/wiki/Q29317"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

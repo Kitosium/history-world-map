@@ -1,0 +1,149 @@
+{
+  "id": "new-amsterdam",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q223308",
+  "names": {
+    "canonical": {
+      "vi": "New Amsterdam",
+      "en": "New Amsterdam",
+      "zh-CN": "新阿姆斯特丹",
+      "zh-TW": "新阿姆斯特丹",
+      "ja": "ニューアムステルダム",
+      "fr": "La Nouvelle-Amsterdam",
+      "es": "Nueva Ámsterdam",
+      "ar": "نيو أمستردام",
+      "ru": "Новый Амстердам",
+      "de": "Nieuw Amsterdam"
+    },
+    "aliases": {
+      "fr": [
+        "Nouvelle-Orange",
+        "New Orange",
+        "Nouvelle Orange",
+        "Nieuw-Amsterdam",
+        "Nieuw Amsterdam",
+        "Nouvelle-Avesnes",
+        "Nouvelle-Amsterdam"
+      ],
+      "es": [
+        "New Amsterdam",
+        "Nieuw Ámsterdam",
+        "Nueva Amsterdam",
+        "New Ámsterdam",
+        "Nieuw Amsterdam"
+      ],
+      "de": [
+        "Neuamsterdam",
+        "Neu Amsterdam",
+        "Neu-Amsterdam"
+      ],
+      "ja": [
+        "ニュー・アムステルダム",
+        "ニーウアムステルダム",
+        "ニーウ・アムステルダム"
+      ],
+      "ar": [
+        "نيوامستردام"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "17th-century Dutch colonial settlement that became New York City",
+    "de": "Verwaltungssitz der historischen Kolonie Nieuw Nederland in Manhattan, heute New York, USA",
+    "ar": "مستوطنة استعمارية هولندية في القرن السابع عشر أصبحت مدينة نيويورك",
+    "fr": "comptoir colonial néerlandais, à l'origine de la ville de New York",
+    "es": "colonia neerlandesa",
+    "ru": "голландское колониальное поселение XVII века, позже ставшее Нью-Йорком",
+    "ja": "オランダ植民地時代のニューヨーク",
+    "vi": "New Amsterdam (New Amsterdam) là một state lịch sử tồn tại từ 1650 SCN đến 1700 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1700 SCN"
+    },
+    "duration_years": 50,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1700,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/New%20Amsterdam",
+    "wikidata": "https://www.wikidata.org/wiki/Q223308"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

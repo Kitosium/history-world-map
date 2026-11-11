@@ -1,0 +1,19 @@
+{
+  "id": "tien-ly",
+  "state_id": "van-xuan",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Tiền Lý (Lý Bí / Lý Nam Đế)",
+      "en": "Early Ly dynasty",
+      "zh-CN": "前李朝 (李贲)",
+      "ja": "前李朝"
+    }
+  },
+  "from_year": 544,
+  "to_year": 602,
+  "capital": "long-bien",
+  "source_ids": [
+    "src-dai-viet",
+    "src-dao-duy-anh"
+  ]
+}

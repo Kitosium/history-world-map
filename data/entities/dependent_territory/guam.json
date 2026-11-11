@@ -1,0 +1,167 @@
+{
+  "id": "guam",
+  "schema_version": "1.3.0",
+  "type": "dependent_territory",
+  "wikidata_id": "Q16635",
+  "names": {
+    "canonical": {
+      "vi": "Guam",
+      "en": "Guam",
+      "zh-CN": "關島",
+      "zh-TW": "關島",
+      "ja": "グアム",
+      "fr": "Guam",
+      "es": "Guam",
+      "ar": "غوام",
+      "ru": "Гуам",
+      "de": "Guam"
+    },
+    "aliases": {
+      "de": [
+        "US-GU"
+      ],
+      "ru": [
+        "Территория Гуам"
+      ],
+      "en": [
+        "GU",
+        "Territory of Guam",
+        "US-GU",
+        "GUM",
+        "Guåhån",
+        "Guahan",
+        "ISO 3166-1:GU",
+        "Guåhan",
+        "Island of Guam",
+        "Guam (USA)"
+      ],
+      "es": [
+        "Guaján",
+        "Guaham",
+        "Guahan",
+        "Guajam",
+        "🇬🇺",
+        "Territorio de Guam",
+        "Guåhån",
+        "Isla de San Juan",
+        "San Juan"
+      ],
+      "zh-CN": [
+        "关岛"
+      ],
+      "fr": [
+        "US-GU",
+        "GU",
+        "GUM"
+      ],
+      "ja": [
+        "大宮島"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "unincorporated territory of the United States of America",
+    "es": "territorio no incorporado de los Estados Unidos en el Pacífico",
+    "de": "Insel im Pazifik, Außengebiet der Vereinigten Staaten",
+    "fr": "territoire non incorporé des États-Unis d'Amérique",
+    "ru": "остров в Тихом океане, владение США",
+    "ar": "جزيرة تقع غرب المحيط الهادئ",
+    "vi": "lãnh thổ của Hoa Kỳ tại Micronesia",
+    "ja": "マリアナ諸島の島",
+    "zh-CN": "西太平洋島嶼・美國的非合併建制屬地"
+  },
+  "existence": {
+    "from": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1938,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1938,
+      2026
+    ],
+    "first_observed_year": 1938,
+    "last_observed_year": 2026,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guam",
+    "wikidata": "https://www.wikidata.org/wiki/Q16635"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

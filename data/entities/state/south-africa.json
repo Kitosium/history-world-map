@@ -1,0 +1,231 @@
+{
+  "id": "south-africa",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q258",
+  "names": {
+    "canonical": {
+      "vi": "Nam Phi",
+      "en": "South Africa",
+      "zh-CN": "南非",
+      "zh-TW": "南非",
+      "ja": "南アフリカ共和国",
+      "fr": "Afrique du Sud",
+      "es": "Sudáfrica",
+      "ar": "جنوب إفريقيا",
+      "ru": "ЮАР",
+      "de": "Südafrika"
+    },
+    "aliases": {
+      "en": [
+        "Republic of South Africa",
+        "RSA",
+        "SA",
+        "zaf",
+        "R.S.A."
+      ],
+      "vi": [
+        "Cộng hòa Nam Phi",
+        "Cộng hoà Nam Phi"
+      ],
+      "ru": [
+        "Южная Африка",
+        "Азания",
+        "Южно-Африканская Республика"
+      ],
+      "es": [
+        "República de Sudáfrica"
+      ],
+      "ja": [
+        "南アフリカ"
+      ],
+      "de": [
+        "Suedafrika",
+        "Republik Südafrika"
+      ],
+      "fr": [
+        "République sud-africaine",
+        "République d’Afrique du Sud",
+        "république sud-africaine",
+        "république d’Afrique du Sud"
+      ],
+      "ar": [
+        "جنوب أفريقيا"
+      ],
+      "zh-CN": [
+        "南非共和国"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Afrique australe",
+    "zh-CN": "非洲南部国家",
+    "ru": "страна на юге Африки",
+    "zh-TW": "位於南部非洲的國家",
+    "es": "país de África del Sur",
+    "de": "Staat im Süden Afrikas",
+    "ar": "دولة في جنوب إفريقيا",
+    "en": "country in southern Africa",
+    "vi": "quốc gia ở miền Nam Châu Phi",
+    "ja": "アフリカ南部の国"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 112,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/South%20Africa",
+    "wikidata": "https://www.wikidata.org/wiki/Q258"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

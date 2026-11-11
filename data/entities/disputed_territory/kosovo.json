@@ -1,0 +1,149 @@
+{
+  "id": "kosovo",
+  "schema_version": "1.3.0",
+  "type": "disputed_territory",
+  "wikidata_id": "Q1246",
+  "names": {
+    "canonical": {
+      "vi": "Kosovo",
+      "en": "Kosovo",
+      "zh-CN": "科索沃",
+      "zh-TW": "科索沃",
+      "ja": "コソボ共和国",
+      "fr": "Kosovo",
+      "es": "Kosovo",
+      "ar": "كوسوفو",
+      "ru": "Республика Косово",
+      "de": "Kosovo"
+    },
+    "aliases": {
+      "de": [
+        "Republik Kosovo"
+      ],
+      "en": [
+        "Republic of Kosovo",
+        "XK",
+        "KOS",
+        "XKX",
+        "KV",
+        "Kosova",
+        "RKS"
+      ],
+      "ru": [
+        "Косово (республика)",
+        "Косово (частично-признанное государство)",
+        "Косово (государство)",
+        "Косово"
+      ],
+      "es": [
+        "República de Kosovo",
+        "Republica de Kosovo",
+        "XK",
+        "🇽🇰"
+      ],
+      "ar": [
+        "كوسوفا",
+        "جمهورية كوسوفو",
+        "قوصوة"
+      ],
+      "fr": [
+        "Kossovo",
+        "XK",
+        "la République du Kosovo"
+      ],
+      "zh-CN": [
+        "科索夫"
+      ],
+      "ja": [
+        "コソヴォ共和国"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in southeastern Europe",
+    "fr": "pays issu de l'ancienne Yougoslavie dont la reconnaissance est limitée",
+    "es": "estado con reconocimiento limitado ubicado en la península balcánica, en el sureste de Europa",
+    "de": "Staat in Südosteuropa",
+    "ru": "частично признанное государство в Юго-Восточной Европе",
+    "ja": "南東ヨーロッパの国",
+    "zh-CN": "東歐的有限承認國家",
+    "ar": "دولة معترف بها جزئياً تقع في جنوب شرق أوروبا",
+    "vi": "quốc gia tại Đông Nam Âu"
+  },
+  "existence": {
+    "from": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 0,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      2026
+    ],
+    "first_observed_year": 2026,
+    "last_observed_year": 2026,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "georeferenced_1_10m",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "georeferenced_1_10m"
+    }
+  ],
+  "source_ids": [
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kosovo",
+    "wikidata": "https://www.wikidata.org/wiki/Q1246"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

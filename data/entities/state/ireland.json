@@ -1,0 +1,256 @@
+{
+  "id": "ireland",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q22890",
+  "names": {
+    "canonical": {
+      "vi": "Ireland",
+      "en": "Ireland",
+      "zh-CN": "爱尔兰岛",
+      "zh-TW": "愛爾蘭島",
+      "ja": "アイルランド島",
+      "fr": "Irlande",
+      "es": "isla de Irlanda",
+      "ar": "أيرلندا",
+      "ru": "Ирландия",
+      "de": "Irland"
+    },
+    "aliases": {
+      "zh-CN": [
+        "愛爾蘭島",
+        "爱尔"
+      ],
+      "es": [
+        "Isla de Irlanda",
+        "Irlanda"
+      ],
+      "ar": [
+        "الجزيرة الأيرلندية",
+        "الجزيره الأيرلنديه",
+        "جزيرة ايرلندا"
+      ],
+      "ja": [
+        "小ブリテン島"
+      ],
+      "ru": [
+        "Иберния",
+        "Иерна",
+        "остров Ирландия",
+        "Ирландия (остров)"
+      ],
+      "fr": [
+        "L'île d'émeraude",
+        "Île d’Irlande",
+        "Île d'émeraude"
+      ],
+      "en": [
+        "Airlan",
+        "Irland",
+        "Irlanda",
+        "Irlandia",
+        "Auld Sod",
+        "Irlande",
+        "Airlann",
+        "Mikra Britannia",
+        "Ireland (island)",
+        "Éire",
+        "Banba",
+        "Fódhla",
+        "Emerald Isle",
+        "Erin",
+        "Britannia Minor",
+        "Ivernia",
+        "Ierne",
+        "Island of Saints",
+        "Hibernia",
+        "Island of Ireland",
+        "isle of Ireland",
+        "Eire",
+        "Scotia Major"
+      ],
+      "de": [
+        "Irland (Insel)",
+        "Insel Irland",
+        "die grüne Insel",
+        "Kleinbritannien"
+      ],
+      "vi": [
+        "Ai-len",
+        "Ái Nhĩ Lan",
+        "Ái-nhĩ-lan"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "isla de Europa, en el océano Atlántico",
+    "en": "island in the North Atlantic Ocean",
+    "de": "Insel in Nordwest-Europa, antikes Kleinbritannien, Hibernia",
+    "fr": "île de l'archipel britannique",
+    "ru": "остров Британского архипелага",
+    "ar": "ثالث أكبر جزيرة في أوروبا وتتألف من دولة أيرلندا وأيرلندا الشمالية التابعة لبريطانيا",
+    "zh-CN": "欧洲西北部的一座岛屿",
+    "ja": "北大西洋の島",
+    "vi": "đảo ở Bắc Đại Tây Dương",
+    "zh-TW": "歐洲西北部的大西洋島嶼"
+  },
+  "existence": {
+    "from": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 88,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1938,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1938,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1938,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ireland",
+    "wikidata": "https://www.wikidata.org/wiki/Q22890"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

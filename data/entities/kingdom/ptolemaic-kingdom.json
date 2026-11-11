@@ -1,0 +1,163 @@
+{
+  "id": "ptolemaic-kingdom",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q2320005",
+  "names": {
+    "canonical": {
+      "vi": "Ai Cập thuộc Hy Lạp",
+      "en": "Ptolemaic Kingdom",
+      "zh-CN": "托勒密王國",
+      "zh-TW": "托勒密王國",
+      "ja": "プトレマイオス王国",
+      "fr": "royaume ptolémaïque",
+      "es": "período tolemaico de Egipto",
+      "ar": "المملكة البطلمية",
+      "ru": "Эллинистический Египет",
+      "de": "Ptolemäisches Königreich"
+    },
+    "aliases": {
+      "zh-CN": [
+        "托勒密埃及",
+        "托勒密王国",
+        "托勒密帝国",
+        "托勒密王朝"
+      ],
+      "vi": [
+        "Ai Cập thuộc Ptolemaios"
+      ],
+      "fr": [
+        "Égypte ptolémaïque",
+        "Égypte lagide",
+        "royaume lagide"
+      ],
+      "es": [
+        "Egipto tolemaico"
+      ],
+      "ja": [
+        "プトレマイオス朝エジプト王国"
+      ],
+      "en": [
+        "Lagid Kingdom",
+        "Lagid Egypt",
+        "Ptolemaic Egypt",
+        "Ptolemaic Empire",
+        "Kingdom of the Ptolemies"
+      ],
+      "de": [
+        "Ptolemäerreich"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "etapa de la historia de Egipto (305-30 a. C.)",
+    "en": "period from 305 to 30 BC in ancient Egypt",
+    "zh-CN": "历史政权",
+    "ar": "دولة قامت في مصر تحت الحكم اليوناني سنة 305ق.م و استمرت حتى سنة 30ق.م",
+    "fr": "royaume hellénistique en actuelle Égypte",
+    "de": "Helenistisches Königreich in Ägypten zwischen 305 und 30 v. Chr.",
+    "ru": "период в истории Египта во времена правления греков",
+    "zh-TW": "希臘化時代的埃及政權",
+    "vi": "Ai Cập thuộc Hy Lạp (Ptolemaic Kingdom) là một state lịch sử tồn tại từ 300 TCN đến 100 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -300,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "300 TCN"
+    },
+    "to": {
+      "year": -100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 TCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -300,
+    -200,
+    -100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -300,
+      -200,
+      -100
+    ],
+    "first_observed_year": -300,
+    "last_observed_year": -100,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ptolemaic%20Kingdom",
+    "wikidata": "https://www.wikidata.org/wiki/Q2320005"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

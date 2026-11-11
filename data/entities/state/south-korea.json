@@ -1,0 +1,236 @@
+{
+  "id": "south-korea",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q884",
+  "names": {
+    "canonical": {
+      "vi": "Hàn Quốc",
+      "en": "South Korea",
+      "zh-CN": "大韩民国",
+      "zh-TW": "大韓民國",
+      "ja": "大韓民国",
+      "fr": "Corée du Sud",
+      "es": "Corea del Sur",
+      "ar": "كوريا الجنوبية",
+      "ru": "Республика Корея",
+      "de": "Südkorea"
+    },
+    "aliases": {
+      "fr": [
+        "République de Corée",
+        "Corée Du Sud",
+        "la République de Corée",
+        "Cor. du Sud",
+        "Coree du Sud",
+        "Hanguk"
+      ],
+      "zh-CN": [
+        "韩国"
+      ],
+      "ru": [
+        "Южная Корея",
+        "Тэхан Мингук",
+        "ЮК",
+        "РК",
+        "Корея"
+      ],
+      "vi": [
+        "Nam Triều Tiên",
+        "Nam Hàn",
+        "Đại Hàn",
+        "Đại Hàn Dân Quốc",
+        "Korea, Republic of",
+        "korea-republic-of"
+      ],
+      "zh-TW": [
+        "韓國",
+        "南韓"
+      ],
+      "es": [
+        "República de Corea",
+        "Surcorea",
+        "Sudcorea"
+      ],
+      "de": [
+        "Republik Korea",
+        "Süd-Korea",
+        "Hanguk",
+        "Suedkorea",
+        "Daehan Minguk",
+        "Korea"
+      ],
+      "en": [
+        "Republic of Korea",
+        "Rep. Korea",
+        "S. Korea",
+        "Korea Republic",
+        "Hanguk",
+        "Daehan Minguk",
+        "Daehanminguk",
+        "Korea (South)",
+        "Choson",
+        "Silla",
+        "Korea, Republic of",
+        "korea-republic-of"
+      ],
+      "ja": [
+        "韓国",
+        "南朝鮮"
+      ],
+      "ar": [
+        "جمهورية كوريا",
+        "الكوريا الجنوبية"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Asie de l'Est",
+    "zh-CN": "东北亚国家",
+    "ru": "государство в Восточной Азии",
+    "zh-TW": "東亞國家",
+    "es": "país de Asia Oriental",
+    "de": "Staat in Ostasien",
+    "ar": "دولة في شرق آسيا",
+    "en": "country in East Asia",
+    "vi": "quốc gia ở Đông Á",
+    "ja": "東アジアの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1960,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "15/08/1960 SCN",
+      "month": 8,
+      "day": 15
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "03/11/2026 SCN",
+      "month": 11,
+      "day": 3
+    },
+    "duration_years": 66,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1960,
+    "last_observed_year": 2026,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/South%20Korea",
+    "wikidata": "https://www.wikidata.org/wiki/Q884"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "finns",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q170284",
+  "names": {
+    "canonical": {
+      "vi": "người Phần Lan",
+      "en": "Finns",
+      "zh-CN": "芬兰人",
+      "zh-TW": "芬蘭人",
+      "ja": "フィン人",
+      "fr": "Finnois",
+      "es": "pueblo finés",
+      "ar": "فنلنديون",
+      "ru": "финны",
+      "de": "Finnen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "芬兰族"
+      ],
+      "es": [
+        "finlandeses",
+        "pueblo fines"
+      ],
+      "ru": [
+        "Фины"
+      ],
+      "de": [
+        "Suomalaiset"
+      ],
+      "ja": [
+        "フィン族",
+        "フィン系",
+        "カレリア人"
+      ],
+      "en": [
+        "Finnish people"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Baltic Finnic ethnic group indigenous to Finland",
+    "es": "grupo étnico",
+    "de": "finno-ugrisches Volk in Nordeuropa",
+    "fr": "peuple fennique",
+    "ru": "финно-угорский народ",
+    "ja": "フィンランドの主要民族",
+    "vi": "người Phần Lan (Finns) là một state lịch sử tồn tại từ 800 SCN đến 800 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "to": {
+      "year": 800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "800 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    800
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      800
+    ],
+    "first_observed_year": 800,
+    "last_observed_year": 800,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Finns",
+    "wikidata": "https://www.wikidata.org/wiki/Q170284"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

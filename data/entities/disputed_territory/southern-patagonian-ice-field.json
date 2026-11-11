@@ -1,0 +1,95 @@
+{
+  "id": "southern-patagonian-ice-field",
+  "schema_version": "1.3.0",
+  "type": "disputed_territory",
+  "wikidata_id": "Q1031467",
+  "names": {
+    "canonical": {
+      "en": "Southern Patagonian Ice Field",
+      "vi": "Cánh đồng băng Nam Patagonia",
+      "zh-CN": "南巴塔哥尼亞冰原",
+      "zh-TW": "南巴塔哥尼亞冰原",
+      "ja": "南パタゴニア氷原",
+      "fr": "champ de glace Sud de Patagonie",
+      "es": "Campo de hielo Patagónico Sur",
+      "de": "Südpatagonisches Eisfeld",
+      "ru": "Южное Патагонское ледниковое плато",
+      "ar": "قل الثلج الباتاغوني الجنوبي"
+    },
+    "aliases": {}
+  },
+  "descriptions": {},
+  "existence": {
+    "from": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 0,
+    "status": "active",
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true,
+    "foundation_reason": null,
+    "dissolution_reason": null
+  },
+  "observed_periods": [
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      2026
+    ],
+    "first_observed_year": 2026,
+    "last_observed_year": 2026,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "medium",
+    "boundary_precision": "georeferenced_1_10m",
+    "border_precision": 2
+  },
+  "boundary_references": [
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "medium",
+      "boundary_precision": "georeferenced_1_10m"
+    }
+  ],
+  "source_ids": [
+    "src-natural-earth"
+  ],
+  "provenance": {
+    "names": [
+      "src-natural-earth"
+    ],
+    "existence": [
+      "src-natural-earth"
+    ],
+    "boundaries": [
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1031467"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

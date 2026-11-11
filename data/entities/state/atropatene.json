@@ -1,0 +1,151 @@
+{
+  "id": "atropatene",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q260437",
+  "names": {
+    "canonical": {
+      "vi": "Atropatene",
+      "en": "Atropatene",
+      "zh-CN": "阿特羅帕特尼王國",
+      "zh-TW": "阿特羅帕特尼王國",
+      "ja": "アトロパテネ王国",
+      "fr": "Atropatène",
+      "es": "Atropatene",
+      "ar": "أتروباتين",
+      "ru": "Атропатена",
+      "de": "Atropatene"
+    },
+    "aliases": {
+      "zh-CN": [
+        "亞特羅巴特那"
+      ],
+      "de": [
+        "Media Atropatene"
+      ],
+      "en": [
+        "Atropatena",
+        "Atropatia",
+        "Atropatian Media",
+        "Little Media",
+        "Atropatios Media",
+        "Atropatene Media",
+        "Media Atropatene",
+        "Media Atropatena"
+      ],
+      "ru": [
+        "Мидия Атропатена",
+        "Малая Мидия",
+        "Атурпатакан",
+        "Атурпаткан"
+      ],
+      "ar": [
+        "أتروباتكان",
+        "أتورباتكان"
+      ],
+      "fr": [
+        "Atropatie",
+        "Médie atropatène",
+        "Médie atropatienne",
+        "Petite Médie"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ancient Iranian kingdom (c. 323 BC – 226 AD)",
+    "de": "historischer Staat",
+    "ru": "историческая область и древнее государство на северо-западе современного Ирана",
+    "ar": "مملكة قديمة أنشأها وحكمها أمراء محليون من السلالة الإيرانية",
+    "es": "Antiguo reino persa ubicado en el Cáucaso meridional",
+    "fr": "ancien royaume perse",
+    "vi": "Atropatene (Atropatene) là một state lịch sử tồn tại từ 323 TCN đến 300 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -323,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "323 TCN"
+    },
+    "to": {
+      "year": -300,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "300 TCN"
+    },
+    "duration_years": 23,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -323,
+    -300
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -323,
+      -300
+    ],
+    "first_observed_year": -323,
+    "last_observed_year": -300,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Atropatene",
+    "wikidata": "https://www.wikidata.org/wiki/Q260437"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

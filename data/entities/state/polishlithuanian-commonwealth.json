@@ -1,0 +1,219 @@
+{
+  "id": "polishlithuanian-commonwealth",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q172107",
+  "names": {
+    "canonical": {
+      "vi": "Liên bang Ba Lan–Litva",
+      "en": "Polish–Lithuanian Commonwealth",
+      "zh-CN": "波兰立陶宛联邦",
+      "zh-TW": "波蘭立陶宛聯邦",
+      "ja": "ポーランド・リトアニア共和国",
+      "fr": "république des Deux Nations",
+      "es": "República de las Dos Naciones",
+      "ar": "الكومنولث البولندي الليتواني",
+      "ru": "Речь Посполитая",
+      "de": "Polen-Litauen"
+    },
+    "aliases": {
+      "zh-CN": [
+        "波蘭-立陶宛聯邦",
+        "波蘭立陶宛邦聯",
+        "波立聯邦",
+        "波兰立陶宛联邦",
+        "波兰第一共和国",
+        "波兰-立陶宛王国"
+      ],
+      "fr": [
+        "Pologne-Lituanie",
+        "Pologne-Lithuanie",
+        "République polono-lituanienne",
+        "République nobiliaire",
+        "Rzeczpospolita",
+        "royaume de Pologne et Lituanie",
+        "Première république de Pologne"
+      ],
+      "es": [
+        "Confederación Polaco Lituana",
+        "Confederacion Polaco Lituana",
+        "Mancomunidad polaco-lituana",
+        "Manocomunidad polaco lituana",
+        "Mancomunidad Polaco Lituana",
+        "Mancomunidad de Polonia-Lituania",
+        "Mancomunidad de Polonia Lituania",
+        "Primera República de Polonia",
+        "Confederación Polaco-Lituana",
+        "Manocomunidad polaco-lituana",
+        "Republica de las Dos Naciones",
+        "Primera Republica de Polonia",
+        "Confederacion Polaco-Lituana",
+        "Unión Polaco-Lituana",
+        "Reino de Polonia",
+        "Primera República polaca",
+        "Primera Republica polaca",
+        "República de Polonia"
+      ],
+      "de": [
+        "Republik Beider Nationen",
+        "Erste Polnische Republik",
+        "Rzeczpospolita Obojga Narodów",
+        "Königreich Polen und Großfürstentum Litauen",
+        "Polish-Lithuanian Commonwealth"
+      ],
+      "ja": [
+        "二民族の共和国",
+        "ポーランド・リトアニア連合国家",
+        "ポーランド＝リトアニア共和国",
+        "両国民の共和国",
+        "ポーランド・リトアニア",
+        "両民族の共和国",
+        "二国民の共和国"
+      ],
+      "vi": [
+        "Cộng hòa hai quốc gia",
+        "Nước cộng hòa thanh bình nhất",
+        "Khối thịnh vượng chung Ba Lan - Litva",
+        "Cộng hòa lưỡng quốc Ba Lan-Litva",
+        "Liên bang Ba Lan – Litva",
+        "Khối thịnh vượng chung Ba Lan-Lithuania",
+        "Liên bang Ba Lan-Litva",
+        "Cộng hòa của hai quốc gia",
+        "Khối thịnh vượng chung Ba Lan-Litva",
+        "Cộng hòa Ba Lan - Litva",
+        "Vương quốc Ba Lan và Đại Công quốc Litva"
+      ],
+      "ru": [
+        "Речь Посполита",
+        "Республика Обоих Народов",
+        "Ржеч Посполита",
+        "Жечь Посполитая",
+        "Жечь Посполита"
+      ],
+      "en": [
+        "Republic of Both Nations",
+        "Commonwealth of Poland",
+        "First Republic of Poland",
+        "Poland",
+        "Poland–Lithuania",
+        "Polish-Lithuanian Commonwealth",
+        "Poland-Lithuania"
+      ],
+      "ar": [
+        "الإتحاد البولندي الليتواني",
+        "الكومنولث البولندي اللتواني"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Adelsrepublik, historischer feudaler Ständestaat und Wahlkönigtum (1569–1795)",
+    "fr": "État polono-lituanien, de 1569 à 1795",
+    "ru": "историческое многонациональное монархическое государство в Центральной Европе (Корона Королевства Польского и Великого Княжества Литовского)",
+    "en": "historical multinational monarchist state in Eastern Europe (Crown of the Kingdom of Poland and the Grand Duchy of Lithuania)",
+    "es": "(1569-1795) antíguo país de Europa Oriental formado por la unión del Reino de Polonia y el Gran Ducado de Lituania",
+    "ar": "دولة سابقة",
+    "zh-CN": "1569-1795年間的波蘭歷史時期",
+    "ja": "かつて東ヨーロッパに存在した国家",
+    "vi": "nhà nước liên bang ở châu Âu (1569–1795)"
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 65,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1715,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian%20Commonwealth",
+    "wikidata": "https://www.wikidata.org/wiki/Q172107"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

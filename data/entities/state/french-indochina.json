@@ -1,0 +1,229 @@
+{
+  "id": "french-indochina",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q185682",
+  "names": {
+    "canonical": {
+      "vi": "Liên bang Đông Dương",
+      "en": "French Indochina",
+      "zh-CN": "法属印度支那",
+      "zh-TW": "法屬印度支那",
+      "ja": "フランス領インドシナ",
+      "fr": "Indochine française",
+      "es": "Indochina francesa",
+      "ar": "الهند الصينية الفرنسية",
+      "ru": "Французский Индокитай",
+      "de": "Französisch-Indochina"
+    },
+    "aliases": {
+      "zh-CN": [
+        "印度支那联邦",
+        "法属印度支那联邦",
+        "法屬中南半島"
+      ],
+      "fr": [
+        "Union d'Indochine",
+        "Union indochinoise",
+        "Fédération indochinoise",
+        "Indochine",
+        "L'Indochine française"
+      ],
+      "es": [
+        "Unión Indochina",
+        "French Indochina",
+        "Union Indochina"
+      ],
+      "de": [
+        "Indochinesische Union",
+        "Union von Indochina"
+      ],
+      "ja": [
+        "仏領インドシナ連邦",
+        "仏印",
+        "フランス領インドシナ連邦",
+        "佛印",
+        "仏領インドシナ",
+        "インドシナ連邦",
+        "南仏印",
+        "仏領印度支那"
+      ],
+      "ru": [
+        "Индокитай Французский",
+        "Французское колониальное правление во Вьетнаме",
+        "Индокитай"
+      ],
+      "en": [
+        "Indochinese Union",
+        "Indochinese Federation"
+      ],
+      "vi": [
+        "Đông Dương thuộc Pháp",
+        "Đông Pháp"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Federation of French colonial territories and protectorates in mainland Southeast Asia (1887–1945).",
+    "fr": "colonie française d'Asie du Sud-Est",
+    "vi": "Liên bang các xứ thuộc địa và bảo hộ của Pháp tại bán đảo Đông Dương (1887–1945).",
+    "es": "colonia francesa en el sudeste asiático (1887-1954)",
+    "de": "Kolonialgebiet in Südostasien",
+    "zh-CN": "歷史上殖民地",
+    "ru": "Бывшая колония Франции на полуострове Индокитай",
+    "ja": "かつて東南アジアに存在したフランスの植民地",
+    "ar": "منطقة نفوذ الاستعمار الفرنسي في جنوب شرق آسيا (1887 - 1954)"
+  },
+  "existence": {
+    "from": {
+      "year": 1878,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "17/10/1878 SCN",
+      "month": 10,
+      "day": 17
+    },
+    "to": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "21/07/1914 SCN",
+      "month": 7,
+      "day": 21
+    },
+    "duration_years": 36,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1878,
+    1880,
+    1900,
+    1914,
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1878,
+      1880,
+      1900,
+      1914,
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1878,
+    "last_observed_year": 1938,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/French%20Indochina",
+    "wikidata": "https://www.wikidata.org/wiki/Q185682"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

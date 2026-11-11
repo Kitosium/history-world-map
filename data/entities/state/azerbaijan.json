@@ -1,0 +1,220 @@
+{
+  "id": "azerbaijan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q227",
+  "names": {
+    "canonical": {
+      "vi": "Azerbaijan",
+      "en": "Azerbaijan",
+      "zh-CN": "阿塞拜疆",
+      "zh-TW": "亞塞拜然",
+      "ja": "アゼルバイジャン",
+      "fr": "Azerbaïdjan",
+      "es": "Azerbaiyán",
+      "ar": "أذربيجان",
+      "ru": "Азербайджан",
+      "de": "Aserbaidschan"
+    },
+    "aliases": {
+      "es": [
+        "República de Azerbaiyán"
+      ],
+      "en": [
+        "Republic of Azerbaijan",
+        "AZE"
+      ],
+      "zh-CN": [
+        "亞塞拜然",
+        "亞塞拜疆"
+      ],
+      "ru": [
+        "Азербайджанская Республика"
+      ],
+      "ar": [
+        "جمهورية أذربيجان"
+      ],
+      "ja": [
+        "アゼルバイジャン共和国"
+      ],
+      "fr": [
+        "la République d'Azerbaïdjan",
+        "Azerbaidjan"
+      ],
+      "de": [
+        "Republik Aserbaidschan"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in the Caucasus in Eastern Europe and Western Asia",
+    "de": "Staat in Vorderasien",
+    "ru": "государство в Закавказье",
+    "es": "país del Cáucaso en Europa Oriental y Asia Occidental",
+    "fr": "pays d'Asie occidentale",
+    "ar": "دولة بين أوروبا الشرقية وآسيا الغربية",
+    "zh-CN": "东欧国家",
+    "ja": "西アジアにある共和制国家",
+    "vi": "quốc gia ở vùng Kavkaz thuộc khu vực Tây Á",
+    "zh-TW": "國家"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 112,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Azerbaijan",
+    "wikidata": "https://www.wikidata.org/wiki/Q227"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

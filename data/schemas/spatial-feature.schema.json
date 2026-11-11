@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://history-world-map.local/schemas/spatial-feature.schema.json",
+  "title": "Spatial feature properties",
+  "type": "object",
+  "required": [
+    "id",
+    "entity_id",
+    "valid_year",
+    "source_ids",
+    "confidence",
+    "boundary_precision",
+    "boundary_confidence",
+    "border_precision"
+  ],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "entity_id": { "type": "string", "minLength": 1 },
+    "name_vi": { "type": ["string", "null"] },
+    "name_en": { "type": ["string", "null"] },
+    "type": { "type": "string" },
+    "layer_type": {
+      "type": "string",
+      "description": "Must exist in data/taxonomies/layer-types.json"
+    },
+    "valid_year": { "type": "integer", "minimum": -3500, "maximum": 2026 },
+    "year_system": { "type": "string" },
+    "year_label": { "type": "string" },
+    "source_ids": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "confidence": { "enum": ["low", "medium", "high"] },
+    "boundary_precision": { "type": "string" },
+    "boundary_confidence": { "enum": ["low", "medium", "high"] },
+    "border_precision": { "type": "integer", "minimum": 0, "maximum": 3 },
+    "color_index": { "type": "integer", "minimum": 0, "maximum": 3 },
+    "valid_month": { "type": ["integer", "null"], "minimum": 1, "maximum": 12 },
+    "valid_day": { "type": ["integer", "null"], "minimum": 1, "maximum": 31 },
+    "valid_from": { "type": ["string", "null"] },
+    "valid_to": { "type": ["string", "null"] },
+    "precision": { "type": ["string", "null"] },
+    "wikidata_id": { "type": ["string", "null"] }
+  },
+  "additionalProperties": true
+}

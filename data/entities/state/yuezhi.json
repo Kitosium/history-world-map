@@ -1,0 +1,139 @@
+{
+  "id": "yuezhi",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q467985",
+  "names": {
+    "canonical": {
+      "vi": "Nguyệt Chi",
+      "en": "Yuezhi",
+      "zh-CN": "月氏",
+      "zh-TW": "月氏",
+      "ja": "月氏",
+      "fr": "Yuezhi",
+      "es": "yuezhi",
+      "ar": "يوجيون",
+      "ru": "Юэчжи",
+      "de": "Yuezhi"
+    },
+    "aliases": {
+      "zh-CN": [
+        "月氏國",
+        "大月氏人",
+        "月支"
+      ],
+      "fr": [
+        "Yue-tche",
+        "Yueh-Chih"
+      ],
+      "de": [
+        "Yüeh-chi",
+        "Yueh-Chih",
+        "Yüe-tschi",
+        "Rouzhi"
+      ],
+      "ja": [
+        "大月氏国",
+        "大月氏"
+      ],
+      "vi": [
+        "Đại Nguyệt Chi",
+        "Nhục Chi",
+        "Đại Nhục Chi",
+        "Người Nguyệt Chi"
+      ],
+      "en": [
+        "Rouzhi"
+      ],
+      "zh-TW": [
+        "大月氏"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ancient people mentioned in Chinese histories",
+    "es": "tribu asentada en Asia",
+    "zh-CN": "古代国家",
+    "de": "indogermanische Stammesgruppe im heutigen China",
+    "zh-TW": "亞洲古國名",
+    "ja": "紀元前3世紀から1世紀ごろにかけて東アジア・中央アジアに存在した遊牧民族とその国家名",
+    "fr": "ancien peuple mentionné dans les chroniques chinoises",
+    "vi": "Nguyệt Chi (Yuezhi) là một state lịch sử tồn tại từ 200 TCN đến 200 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "to": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuezhi",
+    "wikidata": "https://www.wikidata.org/wiki/Q467985"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

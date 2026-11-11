@@ -1,0 +1,149 @@
+{
+  "id": "mauretania",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q309272",
+  "names": {
+    "canonical": {
+      "vi": "Mauretania",
+      "en": "Mauretania",
+      "zh-CN": "毛里塔尼亚",
+      "zh-TW": "毛里塔尼亚",
+      "ja": "マウレタニア",
+      "fr": "Maurétanie",
+      "es": "Mauritania",
+      "ar": "موريطنية",
+      "ru": "Мавретания",
+      "de": "Mauretanien"
+    },
+    "aliases": {
+      "fr": [
+        "Mauretanie",
+        "Maurétanienne",
+        "Maurusie",
+        "Mauretania"
+      ],
+      "de": [
+        "Königreich Mauretanien"
+      ],
+      "ja": [
+        "マウレタニア王国"
+      ],
+      "ar": [
+        "مورطانيا القديمة",
+        "موريطانيا القديمة",
+        "مملكة موريطانيا",
+        "مورطانية القديمة",
+        "موريطنية القديمة",
+        "مملكة موريطنية",
+        "موريطانيا القديمه"
+      ],
+      "zh-CN": [
+        "毛里塔尼亚（罗马）"
+      ],
+      "es": [
+        "Mauretania"
+      ],
+      "en": [
+        "Mauritania",
+        "Maurusia"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historische Region in Nordafrika",
+    "en": "Ancient region in North Africa",
+    "fr": "ancien royaume berbère d'Afrique du Nord",
+    "es": "antigua región del norte de África",
+    "ar": "منطقة قديمة في شمال غرب أفريقيا",
+    "vi": "Mauretania (Mauretania) là một state lịch sử tồn tại từ 200 TCN đến 100 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "to": {
+      "year": -100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 TCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200,
+    -100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200,
+      -100
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -100,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mauretania",
+    "wikidata": "https://www.wikidata.org/wiki/Q309272"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "kingdom-of-italy",
+  "schema_version": "1.3.0",
+  "type": "kingdom",
+  "wikidata_id": "Q172579",
+  "names": {
+    "canonical": {
+      "vi": "Vương quốc Ý",
+      "en": "Kingdom of Italy",
+      "zh-CN": "意大利王国",
+      "zh-TW": "義大利王國",
+      "ja": "イタリア王国",
+      "fr": "royaume d'Italie",
+      "es": "Reino de Italia",
+      "ar": "مملكة إيطاليا",
+      "ru": "Королевство Италия",
+      "de": "Königreich Italien"
+    },
+    "aliases": {
+      "zh-CN": [
+        "義大利王國"
+      ],
+      "fr": [
+        "L'Italie après l'unification",
+        "Histoire de l'Italie de l'unification à la Première Guerre mondiale",
+        "Royaume d’Italie",
+        "Histoire de l'Italie de l'unification a la Premiere Guerre mondiale"
+      ],
+      "es": [
+        "Reino de Italia 1861 1946",
+        "Italia",
+        "Reino de Italia 1861–1946"
+      ],
+      "ru": [
+        "Италия",
+        "Итальянское королевство"
+      ],
+      "en": [
+        "Italy"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "kingdom in Southern Europe from 1861 to 1946",
+    "de": "historischer Staat von 1861 bis 1946",
+    "fr": "ancien État d'Europe (1861–1946)",
+    "es": "país de Europa (1861-1946)",
+    "zh-CN": "1861年至1946年間在阿平寧半島的王國",
+    "ru": "королевство в Южной Европе, существовавшее с 1861 по 1946 год",
+    "ja": "かつてヨーロッパに1861年から1946年まで存在した王国",
+    "vi": "vương quốc ở Nam Âu (1861–1946)",
+    "ar": "مملكة في جنوب أوروبا من عام 1861 إلى عام 1946"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "17/03/1914 SCN",
+      "month": 3,
+      "day": 17
+    },
+    "to": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "02/06/1914 SCN",
+      "month": 6,
+      "day": 2
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1914,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingdom%20of%20Italy",
+    "wikidata": "https://www.wikidata.org/wiki/Q172579"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

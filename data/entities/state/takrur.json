@@ -1,0 +1,141 @@
+{
+  "id": "takrur",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q2272880",
+  "names": {
+    "canonical": {
+      "vi": "Takrur",
+      "en": "Takrur",
+      "zh-CN": "塔克魯爾王國",
+      "zh-TW": "塔克魯爾王國",
+      "ja": "テクルール王国",
+      "fr": "Tekrour",
+      "es": "Takrur",
+      "ar": "تكرور",
+      "ru": "Текрур",
+      "de": "Takrur"
+    },
+    "aliases": {
+      "fr": [
+        "Takrour",
+        "Takrours"
+      ],
+      "ja": [
+        "テクルル",
+        "タクルー",
+        "タクルール"
+      ],
+      "zh-CN": [
+        "塔克鲁尔"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical state in West Africa",
+    "fr": "État médiéval d'Afrique de l'Ouest",
+    "de": "historischer Staat in Westafrika",
+    "ar": "دولة سابقة في غرب أفريقيا",
+    "vi": "Takrur (Takrur) là một state lịch sử tồn tại từ 1000 SCN đến 1200 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1000,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1000 SCN"
+    },
+    "to": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "duration_years": 200,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1000,
+    1100,
+    1200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1000,
+      1100,
+      1200
+    ],
+    "first_observed_year": 1000,
+    "last_observed_year": 1200,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Takrur",
+    "wikidata": "https://www.wikidata.org/wiki/Q2272880"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

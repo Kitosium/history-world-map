@@ -1,0 +1,208 @@
+{
+  "id": "moldova",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q217",
+  "names": {
+    "canonical": {
+      "vi": "Moldova",
+      "en": "Moldova",
+      "zh-CN": "摩尔多瓦",
+      "zh-TW": "摩爾多瓦",
+      "ja": "モルドバ",
+      "fr": "Moldavie",
+      "es": "Moldavia",
+      "ar": "مولدوفا",
+      "ru": "Молдова",
+      "de": "Moldau"
+    },
+    "aliases": {
+      "en": [
+        "Republic of Moldova",
+        "Moldavia",
+        "Republica Moldova"
+      ],
+      "de": [
+        "Moldawien",
+        "Republik Moldau"
+      ],
+      "es": [
+        "República de Moldovia",
+        "República de Moldova"
+      ],
+      "ru": [
+        "Республика Молдова",
+        "Республика Молдавия",
+        "Молдавия"
+      ],
+      "fr": [
+        "République de Moldavie",
+        "République de Moldova",
+        "la République de Moldavie"
+      ],
+      "ar": [
+        "مولدافيا",
+        "إمارة البُغدان",
+        "البغدان",
+        "جمهورية مولدوڤا",
+        "جمهورية مولدوفا"
+      ],
+      "ja": [
+        "モルドバ共和国"
+      ],
+      "zh-CN": [
+        "摩尔多瓦"
+      ],
+      "vi": [
+        "Cộng hòa Moldova",
+        "md",
+        "mda"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in Eastern Europe",
+    "de": "Staat in Südosteuropa",
+    "ru": "государство в Восточной Европе",
+    "es": "país de Europa Oriental",
+    "fr": "pays d'Europe orientale, enclavé entre la Roumanie et l'Ukraine",
+    "ja": "東ヨーロッパの国",
+    "ar": "دولة في أوروبا الشرقية",
+    "zh-CN": "东南欧国家",
+    "vi": "quốc gia ở Đông Âu",
+    "zh-TW": "東歐國家"
+  },
+  "existence": {
+    "from": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 626,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1400,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1400,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1400,
+    "last_observed_year": 2026,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Moldova",
+    "wikidata": "https://www.wikidata.org/wiki/Q217"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,227 @@
+{
+  "id": "somalia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1045",
+  "names": {
+    "canonical": {
+      "vi": "Somalia",
+      "en": "Somalia",
+      "zh-CN": "索马里",
+      "zh-TW": "索馬利亞",
+      "ja": "ソマリア",
+      "fr": "Somalie",
+      "es": "Somalia",
+      "ar": "الصومال",
+      "ru": "Сомали",
+      "de": "Somalia"
+    },
+    "aliases": {
+      "es": [
+        "República Federal de Somalia",
+        "Somalía"
+      ],
+      "ja": [
+        "ソマリア民主共和国",
+        "ソマリア連邦共和国"
+      ],
+      "ru": [
+        "Федеративная Республика Сомали"
+      ],
+      "ar": [
+        "صومال",
+        "جمهورية الصومال",
+        "جمهورية الصومال الديموقراطية"
+      ],
+      "en": [
+        "Federal Republic of Somalia"
+      ],
+      "fr": [
+        "la République fédérale de Somalie"
+      ],
+      "zh-CN": [
+        "索馬利亞",
+        "索马里",
+        "索马里联邦共和国"
+      ],
+      "vi": [
+        "Cộng hòa Liên bang Somalia",
+        "Cộng hoà Liên bang Somalia"
+      ],
+      "de": [
+        "Bundesrepublik Somalia"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in Africa",
+    "fr": "pays d'Afrique de l'Est",
+    "de": "Staat in Ostafrika",
+    "es": "país de África Oriental",
+    "ru": "государство в Восточной Африке",
+    "ja": "アフリカ東部の国",
+    "ar": "دولة في شرق أفريقيا",
+    "zh-CN": "非洲的國家",
+    "zh-TW": "非洲的國家",
+    "vi": "quốc gia ở sừng châu Phi"
+  },
+  "existence": {
+    "from": {
+      "year": 1815,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1815 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 211,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1815,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1815,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1815,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1815,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1815.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Somalia",
+    "wikidata": "https://www.wikidata.org/wiki/Q1045"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

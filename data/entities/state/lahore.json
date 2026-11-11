@@ -1,0 +1,123 @@
+{
+  "id": "lahore",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q11739",
+  "names": {
+    "canonical": {
+      "vi": "Lahore",
+      "en": "Lahore",
+      "zh-CN": "拉合尔",
+      "zh-TW": "拉合尔",
+      "ja": "ラホール",
+      "fr": "Lahore",
+      "es": "Lahore",
+      "ar": "لاهور",
+      "ru": "Лахор",
+      "de": "Lahore"
+    },
+    "aliases": {
+      "de": [
+        "Lāhaur",
+        "Lahor"
+      ],
+      "ar": [
+        "لاہور",
+        "لهور"
+      ],
+      "en": [
+        "LHR"
+      ],
+      "ja": [
+        "ラーホール"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "capital of the Punjab province, Pakistan",
+    "fr": "capitale du Pendjab pakistanais",
+    "es": "ciudad de Pakistán",
+    "de": "Stadt in Pakistan",
+    "ru": "город, столица провинции Пенджаб, Пакистан",
+    "ja": "パキスタンの都市",
+    "ar": "إحدى أكبر وأهم مدن باكستان",
+    "zh-CN": "巴基斯坦旁遮普城市",
+    "vi": "thủ phủ tỉnh Punjab, Pakistan"
+  },
+  "existence": {
+    "from": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "to": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1783
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1783
+    ],
+    "first_observed_year": 1783,
+    "last_observed_year": 1783,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lahore",
+    "wikidata": "https://www.wikidata.org/wiki/Q11739"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

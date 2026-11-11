@@ -1,0 +1,224 @@
+{
+  "id": "vietnam",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q881",
+  "names": {
+    "canonical": {
+      "vi": "Việt Nam",
+      "en": "Vietnam",
+      "zh-CN": "越南",
+      "zh-TW": "越南",
+      "ja": "ベトナム",
+      "fr": "Vietnam",
+      "es": "Vietnam",
+      "ar": "فيتنام",
+      "ru": "Вьетнам",
+      "de": "Vietnam"
+    },
+    "aliases": {
+      "fr": [
+        "Viet Nam",
+        "Viêt Nam",
+        "Viet-Nam",
+        "Viêt-Nam",
+        "Viêtnam",
+        "VN",
+        "la République socialiste du Vietnam",
+        "Việt Nam"
+      ],
+      "en": [
+        "Socialist Republic of Vietnam",
+        "VN",
+        "VIE",
+        "Việt Nam",
+        "SRV",
+        "VNM",
+        "Viet Nam",
+        "Socialist Republic of Viet Nam"
+      ],
+      "zh-CN": [
+        "越南社会主义共和国"
+      ],
+      "ru": [
+        "Социалистическая Республика Вьетнам"
+      ],
+      "vi": [
+        "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+        "CHXHCNVN",
+        "CHXHCN Việt Nam",
+        "VN"
+      ],
+      "zh-TW": [
+        "越南社會主義共和國"
+      ],
+      "es": [
+        "República Socialista de Vietnam",
+        "Viet Nam"
+      ],
+      "ja": [
+        "ベトナム社会主義共和国",
+        "越南",
+        "越",
+        "越南社会主義共和国",
+        "ヴェトナム"
+      ],
+      "de": [
+        "Sozialistische Republik Vietnam",
+        "VN"
+      ],
+      "ar": [
+        "جمهورية فيتنام الاشتراكية"
+      ]
+    }
+  },
+  "descriptions": {
+    "fr": "pays d'Asie du Sud-Est",
+    "zh-CN": "东南亚国家",
+    "ru": "государство в Юго-Восточной Азии",
+    "vi": "Quốc gia độc lập, thống nhất và toàn vẹn lãnh thổ ở Đông Nam Á (khai sinh nước Việt Nam Dân chủ Cộng hòa ngày 2/9/1945, nay là Cộng hòa Xã hội chủ nghĩa Việt Nam), bao gồm đất liền hình chữ S và chủ quyền đối với hai quần đảo Hoàng Sa, Trường Sa trên Biển Đông.",
+    "zh-TW": "東南亞國家",
+    "es": "país de Asia Sudoriental",
+    "de": "Land in Südostasien",
+    "ar": "دولة في جنوب شرق آسيا",
+    "en": "Sovereign nation in Southeast Asia (proclaimed independence on September 2, 1945), encompassing its S-shaped mainland territory and sovereignty over the Hoàng Sa (Paracel) and Trường Sa (Spratly) archipelagos in the East Sea.",
+    "ja": "東南アジアの国"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "02/09/1945 SCN",
+      "month": 9,
+      "day": 2
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "03/11/2026 SCN",
+      "month": 11,
+      "day": 3
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1960,
+    "last_observed_year": 2026,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vietnam",
+    "wikidata": "https://www.wikidata.org/wiki/Q881"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

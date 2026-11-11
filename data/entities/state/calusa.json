@@ -1,0 +1,118 @@
+{
+  "id": "calusa",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q51782",
+  "names": {
+    "canonical": {
+      "vi": "Calusa",
+      "en": "Calusa",
+      "zh-CN": "卡錄薩族",
+      "zh-TW": "卡錄薩族",
+      "fr": "Calusa",
+      "es": "calusa",
+      "ru": "Калуса",
+      "de": "Calusa"
+    },
+    "aliases": {
+      "zh-CN": [
+        "卡盧薩人"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "Native American people who lived on the coast and along the inner waterways of Florida's southwest coast",
+    "es": "tribu amerindia de la costa de Florida",
+    "de": "ehemaliger Indianerstamm in Florida",
+    "fr": "ancienne tribu amérindienne de Floride",
+    "vi": "người Mỹ bản địa sống ở bờ biển và dọc theo các tuyến đường thủy nội địa của bờ biển phía tây nam Florida"
+  },
+  "existence": {
+    "from": {
+      "year": 1492,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1492 SCN"
+    },
+    "to": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "duration_years": 8,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1492,
+    1500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1492,
+      1500
+    ],
+    "first_observed_year": 1492,
+    "last_observed_year": 1500,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Calusa",
+    "wikidata": "https://www.wikidata.org/wiki/Q51782"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

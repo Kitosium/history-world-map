@@ -1,0 +1,173 @@
+{
+  "id": "dahomey",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q468814",
+  "names": {
+    "canonical": {
+      "vi": "Dahomey",
+      "en": "Dahomey",
+      "zh-CN": "达荷美王国",
+      "zh-TW": "达荷美王国",
+      "ja": "ダホメ王国",
+      "fr": "royaume du Dahomey",
+      "es": "Reino de Dahomey",
+      "ar": "مملكة داهومي",
+      "ru": "Дагомея",
+      "de": "Königreich Dahomey"
+    },
+    "aliases": {
+      "fr": [
+        "Dahomé",
+        "royaume de Dahomey",
+        "royaume d'Abomey"
+      ],
+      "de": [
+        "Dahome",
+        "Dahomé"
+      ],
+      "ja": [
+        "ダホメー王国",
+        "ダホメイ王国"
+      ],
+      "en": [
+        "Kingdom of Dahomey"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historisches Königreich",
+    "fr": "ancien royaume africain ayant occupé le territoire de l'actuel Bénin (1600-1904)",
+    "en": "1600–1904 kingdom in West Africa",
+    "ru": "историческое государство в Африке",
+    "zh-CN": "非洲历史上的一个国家",
+    "ar": "مملكة سابقة في بنين(1600-1904)",
+    "ja": "現在のベナンにあった王国（1600-1900）",
+    "es": "Antiguo estado africano",
+    "vi": "Dahomey (Dahomey) là một state lịch sử tồn tại từ 1783 SCN đến 1900 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1783,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1783 SCN"
+    },
+    "to": {
+      "year": 1900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1900 SCN"
+    },
+    "duration_years": 117,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1783,
+    1800,
+    1878,
+    1880,
+    1900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1783,
+      1800,
+      1878,
+      1880,
+      1900
+    ],
+    "first_observed_year": 1783,
+    "last_observed_year": 1900,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1878,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1878.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1880,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1880.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dahomey",
+    "wikidata": "https://www.wikidata.org/wiki/Q468814"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "magadha",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q234009",
+  "names": {
+    "canonical": {
+      "vi": "Magadha",
+      "en": "Magadha",
+      "zh-CN": "摩揭陀",
+      "zh-TW": "摩揭陀",
+      "ja": "マガダ国",
+      "fr": "royaume de Magadha",
+      "es": "Magadha",
+      "ar": "مملكة ماجادها",
+      "ru": "Магадха",
+      "de": "Magadha"
+    },
+    "aliases": {
+      "zh-CN": [
+        "摩伽陀",
+        "摩揭陀王國",
+        "摩揭陀国",
+        "摩竭陀",
+        "摩伽陀國"
+      ],
+      "fr": [
+        "Royaume de Magadha",
+        "Maghada"
+      ],
+      "es": [
+        "Reino de Maghada",
+        "Maghada",
+        "Imperio Magadha",
+        "Reino de Magadha"
+      ],
+      "ja": [
+        "マガダ",
+        "マガタ",
+        "マガダ帝国の年表"
+      ],
+      "vi": [
+        "Đế quốc Magadha",
+        "Vương quốc Ma-kiệt-đà",
+        "Ma Kiệt Đà",
+        "Ma-kiệt-đà"
+      ],
+      "en": [
+        "Magadha kingdom"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat in Indien",
+    "en": "kingdom in ancient India",
+    "fr": "ancien État",
+    "zh-CN": "古印度國家",
+    "ru": "древняя страна и историческая область в Индии",
+    "ar": "إحدى ممالك الهند القديمة",
+    "ja": "古代インドにおける十六大国の一つ",
+    "vi": "Magadha (Magadha) là một state lịch sử tồn tại từ 500 TCN đến 200 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": -500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "500 TCN"
+    },
+    "to": {
+      "year": 200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 SCN"
+    },
+    "duration_years": 700,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -500,
+    -400,
+    -323,
+    200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -500,
+      -400,
+      -323,
+      200
+    ],
+    "first_observed_year": -500,
+    "last_observed_year": 200,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Magadha",
+    "wikidata": "https://www.wikidata.org/wiki/Q234009"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

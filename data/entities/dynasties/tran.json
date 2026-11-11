@@ -1,0 +1,18 @@
+{
+  "id": "tran",
+  "state_id": "đại-việt",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Trần (Triều Trần)",
+      "en": "Tran dynasty",
+      "zh-CN": "陈朝",
+      "ja": "陳朝"
+    }
+  },
+  "from_year": 1225,
+  "to_year": 1400,
+  "capital": "thang-long",
+  "source_ids": [
+    "src-dai-viet"
+  ]
+}

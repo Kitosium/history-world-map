@@ -1,0 +1,119 @@
+{
+  "id": "maan",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q16218159",
+  "names": {
+    "canonical": {
+      "vi": "Maan",
+      "en": "Maan",
+      "fr": "Maan",
+      "es": "Maan",
+      "ru": "Маан (значения)",
+      "de": "Maan"
+    },
+    "aliases": {
+      "fr": [
+        "Ma'an"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Wikimedia-Begriffsklärungsseite",
+    "es": "desambiguación de Wikimedia",
+    "fr": "page d'homonymie de Wikimédia",
+    "ja": "ウィキメディアの曖昧さ回避ページ",
+    "ru": "страница значений",
+    "zh-CN": "维基媒体消歧义页",
+    "ar": "صفحة توضيح لويكيميديا",
+    "zh-TW": "維基媒體消歧義頁"
+  },
+  "existence": {
+    "from": {
+      "year": -200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "200 TCN"
+    },
+    "to": {
+      "year": -100,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "100 TCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -200,
+    -100
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -200,
+      -100
+    ],
+    "first_observed_year": -200,
+    "last_observed_year": -100,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maan",
+    "wikidata": "https://www.wikidata.org/wiki/Q16218159"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,226 @@
+{
+  "id": "silla",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q28456",
+  "names": {
+    "canonical": {
+      "vi": "Tân La",
+      "en": "Silla",
+      "zh-CN": "新罗",
+      "zh-TW": "新羅",
+      "ja": "新羅",
+      "fr": "Silla",
+      "es": "Silla",
+      "ar": "مملكة شلا",
+      "ru": "Силла",
+      "de": "Silla"
+    },
+    "aliases": {
+      "en": [
+        "Seora",
+        "Seorabeol",
+        "Sara",
+        "Saro",
+        "Gyerim",
+        "Shilla",
+        "Silla (Kingdom)",
+        "Kingdom of Silla"
+      ],
+      "ar": [
+        "سارا"
+      ],
+      "zh-CN": [
+        "新羅"
+      ],
+      "ja": [
+        "駟盧国"
+      ],
+      "de": [
+        "Gyerim"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "kingdom on the Korean Peninsula (c.57 BCE-935 CE)",
+    "de": "koreanisches Reich 57-935",
+    "es": "reino de los Tres Reinos de Corea",
+    "ru": "одно из Трёх корейских государств",
+    "ja": "古代朝鮮の王朝",
+    "zh-CN": "朝鲜历史上的国家",
+    "fr": "ancien royaume coréen",
+    "vi": "vương quốc cổ đại trên bán đảo Triều Tiên"
+  },
+  "existence": {
+    "from": {
+      "year": -1,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1 TCN"
+    },
+    "to": {
+      "year": 900,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "900 SCN"
+    },
+    "duration_years": 901,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1,
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    900
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      900
+    ],
+    "first_observed_year": -1,
+    "last_observed_year": 900,
+    "feature_count": 9,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 100,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/100.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 900,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/900.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Silla",
+    "wikidata": "https://www.wikidata.org/wiki/Q28456"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

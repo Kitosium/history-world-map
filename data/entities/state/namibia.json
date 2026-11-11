@@ -1,0 +1,215 @@
+{
+  "id": "namibia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q1030",
+  "names": {
+    "canonical": {
+      "vi": "Namibia",
+      "en": "Namibia",
+      "zh-CN": "纳米比亚",
+      "zh-TW": "納米比亞",
+      "ja": "ナミビア",
+      "fr": "Namibie",
+      "es": "Namibia",
+      "ar": "ناميبيا",
+      "ru": "Намибия",
+      "de": "Namibia"
+    },
+    "aliases": {
+      "en": [
+        "Republic of Namibia",
+        "na"
+      ],
+      "es": [
+        "República de Namibia"
+      ],
+      "ru": [
+        "Республика Намибия",
+        "Юго-Западная Африка"
+      ],
+      "de": [
+        "Republik Namibia",
+        "na"
+      ],
+      "ja": [
+        "ナミビア共和国"
+      ],
+      "ar": [
+        "نامبيا",
+        "ناميبي"
+      ],
+      "fr": [
+        "République de Namibie",
+        "la République de Namibie"
+      ],
+      "zh-CN": [
+        "納米比亞",
+        "纳国",
+        "纳米比亚共和国"
+      ],
+      "vi": [
+        "Cộng hòa Namibia",
+        "Cộng hoà Namibia"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "country in Southern Africa",
+    "de": "Staat im südlichen Afrika",
+    "es": "país de África del Sur",
+    "fr": "pays d'Afrique australe indépendante depuis 1990",
+    "ru": "страна в Африке",
+    "ar": "دولة في جنوب غرب أفريقيا",
+    "ja": "アフリカ南部の国",
+    "zh-CN": "非洲南部國家",
+    "zh-TW": "非洲南部國家",
+    "vi": "quốc gia ở Nam Phi"
+  },
+  "existence": {
+    "from": {
+      "year": 1945,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1945 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 81,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1945,
+    "last_observed_year": 2026,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Namibia",
+    "wikidata": "https://www.wikidata.org/wiki/Q1030"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

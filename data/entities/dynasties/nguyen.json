@@ -1,0 +1,19 @@
+{
+  "id": "nguyen",
+  "state_id": "dai-nam",
+  "names": {
+    "canonical": {
+      "vi": "Nhà Nguyễn (Triều Nguyễn)",
+      "en": "Nguyen dynasty",
+      "zh-CN": "阮朝",
+      "ja": "阮朝"
+    }
+  },
+  "from_year": 1802,
+  "to_year": 1945,
+  "capital": "phu-xuan-hue",
+  "source_ids": [
+    "src-dai-nam",
+    "src-dao-duy-anh"
+  ]
+}

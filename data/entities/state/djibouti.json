@@ -1,0 +1,223 @@
+{
+  "id": "djibouti",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q977",
+  "names": {
+    "canonical": {
+      "vi": "Djibouti",
+      "en": "Djibouti",
+      "zh-CN": "吉布提",
+      "zh-TW": "吉布地",
+      "ja": "ジブチ",
+      "fr": "Djibouti",
+      "es": "Yibuti",
+      "ar": "جيبوتي",
+      "ru": "Джибути",
+      "de": "Dschibuti"
+    },
+    "aliases": {
+      "es": [
+        "Djibouti",
+        "República de Yibuti"
+      ],
+      "en": [
+        "Republic of Djibouti",
+        "Jabuuti",
+        "Gabuuti",
+        "Jībūtī",
+        "dj"
+      ],
+      "ru": [
+        "Республика Джибути"
+      ],
+      "zh-CN": [
+        "吉布地",
+        "吉布提共和国",
+        "吉布地共和國",
+        "吉布提共和國"
+      ],
+      "ja": [
+        "ジブチ共和国"
+      ],
+      "fr": [
+        "la République de Djibouti"
+      ],
+      "vi": [
+        "Cộng hòa Djibouti",
+        "Cộng hoà Djibouti"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "sovereign state in Africa",
+    "fr": "pays d'Afrique de l'Est independant depuis 1977",
+    "ru": "государство в Восточной Африке",
+    "de": "Staat in Ostafrika",
+    "es": "país de África Oriental",
+    "ar": "دولة في شرق أفريقيا",
+    "vi": "quốc gia ở sừng châu Phi",
+    "zh-CN": "非洲东北部国家，位于埃塞俄比亚与索马里之间",
+    "ja": "アフリカ北東部の国",
+    "zh-TW": "非洲國家"
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 2026,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "2026 SCN"
+    },
+    "duration_years": 112,
+    "status": "active",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "modern_snapshot",
+    "continuity_asserted": true,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1945,
+    1960,
+    1994,
+    2000,
+    2010,
+    2026
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1945,
+      1960,
+      1994,
+      2000,
+      2010,
+      2026
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 2026,
+    "feature_count": 7,
+    "boundary_source_ids": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "mixed",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1945,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1945.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1960,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1960.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1994,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1994.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2000.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2010,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2010.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 2026,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/2026.geojson",
+      "source_ids": [
+        "src-basemaps",
+        "src-natural-earth"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-natural-earth",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-natural-earth",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps",
+      "src-natural-earth"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "high",
+  "confidence_basis": "Boundaries are marked precise and sources are tier 1-3.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Djibouti",
+    "wikidata": "https://www.wikidata.org/wiki/Q977"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

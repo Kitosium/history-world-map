@@ -1,0 +1,65 @@
+{
+  "$schema": "../schemas/taxonomy.schema.json",
+  "id": "source-tiers",
+  "version": "1.0.0",
+  "description": {
+    "vi": "Thứ bậc độ tin cậy của nguồn. Số nhỏ hơn = độ tin cậy cao hơn.",
+    "en": "Source reliability tiers. A lower number means higher reliability."
+  },
+  "tiers": {
+    "tier_1_official_primary": {
+      "rank": 1,
+      "labels": { "vi": "Sử liệu chính thức / sơ cấp", "en": "Official primary source" },
+      "description": {
+        "vi": "Biên niên, công báo, văn bản nhà nước đương thời. Có giá trị chứng cứ cao nhưng vẫn mang thiên kiến của người biên soạn.",
+        "en": "Contemporary chronicles, gazettes and state documents. High evidentiary value but still carry authorial bias."
+      },
+      "examples": ["Đại Việt sử ký toàn thư", "Đại Nam nhất thống chí", "Sử ký Tư Mã Thiên"]
+    },
+    "tier_2_reference_work": {
+      "rank": 2,
+      "labels": { "vi": "Công trình tra cứu chuẩn", "en": "Standard reference work" },
+      "description": {
+        "vi": "Từ điển, bách khoa thư học thuật, atlas chuẩn có hội đồng biên tập.",
+        "en": "Dictionaries, scholarly encyclopaedias and standard atlases with editorial boards."
+      },
+      "examples": []
+    },
+    "tier_3_peer_reviewed_academic": {
+      "rank": 3,
+      "labels": { "vi": "Học thuật bình duyệt", "en": "Peer-reviewed academic" },
+      "description": {
+        "vi": "Chuyên khảo, bài báo khoa học có bình duyệt hoặc do nhà xuất bản học thuật phát hành.",
+        "en": "Monographs and journal articles that are peer reviewed or published by an academic press."
+      },
+      "examples": ["Đào Duy Anh, Đất nước Việt Nam qua các đời", "Lương Ninh, Lịch sử Vương quốc Champa"]
+    },
+    "tier_3_authoritative_cartography": {
+      "rank": 3,
+      "labels": { "vi": "Bản đồ chính thức có thẩm quyền", "en": "Authoritative cartography" },
+      "description": {
+        "vi": "Dữ liệu bản đồ do cơ quan bản đồ quốc gia hoặc tổ chức biên tập uy tín công bố, dựa trên nguồn chính thức.",
+        "en": "Map data published by national mapping agencies or reputable editorial bodies, derived from official sources."
+      },
+      "examples": ["Natural Earth (Admin-0, 1:10m)"]
+    },
+    "tier_4_scholarly_atlas": {
+      "rank": 4,
+      "labels": { "vi": "Atlas học thuật tổng hợp", "en": "Scholarly atlas compilation" },
+      "description": {
+        "vi": "Atlas lịch sử tổng hợp, hữu ích để tham khảo nhưng ranh giới là tái dựng và cần đối chiếu.",
+        "en": "A compiled historical atlas, useful for reference, but its boundaries are reconstructions that need cross-checking."
+      },
+      "examples": ["Historical Basemaps (Ourednik)"]
+    },
+    "tier_5_general_reference": {
+      "rank": 5,
+      "labels": { "vi": "Nguồn tham khảo phổ thông", "en": "General reference" },
+      "description": {
+        "vi": "Dữ liệu liên kết mở, bách khoa thư phổ thông. Dùng để đối chiếu tên gọi và định danh, không dùng làm căn cứ ranh giới duy nhất.",
+        "en": "Open linked data and general encyclopaedias. Used for names and identifiers, not as the sole basis for boundaries."
+      },
+      "examples": ["Wikidata"]
+    }
+  }
+}

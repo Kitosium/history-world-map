@@ -1,0 +1,141 @@
+{
+  "id": "celtiberians",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q5011445",
+  "names": {
+    "canonical": {
+      "vi": "Người Celtiberi",
+      "en": "Celtiberians",
+      "zh-CN": "凱爾特伊比利亞人",
+      "zh-TW": "凱爾特伊比利亞人",
+      "ja": "ケルティベリア人",
+      "fr": "Celtibères",
+      "es": "celtíberos",
+      "ar": "سلتيأيبيرون",
+      "ru": "кельтиберы",
+      "de": "Keltiberer"
+    },
+    "aliases": {
+      "es": [
+        "celtiberos",
+        "celtíbero",
+        "celtibero",
+        "pueblo celtíbero",
+        "pueblos celtíberos"
+      ],
+      "en": [
+        "Celtiberian people",
+        "Celtiberi"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "ancient Celtic peoples of the Iberian Peninsula",
+    "es": "serie de pueblos prerromanos celtas o celtizados",
+    "zh-TW": "古代居住於伊比利亞半島之凱爾特人",
+    "de": "Stämme in vorrömischer Zeit im mittleren/nördlichen Spanien und im Übergangsgebiet zwischen den iberischen Stämmen entlang der Mittelmeerküste der Iberischen Halbinsel und den Kelten",
+    "fr": "peuple de l’ancienne Espagne",
+    "vi": "Người Celtiberi (Celtiberians) là một state lịch sử tồn tại từ 1500 TCN đến 700 TCN."
+  },
+  "existence": {
+    "from": {
+      "year": -1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 TCN"
+    },
+    "to": {
+      "year": -700,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "700 TCN"
+    },
+    "duration_years": 800,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -1500,
+    -1000,
+    -700
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -1500,
+      -1000,
+      -700
+    ],
+    "first_observed_year": -1500,
+    "last_observed_year": -700,
+    "feature_count": 3,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -1000,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-1000.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Celtiberians",
+    "wikidata": "https://www.wikidata.org/wiki/Q5011445"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

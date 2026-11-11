@@ -1,0 +1,156 @@
+{
+  "id": "navajo",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q108266",
+  "names": {
+    "canonical": {
+      "vi": "người Navajo",
+      "en": "Navajo",
+      "zh-CN": "纳瓦霍族",
+      "zh-TW": "納瓦霍族",
+      "ja": "ディネ",
+      "fr": "Navajo",
+      "es": "navajo",
+      "ar": "نافاجو",
+      "ru": "навахо",
+      "de": "Navajo"
+    },
+    "aliases": {
+      "zh-CN": [
+        "納瓦約族",
+        "納瓦霍人",
+        "纳瓦霍人"
+      ],
+      "fr": [
+        "Navaho",
+        "Navajos",
+        "Navahos",
+        "peuple navajo",
+        "réserve navajo"
+      ],
+      "es": [
+        "Dineh",
+        "Nativos navajo",
+        "Dine",
+        "Pueblo navajo",
+        "Diné",
+        "Indios navajo",
+        "Navajos"
+      ],
+      "de": [
+        "Dineh",
+        "Diné"
+      ],
+      "ja": [
+        "ナバホ国",
+        "ナバホ族",
+        "ナバホ",
+        "ナヴァホ族",
+        "ナバホ人",
+        "ナヴァホ",
+        "デネ"
+      ],
+      "ru": [
+        "динета",
+        "навахи",
+        "Diné",
+        "дине"
+      ],
+      "en": [
+        "Naabeehó",
+        "Navaho",
+        "Diné",
+        "Navajo people"
+      ],
+      "ar": [
+        "نافاهو"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "Stamm indigener Amerikaner in Arizona",
+    "ru": "коренной народ в Северной Америке",
+    "en": "ethnic group in North America",
+    "fr": "peuple autochtone d'Amérique du Nord",
+    "es": "pueblo indígena norteamericano del suroeste de Estados Unidos",
+    "ja": "アメリカ南西部に広く居住するアサバスカ語族系の先住民族",
+    "vi": "người Navajo (Navajo) là một state lịch sử tồn tại từ 1500 SCN đến 1500 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "to": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1500
+    ],
+    "first_observed_year": 1500,
+    "last_observed_year": 1500,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Navajo",
+    "wikidata": "https://www.wikidata.org/wiki/Q108266"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

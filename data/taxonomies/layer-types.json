@@ -1,0 +1,51 @@
+{
+  "$schema": "../schemas/taxonomy.schema.json",
+  "id": "layer-types",
+  "version": "1.0.0",
+  "description": {
+    "vi": "Loại lớp hình học trong các tệp GeoJSON theo năm.",
+    "en": "Geometry layer types used in the yearly GeoJSON files."
+  },
+  "types": {
+    "sovereign_territory": {
+      "labels": {
+        "vi": "Lãnh thổ có chủ quyền",
+        "en": "Sovereign territory"
+      },
+      "description": {
+        "vi": "Vùng lãnh thổ do một thực thể chính trị kiểm soát hoặc tuyên bố chủ quyền.",
+        "en": "Territory controlled or claimed by a political entity."
+      }
+    },
+    "dependent_territory": {
+      "labels": {
+        "vi": "Lãnh thổ phụ thuộc",
+        "en": "Dependent territory"
+      },
+      "description": {
+        "vi": "Lãnh thổ được quản lý bởi một quốc gia khác.",
+        "en": "Territory administered by another state."
+      }
+    },
+    "disputed_territory": {
+      "labels": {
+        "vi": "Lãnh thổ tranh chấp",
+        "en": "Disputed territory"
+      },
+      "description": {
+        "vi": "Khu vực có tuyên bố chủ quyền chồng lấn.",
+        "en": "An area with overlapping sovereignty claims."
+      }
+    },
+    "historical_reconstruction": {
+      "labels": {
+        "vi": "Tái dựng lịch sử",
+        "en": "Historical reconstruction"
+      },
+      "description": {
+        "vi": "Hình học được tái dựng từ atlas lịch sử.",
+        "en": "Geometry reconstructed from a historical atlas."
+      }
+    }
+  }
+}

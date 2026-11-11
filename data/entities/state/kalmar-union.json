@@ -1,0 +1,141 @@
+{
+  "id": "kalmar-union",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q62623",
+  "names": {
+    "canonical": {
+      "vi": "Liên minh Kalmar",
+      "en": "Kalmar Union",
+      "zh-CN": "卡尔马联合",
+      "zh-TW": "卡尔马联合",
+      "ja": "カルマル同盟",
+      "fr": "Union de Kalmar",
+      "es": "Unión de Kalmar",
+      "ar": "اتحاد كالمار",
+      "ru": "Кальмарская уния",
+      "de": "Kalmarer Union"
+    },
+    "aliases": {
+      "zh-CN": [
+        "卡尔马联盟",
+        "卡爾瑪聯合",
+        "卡尔马同盟"
+      ],
+      "es": [
+        "Union de Kalmar"
+      ],
+      "ar": [
+        "إتحاد كالمار"
+      ],
+      "fr": [
+        "Union de Calmar"
+      ],
+      "de": [
+        "Kalmarische Union"
+      ],
+      "en": [
+        "Union of Kalmaris"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "former country. personal union of the three kingdoms of Denmark, Sweden and Norway (1397–1523)",
+    "de": "Vereinigung der Königreiche Dänemark, Norwegen und Schweden (1397–1523)",
+    "zh-CN": "历史國家",
+    "es": "estado nórdico (1397–1523)",
+    "ru": "союз Дании, Швеции и Норвегии (1397–1523)",
+    "fr": "union formée par les trois royaumes scandinaves de Danemark, Suède et Norvège (1397–1523)",
+    "ja": "デンマーク、スウェーデン、ノルウェー３王国の同君連合 (1397 年－1523 年)",
+    "zh-TW": "歷史國家",
+    "vi": "Liên minh Kalmar (Kalmar Union) là một state lịch sử tồn tại từ 1400 SCN đến 1500 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "to": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "duration_years": 100,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1400,
+    1500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1400,
+      1500
+    ],
+    "first_observed_year": 1400,
+    "last_observed_year": 1500,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalmar%20Union",
+    "wikidata": "https://www.wikidata.org/wiki/Q62623"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

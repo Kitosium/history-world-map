@@ -1,0 +1,174 @@
+{
+  "id": "french-equatorial-africa",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q271894",
+  "names": {
+    "canonical": {
+      "vi": "Xích đạo châu Phi thuộc Pháp",
+      "en": "French Equatorial Africa",
+      "zh-CN": "法属赤道非洲",
+      "zh-TW": "法屬赤道非洲",
+      "ja": "フランス領赤道アフリカ",
+      "fr": "Afrique-Équatoriale française",
+      "es": "África Ecuatorial Francesa",
+      "ar": "أفريقيا الاستوائية الفرنسية",
+      "ru": "Французская Экваториальная Африка",
+      "de": "Französisch-Äquatorialafrika"
+    },
+    "aliases": {
+      "fr": [
+        "Afrique equatoriale francaise",
+        "Afrique-Equatoriale française",
+        "L'Afrique-Équatoriale française",
+        "AÉF",
+        "AEF"
+      ],
+      "es": [
+        "Africa Ecuatorial Francesa",
+        "Afrique Equatoriale Française",
+        "Afrique Équatoriale Française",
+        "Afrique Équatoriale Francaise",
+        "Afrique Equatoriale Francaise"
+      ],
+      "de": [
+        "Französisch Äquatorialafrika",
+        "Französisch-Äquatorial-Afrika",
+        "AEF"
+      ],
+      "ja": [
+        "AEF",
+        "フランス領赤道アフリカ)"
+      ],
+      "ar": [
+        "أفريقيا الإستوائية الفرنسية"
+      ],
+      "en": [
+        "Afrique équatoriale française",
+        "A.E.F."
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "former federation of French colonial possessions in Central Africa",
+    "de": "französische Kolonie im zentralen Afrika",
+    "fr": "ancienne colonie française en Afrique",
+    "ru": "колониальное владение Франции в центральной Африке в 1910—1958 годах",
+    "es": "conjunto de colonias francesas en África",
+    "ja": "かつてアフリカに存在したフランスの植民地",
+    "zh-CN": "殖民地",
+    "vi": "Xích đạo châu Phi thuộc Pháp (French Equatorial Africa) là một state lịch sử tồn tại từ 1914 SCN đến 1938 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1914,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1914 SCN"
+    },
+    "to": {
+      "year": 1938,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1938 SCN"
+    },
+    "duration_years": 24,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1914,
+    1920,
+    1930,
+    1938
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1914,
+      1920,
+      1930,
+      1938
+    ],
+    "first_observed_year": 1914,
+    "last_observed_year": 1938,
+    "feature_count": 4,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1914,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1914.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1920,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1920.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1930,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1930.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1938,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1938.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/French%20Equatorial%20Africa",
+    "wikidata": "https://www.wikidata.org/wiki/Q271894"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "kandy",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q203197",
+  "names": {
+    "canonical": {
+      "vi": "Kandy",
+      "en": "Kandy",
+      "zh-CN": "康提",
+      "zh-TW": "康提",
+      "ja": "キャンディ",
+      "fr": "Kandy",
+      "es": "Kandy",
+      "ar": "كاندي",
+      "ru": "Канди",
+      "de": "Kandy"
+    },
+    "aliases": {
+      "zh-CN": [
+        "聖城康提"
+      ],
+      "de": [
+        "Maha Nuwara",
+        "Sri Wardhanapura",
+        "Senkadagalapura",
+        "Candy"
+      ],
+      "ar": [
+        "كاندي (مدينه)"
+      ],
+      "en": [
+        "Mahanuwara"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "capital city in Central Province, Sri Lanka",
+    "ru": "город в Шри-Ланке, административный центр Центральной провинции и округа Канди",
+    "de": "Stadt in Sri Lanka",
+    "fr": "capitale de la province centrale du Sri Lanka",
+    "ja": "スリランカの都市",
+    "zh-CN": "斯里兰卡中部城市，中央省省会",
+    "vi": "Kandy (Kandy) là một state lịch sử tồn tại từ 1650 SCN đến 1800 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1650,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1650 SCN"
+    },
+    "to": {
+      "year": 1800,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1800 SCN"
+    },
+    "duration_years": 150,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1650,
+    1700,
+    1715,
+    1783,
+    1800
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1650,
+      1700,
+      1715,
+      1783,
+      1800
+    ],
+    "first_observed_year": 1650,
+    "last_observed_year": 1800,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "high",
+    "boundary_precision": "precise_reconstruction",
+    "border_precision": 3
+  },
+  "boundary_references": [
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1783,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1783.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    },
+    {
+      "year": 1800,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1800.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "high",
+      "boundary_precision": "precise_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "medium",
+  "confidence_basis": "Boundaries are approximate or the best source is tier 4.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kandy",
+    "wikidata": "https://www.wikidata.org/wiki/Q203197"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "src-basemaps",
+  "schema_version": "1.3.0",
+  "type": "historical_atlas",
+  "title": {
+    "canonical": {
+      "en": "Historical Basemaps: Georeferenced Global Political Boundaries (4000 BCE - 2010 CE)",
+      "vi": "Historical Basemaps: Ranh giới Chính trị Toàn cầu (4000 TCN - 2010 SCN)"
+    }
+  },
+  "creators": [
+    {
+      "name": "André Ourednik",
+      "role": "cartographer",
+      "affiliation": "University of Lausanne / EPFL"
+    }
+  ],
+  "publication": {
+    "publisher": "Open Source Historical GIS",
+    "year": 2026,
+    "place": "Lausanne",
+    "edition": "master (commit 4b5039e)",
+    "language": "en",
+    "volumes": "51 lớp năm, 4000 TCN - 2010 SCN",
+    "notes": "GeoJSON theo từng năm; trường NAME, SUBJECTO, PARTOF và BORDERPRECISION (1-3)."
+  },
+  "digital_access": [
+    {
+      "url": "https://github.com/aourednik/historical-basemaps",
+      "access_type": "open_access"
+    },
+    {
+      "label": "Commit 4b5039e (bản dùng trong dataset)",
+      "url": "https://github.com/aourednik/historical-basemaps/commit/4b5039e50d8d2464b065bd76ad6086cd4597108d",
+      "access_type": "open_access",
+      "format": "html",
+      "provider": "GitHub"
+    },
+    {
+      "label": "index.json (danh mục lớp theo năm)",
+      "url": "https://raw.githubusercontent.com/aourednik/historical-basemaps/master/index.json",
+      "access_type": "open_access",
+      "format": "json",
+      "provider": "GitHub"
+    }
+  ],
+  "license": {
+    "name": "GNU General Public License v3.0",
+    "spdx": "GPL-3.0",
+    "url": "https://www.gnu.org/licenses/gpl-3.0.html"
+  },
+  "coverage": {
+    "temporal": "4000 BCE - 2010 CE",
+    "spatial": "global",
+    "geometry": "generalised polygons suitable for world/continental scale",
+    "border_precision": "BORDERPRECISION 1-3 preserved per feature"
+  },
+  "critique_and_reliability": {
+    "tier": "tier_4_scholarly_atlas",
+    "historiographical_notes": "Bản đồ biên giới lịch sử được georeference theo từng mốc năm, gồm cả các vùng văn hóa và bộ tộc. Dự án tự nhận là work in progress và yêu cầu đối chiếu với nguồn khác trước khi dùng cho nghiên cứu. Dataset chỉ dùng các polygon chính trị sau khi đã lọc các lớp văn hóa/bộ tộc; giấy phép GPL-3.0 áp dụng cho dữ liệu gốc. Không có PDF chính thức cho bộ dữ liệu này.",
+    "spatial_precision_rating": "georeferenced_vector"
+  },
+  "citation_formats": {
+    "chicago": "Ourednik, André. Historical Basemaps: Georeferenced Global Political Boundaries, 4000 BCE–2010 CE. Commit 4b5039e. Lausanne: Open Source Historical GIS, 2026. https://github.com/aourednik/historical-basemaps.",
+    "apa": "Ourednik, A. (2026). Historical basemaps: Georeferenced global political boundaries, 4000 BCE–2010 CE (Commit 4b5039e) [Data set]. Open Source Historical GIS. https://github.com/aourednik/historical-basemaps",
+    "bibtex": "@misc{historicalbasemaps2026, author={André Ourednik}, title={Historical Basemaps: Georeferenced Global Political Boundaries, 4000 BCE--2010 CE}, year={2026}, howpublished={GitHub}, note={Commit 4b5039e; GPL-3.0}, url={https://github.com/aourednik/historical-basemaps}}"
+  },
+  "last_verified": "2026-11-05",
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

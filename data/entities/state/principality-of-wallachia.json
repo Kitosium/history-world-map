@@ -1,0 +1,124 @@
+{
+  "id": "principality-of-wallachia",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q389004",
+  "names": {
+    "canonical": {
+      "vi": "Principality of Wallachia",
+      "en": "Principality of Wallachia",
+      "zh-CN": "瓦拉几亚公国",
+      "zh-TW": "瓦拉几亚公国",
+      "ja": "ルーマニア公国 (ワラキア)",
+      "fr": "principauté de Valachie",
+      "es": "Principado de Valaquia",
+      "ar": "الأفلاق",
+      "ru": "Валахия",
+      "de": "Fürstentum Walachei"
+    },
+    "aliases": {
+      "ru": [
+        "Валашское княжество",
+        "княжество Валахия",
+        "Валахия (княжество)"
+      ],
+      "ja": [
+        "エフラク",
+        "ワラキア侯国"
+      ],
+      "en": [
+        "Țara Românească"
+      ],
+      "fr": [
+        "Valachie (principauté)"
+      ],
+      "es": [
+        "Valaquia"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historischer Staat",
+    "ru": "княжество на территории Валахии, существовавшее там с середины XIV века до 1859 года",
+    "fr": "ancien État d'Europe du Sud-Est(1330-1859)",
+    "en": "principality in Southeast Europe between 1310–1859",
+    "es": "principado rumano (1330-1859)",
+    "vi": "Principality of Wallachia (Principality of Wallachia) là một state lịch sử tồn tại từ 1400 SCN đến 1400 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "to": {
+      "year": 1400,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1400 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1400
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1400
+    ],
+    "first_observed_year": 1400,
+    "last_observed_year": 1400,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Principality%20of%20Wallachia",
+    "wikidata": "https://www.wikidata.org/wiki/Q389004"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

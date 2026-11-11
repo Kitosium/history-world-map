@@ -1,0 +1,162 @@
+{
+  "id": "buyid-dynasty",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q273874",
+  "names": {
+    "canonical": {
+      "vi": "Buyid dynasty",
+      "en": "Buyid dynasty",
+      "zh-CN": "白益王朝",
+      "zh-TW": "布維西王朝",
+      "ja": "ブワイフ朝",
+      "fr": "Bouyides",
+      "es": "dinastía búyida",
+      "ar": "الدولة البويهية",
+      "ru": "Буиды",
+      "de": "Buyiden"
+    },
+    "aliases": {
+      "zh-CN": [
+        "布韦希王朝",
+        "布耶王朝"
+      ],
+      "fr": [
+        "Buwayhides",
+        "Buyides",
+        "Bûyide",
+        "Bouyide"
+      ],
+      "es": [
+        "Imperio persa",
+        "Persia",
+        "dinastía Buwayida",
+        "buyís",
+        "dinastia búyida",
+        "buwayida",
+        "dinastia buyida",
+        "buwayidas",
+        "dinastía buyida",
+        "buyíes",
+        "dinastia buwayida",
+        "reino buwayida",
+        "buyies",
+        "buyis"
+      ],
+      "de": [
+        "Būjiden",
+        "Buwayhiden",
+        "Bujiden"
+      ],
+      "ja": [
+        "ブーヤ朝"
+      ],
+      "ar": [
+        "البويهيون",
+        "بني بويه",
+        "البويهيين",
+        "بنو بويه",
+        "آل بوية",
+        "دولة بني بويه"
+      ],
+      "ru": [
+        "Бувайхиды",
+        "Буид",
+        "Бувейхиды",
+        "Ал-и Буйа"
+      ],
+      "en": [
+        "Buyids",
+        "Al-e Buya",
+        "Al-i Buya",
+        "Buyid Empire",
+        "Buyyids"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "persisch-irakische Herrscherdynastie",
+    "en": "Iranian dynasty ruling of central and western Iran (934–1062)",
+    "zh-TW": "945年至1055年間，統治伊朗西部及伊拉克的一個王朝",
+    "ar": "سلالة من الديلم هيمنت على الخلافة العبَّاسيَّة ودام حكمهم ما بين سنتيّ 934 و 1062م",
+    "ru": "иранская династия, правившая в Ираке и Иране в X—XI веках",
+    "fr": "dynastie et État historique",
+    "vi": "Buyid dynasty (Buyid dynasty) là một state lịch sử tồn tại từ 1200 SCN đến 1200 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "to": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1200
+    ],
+    "first_observed_year": 1200,
+    "last_observed_year": 1200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Buyid%20dynasty",
+    "wikidata": "https://www.wikidata.org/wiki/Q273874"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

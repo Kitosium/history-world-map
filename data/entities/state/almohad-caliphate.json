@@ -1,0 +1,147 @@
+{
+  "id": "almohad-caliphate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q199688",
+  "names": {
+    "canonical": {
+      "vi": "Almohad Caliphate",
+      "en": "Almohad Caliphate",
+      "zh-CN": "穆瓦希德王朝",
+      "zh-TW": "穆瓦希德王朝",
+      "ja": "ムワッヒド朝",
+      "fr": "califat almohade",
+      "es": "Imperio almohade",
+      "ar": "الدولة الموحدية",
+      "ru": "Альмохадский халифат",
+      "de": "Almohaden-Kalifat"
+    },
+    "aliases": {
+      "zh-CN": [
+        "阿尔摩哈德王朝",
+        "阿爾摩哈德王朝",
+        "阿尔摩哈王朝",
+        "阿爾摩哈德"
+      ],
+      "fr": [
+        "empire almohade",
+        "Almohades"
+      ],
+      "es": [
+        "Califato almohade"
+      ],
+      "ja": [
+        "アルモハード",
+        "アルモハド朝",
+        "アルモアデス",
+        "アルモハード朝",
+        "アルモアデス朝",
+        "ムワッヒド"
+      ],
+      "ar": [
+        "الخلافة الموحدية",
+        "سلالة الموحدون",
+        "دولة الموحدين",
+        "الموحدين",
+        "الدوله الموحديه",
+        "الموحدون"
+      ],
+      "ru": [
+        "Империя Альмохадов"
+      ],
+      "en": [
+        "Almohads",
+        "Almohad Empire",
+        "Almohades",
+        "al-Muwaḥḥidūn"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "historische muslimische Reich der Berber",
+    "es": "imperio bereber del Magreb (1121-1269)",
+    "ar": "دولة أمازيغية حكمت بلاد المغرب (شمال إفريقيا) والأندلس (1121 – 1269م)",
+    "zh-CN": "12世纪至13世纪北非政权",
+    "ja": "首都をマラケシュに置いたイスラム王朝",
+    "ru": "средневековое государство находившееся в Мусульманской Испании и на западе Северной Африки",
+    "fr": "Empire berbère régnant sur le Maghreb et Al-Andalus (1121 – 1269)",
+    "en": "1121–1269 Berber empire in North Africa and Iberia",
+    "vi": "Almohad Caliphate (Almohad Caliphate) là một state lịch sử tồn tại từ 1200 SCN đến 1200 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "to": {
+      "year": 1200,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1200 SCN"
+    },
+    "duration_years": 0,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "single_observation",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1200
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1200
+    ],
+    "first_observed_year": 1200,
+    "last_observed_year": 1200,
+    "feature_count": 1,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1200,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1200.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Almohad%20Caliphate",
+    "wikidata": "https://www.wikidata.org/wiki/Q199688"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

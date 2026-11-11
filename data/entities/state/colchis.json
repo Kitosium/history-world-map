@@ -1,0 +1,155 @@
+{
+  "id": "colchis",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q183150",
+  "names": {
+    "canonical": {
+      "vi": "Colchis",
+      "en": "Colchis",
+      "zh-CN": "科尔基斯",
+      "zh-TW": "科爾基斯",
+      "ja": "コルキス",
+      "fr": "Colchide",
+      "es": "Cólquida",
+      "ar": "قلخيس",
+      "ru": "Колхида",
+      "de": "Kolchis"
+    },
+    "aliases": {
+      "zh-CN": [
+        "科尔基斯",
+        "科尔客斯",
+        "科尔喀斯"
+      ],
+      "fr": [
+        "Colchidien"
+      ],
+      "es": [
+        "Cólquide",
+        "Colquide",
+        "Colquida"
+      ],
+      "ja": [
+        "コルキス王国",
+        "コルヒダ"
+      ],
+      "ru": [
+        "Колхидское царство",
+        "Эя"
+      ],
+      "en": [
+        "Egrisi",
+        "Egrisi Kingdom",
+        "Kingdom of Egrisi",
+        "Kolchis",
+        "Kolkhida",
+        "Kolxida",
+        "Kolxeti",
+        "Kingdom of Colchis"
+      ],
+      "ar": [
+        "كولخيس",
+        "كلخيس"
+      ]
+    }
+  },
+  "descriptions": {
+    "en": "historical polity and region of Antiquity",
+    "de": "historische Landschaft, sagenhafter Staat",
+    "fr": "zone géographique géorgienne",
+    "zh-CN": "地区",
+    "ar": "مملكة سابقة في منطقة القوقاز شرق أوروبا",
+    "es": "región histórica de la antigüedad, en la actual Georgia",
+    "vi": "Emanuel E wikipedia",
+    "ru": "историческая область в Восточном Причерноморье"
+  },
+  "existence": {
+    "from": {
+      "year": -323,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "323 TCN"
+    },
+    "to": {
+      "year": -300,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "300 TCN"
+    },
+    "duration_years": 23,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    -323,
+    -300
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      -323,
+      -300
+    ],
+    "first_observed_year": -323,
+    "last_observed_year": -300,
+    "feature_count": 2,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": -323,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-323.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": -300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/-300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Colchis",
+    "wikidata": "https://www.wikidata.org/wiki/Q183150"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

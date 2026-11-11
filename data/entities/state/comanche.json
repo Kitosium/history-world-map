@@ -1,0 +1,199 @@
+{
+  "id": "comanche",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q117133",
+  "names": {
+    "canonical": {
+      "vi": "Comanche",
+      "en": "Comanche",
+      "zh-CN": "科曼奇人",
+      "zh-TW": "科曼奇人",
+      "ja": "コマンチェ",
+      "fr": "Comanches",
+      "es": "comanche",
+      "ar": "كومانشي",
+      "ru": "команчи",
+      "de": "Comanche"
+    },
+    "aliases": {
+      "fr": [
+        "Padouca"
+      ],
+      "es": [
+        "Comanches"
+      ],
+      "de": [
+        "Nömöne",
+        "Komantschen",
+        "Komanchen",
+        "Comanchen",
+        "Nemene"
+      ],
+      "ja": [
+        "コマンチ",
+        "コマンチェ族",
+        "コマンチ族"
+      ],
+      "zh-CN": [
+        "科曼切族",
+        "科曼奇 (部落)",
+        "卡曼其族",
+        "科曼奇族"
+      ],
+      "en": [
+        "Comanches",
+        "Kwahadi",
+        "Penateka",
+        "Yamparika",
+        "Comanche Nation, Oklahoma"
+      ]
+    }
+  },
+  "descriptions": {
+    "es": "tribu nativa de las Grandes Llanuras norteamericanas",
+    "de": "Indianerstamm in Arizona",
+    "en": "Plains Indian tribe whose historic territory consisted of eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and northwest Texas",
+    "fr": "peuple autochtone amérindien",
+    "zh-CN": "美洲原住民",
+    "zh-TW": "美洲原住民",
+    "ru": "индейский народ",
+    "vi": "Comanche (Comanche) là một state lịch sử tồn tại từ 1500 SCN đến 1715 SCN."
+  },
+  "existence": {
+    "from": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "to": {
+      "year": 1715,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1715 SCN"
+    },
+    "duration_years": 215,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1500,
+    1530,
+    1600,
+    1650,
+    1700,
+    1715
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1500,
+      1530,
+      1600,
+      1650,
+      1700,
+      1715
+    ],
+    "first_observed_year": 1500,
+    "last_observed_year": 1715,
+    "feature_count": 6,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "mixed",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1530,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1530.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1600,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1600.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1650,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1650.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1700,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1700.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    },
+    {
+      "year": 1715,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1715.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "mixed"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Comanche",
+    "wikidata": "https://www.wikidata.org/wiki/Q117133"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}

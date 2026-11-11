@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://history-world-map.local/schemas/manifest.schema.json",
+  "title": "Dataset manifest",
+  "type": "object",
+  "required": [
+    "id",
+    "schema_version",
+    "generated_at",
+    "temporal_coverage",
+    "counts"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "schema_version": { "type": "string" },
+    "dataset_version": { "type": "string" },
+    "generated_at": { "type": "string", "format": "date" },
+    "title": { "type": "object" },
+    "description": { "type": "object" },
+    "temporal_coverage": {
+      "type": "object",
+      "required": ["start_year", "end_year", "snapshot_years"],
+      "properties": {
+        "start_year": { "type": "integer" },
+        "end_year": { "type": "integer" },
+        "year_system": { "type": "string" },
+        "snapshot_years": {
+          "type": "array",
+          "items": { "type": "integer" },
+          "minItems": 1
+        }
+      },
+      "additionalProperties": true
+    },
+    "counts": {
+      "type": "object",
+      "required": ["entities", "sources", "spatial_layers", "spatial_features"],
+      "additionalProperties": { "type": "integer" }
+    }
+  },
+  "additionalProperties": true
+}

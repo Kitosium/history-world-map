@@ -1,0 +1,200 @@
+{
+  "id": "chagatai-khanate",
+  "schema_version": "1.3.0",
+  "type": "state",
+  "wikidata_id": "Q487829",
+  "names": {
+    "canonical": {
+      "vi": "Hãn quốc Sát Hợp Đài",
+      "en": "Chagatai Khanate",
+      "zh-CN": "察合台汗國",
+      "zh-TW": "察合台汗國",
+      "ja": "チャガタイ・ハン国",
+      "fr": "Khanat de Djaghataï",
+      "es": "Kanato de Chagatai",
+      "ar": "خانية جغتاي",
+      "ru": "Чагатайский улус",
+      "de": "Tschagatai-Khanat"
+    },
+    "aliases": {
+      "zh-CN": [
+        "西察合台汗国",
+        "前察合台汗国"
+      ],
+      "fr": [
+        "Khanat de Tchaghataï",
+        "Khanat de Djaghatai"
+      ],
+      "es": [
+        "Imperio de Chagatai",
+        "Janato de Chagatai",
+        "Chagatai Khanate"
+      ],
+      "de": [
+        "Khanat Moghulistan",
+        "Khanat Turkestan",
+        "Tschagatai",
+        "Tschagatai-Herrscher",
+        "Chagatai-Khanat",
+        "Moghulistan"
+      ],
+      "ja": [
+        "チャガタイ汗国",
+        "西チャガタイ・ハン国",
+        "東チャガタイ・ハン国",
+        "チャガタイハン国",
+        "チャガタイ・ウルス",
+        "モグーリスタン・ハン国"
+      ],
+      "vi": [
+        "Sát Hợp Đài hãn quốc"
+      ],
+      "ru": [
+        "Джагатайский улус"
+      ],
+      "ar": [
+        "الدولة الجغتائية",
+        "خانية جغطاي"
+      ],
+      "en": [
+        "Chagatai Ulus",
+        "Chagatai Horde"
+      ]
+    }
+  },
+  "descriptions": {
+    "de": "1226–1347 turkisierter mongolischer Khanat in Zentralasien.",
+    "en": "1226–1347 Turkicized Mongol khanate in Central Asia",
+    "fr": "ancien empire",
+    "zh-CN": "蒙古四大汗國之一",
+    "ja": "13世紀から17世紀にかけて中央アジアに存在した遊牧国家（ウルス）",
+    "ru": "тюрко-монгольское государство в Средней Азии (1266–1342)",
+    "es": "Kanato de Asia Central",
+    "vi": "hãn quốc Mông Cổ gồm các vùng đất do Sát Hợp Đài hãn cai trị",
+    "ar": "دولة إسلامية تركية مغولية قامت في آسيا الوسطى (1226–1347م)"
+  },
+  "existence": {
+    "from": {
+      "year": 1279,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1279 SCN"
+    },
+    "to": {
+      "year": 1500,
+      "year_system": "astronomical",
+      "precision": "year",
+      "label": "1500 SCN"
+    },
+    "duration_years": 221,
+    "status": "historical",
+    "foundation_reason": null,
+    "dissolution_reason": null,
+    "basis": "cartographic_observation_range",
+    "continuity_asserted": false,
+    "is_approximate": true
+  },
+  "observed_periods": [
+    1279,
+    1300,
+    1400,
+    1492,
+    1500
+  ],
+  "spatial_coverage": {
+    "observed_years": [
+      1279,
+      1300,
+      1400,
+      1492,
+      1500
+    ],
+    "first_observed_year": 1279,
+    "last_observed_year": 1500,
+    "feature_count": 5,
+    "boundary_source_ids": [
+      "src-basemaps"
+    ],
+    "boundary_confidence": "low",
+    "boundary_precision": "approximate_reconstruction",
+    "border_precision": 1
+  },
+  "boundary_references": [
+    {
+      "year": 1279,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1279.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1300,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1300.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1400,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1400.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1492,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1492.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    },
+    {
+      "year": 1500,
+      "year_system": "astronomical",
+      "file_path": "data/dist/spatial/by-year/1500.geojson",
+      "source_ids": [
+        "src-basemaps"
+      ],
+      "boundary_confidence": "low",
+      "boundary_precision": "approximate_reconstruction"
+    }
+  ],
+  "source_ids": [
+    "src-basemaps",
+    "src-wikidata"
+  ],
+  "provenance": {
+    "names": [
+      "src-wikidata"
+    ],
+    "existence": [
+      "src-basemaps",
+      "src-wikidata"
+    ],
+    "boundaries": [
+      "src-basemaps"
+    ],
+    "method": "compiled from cartographic layers; see boundary_precision per feature",
+    "last_verified": "2026-11-05"
+  },
+  "confidence": "low",
+  "confidence_basis": "At least one component is only approximate or reference-grade.",
+  "external_links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chagatai%20Khanate",
+    "wikidata": "https://www.wikidata.org/wiki/Q487829"
+  },
+  "last_updated": "2026-11-05",
+  "last_verified": "2026-11-05"
+}
